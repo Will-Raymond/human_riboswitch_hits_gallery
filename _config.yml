@@ -31,7 +31,8 @@ github_username:  jekyll
 markdown: kramdown
 
 # Build settings
-theme: jekyll-theme-minimal
+remote_theme: minima
+theme: minima
 plugins:
   - jekyll-feed
 
