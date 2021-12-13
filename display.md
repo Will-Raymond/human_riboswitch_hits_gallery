@@ -9,7 +9,6 @@ datatable: true
 
 Gene |5'UTR mRNA    | UTRdb link | Closest RS | RS link| Ensemble score | aln percent | Visualization  |            
 --------| ------------- |----------- | ---------- | ------ | -------------- | ----------- | ------------- |
-
 CARKD|5HSAA016976|[UTR](http://utrdb.ba.itb.cnr.it/getutr/5HSAA016976/1)|rs_URS0000AB6657_332952.fasta|[RS](https://rnacentral.org/rna/URS0000AB6657/332952)|3.788|0.23374982|...|
 RBM46|5HSAA089522|[UTR](http://utrdb.ba.itb.cnr.it/getutr/5HSAA089522/1)|rs_URS0000AB4B53_3068.fasta|[RS](https://rnacentral.org/rna/URS0000AB4B53/3068)|4.023|0.22847083|...|
 C4ORF45|5HSAA014981|[UTR](http://utrdb.ba.itb.cnr.it/getutr/5HSAA014981/1)|rs_URS0000C3A689_28573_fixed.fasta|[RS](https://rnacentral.org/rna/URS0000C3A689/28573)|3.906|0.22123831|...|
