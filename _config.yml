@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   This site provides visualization for the following project: [LINK]. The 5'UTR hits 
   are provided here for users  to browse their alignment files as well as view their entries on 
   UTRdb or RNAcentral.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/human_riboswitch_hits_gallery" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: wsraymond
 github_username:  william-raymond
