@@ -8,7 +8,6 @@ datatable: true
 
 <script>
 $(document).ready(function(){
-
     $('table.display').DataTable( {
         paging: true,
         stateSave: true,
@@ -61,7 +60,7 @@ $(document).ready(function(){
 </table>
 
 
-<div class="datatable-begin"></div>
+
 
 Gene |5'UTR mRNA    | UTRdb link | Closest RS | RS link| Ensemble score | aln percent | Visualization  |            
 --------| ------------- |----------- | ---------- | ------ | -------------- | ----------- | ------------- |
@@ -218,7 +217,7 @@ KAZALD1|5HSAA054712|[UTR](http://utrdb.ba.itb.cnr.it/getutr/5HSAA054712/1)|URS00
 TMBIM6|5HSAA110059|[UTR](http://utrdb.ba.itb.cnr.it/getutr/5HSAA110059/1)|URS0000AB3BC4_5454|[RS](https://rnacentral.org/rna/URS0000AB3BC4/5454)|1.881|0.05139971|[=>](/_mds/tmbim6.md)|
 
 
-<div class="datatable-end"></div>
+
 
 
 
