@@ -31,11 +31,11 @@ github_username:  william-raymond
 markdown: kramdown
 
 # Build settings
-remote_theme: jekyll/minima
-#theme: minima
+#remote_theme: jekyll/minima
+theme: minima
 plugins:
   - jekyll-relative-links
-
+  - jekyll-seo-tag
 include: ['_mds']
 # Exclude from processing.
 # The following items will not be processed, by default.
