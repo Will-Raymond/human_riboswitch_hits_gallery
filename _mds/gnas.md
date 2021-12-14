@@ -4,4 +4,4 @@ title: "GNAS"
 permalink: /_mds/GNAS/
 ---
 
-![](../../algns0/N34_5HSAA045060_aln_report.png?raw=true)
+![](../../algns0/5HSAA045060_aln_report.png?raw=true)

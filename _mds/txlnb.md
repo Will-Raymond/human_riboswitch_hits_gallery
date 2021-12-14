@@ -4,4 +4,4 @@ title: "TXLNB"
 permalink: /_mds/TXLNB/
 ---
 
-![](../../algns0/N102_5HSAA115309_aln_report.png?raw=true)
+![](../../algns0/5HSAA115309_aln_report.png?raw=true)

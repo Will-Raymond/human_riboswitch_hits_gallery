@@ -4,4 +4,4 @@ title: "ATP6AP1L"
 permalink: /_mds/ATP6AP1L/
 ---
 
-![](../../algns0/N137_5HSAA008559_aln_report.png?raw=true)
+![](../../algns0/5HSAA008559_aln_report.png?raw=true)

@@ -4,4 +4,4 @@ title: "LMO3"
 permalink: /_mds/LMO3/
 ---
 
-![](../../algns0/N130_5HSAA059436_aln_report.png?raw=true)
+![](../../algns0/5HSAA059436_aln_report.png?raw=true)

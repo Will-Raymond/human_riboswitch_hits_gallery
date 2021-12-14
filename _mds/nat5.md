@@ -4,4 +4,4 @@ title: "NAT5"
 permalink: /_mds/NAT5/
 ---
 
-![](../../algns0/N4_5HSAA070288_aln_report.png?raw=true)
+![](../../algns0/5HSAA070288_aln_report.png?raw=true)
