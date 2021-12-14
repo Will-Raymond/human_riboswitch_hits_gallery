@@ -1,0 +1,7 @@
+---
+layout: page
+title: "NPM1"
+permalink: /_mds/NPM1/
+---
+
+![](../../algns0/N140_5HSAA073104_aln_report.png?raw=true)

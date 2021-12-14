@@ -26,16 +26,17 @@ description: >- # this means to ignore newlines until "baseurl:"
   UTRdb or RNAcentral.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: wsraymond
+github_username:  william-raymond
 markdown: kramdown
 
 # Build settings
 remote_theme: jekyll/minima
-theme: minima
+#theme: minima
 plugins:
-  - jekyll-feed
+  - jekyll-relative-links
 
+include: ['_mds']
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

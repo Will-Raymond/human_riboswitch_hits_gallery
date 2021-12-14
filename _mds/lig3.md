@@ -1,0 +1,7 @@
+---
+layout: page
+title: "LIG3"
+permalink: /_mds/LIG3/
+---
+
+![](../../algns0/N74_5HSAA058928_aln_report.png?raw=true)
