@@ -168,7 +168,6 @@ GHITM|5HSAA044078|[UTR](http://utrdb.ba.itb.cnr.it/getutr/5HSAA044078/1)|URS0000
 INADL|5HSAA053020|[UTR](http://utrdb.ba.itb.cnr.it/getutr/5HSAA053020/1)|URS0000B1F654_1230383|[RS](https://rnacentral.org/rna/URS0000B1F654/1230383)|2.302|0.08209818|[=>](/_mds/inadl.md)|
 LIPT1|5HSAA059169|[UTR](http://utrdb.ba.itb.cnr.it/getutr/5HSAA059169/1)|URS0000DB47F2_767769|[RS](https://rnacentral.org/rna/URS0000DB47F2/767769)|2.178|0.08205188|[=>](/_mds/lipt1.md)|
 TXLNB|5HSAA115309|[UTR](http://utrdb.ba.itb.cnr.it/getutr/5HSAA115309/1)|URS0000D82970_201502|[RS](https://rnacentral.org/rna/URS0000D82970/201502)|1.629|0.08173108|[=>](/_mds/txlnb.md)|
-C11ORF24|3HSAA019718|[UTR](http://utrdb.ba.itb.cnr.it/getutr/3HSAA019718/1)|URS0000AB77A6_321614|[RS](https://rnacentral.org/rna/URS0000AB77A6/321614)|4.524|0.08162117|[=>](/_mds/c11orf24.md)|
 SNX13|5HSAA102139|[UTR](http://utrdb.ba.itb.cnr.it/getutr/5HSAA102139/1)|URS0000D7BC27_106004|[RS](https://rnacentral.org/rna/URS0000D7BC27/106004)|3.155|0.08102084|[=>](/_mds/snx13.md)|
 SFRS5|5HSAA097407|[UTR](http://utrdb.ba.itb.cnr.it/getutr/5HSAA097407/1)|URS0000C33634_1213857|[RS](https://rnacentral.org/rna/URS0000C33634/1213857)|3.218|0.08034682|[=>](/_mds/sfrs5.md)|
 RIMKLB|5HSAA091043|[UTR](http://utrdb.ba.itb.cnr.it/getutr/5HSAA091043/1)|URS0000C43551_4572|[RS](https://rnacentral.org/rna/URS0000C43551/4572)|4.901|0.08032424|[=>](/_mds/rimklb.md)|
