@@ -46,7 +46,7 @@ $(document).ready(function(){
 <td><a href="https://rnacentral.org/rna/URS0000AB6657/332952">RS</a></td>
 <td>3.788</td>
 <td>0.23374982</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CARKD>=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/CARKD">=></a></td>
 </tr>
 <tr>
 <td>RBM46</td>
