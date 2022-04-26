@@ -5,3 +5,5 @@ permalink: /_mds/ST6GAL2/
 ---
 
 ![](../../algns0/5HSAA104249_aln_report.png?raw=true)
+
+[Back to Table](../../display)

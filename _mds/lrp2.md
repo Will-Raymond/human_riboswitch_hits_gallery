@@ -5,3 +5,5 @@ permalink: /_mds/LRP2/
 ---
 
 ![](../../algns0/5HSAA060316_aln_report.png?raw=true)
+
+[Back to Table](../../display)

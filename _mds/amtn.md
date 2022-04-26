@@ -5,3 +5,5 @@ permalink: /_mds/AMTN/
 ---
 
 ![](../../algns0/5HSAA004300_aln_report.png?raw=true)
+
+[Back to Table](../../display)

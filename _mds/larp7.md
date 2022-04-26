@@ -5,3 +5,5 @@ permalink: /_mds/LARP7/
 ---
 
 ![](../../algns0/5HSAA057962_aln_report.png?raw=true)
+
+[Back to Table](../../display)

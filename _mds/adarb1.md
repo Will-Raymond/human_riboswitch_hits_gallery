@@ -5,3 +5,5 @@ permalink: /_mds/ADARB1/
 ---
 
 ![](../../algns0/5HSAA002206_aln_report.png?raw=true)
+
+[Back to Table](../../display)

@@ -5,3 +5,5 @@ permalink: /_mds/SLC39A7/
 ---
 
 ![](../../algns0/5HSAA100275_aln_report.png?raw=true)
+
+[Back to Table](../../display)

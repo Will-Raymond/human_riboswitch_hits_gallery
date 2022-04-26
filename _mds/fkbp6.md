@@ -5,3 +5,5 @@ permalink: /_mds/FKBP6/
 ---
 
 ![](../../algns0/5HSAA041148_aln_report.png?raw=true)
+
+[Back to Table](../../display)

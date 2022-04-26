@@ -5,3 +5,5 @@ permalink: /_mds/UBAP2L/
 ---
 
 ![](../../algns0/5HSAA115905_aln_report.png?raw=true)
+
+[Back to Table](../../display)

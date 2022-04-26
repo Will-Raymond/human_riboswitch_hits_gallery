@@ -5,3 +5,5 @@ permalink: /_mds/GHITM/
 ---
 
 ![](../../algns0/5HSAA044078_aln_report.png?raw=true)
+
+[Back to Table](../../display)

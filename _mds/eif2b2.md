@@ -5,3 +5,5 @@ permalink: /_mds/EIF2B2/
 ---
 
 ![](../../algns0/5HSAA033935_aln_report.png?raw=true)
+
+[Back to Table](../../display)

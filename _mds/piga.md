@@ -5,3 +5,5 @@ permalink: /_mds/PIGA/
 ---
 
 ![](../../algns0/5HSAA080156_aln_report.png?raw=true)
+
+[Back to Table](../../display)
