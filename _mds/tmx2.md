@@ -4,6 +4,6 @@ title: "TMX2"
 permalink: /_mds/TMX2/
 ---
 
-![](../../algns0/5HSAA111796_aln_report.png?raw=true)
-
+![](../../alns_9.28.22/aln_5HSAA111796_0.994.png?raw=true
+)
 [Back to Table](../../display)

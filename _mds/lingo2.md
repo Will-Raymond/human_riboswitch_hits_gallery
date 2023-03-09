@@ -4,6 +4,6 @@ title: "LINGO2"
 permalink: /_mds/LINGO2/
 ---
 
-![](../../algns0/5HSAA059119_aln_report.png?raw=true)
-
+![](../../alns_9.28.22/aln_5HSAA059119_0.960.png?raw=true
+)
 [Back to Table](../../display)

@@ -4,6 +4,6 @@ title: "AMTN"
 permalink: /_mds/AMTN/
 ---
 
-![](../../algns0/5HSAA004300_aln_report.png?raw=true)
-
+![](../../alns_9.28.22/aln_5HSAA004300_0.971.png?raw=true
+)
 [Back to Table](../../display)

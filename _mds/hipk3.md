@@ -4,6 +4,6 @@ title: "HIPK3"
 permalink: /_mds/HIPK3/
 ---
 
-![](../../algns0/5HSAA049231_aln_report.png?raw=true)
-
+![](../../alns_9.28.22/aln_5HSAA049231_0.956.png?raw=true
+)
 [Back to Table](../../display)

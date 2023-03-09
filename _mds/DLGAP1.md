@@ -1,0 +1,9 @@
+---
+layout: page
+title: "DLGAP1"
+permalink: /_mds/DLGAP1/
+---
+
+![](../../alns_9.28.22/aln_5HSAA030613_0.986.png?raw=true
+)
+[Back to Table](../../display)

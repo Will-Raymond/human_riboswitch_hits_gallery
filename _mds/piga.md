@@ -4,6 +4,6 @@ title: "PIGA"
 permalink: /_mds/PIGA/
 ---
 
-![](../../algns0/5HSAA080156_aln_report.png?raw=true)
-
+![](../../alns_9.28.22/aln_5HSAA080156_0.987.png?raw=true
+)
 [Back to Table](../../display)

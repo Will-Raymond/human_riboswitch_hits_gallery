@@ -4,6 +4,6 @@ title: "PSMB3"
 permalink: /_mds/PSMB3/
 ---
 
-![](../../algns0/5HSAA085510_aln_report.png?raw=true)
-
+![](../../alns_9.28.22/aln_5HSAA085508_0.984.png?raw=true
+)
 [Back to Table](../../display)

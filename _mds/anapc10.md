@@ -4,6 +4,6 @@ title: "ANAPC10"
 permalink: /_mds/ANAPC10/
 ---
 
-![](../../algns0/5HSAA004369_aln_report.png?raw=true)
-
+![](../../alns_9.28.22/aln_5HSAA004375_0.971.png?raw=true
+)
 [Back to Table](../../display)

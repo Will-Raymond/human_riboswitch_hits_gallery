@@ -1,9 +1,0 @@
----
-layout: page
-title: "SAT1"
-permalink: /_mds/SAT1/
----
-
-![](../../algns0/5HSAA094521_aln_report.png?raw=true)
-
-[Back to Table](../../display)

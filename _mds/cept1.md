@@ -4,6 +4,6 @@ title: "CEPT1"
 permalink: /_mds/CEPT1/
 ---
 
-![](../../algns0/5HSAA021163_aln_report.png?raw=true)
-
+![](../../alns_9.28.22/aln_5HSAA021163_0.986.png?raw=true
+)
 [Back to Table](../../display)

@@ -4,6 +4,6 @@ title: "BNIP2"
 permalink: /_mds/BNIP2/
 ---
 
-![](../../algns0/5HSAA010809_aln_report.png?raw=true)
-
+![](../../alns_9.28.22/aln_5HSAA010809_0.967.png?raw=true
+)
 [Back to Table](../../display)

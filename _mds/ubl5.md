@@ -4,6 +4,6 @@ title: "UBL5"
 permalink: /_mds/UBL5/
 ---
 
-![](../../algns0/5HSAA116393_aln_report.png?raw=true)
-
+![](../../alns_9.28.22/aln_5HSAA116393_1.000.png?raw=true
+)
 [Back to Table](../../display)

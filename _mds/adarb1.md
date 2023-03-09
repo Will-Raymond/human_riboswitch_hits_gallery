@@ -4,6 +4,6 @@ title: "ADARB1"
 permalink: /_mds/ADARB1/
 ---
 
-![](../../algns0/5HSAA002206_aln_report.png?raw=true)
-
+![](../../alns_9.28.22/aln_5HSAA002206_0.947.png?raw=true
+)
 [Back to Table](../../display)

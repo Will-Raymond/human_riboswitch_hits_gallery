@@ -4,6 +4,6 @@ title: "PPFIA1"
 permalink: /_mds/PPFIA1/
 ---
 
-![](../../algns0/5HSAA083103_aln_report.png?raw=true)
-
+![](../../alns_9.28.22/aln_5HSAA083103_0.939.png?raw=true
+)
 [Back to Table](../../display)

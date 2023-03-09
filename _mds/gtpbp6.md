@@ -4,6 +4,6 @@ title: "GTPBP6"
 permalink: /_mds/GTPBP6/
 ---
 
-![](../../algns0/5HSAA047442_aln_report.png?raw=true)
-
+![](../../alns_9.28.22/aln_5HSAA047442_0.985.png?raw=true
+)
 [Back to Table](../../display)
