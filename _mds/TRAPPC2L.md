@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA113314/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS000232E97F/393303" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000D8A5FB/512402" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D91A35/1895754" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA113314     | URS000232E97F_393303     | URS0000D8A5FB_512402     | URS0000D91A35_1895754     |
 | Length | 78     |  78    | 78   |  81    |
-| Similarity | - | 20.03 | 21.02 | 21.84 |
+| Similarity | - | 0.98 | 0.98 | 0.96 |
 | Ensemble Norm | 0.98 | - | - | - |
 | MFE | -30.93 | -36.88 | -26.77 | -33.40 |
 | Ligands | - | zmp-ztp | fluoride | zmp-ztp |

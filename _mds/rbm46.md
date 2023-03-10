@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA089522/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000DA4D39/1938441" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C608EE/179408" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D927FE/1385594" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA089522     | URS0000DA4D39_1938441     | URS0000C608EE_179408     | URS0000D927FE_1385594     |
 | Length | 152     |  153    | 152   |  152    |
-| Similarity | - | 48.37 | 49.06 | 49.21 |
+| Similarity | - | 0.94 | 0.94 | 0.94 |
 | Ensemble Norm | 0.94 | - | - | - |
 | MFE | -54.60 | -65.07 | -38.50 | -62.92 |
 | Ligands | - | glycine | guanidine | FMN |

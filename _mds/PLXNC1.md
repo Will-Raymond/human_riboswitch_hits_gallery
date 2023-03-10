@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA081654/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C87CE4/762967" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000ABA675/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C05D7B/860235" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA081654     | URS0000C87CE4_762967     | URS0000ABA675_12908     | URS0000C05D7B_860235     |
 | Length | 84     |  86    | 83   |  83    |
-| Similarity | - | 18.89 | 19.24 | 19.27 |
+| Similarity | - | 0.97 | 0.98 | 0.97 |
 | Ensemble Norm | 0.97 | - | - | - |
 | MFE | -36.10 | -34.40 | -24.03 | -38.32 |
 | Ligands | - | homocysteine | cyclic-di-GMP | zmp-ztp |

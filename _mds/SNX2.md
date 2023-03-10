@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA102206/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C566F9/1804984" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000D662CB/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D67D89/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA102206     | URS0000C566F9_1804984     | URS0000D662CB_12908     | URS0000D67D89_12908     |
 | Length | 74     |  72    | 71   |  71    |
-| Similarity | - | 10.81 | 13.84 | 13.89 |
+| Similarity | - | 0.98 | 0.97 | 0.97 |
 | Ensemble Norm | 0.98 | - | - | - |
 | MFE | -26.30 | -22.84 | -22.92 | -31.13 |
 | Ligands | - | fluoride | 2'-dG-II | 2'-dG-II |

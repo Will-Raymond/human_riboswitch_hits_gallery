@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA057962/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000AB8D67/638301" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000BA205F/351656" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C8A30E/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA057962     | URS0000AB8D67_638301     | URS0000BA205F_351656     | URS0000C8A30E_12908     |
 | Length | 157     |  156    | 157   |  160    |
-| Similarity | - | 51.26 | 56.03 | 56.90 |
+| Similarity | - | 0.94 | 0.94 | 0.92 |
 | Ensemble Norm | 0.94 | - | - | - |
 | MFE | -30.75 | -44.23 | -39.08 | -62.04 |
 | Ligands | - | Mg2+ | molybdenum | zmp-ztp |

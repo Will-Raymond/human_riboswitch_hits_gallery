@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA049620/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C851D4/1122185" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000DA7FAE/642227" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D8593D/83655" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA049620     | URS0000C851D4_1122185     | URS0000DA7FAE_642227     | URS0000D8593D_83655     |
 | Length | 135     |  135    | 138   |  135    |
-| Similarity | - | 37.06 | 37.86 | 39.05 |
+| Similarity | - | 0.96 | 0.94 | 0.95 |
 | Ensemble Norm | 0.96 | - | - | - |
 | MFE | -43.75 | -51.84 | -40.08 | -44.62 |
 | Ligands | - | molybdenum | molybdenum | molybdenum |

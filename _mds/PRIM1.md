@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA084404/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C621B3/1736380" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000D97BF5/113562" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS000080DF21/210007" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA084404     | URS0000C621B3_1736380     | URS0000D97BF5_113562     | URS000080DF21_210007     |
 | Length | 89     |  88    | 87   |  89    |
-| Similarity | - | 22.24 | 23.90 | 24.07 |
+| Similarity | - | 0.97 | 0.96 | 0.97 |
 | Ensemble Norm | 0.97 | - | - | - |
 | MFE | -20.67 | -30.40 | -34.44 | -26.39 |
 | Ligands | - | glycine | zmp-ztp | tetrahydrofolate |

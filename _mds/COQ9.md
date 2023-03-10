@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA024370/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000D8DCDB/84029" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C10EBA/502682" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C2E171/1519493" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA024370     | URS0000D8DCDB_84029     | URS0000C10EBA_502682     | URS0000C2E171_1519493     |
 | Length | 106     |  104    | 106   |  105    |
-| Similarity | - | 25.98 | 26.04 | 26.26 |
+| Similarity | - | 0.96 | 0.97 | 0.97 |
 | Ensemble Norm | 0.96 | - | - | - |
 | MFE | -48.56 | -23.36 | -36.16 | -41.57 |
 | Ligands | - | TPP | TPP | glycine |

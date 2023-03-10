@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA036507/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C17D3E/1262955" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000BF47B7/931626" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C7227F/1635294" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA036507     | URS0000C17D3E_1262955     | URS0000BF47B7_931626     | URS0000C7227F_1635294     |
 | Length | 149     |  148    | 152   |  148    |
-| Similarity | - | 43.27 | 48.93 | 49.46 |
+| Similarity | - | 0.95 | 0.92 | 0.93 |
 | Ensemble Norm | 0.95 | - | - | - |
 | MFE | -16.41 | -43.08 | -31.09 | -44.93 |
 | Ligands | - | FMN | glucosamine | FMN |

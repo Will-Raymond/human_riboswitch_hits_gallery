@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA029348/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000E605F8/1797572" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS000080DDCD/305" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000E60855/1294143" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA029348     | URS0000E605F8_1797572     | URS000080DDCD_305     | URS0000E60855_1294143     |
 | Length | 54     |  54    | 54   |  55    |
-| Similarity | - | 13.03 | 13.03 | 15.21 |
+| Similarity | - | 0.98 | 0.98 | 0.98 |
 | Ensemble Norm | 0.98 | - | - | - |
 | MFE | -14.98 | -20.27 | -13.34 | -18.73 |
 | Ligands | - | unknown | homocysteine | unknown |

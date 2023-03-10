@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA065945/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C0CE26/1628212" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000D663DB/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000ABBA00/1003200" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA065945     | URS0000C0CE26_1628212     | URS0000D663DB_12908     | URS0000ABBA00_1003200     |
 | Length | 85     |  87    | 85   |  87    |
-| Similarity | - | 20.82 | 21.05 | 21.81 |
+| Similarity | - | 0.97 | 0.97 | 0.97 |
 | Ensemble Norm | 0.97 | - | - | - |
 | MFE | -14.17 | -24.58 | -27.85 | -29.62 |
 | Ligands | - | glycine | GMP | glycine |

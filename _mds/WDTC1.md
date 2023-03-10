@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA119746/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000AB643F/244592" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C075DD/188932" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C64FC8/1298598" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA119746     | URS0000AB643F_244592     | URS0000C075DD_188932     | URS0000C64FC8_1298598     |
 | Length | 150     |  152    | 148   |  153    |
-| Similarity | - | 44.84 | 44.87 | 45 |
+| Similarity | - | 0.94 | 0.94 | 0.92 |
 | Ensemble Norm | 0.94 | - | - | - |
 | MFE | -36.11 | -55.48 | -37.46 | -33.25 |
 | Ligands | - | FMN | TPP | FMN |

@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA083329/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C110C7/1121013" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000B6911A/165438" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS000232819A/446471" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA083329     | URS0000C110C7_1121013     | URS0000B6911A_165438     | URS000232819A_446471     |
 | Length | 101     |  97    | 99   |  102    |
-| Similarity | - | 26.30 | 27.84 | 28.27 |
+| Similarity | - | 0.94 | 0.96 | 0.96 |
 | Ensemble Norm | 0.94 | - | - | - |
 | MFE | -17.20 | -30.05 | -28.41 | -53.98 |
 | Ligands | - | glycine | glycine | zmp-ztp |

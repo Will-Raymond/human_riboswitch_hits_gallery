@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA083355/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C544C8/1660119" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C33A37/1592897" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D83118/1940" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA083355     | URS0000C544C8_1660119     | URS0000C33A37_1592897     | URS0000D83118_1940     |
 | Length | 95     |  97    | 96   |  96    |
-| Similarity | - | 20.84 | 23.28 | 23.30 |
+| Similarity | - | 0.97 | 0.97 | 0.97 |
 | Ensemble Norm | 0.97 | - | - | - |
 | MFE | -36.14 | -19.18 | -14.37 | -38.31 |
 | Ligands | - | TPP | TPP | glycine |

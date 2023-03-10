@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA091923/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000AB6200/479433" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000AB7DBC/339671" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D7A6A0/1801963" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA091923     | URS0000AB6200_479433     | URS0000AB7DBC_339671     | URS0000D7A6A0_1801963     |
 | Length | 137     |  133    | 138   |  136    |
-| Similarity | - | 39.27 | 40.23 | 40.26 |
+| Similarity | - | 0.92 | 0.95 | 0.95 |
 | Ensemble Norm | 0.92 | - | - | - |
 | MFE | -35.48 | -53.68 | -40.31 | -53.35 |
 | Ligands | - | SAM | TPP | TPP |

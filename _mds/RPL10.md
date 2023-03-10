@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA092342/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000BFBC90/742767" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS00023316E7/1121353" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D81CD9/89059" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA092342     | URS0000BFBC90_742767     | URS00023316E7_1121353     | URS0000D81CD9_89059     |
 | Length | 70     |  69    | 70   |  68    |
-| Similarity | - | 14.21 | 15.01 | 16.80 |
+| Similarity | - | 0.98 | 0.98 | 0.98 |
 | Ensemble Norm | 0.98 | - | - | - |
 | MFE | -19.73 | -12.88 | -21.40 | -15.29 |
 | Ligands | - | fluoride | cobalamin | fluoride |

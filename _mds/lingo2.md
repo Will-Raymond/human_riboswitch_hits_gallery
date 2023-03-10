@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA059119/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000DAD61F/1801958" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C41DA2/1437608" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000DB664A/37921" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA059119     | URS0000DAD61F_1801958     | URS0000C41DA2_1437608     | URS0000DB664A_37921     |
 | Length | 126     |  126    | 125   |  124    |
-| Similarity | - | 31.03 | 32.28 | 34.81 |
+| Similarity | - | 0.96 | 0.96 | 0.95 |
 | Ensemble Norm | 0.96 | - | - | - |
 | MFE | -22.39 | -39.80 | -44.51 | -47.32 |
 | Ligands | - | TPP | TPP | TPP |

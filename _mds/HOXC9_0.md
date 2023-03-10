@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA050600/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS000232B9ED/525309" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000D9708D/29354" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C5899D/297352" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA050600     | URS000232B9ED_525309     | URS0000D9708D_29354     | URS0000C5899D_297352     |
 | Length | 95     |  95    | 96   |  97    |
-| Similarity | - | 21.03 | 24.28 | 26.93 |
+| Similarity | - | 0.98 | 0.97 | 0.96 |
 | Ensemble Norm | 0.98 | - | - | - |
 | MFE | -21.22 | -28.98 | -14.16 | -15.48 |
 | Ligands | - | tetrahydrofolate | purine | preQ_1 |

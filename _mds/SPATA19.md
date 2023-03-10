@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA102982/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C7AEA4/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000D66326/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C5E2FC/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA102982     | URS0000C7AEA4_12908     | URS0000D66326_12908     | URS0000C5E2FC_12908     |
 | Length | 76     |  75    | 75   |  80    |
-| Similarity | - | 20.22 | 20.22 | 23.21 |
+| Similarity | - | 0.98 | 0.98 | 0.95 |
 | Ensemble Norm | 0.98 | - | - | - |
 | MFE | -10.89 | -25.43 | -25.43 | -20.63 |
 | Ligands | - | Ni/Co | Ni/Co | Ni/Co |

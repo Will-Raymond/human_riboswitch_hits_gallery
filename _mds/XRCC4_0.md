@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA120464/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000D8CE78/1898736" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000AB2711/573060" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D7CD8C/1285586" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA120464     | URS0000D8CE78_1898736     | URS0000AB2711_573060     | URS0000D7CD8C_1285586     |
 | Length | 105     |  101    | 106   |  102    |
-| Similarity | - | 31.24 | 31.38 | 31.81 |
+| Similarity | - | 0.94 | 0.96 | 0.95 |
 | Ensemble Norm | 0.94 | - | - | - |
 | MFE | -20.60 | -29.92 | -35.48 | -18.16 |
 | Ligands | - | glycine | glycine | purine |

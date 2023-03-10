@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA037306/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C67A6F/1158608" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000E60555/207745" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C3C0C6/1715693" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA037306     | URS0000C67A6F_1158608     | URS0000E60555_207745     | URS0000C3C0C6_1715693     |
 | Length | 49     |  46    | 51   |  49    |
-| Similarity | - | 10.81 | 10.82 | 11.01 |
+| Similarity | - | 0.98 | 0.98 | 0.99 |
 | Ensemble Norm | 0.98 | - | - | - |
 | MFE | -18.16 | -7.04 | -14.27 | -15 |
 | Ligands | - | preQ_1 | unknown | SAM |

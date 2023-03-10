@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA111257/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000AB8205/190304" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C7460B/2138" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D8E55B/201502" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA111257     | URS0000AB8205_190304     | URS0000C7460B_2138     | URS0000D8E55B_201502     |
 | Length | 102     |  99    | 100   |  100    |
-| Similarity | - | 23.83 | 23.87 | 23.87 |
+| Similarity | - | 0.96 | 0.97 | 0.97 |
 | Ensemble Norm | 0.96 | - | - | - |
 | MFE | -18 | -12.62 | -15.28 | -15.28 |
 | Ligands | - | purine | purine | purine |

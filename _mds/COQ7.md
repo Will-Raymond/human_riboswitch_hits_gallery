@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA024360/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000D689A1/290402" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000AB2F94/1042163" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D816C4/225345" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA024360     | URS0000D689A1_290402     | URS0000AB2F94_1042163     | URS0000D816C4_225345     |
 | Length | 85     |  83    | 86   |  83    |
-| Similarity | - | 19.85 | 20.22 | 20.86 |
+| Similarity | - | 0.97 | 0.98 | 0.97 |
 | Ensemble Norm | 0.97 | - | - | - |
 | MFE | -19.82 | -11.68 | -25.74 | -10.10 |
 | Ligands | - | cyclic-di-GMP | Mg2+ | cyclic-di-GMP |

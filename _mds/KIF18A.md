@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA056345/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C1D344/1074049" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000BFAF96/1262767" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000AB3ECD/272562" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA056345     | URS0000C1D344_1074049     | URS0000BFAF96_1262767     | URS0000AB3ECD_272562     |
 | Length | 150     |  148    | 148   |  149    |
-| Similarity | - | 49.12 | 50.86 | 51.37 |
+| Similarity | - | 0.93 | 0.93 | 0.93 |
 | Ensemble Norm | 0.93 | - | - | - |
 | MFE | -27.70 | -48.39 | -31.90 | -29.90 |
 | Ligands | - | TPP | glucosamine | TPP |

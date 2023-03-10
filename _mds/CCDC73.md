@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA018632/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000BF1C3B/1454004" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000DADA8B/1940822" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C2ECE3/515619" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA018632     | URS0000BF1C3B_1454004     | URS0000DADA8B_1940822     | URS0000C2ECE3_515619     |
 | Length | 83     |  82    | 78   |  80    |
-| Similarity | - | 21.30 | 24.01 | 24.82 |
+| Similarity | - | 0.97 | 0.94 | 0.96 |
 | Ensemble Norm | 0.97 | - | - | - |
 | MFE | -9.89 | -20.12 | -12.84 | -11.99 |
 | Ligands | - | SAM | SAM | zmp-ztp |

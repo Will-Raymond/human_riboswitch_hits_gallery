@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA035639/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000D6754E/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C453FA/1262449" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C1135C/1736550" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA035639     | URS0000D6754E_12908     | URS0000C453FA_1262449     | URS0000C1135C_1736550     |
 | Length | 87     |  85    | 87   |  88    |
-| Similarity | - | 21.85 | 22.04 | 22.28 |
+| Similarity | - | 0.97 | 0.97 | 0.97 |
 | Ensemble Norm | 0.97 | - | - | - |
 | MFE | -30.70 | -14.37 | -16.63 | -32.58 |
 | Ligands | - | cyclic-di-GMP | glycine | glycine |

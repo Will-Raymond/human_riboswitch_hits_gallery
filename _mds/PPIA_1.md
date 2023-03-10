@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA083307/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000AB9D17/350058" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C7EBA0/226910" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000DA0693/1797572" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA083307     | URS0000AB9D17_350058     | URS0000C7EBA0_226910     | URS0000DA0693_1797572     |
 | Length | 108     |  110    | 106   |  105    |
-| Similarity | - | 22.81 | 23.96 | 24.81 |
+| Similarity | - | 0.97 | 0.96 | 0.96 |
 | Ensemble Norm | 0.97 | - | - | - |
 | MFE | -31.88 | -59.94 | -31.39 | -33.41 |
 | Ligands | - | guanidine | TPP | TPP |

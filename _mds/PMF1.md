@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA081676/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C526CF/1227363" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000D68714/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D6CE9A/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA081676     | URS0000C526CF_1227363     | URS0000D68714_12908     | URS0000D6CE9A_12908     |
 | Length | 48     |  48    | 49   |  46    |
-| Similarity | - | 9.01 | 10.25 | 10.81 |
+| Similarity | - | 0.99 | 0.99 | 0.98 |
 | Ensemble Norm | 0.99 | - | - | - |
 | MFE | -11.18 | -9.36 | -12.04 | -19.24 |
 | Ligands | - | preQ_1 | unknown | unknown |

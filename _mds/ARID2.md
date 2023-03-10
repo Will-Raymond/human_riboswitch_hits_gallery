@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA006556/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000D905FD/1078083" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000AB1925/71421" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D68BEE/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA006556     | URS0000D905FD_1078083     | URS0000AB1925_71421     | URS0000D68BEE_12908     |
 | Length | 47     |  48    | 45   |  47    |
-| Similarity | - | 11.22 | 11.81 | 12.01 |
+| Similarity | - | 0.99 | 0.98 | 0.99 |
 | Ensemble Norm | 0.99 | - | - | - |
 | MFE | -6.20 | -5.01 | -2.49 | -9.77 |
 | Ligands | - | preQ_1 | preQ_1 | glutamine |

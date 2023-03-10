@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA115804/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000AB60AB/3641" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000D8ADFB/49451" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D8F7DB/210143" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA115804     | URS0000AB60AB_3641     | URS0000D8ADFB_49451     | URS0000D8F7DB_210143     |
 | Length | 138     |  138    | 136   |  139    |
-| Similarity | - | 29.06 | 31.87 | 32.30 |
+| Similarity | - | 0.97 | 0.95 | 0.96 |
 | Ensemble Norm | 0.97 | - | - | - |
 | MFE | -29.10 | -45.01 | -39.42 | -51.01 |
 | Ligands | - | TPP | Ni/Co | TPP |

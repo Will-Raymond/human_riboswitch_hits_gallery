@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA120483/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS00021EE0E0/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS00021EDCEB/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS00021EE07C/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA120483     | URS00021EE0E0_12908     | URS00021EDCEB_12908     | URS00021EE07C_12908     |
 | Length | 90     |  88    | 88   |  87    |
-| Similarity | - | 21.95 | 23.89 | 23.92 |
+| Similarity | - | 0.96 | 0.96 | 0.96 |
 | Ensemble Norm | 0.96 | - | - | - |
 | MFE | -24.59 | -30.86 | -27.78 | -27.17 |
 | Ligands | - | guanidine | guanidine | guanidine |

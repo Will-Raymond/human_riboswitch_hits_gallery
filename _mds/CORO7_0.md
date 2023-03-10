@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA024464/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C0C73C/1423719" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000AB4CE5/264732" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C53029/1284" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA024464     | URS0000C0C73C_1423719     | URS0000AB4CE5_264732     | URS0000C53029_1284     |
 | Length | 103     |  101    | 102   |  104    |
-| Similarity | - | 21.85 | 25.28 | 26.22 |
+| Similarity | - | 0.97 | 0.97 | 0.97 |
 | Ensemble Norm | 0.97 | - | - | - |
 | MFE | -36.28 | -20.47 | -31.90 | -18.09 |
 | Ligands | - | TPP | purine | TPP |

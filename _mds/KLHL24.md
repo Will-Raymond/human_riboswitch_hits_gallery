@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA056955/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000D84B4C/29367" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C42B85/1385510" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS000080E23F/32630" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA056955     | URS0000D84B4C_29367     | URS0000C42B85_1385510     | URS000080E23F_32630     |
 | Length | 86     |  83    | 83   |  87    |
-| Similarity | - | 20.81 | 21.89 | 22.29 |
+| Similarity | - | 0.96 | 0.96 | 0.97 |
 | Ensemble Norm | 0.96 | - | - | - |
 | MFE | -9.77 | -11.97 | -13.50 | -28.24 |
 | Ligands | - | cyclic-di-GMP | cyclic-di-GMP | unknown |

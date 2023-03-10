@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA116951/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000DAFD6A/1904969" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C6F5A8/1736350" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D8CE7B/1450648" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA116951     | URS0000DAFD6A_1904969     | URS0000C6F5A8_1736350     | URS0000D8CE7B_1450648     |
 | Length | 81     |  82    | 81   |  81    |
-| Similarity | - | 13.28 | 16.05 | 17.05 |
+| Similarity | - | 0.98 | 0.98 | 0.98 |
 | Ensemble Norm | 0.98 | - | - | - |
 | MFE | -14.49 | -38.08 | -28.97 | -18.38 |
 | Ligands | - | cobalamin | zmp-ztp | zmp-ztp |

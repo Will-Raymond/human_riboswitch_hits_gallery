@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA093391/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000E605B4/1282363" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000E60499/1523413" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000E5FE78/1449350" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA093391     | URS0000E605B4_1282363     | URS0000E60499_1523413     | URS0000E5FE78_1449350     |
 | Length | 60     |  58    | 60   |  60    |
-| Similarity | - | 12.81 | 15.03 | 16.03 |
+| Similarity | - | 0.98 | 0.98 | 0.98 |
 | Ensemble Norm | 0.98 | - | - | - |
 | MFE | -6.28 | -17.69 | -28.58 | -27.74 |
 | Ligands | - | unknown | unknown | unknown |

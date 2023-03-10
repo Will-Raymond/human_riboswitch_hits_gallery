@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA075339-0/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0002314AB8/59561" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS000231B470/1661" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C866A7/1227261" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA075339-0     | URS0002314AB8_59561     | URS000231B470_1661     | URS0000C866A7_1227261     |
 | Length | 84     |  83    | 83   |  85    |
-| Similarity | - | 19.32 | 19.32 | 20.31 |
+| Similarity | - | 0.97 | 0.97 | 0.97 |
 | Ensemble Norm | 0.97 | - | - | - |
 | MFE | -30.98 | -28.80 | -27.30 | -36.08 |
 | Ligands | - | zmp-ztp | zmp-ztp | zmp-ztp |

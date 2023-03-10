@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA080133/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000BF4933/694068" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000DB6628/1798316" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C61A0E/1385513" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA080133     | URS0000BF4933_694068     | URS0000DB6628_1798316     | URS0000C61A0E_1385513     |
 | Length | 172     |  173    | 167   |  175    |
-| Similarity | - | 54.26 | 55.17 | 56.14 |
+| Similarity | - | 0.94 | 0.90 | 0.92 |
 | Ensemble Norm | 0.94 | - | - | - |
 | MFE | -47.45 | -52.45 | -36.40 | -44 |
 | Ligands | - | TPP | Mg2+ | lysine |

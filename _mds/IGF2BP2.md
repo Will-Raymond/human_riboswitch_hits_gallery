@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA052057/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C0A6A3/1609098" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000D67582/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS000025D787/1229780" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA052057     | URS0000C0A6A3_1609098     | URS0000D67582_12908     | URS000025D787_1229780     |
 | Length | 95     |  95    | 94   |  97    |
-| Similarity | - | 24.03 | 24.25 | 25.81 |
+| Similarity | - | 0.97 | 0.97 | 0.97 |
 | Ensemble Norm | 0.97 | - | - | - |
 | MFE | -17.72 | -30.37 | -31.83 | -40.83 |
 | Ligands | - | TPP | Ni/Co | glycine |

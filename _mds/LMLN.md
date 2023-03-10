@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA059401/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000AB8C73/887898" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C49209/407035" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C63A8A/1712029" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA059401     | URS0000AB8C73_887898     | URS0000C49209_407035     | URS0000C63A8A_1712029     |
 | Length | 45     |  45    | 45   |  45    |
-| Similarity | - | 11.02 | 12.02 | 12.04 |
+| Similarity | - | 0.99 | 0.99 | 0.99 |
 | Ensemble Norm | 0.99 | - | - | - |
 | MFE | -10.30 | -9.55 | -6.90 | -6.30 |
 | Ligands | - | preQ_1 | Ni/Co | preQ_1 |

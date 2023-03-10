@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA022358/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS00023242EC/1731" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000D86707/1121390" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000E5FD6F/7159" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA022358     | URS00023242EC_1731     | URS0000D86707_1121390     | URS0000E5FD6F_7159     |
 | Length | 69     |  70    | 69   |  72    |
-| Similarity | - | 14.21 | 16.02 | 16.82 |
+| Similarity | - | 0.98 | 0.98 | 0.97 |
 | Ensemble Norm | 0.98 | - | - | - |
 | MFE | -11.55 | -17.24 | -17.17 | -19.59 |
 | Ligands | - | glycine | fluoride | aminoglycoside |

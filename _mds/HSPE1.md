@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA051260/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000AB563C/768704" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C70D1D/40148" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D98BD7/1519565" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA051260     | URS0000AB563C_768704     | URS0000C70D1D_40148     | URS0000D98BD7_1519565     |
 | Length | 135     |  135    | 134   |  132    |
-| Similarity | - | 37.13 | 39.35 | 39.83 |
+| Similarity | - | 0.95 | 0.95 | 0.94 |
 | Ensemble Norm | 0.95 | - | - | - |
 | MFE | -23.51 | -39.24 | -46.09 | -33.73 |
 | Ligands | - | molybdenum | TPP | TPP |

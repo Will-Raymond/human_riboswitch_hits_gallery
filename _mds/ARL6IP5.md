@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA006680/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS00021EE040/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0001A0562A/2653173" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS00021EDF57/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA006680     | URS00021EE040_12908     | URS0001A0562A_2653173     | URS00021EDF57_12908     |
 | Length | 89     |  88    | 86   |  86    |
-| Similarity | - | 21.35 | 22.83 | 22.87 |
+| Similarity | - | 0.97 | 0.96 | 0.96 |
 | Ensemble Norm | 0.97 | - | - | - |
 | MFE | -22.38 | -33.48 | -25.01 | -36.36 |
 | Ligands | - | guanidine | zmp-ztp | guanidine |

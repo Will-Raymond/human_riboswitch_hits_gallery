@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA020574/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000D9C2AD/1805131" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000D681DF/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D67DB4/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA020574     | URS0000D9C2AD_1805131     | URS0000D681DF_12908     | URS0000D67DB4_12908     |
 | Length | 71     |  70    | 73   |  73    |
-| Similarity | - | 14.28 | 15.85 | 16.85 |
+| Similarity | - | 0.98 | 0.98 | 0.97 |
 | Ensemble Norm | 0.98 | - | - | - |
 | MFE | -20.59 | -19.90 | -25.61 | -20.36 |
 | Ligands | - | fluoride | Ni/Co | Ni/Co |

@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA095755/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS000232ACA8/408172" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C85A17/1263010" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000AB8A2D/590646" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA095755     | URS000232ACA8_408172     | URS0000C85A17_1263010     | URS0000AB8A2D_590646     |
 | Length | 97     |  96    | 97   |  96    |
-| Similarity | - | 22.24 | 23.02 | 23.28 |
+| Similarity | - | 0.97 | 0.97 | 0.97 |
 | Ensemble Norm | 0.97 | - | - | - |
 | MFE | -37.56 | -33.08 | -22.03 | -23.93 |
 | Ligands | - | guanidine | tetrahydrofolate | TPP |

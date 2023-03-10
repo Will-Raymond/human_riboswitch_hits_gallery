@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA041102/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000BF143C/1262904" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C34E0B/1217655" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000DB3BBF/1797673" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA041102     | URS0000BF143C_1262904     | URS0000C34E0B_1217655     | URS0000DB3BBF_1797673     |
 | Length | 144     |  147    | 145   |  146    |
-| Similarity | - | 37.85 | 40.23 | 40.90 |
+| Similarity | - | 0.94 | 0.95 | 0.94 |
 | Ensemble Norm | 0.94 | - | - | - |
 | MFE | -55.18 | -26.91 | -31.35 | -57.31 |
 | Ligands | - | glucosamine | Mn2+ | cobalamin |

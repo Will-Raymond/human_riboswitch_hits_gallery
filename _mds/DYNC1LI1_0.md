@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA032829/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000BE6846/1408250" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000AB716A/1033810" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000BE9DE3/1588023" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA032829     | URS0000BE6846_1408250     | URS0000AB716A_1033810     | URS0000BE9DE3_1588023     |
 | Length | 113     |  116    | 115   |  114    |
-| Similarity | - | 21.83 | 21.83 | 24.30 |
+| Similarity | - | 0.96 | 0.97 | 0.97 |
 | Ensemble Norm | 0.96 | - | - | - |
 | MFE | -49.73 | -55.68 | -30.08 | -56.43 |
 | Ligands | - | methionine | tetrahydrofolate | methionine |

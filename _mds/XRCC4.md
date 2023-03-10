@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA120460/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0002324815/1173263" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000AB7000/266265" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000B32DC1/442121" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA120460     | URS0002324815_1173263     | URS0000AB7000_266265     | URS0000B32DC1_442121     |
 | Length | 153     |  153    | 148   |  150    |
-| Similarity | - | 51.19 | 52.30 | 52.86 |
+| Similarity | - | 0.94 | 0.88 | 0.92 |
 | Ensemble Norm | 0.94 | - | - | - |
 | MFE | -34.42 | -28.51 | -49.83 | -59.19 |
 | Ligands | - | cobalamin | guanidine | FMN |

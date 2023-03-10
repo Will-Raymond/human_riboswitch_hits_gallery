@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA095814/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000AB5A53/392500" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000AB576E/228405" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000AB202F/39946" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA095814     | URS0000AB5A53_392500     | URS0000AB576E_228405     | URS0000AB202F_39946     |
 | Length | 130     |  130    | 128   |  132    |
-| Similarity | - | 31.20 | 35.85 | 35.98 |
+| Similarity | - | 0.96 | 0.95 | 0.95 |
 | Ensemble Norm | 0.96 | - | - | - |
 | MFE | -29.80 | -36.27 | -51.87 | -50.92 |
 | Ligands | - | glycine | molybdenum | glycine |

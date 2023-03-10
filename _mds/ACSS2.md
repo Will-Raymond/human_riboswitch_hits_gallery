@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA001650/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C1B597/1262822" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C63827/1263015" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C44359/1547922" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA001650     | URS0000C1B597_1262822     | URS0000C63827_1263015     | URS0000C44359_1547922     |
 | Length | 99     |  100    | 99   |  96    |
-| Similarity | - | 21.21 | 22.04 | 22.82 |
+| Similarity | - | 0.97 | 0.97 | 0.96 |
 | Ensemble Norm | 0.97 | - | - | - |
 | MFE | -44.74 | -18.48 | -32.52 | -39.15 |
 | Ligands | - | tetrahydrofolate | tetrahydrofolate | homocysteine |

@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA062297/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS00007661C0/926571" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000D6BBBE/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C32386/1476" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA062297     | URS00007661C0_926571     | URS0000D6BBBE_12908     | URS0000C32386_1476     |
 | Length | 80     |  82    | 79   |  82    |
-| Similarity | - | 15.82 | 18.23 | 18.84 |
+| Similarity | - | 0.98 | 0.98 | 0.97 |
 | Ensemble Norm | 0.98 | - | - | - |
 | MFE | -20.57 | -26.40 | -23.25 | -16.69 |
 | Ligands | - | fluoride | GMP | cyclic-di-GMP |

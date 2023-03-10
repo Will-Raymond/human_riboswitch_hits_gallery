@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA050571/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000AB7530/525246" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS00023189B4/408172" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D81328/1797652" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA050571     | URS0000AB7530_525246     | URS00023189B4_408172     | URS0000D81328_1797652     |
 | Length | 86     |  85    | 84   |  83    |
-| Similarity | - | 22.23 | 22.82 | 22.89 |
+| Similarity | - | 0.97 | 0.97 | 0.96 |
 | Ensemble Norm | 0.97 | - | - | - |
 | MFE | -9.88 | -26.87 | -13.87 | -18.57 |
 | Ligands | - | SAM | cobalamin | fluoride |

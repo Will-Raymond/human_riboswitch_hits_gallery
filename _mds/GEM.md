@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA043805/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000AB4D68/485913" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000D8CDFE/1341694" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C5BA73/77635" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA043805     | URS0000AB4D68_485913     | URS0000D8CDFE_1341694     | URS0000C5BA73_77635     |
 | Length | 159     |  158    | 160   |  158    |
-| Similarity | - | 53.43 | 54.31 | 54.32 |
+| Similarity | - | 0.93 | 0.94 | 0.94 |
 | Ensemble Norm | 0.93 | - | - | - |
 | MFE | -55.42 | -48.96 | -57.52 | -49.71 |
 | Ligands | - | FMN | Mg2+ | Mg2+ |

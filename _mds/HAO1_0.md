@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA047816/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000AB8D34/115778" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000AB7E68/668336" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000AB4607/176090" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA047816     | URS0000AB8D34_115778     | URS0000AB7E68_668336     | URS0000AB4607_176090     |
 | Length | 49     |  48    | 45   |  45    |
-| Similarity | - | 6.22 | 9.22 | 9.22 |
+| Similarity | - | 0.99 | 0.97 | 0.97 |
 | Ensemble Norm | 0.99 | - | - | - |
 | MFE | -9.71 | -7.50 | -3.30 | -5.40 |
 | Ligands | - | preQ_1 | preQ_1 | preQ_1 |

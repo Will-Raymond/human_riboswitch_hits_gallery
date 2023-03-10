@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA089972/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000D8F454/2006685" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000DA8C76/1803434" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C10865/1490057" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA089972     | URS0000D8F454_2006685     | URS0000DA8C76_1803434     | URS0000C10865_1490057     |
 | Length | 116     |  113    | 115   |  116    |
-| Similarity | - | 29.84 | 30.30 | 33.15 |
+| Similarity | - | 0.95 | 0.96 | 0.96 |
 | Ensemble Norm | 0.95 | - | - | - |
 | MFE | -9.80 | -38.23 | -38.30 | -28.05 |
 | Ligands | - | SAM | SAM | SAM |

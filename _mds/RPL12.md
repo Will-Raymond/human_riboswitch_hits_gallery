@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA092362/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000D8C351/1797483" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000ABAD98/279010" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C4A666/1158606" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA092362     | URS0000D8C351_1797483     | URS0000ABAD98_279010     | URS0000C4A666_1158606     |
 | Length | 113     |  111    | 110   |  110    |
-| Similarity | - | 28.88 | 29.82 | 29.90 |
+| Similarity | - | 0.96 | 0.95 | 0.95 |
 | Ensemble Norm | 0.96 | - | - | - |
 | MFE | -43.20 | -46.78 | -33.50 | -27.30 |
 | Ligands | - | TPP | SAM | tetrahydrofolate |

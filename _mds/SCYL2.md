@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA095308/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000D9050D/642780" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000D66689/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D66A63/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA095308     | URS0000D9050D_642780     | URS0000D66689_12908     | URS0000D66A63_12908     |
 | Length | 75     |  74    | 76   |  74    |
-| Similarity | - | 17.24 | 19.22 | 20.23 |
+| Similarity | - | 0.98 | 0.98 | 0.98 |
 | Ensemble Norm | 0.98 | - | - | - |
 | MFE | -16.36 | -35.67 | -35.11 | -24.80 |
 | Ligands | - | cobalamin | GMP | Ni/Co |

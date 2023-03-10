@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA089623/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS000080E144/305" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C57FE6/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C843E1/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA089623     | URS000080E144_305     | URS0000C57FE6_12908     | URS0000C843E1_12908     |
 | Length | 54     |  54    | 53   |  54    |
-| Similarity | - | 12.11 | 12.25 | 13.09 |
+| Similarity | - | 0.98 | 0.98 | 0.98 |
 | Ensemble Norm | 0.98 | - | - | - |
 | MFE | -14.58 | -18.54 | -6.75 | -8.97 |
 | Ligands | - | homocysteine | glutamine | glutamine |

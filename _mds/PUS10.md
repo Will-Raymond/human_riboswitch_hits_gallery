@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA086844/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000D66DCF/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000BE8F3B/1317122" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C1D079/1453500" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA086844     | URS0000D66DCF_12908     | URS0000BE8F3B_1317122     | URS0000C1D079_1453500     |
 | Length | 104     |  103    | 105   |  106    |
-| Similarity | - | 25.24 | 26.22 | 26.85 |
+| Similarity | - | 0.97 | 0.97 | 0.96 |
 | Ensemble Norm | 0.97 | - | - | - |
 | MFE | -27.13 | -42.22 | -26.64 | -33.51 |
 | Ligands | - | GMP | TPP | TPP |

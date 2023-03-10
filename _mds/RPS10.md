@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA092843/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000AB19A6/525257" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000DA2AAC/734" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D92844/1546107" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA092843     | URS0000AB19A6_525257     | URS0000DA2AAC_734     | URS0000D92844_1546107     |
 | Length | 90     |  92    | 89   |  89    |
-| Similarity | - | 21.83 | 22.23 | 22.32 |
+| Similarity | - | 0.97 | 0.97 | 0.97 |
 | Ensemble Norm | 0.97 | - | - | - |
 | MFE | -23.06 | -17.71 | -18.63 | -45.28 |
 | Ligands | - | TPP | TPP | zmp-ztp |

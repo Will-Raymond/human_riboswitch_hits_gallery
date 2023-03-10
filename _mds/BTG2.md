@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA011301/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000ABC98F/66692" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000DA8541/1797827" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS00021EE189/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA011301     | URS0000ABC98F_66692     | URS0000DA8541_1797827     | URS00021EE189_12908     |
 | Length | 96     |  97    | 95   |  93    |
-| Similarity | - | 23.24 | 23.28 | 23.96 |
+| Similarity | - | 0.97 | 0.97 | 0.95 |
 | Ensemble Norm | 0.97 | - | - | - |
 | MFE | -28.25 | -31.88 | -22.36 | -31.08 |
 | Ligands | - | guanidine | TPP | guanidine |

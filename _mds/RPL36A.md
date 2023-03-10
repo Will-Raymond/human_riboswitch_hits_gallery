@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA092595/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C4285D/1293054" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0002320BE1/122586" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0002322B81/388919" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA092595     | URS0000C4285D_1293054     | URS0002320BE1_122586     | URS0002322B81_388919     |
 | Length | 109     |  109    | 110   |  107    |
-| Similarity | - | 28.04 | 28.21 | 30.84 |
+| Similarity | - | 0.97 | 0.97 | 0.96 |
 | Ensemble Norm | 0.97 | - | - | - |
 | MFE | -26.15 | -24.98 | -27.64 | -28.86 |
 | Ligands | - | SAM | SAM | preQ_1 |

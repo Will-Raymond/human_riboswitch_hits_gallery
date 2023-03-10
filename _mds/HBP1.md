@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA048031/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000D7AC2D/1881060" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000ABA971/264732" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000DAD15D/1450526" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA048031     | URS0000D7AC2D_1881060     | URS0000ABA971_264732     | URS0000DAD15D_1450526     |
 | Length | 107     |  101    | 101   |  105    |
-| Similarity | - | 34.22 | 34.31 | 34.88 |
+| Similarity | - | 0.91 | 0.90 | 0.95 |
 | Ensemble Norm | 0.91 | - | - | - |
 | MFE | -26.49 | -17.23 | -43.74 | -16.10 |
 | Ligands | - | purine | purine | SAM |

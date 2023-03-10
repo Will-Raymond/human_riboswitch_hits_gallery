@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA093492/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000D6BFFA/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000D7B26F/1564159" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C7D7C8/665007" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA093492     | URS0000D6BFFA_12908     | URS0000D7B26F_1564159     | URS0000C7D7C8_665007     |
 | Length | 119     |  121    | 118   |  117    |
-| Similarity | - | 29.84 | 31.39 | 31.82 |
+| Similarity | - | 0.96 | 0.96 | 0.96 |
 | Ensemble Norm | 0.96 | - | - | - |
 | MFE | -35.15 | -24.79 | -52.44 | -48.36 |
 | Ligands | - | Ni/Co | methionine | methionine |

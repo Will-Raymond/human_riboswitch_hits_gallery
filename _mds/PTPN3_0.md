@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA086435/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS00021EE0C4/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS00021EDDFA/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C49209/407035" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA086435     | URS00021EE0C4_12908     | URS00021EDDFA_12908     | URS0000C49209_407035     |
 | Length | 45     |  45    | 46   |  45    |
-| Similarity | - | 6.01 | 6.22 | 7.01 |
+| Similarity | - | 0.99 | 0.99 | 0.99 |
 | Ensemble Norm | 0.99 | - | - | - |
 | MFE | -4.26 | -13.04 | -13.10 | -6.90 |
 | Ligands | - | SAM | SAM | Ni/Co |

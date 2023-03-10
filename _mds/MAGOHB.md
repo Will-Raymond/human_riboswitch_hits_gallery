@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA061975/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS00019DF04E/1867952" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C13766/1300342" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D9B537/85336" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA061975     | URS00019DF04E_1867952     | URS0000C13766_1300342     | URS0000D9B537_85336     |
 | Length | 116     |  114    | 117   |  114    |
-| Similarity | - | 33.90 | 34.22 | 34.93 |
+| Similarity | - | 0.95 | 0.96 | 0.95 |
 | Ensemble Norm | 0.95 | - | - | - |
 | MFE | -34.59 | -42.16 | -55 | -33.86 |
 | Ligands | - | TPP | Mn2+ | glycine |

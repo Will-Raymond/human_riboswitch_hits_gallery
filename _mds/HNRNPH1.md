@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA050023/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000DACCAD/1926878" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0002319408/311402" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000AB738B/471855" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA050023     | URS0000DACCAD_1926878     | URS0002319408_311402     | URS0000AB738B_471855     |
 | Length | 172     |  171    | 171   |  169    |
-| Similarity | - | 49.31 | 49.35 | 49.83 |
+| Similarity | - | 0.95 | 0.94 | 0.93 |
 | Ensemble Norm | 0.95 | - | - | - |
 | MFE | -62.38 | -76.86 | -63.78 | -66.22 |
 | Ligands | - | Mn2+ | zmp-ztp | lysine |

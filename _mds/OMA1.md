@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA075094/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000741A82/1462526" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000D8F36B/1797457" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C843B7/690567" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA075094     | URS0000741A82_1462526     | URS0000D8F36B_1797457     | URS0000C843B7_690567     |
 | Length | 116     |  119    | 116   |  118    |
-| Similarity | - | 30.83 | 34.02 | 35.81 |
+| Similarity | - | 0.95 | 0.96 | 0.95 |
 | Ensemble Norm | 0.95 | - | - | - |
 | MFE | -15.42 | -23.12 | -29.28 | -29.70 |
 | Ligands | - | SAM | SAM | molybdenum |

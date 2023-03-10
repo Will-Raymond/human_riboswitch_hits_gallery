@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA071293/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C7A266/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C071DE/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C245EB/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA071293     | URS0000C7A266_12908     | URS0000C071DE_12908     | URS0000C245EB_12908     |
 | Length | 129     |  132    | 132   |  132    |
-| Similarity | - | 39.85 | 39.85 | 41.85 |
+| Similarity | - | 0.94 | 0.94 | 0.94 |
 | Ensemble Norm | 0.94 | - | - | - |
 | MFE | -42.04 | -28.77 | -30.07 | -29.57 |
 | Ligands | - | glutamine | glutamine | glutamine |

@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA029136-1/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C64C24/1666915" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS00021EDEC8/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000AB2AFF/408172" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA029136-1     | URS0000C64C24_1666915     | URS00021EDEC8_12908     | URS0000AB2AFF_408172     |
 | Length | 47     |  49    | 47   |  48    |
-| Similarity | - | 11.83 | 12.01 | 12.21 |
+| Similarity | - | 0.98 | 0.99 | 0.98 |
 | Ensemble Norm | 0.98 | - | - | - |
 | MFE | -9.70 | -15.23 | -7.90 | -10.10 |
 | Ligands | - | SAM | SAM | SAM |

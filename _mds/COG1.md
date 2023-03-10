@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA023591/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C88432/1452487" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C44113/999411" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000BFB71D/351607" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA023591     | URS0000C88432_1452487     | URS0000C44113_999411     | URS0000BFB71D_351607     |
 | Length | 61     |  62    | 62   |  62    |
-| Similarity | - | 12.25 | 14.29 | 14.29 |
+| Similarity | - | 0.98 | 0.98 | 0.98 |
 | Ensemble Norm | 0.98 | - | - | - |
 | MFE | -20.39 | -14.60 | -12.19 | -18.01 |
 | Ligands | - | fluoride | fluoride | fluoride |

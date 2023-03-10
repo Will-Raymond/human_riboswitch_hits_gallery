@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA071271/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS00021EE001/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C6E1DC/1131935" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C44284/450851" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA071271     | URS00021EE001_12908     | URS0000C6E1DC_1131935     | URS0000C44284_450851     |
 | Length | 87     |  88    | 84   |  83    |
-| Similarity | - | 21.21 | 21.88 | 22.28 |
+| Similarity | - | 0.97 | 0.96 | 0.95 |
 | Ensemble Norm | 0.97 | - | - | - |
 | MFE | -37.50 | -27.34 | -16.85 | -39.86 |
 | Ligands | - | guanidine | cyclic-di-GMP | zmp-ztp |

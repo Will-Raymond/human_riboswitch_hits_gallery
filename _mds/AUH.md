@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA009015/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C7618D/1581033" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000AB8FF4/258594" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000AB7A16/997346" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA009015     | URS0000C7618D_1581033     | URS0000AB8FF4_258594     | URS0000AB7A16_997346     |
 | Length | 104     |  99    | 105   |  103    |
-| Similarity | - | 26.04 | 26.23 | 27.26 |
+| Similarity | - | 0.93 | 0.97 | 0.97 |
 | Ensemble Norm | 0.93 | - | - | - |
 | MFE | -33.61 | -29.38 | -38.63 | -29.62 |
 | Ligands | - | SAM | guanidine | guanidine |

@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA025799/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000ABA464/439292" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000762E40/1379676" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS000076291B/1398202" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA025799     | URS0000ABA464_439292     | URS0000762E40_1379676     | URS000076291B_1398202     |
 | Length | 83     |  84    | 80   |  80    |
-| Similarity | - | 19.36 | 19.82 | 19.82 |
+| Similarity | - | 0.97 | 0.97 | 0.97 |
 | Ensemble Norm | 0.97 | - | - | - |
 | MFE | -16.87 | -14.42 | -19.90 | -20.20 |
 | Ligands | - | cyclic-di-GMP | TPP | TPP |

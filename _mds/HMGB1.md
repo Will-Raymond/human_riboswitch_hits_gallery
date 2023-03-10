@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA049629/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS000232D000/1705730" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000D40F96/1671868" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS00023297FB/1932693" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA049629     | URS000232D000_1705730     | URS0000D40F96_1671868     | URS00023297FB_1932693     |
 | Length | 206     |  201    | 202   |  205    |
-| Similarity | - | 65.19 | 72.25 | 75.40 |
+| Similarity | - | 0.90 | 0.92 | 0.93 |
 | Ensemble Norm | 0.90 | - | - | - |
 | MFE | -55.96 | -26 | -44.41 | -46.89 |
 | Ligands | - | cobalamin | cobalamin | cobalamin |

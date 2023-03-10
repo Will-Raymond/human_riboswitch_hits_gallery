@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA106934/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000ABC007/573060" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C1E4A8/1655586" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000DA22A8/880157" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA106934     | URS0000ABC007_573060     | URS0000C1E4A8_1655586     | URS0000DA22A8_880157     |
 | Length | 122     |  121    | 120   |  124    |
-| Similarity | - | 39.21 | 40.82 | 40.94 |
+| Similarity | - | 0.95 | 0.95 | 0.94 |
 | Ensemble Norm | 0.95 | - | - | - |
 | MFE | -37.49 | -45.64 | -50.40 | -34.92 |
 | Ligands | - | TPP | SAM | Mn2+ |

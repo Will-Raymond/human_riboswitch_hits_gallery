@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA051937/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C62801/1609098" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000D9015A/1528693" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D863E7/1775675" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA051937     | URS0000C62801_1609098     | URS0000D9015A_1528693     | URS0000D863E7_1775675     |
 | Length | 155     |  157    | 155   |  154    |
-| Similarity | - | 46.92 | 49.03 | 51.59 |
+| Similarity | - | 0.94 | 0.95 | 0.93 |
 | Ensemble Norm | 0.94 | - | - | - |
 | MFE | -42.72 | -60.82 | -48.44 | -46.46 |
 | Ligands | - | TPP | cobalamin | FMN |

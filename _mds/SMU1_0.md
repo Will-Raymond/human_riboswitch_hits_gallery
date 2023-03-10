@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA101609/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS00001853A1/1193182" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000A09F21/1703968" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C4F608/220754" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA101609     | URS00001853A1_1193182     | URS0000A09F21_1703968     | URS0000C4F608_220754     |
 | Length | 133     |  131    | 135   |  133    |
-| Similarity | - | 40.89 | 41.96 | 43.09 |
+| Similarity | - | 0.94 | 0.94 | 0.95 |
 | Ensemble Norm | 0.94 | - | - | - |
 | MFE | -41.61 | -47.04 | -53.82 | -39.26 |
 | Ligands | - | FMN | FMN | FMN |

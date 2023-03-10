@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA045718/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C80478/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C64332/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000E5FDBA/1094558" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA045718     | URS0000C80478_12908     | URS0000C64332_12908     | URS0000E5FDBA_1094558     |
 | Length | 51     |  51    | 51   |  52    |
-| Similarity | - | 15.01 | 15.01 | 15.20 |
+| Similarity | - | 0.98 | 0.98 | 0.98 |
 | Ensemble Norm | 0.98 | - | - | - |
 | MFE | -8.20 | -9.66 | -8.88 | -14.90 |
 | Ligands | - | glutamine | glutamine | unknown |

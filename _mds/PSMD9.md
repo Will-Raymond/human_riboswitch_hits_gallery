@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA085707/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000ECDC54/1247" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000ABC19F/203123" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C4C98B/1894" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA085707     | URS0000ECDC54_1247     | URS0000ABC19F_203123     | URS0000C4C98B_1894     |
 | Length | 96     |  95    | 95   |  95    |
-| Similarity | - | 21.26 | 21.26 | 23.31 |
+| Similarity | - | 0.97 | 0.97 | 0.97 |
 | Ensemble Norm | 0.97 | - | - | - |
 | MFE | -40.64 | -19.55 | -20.25 | -39.89 |
 | Ligands | - | purine | purine | zmp-ztp |

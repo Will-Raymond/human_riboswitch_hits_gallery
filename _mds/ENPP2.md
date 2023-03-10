@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA035557/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000D9DA49/1834114" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000BFBE22/1736457" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000AB3C77/744979" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA035557     | URS0000D9DA49_1834114     | URS0000BFBE22_1736457     | URS0000AB3C77_744979     |
 | Length | 111     |  112    | 112   |  113    |
-| Similarity | - | 28.27 | 28.31 | 29.87 |
+| Similarity | - | 0.96 | 0.96 | 0.96 |
 | Ensemble Norm | 0.96 | - | - | - |
 | MFE | -24.52 | -42.73 | -43.98 | -36.94 |
 | Ligands | - | methionine | methionine | TPP |

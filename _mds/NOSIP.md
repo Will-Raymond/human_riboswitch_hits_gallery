@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA072878/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C78052/1131731" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000AB88CE/679192" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C6378C/1408103" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA072878     | URS0000C78052_1131731     | URS0000AB88CE_679192     | URS0000C6378C_1408103     |
 | Length | 84     |  84    | 86   |  83    |
-| Similarity | - | 20.05 | 22.92 | 23.22 |
+| Similarity | - | 0.98 | 0.96 | 0.97 |
 | Ensemble Norm | 0.98 | - | - | - |
 | MFE | -22.20 | -27.72 | -23.76 | -23.52 |
 | Ligands | - | Mg2+ | TPP | zmp-ztp |

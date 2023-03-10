@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA092451/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000D7791C/583357" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000D7794B/583357" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D80F12/1834516" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA092451     | URS0000D7791C_583357     | URS0000D7794B_583357     | URS0000D80F12_1834516     |
 | Length | 115     |  117    | 117   |  115    |
-| Similarity | - | 35.87 | 35.87 | 36.15 |
+| Similarity | - | 0.95 | 0.95 | 0.95 |
 | Ensemble Norm | 0.95 | - | - | - |
 | MFE | -28.30 | -33.85 | -33.85 | -53.43 |
 | Ligands | - | unknown | unknown | methionine |

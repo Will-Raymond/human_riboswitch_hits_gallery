@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA110552/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C5F9CE/1610491" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C5EDB3/909613" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C342A1/1579979" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA110552     | URS0000C5F9CE_1610491     | URS0000C5EDB3_909613     | URS0000C342A1_1579979     |
 | Length | 133     |  132    | 130   |  130    |
-| Similarity | - | 38.25 | 38.83 | 39.86 |
+| Similarity | - | 0.95 | 0.94 | 0.94 |
 | Ensemble Norm | 0.95 | - | - | - |
 | MFE | -32.14 | -61.05 | -51.37 | -55.64 |
 | Ligands | - | TPP | TPP | TPP |

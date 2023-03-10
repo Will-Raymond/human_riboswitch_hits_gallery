@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA000186/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C096AD/1655635" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0002312FCF/909613" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000BEE653/686597" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA000186     | URS0000C096AD_1655635     | URS0002312FCF_909613     | URS0000BEE653_686597     |
 | Length | 113     |  112    | 112   |  115    |
-| Similarity | - | 33.24 | 33.31 | 33.86 |
+| Similarity | - | 0.96 | 0.96 | 0.95 |
 | Ensemble Norm | 0.96 | - | - | - |
 | MFE | -21.42 | -39.78 | -41.29 | -31.99 |
 | Ligands | - | TPP | cobalamin | TPP |

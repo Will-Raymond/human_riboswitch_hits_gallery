@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA103223/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000AB30E9/552" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS000232FAE7/1140002" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS000231B10C/1802093" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA103223     | URS0000AB30E9_552     | URS000232FAE7_1140002     | URS000231B10C_1802093     |
 | Length | 121     |  120    | 123   |  124    |
-| Similarity | - | 30.35 | 31.88 | 31.90 |
+| Similarity | - | 0.96 | 0.96 | 0.95 |
 | Ensemble Norm | 0.96 | - | - | - |
 | MFE | -52.79 | -33.22 | -24.74 | -29.52 |
 | Ligands | - | TPP | cobalamin | FMN |

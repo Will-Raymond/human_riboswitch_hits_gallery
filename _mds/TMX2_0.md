@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA111796/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C3E428/97097" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000ABB696/526986" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000AB7E38/1670800" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA111796     | URS0000C3E428_97097     | URS0000ABB696_526986     | URS0000AB7E38_1670800     |
 | Length | 121     |  117    | 116   |  122    |
-| Similarity | - | 30.22 | 33.01 | 33.25 |
+| Similarity | - | 0.94 | 0.92 | 0.96 |
 | Ensemble Norm | 0.94 | - | - | - |
 | MFE | -35.83 | -22.66 | -29.43 | -46.42 |
 | Ligands | - | glycine | TPP | TPP |

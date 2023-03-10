@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA085508/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS000232F8B0/1802479" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS000232A3BC/1618578" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C74866/1437824" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA085508     | URS000232F8B0_1802479     | URS000232A3BC_1618578     | URS0000C74866_1437824     |
 | Length | 103     |  99    | 100   |  99    |
-| Similarity | - | 23.22 | 24.85 | 25.21 |
+| Similarity | - | 0.95 | 0.96 | 0.95 |
 | Ensemble Norm | 0.95 | - | - | - |
 | MFE | -30.64 | -30.56 | -19.62 | -48.41 |
 | Ligands | - | cobalamin | cobalamin | homocysteine |

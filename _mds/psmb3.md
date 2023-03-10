@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA085509/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C293C3/1658672" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C4A1AE/1736318" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D9D511/211114" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA085509     | URS0000C293C3_1658672     | URS0000C4A1AE_1736318     | URS0000D9D511_211114     |
 | Length | 94     |  92    | 92   |  96    |
-| Similarity | - | 20.82 | 20.84 | 21.82 |
+| Similarity | - | 0.97 | 0.97 | 0.97 |
 | Ensemble Norm | 0.97 | - | - | - |
 | MFE | -20.66 | -35.02 | -24.65 | -38.83 |
 | Ligands | - | homocysteine | glycine | homocysteine |

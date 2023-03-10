@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA004299/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C79A0B/411475" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000DACD9A/1285586" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C0F6EC/1700846" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA004299     | URS0000C79A0B_411475     | URS0000DACD9A_1285586     | URS0000C0F6EC_1700846     |
 | Length | 114     |  113    | 112   |  111    |
-| Similarity | - | 29.26 | 29.97 | 30.90 |
+| Similarity | - | 0.96 | 0.95 | 0.95 |
 | Ensemble Norm | 0.96 | - | - | - |
 | MFE | -18.22 | -35.53 | -27.60 | -24.10 |
 | Ligands | - | TPP | TPP | TPP |

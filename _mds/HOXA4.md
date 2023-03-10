@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA050570/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000D66287/768710" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000D69259/768704" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS000080E171/1423" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA050570     | URS0000D66287_768710     | URS0000D69259_768704     | URS000080E171_1423     |
 | Length | 72     |  72    | 72   |  71    |
-| Similarity | - | 13.02 | 13.02 | 14.22 |
+| Similarity | - | 0.98 | 0.98 | 0.98 |
 | Ensemble Norm | 0.98 | - | - | - |
 | MFE | -7.67 | -14.34 | -14.14 | -16.68 |
 | Ligands | - | purine | purine | purine |

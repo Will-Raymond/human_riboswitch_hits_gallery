@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA034714/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000ABD588/908937" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C1F70A/69370" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS00021EDF6D/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA034714     | URS0000ABD588_908937     | URS0000C1F70A_69370     | URS00021EDF6D_12908     |
 | Length | 96     |  96    | 97   |  94    |
-| Similarity | - | 19.02 | 23.27 | 23.91 |
+| Similarity | - | 0.98 | 0.97 | 0.96 |
 | Ensemble Norm | 0.98 | - | - | - |
 | MFE | -28.56 | -31.30 | -29.36 | -35.42 |
 | Ligands | - | TPP | glycine | guanidine |

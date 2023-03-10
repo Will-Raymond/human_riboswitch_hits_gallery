@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA076800/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000D68DA4/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000D65DBF/314231" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS000080E2D6/32630" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA076800     | URS0000D68DA4_12908     | URS0000D65DBF_314231     | URS000080E2D6_32630     |
 | Length | 57     |  56    | 56   |  59    |
-| Similarity | - | 13.21 | 13.22 | 13.81 |
+| Similarity | - | 0.98 | 0.98 | 0.98 |
 | Ensemble Norm | 0.98 | - | - | - |
 | MFE | -8.89 | -18.19 | -23.66 | -17.78 |
 | Ligands | - | unknown | unknown | preQ_1 |

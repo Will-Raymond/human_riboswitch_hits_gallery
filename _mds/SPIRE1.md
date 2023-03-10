@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA103380/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000868535/32630" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000ABD55F/292415" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D921CB/1660145" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA103380     | URS0000868535_32630     | URS0000ABD55F_292415     | URS0000D921CB_1660145     |
 | Length | 72     |  75    | 71   |  71    |
-| Similarity | - | 20.83 | 22.25 | 22.25 |
+| Similarity | - | 0.96 | 0.97 | 0.97 |
 | Ensemble Norm | 0.96 | - | - | - |
 | MFE | -22.13 | -15.82 | -21.62 | -19.97 |
 | Ligands | - | unknown | homocysteine | homocysteine |

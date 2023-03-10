@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA080173/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000BFC384/1574623" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C0513E/1356299" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000BE9721/1574623" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA080173     | URS0000BFC384_1574623     | URS0000C0513E_1356299     | URS0000BE9721_1574623     |
 | Length | 69     |  67    | 72   |  67    |
-| Similarity | - | 15.82 | 17.83 | 17.83 |
+| Similarity | - | 0.98 | 0.97 | 0.97 |
 | Ensemble Norm | 0.98 | - | - | - |
 | MFE | -9.69 | -15.50 | -16.57 | -19.33 |
 | Ligands | - | glutamine | fluoride | glutamine |

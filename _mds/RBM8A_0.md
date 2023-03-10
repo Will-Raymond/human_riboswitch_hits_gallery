@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA089624-1/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0002333632/1802" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000D9C937/1797881" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000DABA43/1805133" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA089624-1     | URS0002333632_1802     | URS0000D9C937_1797881     | URS0000DABA43_1805133     |
 | Length | 135     |  132    | 134   |  134    |
-| Similarity | - | 34.87 | 38.23 | 38.23 |
+| Similarity | - | 0.94 | 0.95 | 0.95 |
 | Ensemble Norm | 0.94 | - | - | - |
 | MFE | -44.88 | -40.05 | -35.94 | -45.22 |
 | Ligands | - | cobalamin | molybdenum | cobalamin |

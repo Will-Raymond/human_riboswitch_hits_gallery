@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA039808/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C37E75/98228" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C85437/1001886" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS00007DE88A/224308" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA039808     | URS0000C37E75_98228     | URS0000C85437_1001886     | URS00007DE88A_224308     |
 | Length | 98     |  100    | 100   |  100    |
-| Similarity | - | 25.85 | 26.84 | 26.84 |
+| Similarity | - | 0.96 | 0.96 | 0.96 |
 | Ensemble Norm | 0.96 | - | - | - |
 | MFE | -29.10 | -21.31 | -23.22 | -13.27 |
 | Ligands | - | purine | purine | purine |

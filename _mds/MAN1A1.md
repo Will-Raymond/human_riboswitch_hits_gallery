@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA062043/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000D67F2B/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000ABB19F/1227275" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D674D4/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA062043     | URS0000D67F2B_12908     | URS0000ABB19F_1227275     | URS0000D674D4_12908     |
 | Length | 91     |  91    | 89   |  92    |
-| Similarity | - | 21.02 | 22.83 | 23.22 |
+| Similarity | - | 0.98 | 0.97 | 0.97 |
 | Ensemble Norm | 0.98 | - | - | - |
 | MFE | -23.42 | -38.68 | -19.95 | -35.57 |
 | Ligands | - | GMP | tetrahydrofolate | GMP |

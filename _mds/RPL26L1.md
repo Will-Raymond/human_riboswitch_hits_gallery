@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA092485/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000D9A6DE/987057" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000DA275D/1798253" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000ABB1D6/269796" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA092485     | URS0000D9A6DE_987057     | URS0000DA275D_1798253     | URS0000ABB1D6_269796     |
 | Length | 73     |  71    | 75   |  77    |
-| Similarity | - | 18.82 | 18.83 | 19.27 |
+| Similarity | - | 0.97 | 0.97 | 0.96 |
 | Ensemble Norm | 0.97 | - | - | - |
 | MFE | -23.87 | -21.33 | -15.94 | -17.74 |
 | Ligands | - | fluoride | SAM | SAM |

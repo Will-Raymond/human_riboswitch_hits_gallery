@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA054527/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C1FD53/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000D86786/1895733" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000DB0CFB/1121279" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA054527     | URS0000C1FD53_12908     | URS0000D86786_1895733     | URS0000DB0CFB_1121279     |
 | Length | 82     |  82    | 82   |  81    |
-| Similarity | - | 16.05 | 18.04 | 18.24 |
+| Similarity | - | 0.98 | 0.98 | 0.98 |
 | Ensemble Norm | 0.98 | - | - | - |
 | MFE | -38.48 | -20.39 | -31.55 | -28.99 |
 | Ligands | - | zmp-ztp | homocysteine | homocysteine |

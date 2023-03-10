@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA071169/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000AB2B8D/408172" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000DA4E87/1802178" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000DAC5C8/1797747" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA071169     | URS0000AB2B8D_408172     | URS0000DA4E87_1802178     | URS0000DAC5C8_1797747     |
 | Length | 97     |  99    | 94   |  97    |
-| Similarity | - | 27.82 | 27.92 | 28.04 |
+| Similarity | - | 0.96 | 0.95 | 0.97 |
 | Ensemble Norm | 0.96 | - | - | - |
 | MFE | -26.73 | -28.71 | -41.60 | -29.31 |
 | Ligands | - | TPP | TPP | homocysteine |

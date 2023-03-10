@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA004300/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C1C11A/1395587" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C76A43/1286631" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000AB4B53/3068" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA004300     | URS0000C1C11A_1395587     | URS0000C76A43_1286631     | URS0000AB4B53_3068     |
 | Length | 123     |  124    | 123   |  123    |
-| Similarity | - | 35.23 | 38.03 | 38.06 |
+| Similarity | - | 0.96 | 0.96 | 0.96 |
 | Ensemble Norm | 0.96 | - | - | - |
 | MFE | -21.22 | -33.73 | -62.02 | -51.72 |
 | Ligands | - | glycine | zmp-ztp | TPP |

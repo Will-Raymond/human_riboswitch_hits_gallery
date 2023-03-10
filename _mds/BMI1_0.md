@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA010720/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0002325834/1777139" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C84AD8/1690485" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000ABA694/764291" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA010720     | URS0002325834_1777139     | URS0000C84AD8_1690485     | URS0000ABA694_764291     |
 | Length | 127     |  127    | 129   |  123    |
-| Similarity | - | 32.06 | 33.94 | 35.28 |
+| Similarity | - | 0.96 | 0.95 | 0.93 |
 | Ensemble Norm | 0.96 | - | - | - |
 | MFE | -45.41 | -42.46 | -39.09 | -27.67 |
 | Ligands | - | cobalamin | homocysteine | glycine |

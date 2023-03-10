@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA008901/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000D96938/1805400" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C06979/1704277" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000DA2A69/1121306" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA008901     | URS0000D96938_1805400     | URS0000C06979_1704277     | URS0000DA2A69_1121306     |
 | Length | 85     |  84    | 86   |  88    |
-| Similarity | - | 19.28 | 21.26 | 21.82 |
+| Similarity | - | 0.97 | 0.97 | 0.96 |
 | Ensemble Norm | 0.97 | - | - | - |
 | MFE | -22.03 | -16.62 | -30.97 | -17.93 |
 | Ligands | - | cyclic-di-GMP | zmp-ztp | TPP |

@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA093485/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000AB33BE/1643452" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000D8D6B4/1665556" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000BE798B/1397" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA093485     | URS0000AB33BE_1643452     | URS0000D8D6B4_1665556     | URS0000BE798B_1397     |
 | Length | 187     |  187    | 187   |  183    |
-| Similarity | - | 54.06 | 54.06 | 54.23 |
+| Similarity | - | 0.95 | 0.95 | 0.92 |
 | Ensemble Norm | 0.95 | - | - | - |
 | MFE | -63.30 | -51.02 | -51.02 | -47.81 |
 | Ligands | - | lysine | lysine | lysine |

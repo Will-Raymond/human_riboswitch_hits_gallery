@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA115355/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000D9F08B/1419482" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000DDBA0A/2182327" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D69259/768704" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA115355     | URS0000D9F08B_1419482     | URS0000DDBA0A_2182327     | URS0000D69259_768704     |
 | Length | 70     |  74    | 69   |  72    |
-| Similarity | - | 13.22 | 14.22 | 15.82 |
+| Similarity | - | 0.97 | 0.98 | 0.98 |
 | Ensemble Norm | 0.97 | - | - | - |
 | MFE | -12.87 | -16.21 | -12.74 | -14.14 |
 | Ligands | - | fluoride | fluoride | purine |

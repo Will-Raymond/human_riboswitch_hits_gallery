@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA070477/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000ABC53F/264732" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C33961/1869312" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000ABC78A/431943" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA070477     | URS0000ABC53F_264732     | URS0000C33961_1869312     | URS0000ABC78A_431943     |
 | Length | 109     |  109    | 111   |  106    |
-| Similarity | - | 27.02 | 29.83 | 29.85 |
+| Similarity | - | 0.97 | 0.96 | 0.95 |
 | Ensemble Norm | 0.97 | - | - | - |
 | MFE | -29.44 | -36.36 | -42.35 | -30.27 |
 | Ligands | - | SAM | SAM | SAM |

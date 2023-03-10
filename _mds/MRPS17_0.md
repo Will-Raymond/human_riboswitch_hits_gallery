@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA067619/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS00023316D7/471853" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000AB3019/665959" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C4588A/46224" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA067619     | URS00023316D7_471853     | URS0000AB3019_665959     | URS0000C4588A_46224     |
 | Length | 42     |  41    | 43   |  43    |
-| Similarity | - | 13.20 | 15.22 | 15.22 |
+| Similarity | - | 0.98 | 0.98 | 0.98 |
 | Ensemble Norm | 0.98 | - | - | - |
 | MFE | -4.08 | -15.64 | -8.45 | -8.45 |
 | Ligands | - | zmp-ztp | preQ_1 | preQ_1 |

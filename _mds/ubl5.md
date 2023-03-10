@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA116393/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000D65B78/272564" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C55DD2/1660143" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C4BEAF/1134474" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA116393     | URS0000D65B78_272564     | URS0000C55DD2_1660143     | URS0000C4BEAF_1134474     |
 | Length | 129     |  129    | 127   |  130    |
-| Similarity | - | 34.05 | 35.99 | 36.26 |
+| Similarity | - | 0.96 | 0.95 | 0.96 |
 | Ensemble Norm | 0.96 | - | - | - |
 | MFE | -49.91 | -48.95 | -56.29 | -42.64 |
 | Ligands | - | molybdenum | TPP | guanidine |

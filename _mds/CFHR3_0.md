@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA021322/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000AB5970/649639" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000AB85E0/469371" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000AB950D/177437" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA021322     | URS0000AB5970_649639     | URS0000AB85E0_469371     | URS0000AB950D_177437     |
 | Length | 117     |  115    | 117   |  118    |
-| Similarity | - | 29.98 | 30.16 | 31.32 |
+| Similarity | - | 0.95 | 0.96 | 0.96 |
 | Ensemble Norm | 0.95 | - | - | - |
 | MFE | -14.92 | -25.47 | -42.82 | -31.05 |
 | Ligands | - | TPP | TPP | TPP |

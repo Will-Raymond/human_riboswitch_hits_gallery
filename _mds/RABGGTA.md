@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA087803/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000AB28D8/575594" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C3283C/887896" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C6E7CE/1291052" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA087803     | URS0000AB28D8_575594     | URS0000C3283C_887896     | URS0000C6E7CE_1291052     |
 | Length | 93     |  94    | 94   |  95    |
-| Similarity | - | 18.23 | 19.25 | 19.88 |
+| Similarity | - | 0.98 | 0.98 | 0.97 |
 | Ensemble Norm | 0.98 | - | - | - |
 | MFE | -31.73 | -30.44 | -28.24 | -27.62 |
 | Ligands | - | tetrahydrofolate | tetrahydrofolate | tetrahydrofolate |

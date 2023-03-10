@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA067622/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C56965/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000D6B924/1437607" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D6CA35/1437610" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA067622     | URS0000C56965_12908     | URS0000D6B924_1437607     | URS0000D6CA35_1437610     |
 | Length | 63     |  61    | 61   |  61    |
-| Similarity | - | 11.83 | 12.85 | 12.85 |
+| Similarity | - | 0.98 | 0.98 | 0.98 |
 | Ensemble Norm | 0.98 | - | - | - |
 | MFE | -14.19 | -11.24 | -20.25 | -19.55 |
 | Ligands | - | glutamine | SAM | SAM |

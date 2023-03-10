@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA117212/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000D8C975/1780378" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C0C09C/1005048" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000DAAE19/398512" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA117212     | URS0000D8C975_1780378     | URS0000C0C09C_1005048     | URS0000DAAE19_398512     |
 | Length | 99     |  97    | 99   |  100    |
-| Similarity | - | 20.84 | 22.14 | 22.24 |
+| Similarity | - | 0.97 | 0.97 | 0.97 |
 | Ensemble Norm | 0.97 | - | - | - |
 | MFE | -34.12 | -22.12 | -33.42 | -26.38 |
 | Ligands | - | glycine | fluoride | glycine |

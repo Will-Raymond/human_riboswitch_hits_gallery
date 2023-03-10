@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA065303/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000AB9CC7/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C74820/1262955" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000AB4563/182337" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA065303     | URS0000AB9CC7_12908     | URS0000C74820_1262955     | URS0000AB4563_182337     |
 | Length | 132     |  131    | 132   |  131    |
-| Similarity | - | 36.25 | 37.02 | 37.28 |
+| Similarity | - | 0.96 | 0.96 | 0.95 |
 | Ensemble Norm | 0.96 | - | - | - |
 | MFE | -46.70 | -27.88 | -47.76 | -36.32 |
 | Ligands | - | cobalamin | tetrahydrofolate | molybdenum |

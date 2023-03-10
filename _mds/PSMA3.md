@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA085448/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C566F9/1804984" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS00022CD256/219649" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D85E3D/1434837" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA085448     | URS0000C566F9_1804984     | URS00022CD256_219649     | URS0000D85E3D_1434837     |
 | Length | 71     |  72    | 72   |  70    |
-| Similarity | - | 16.29 | 17.23 | 18.22 |
+| Similarity | - | 0.98 | 0.98 | 0.98 |
 | Ensemble Norm | 0.98 | - | - | - |
 | MFE | -18.04 | -22.84 | -20.77 | -30.72 |
 | Ligands | - | fluoride | fluoride | cobalamin |

@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA002206/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C07131/1777880" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000D6AE56/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D854A1/37928" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA002206     | URS0000C07131_1777880     | URS0000D6AE56_12908     | URS0000D854A1_37928     |
 | Length | 132     |  131    | 128   |  134    |
-| Similarity | - | 37.30 | 38.23 | 38.89 |
+| Similarity | - | 0.95 | 0.93 | 0.95 |
 | Ensemble Norm | 0.95 | - | - | - |
 | MFE | -21.12 | -37.24 | -44.23 | -47.23 |
 | Ligands | - | FMN | SAM | TPP |

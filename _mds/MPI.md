@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA067069-1/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000BE2FF8/380749" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000DADC92/1802106" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C1CF71/224911" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA067069-1     | URS0000BE2FF8_380749     | URS0000DADC92_1802106     | URS0000C1CF71_224911     |
 | Length | 86     |  86    | 85   |  86    |
-| Similarity | - | 21.02 | 21.22 | 22.04 |
+| Similarity | - | 0.98 | 0.97 | 0.97 |
 | Ensemble Norm | 0.98 | - | - | - |
 | MFE | -29.50 | -22.84 | -32.83 | -26.73 |
 | Ligands | - | fluoride | cobalamin | zmp-ztp |

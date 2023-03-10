@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA076470/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000AB5F75/367928" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C15F27/1238" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000AB4734/585501" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA076470     | URS0000AB5F75_367928     | URS0000C15F27_1238     | URS0000AB4734_585501     |
 | Length | 153     |  153    | 157   |  155    |
-| Similarity | - | 56.25 | 56.41 | 57 |
+| Similarity | - | 0.93 | 0.90 | 0.92 |
 | Ensemble Norm | 0.93 | - | - | - |
 | MFE | -25.70 | -39.29 | -42.38 | -34.64 |
 | Ligands | - | FMN | Mn2+ | glucosamine |

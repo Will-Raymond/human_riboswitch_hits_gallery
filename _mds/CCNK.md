@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA019014/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000AB351E/365046" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000ABB175/596318" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C76AA2/1349767" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA019014     | URS0000AB351E_365046     | URS0000ABB175_596318     | URS0000C76AA2_1349767     |
 | Length | 155     |  155    | 154   |  155    |
-| Similarity | - | 54.02 | 54.24 | 55.04 |
+| Similarity | - | 0.94 | 0.94 | 0.94 |
 | Ensemble Norm | 0.94 | - | - | - |
 | MFE | -36.93 | -67.30 | -34.40 | -48.80 |
 | Ligands | - | FMN | FMN | FMN |

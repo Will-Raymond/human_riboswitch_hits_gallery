@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA100651/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000BF456D/497965" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000BFF581/521045" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C462F6/1629717" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA100651     | URS0000BF456D_497965     | URS0000BFF581_521045     | URS0000C462F6_1629717     |
 | Length | 58     |  58    | 60   |  57    |
-| Similarity | - | 13.03 | 16.80 | 17.23 |
+| Similarity | - | 0.98 | 0.98 | 0.98 |
 | Ensemble Norm | 0.98 | - | - | - |
 | MFE | -9.91 | -11.97 | -17.97 | -16.93 |
 | Ligands | - | glutamine | fluoride | fluoride |

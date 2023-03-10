@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA105732/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS000232BBEC/1940822" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C1931E/1415558" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000AB2810/1367477" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA105732     | URS000232BBEC_1940822     | URS0000C1931E_1415558     | URS0000AB2810_1367477     |
 | Length | 101     |  99    | 97   |  102    |
-| Similarity | - | 28.84 | 29.23 | 29.52 |
+| Similarity | - | 0.96 | 0.94 | 0.95 |
 | Ensemble Norm | 0.96 | - | - | - |
 | MFE | -31.59 | -24.92 | -34.96 | -20.36 |
 | Ligands | - | glycine | glycine | purine |
