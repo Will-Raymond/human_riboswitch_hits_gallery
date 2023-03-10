@@ -29,9 +29,9 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| Length MSE | - | 7.01 | 6.01 | 24.02 |
-| Lev Distance | - | 1 | 0 | 0 |
-| Struct MSE | - | 23 | 25 | 25 |
+| Struct MSE | - | 7.01 | 6.01 | 24.02 |
+| Length MSE | - | 1 | 0 | 0 |
+| Lev Distance | - | 23 | 25 | 25 |
 | UBS| 8 | 6 | 8 | 10 |
 | BS | 0 | 0 | 0 | 0 |
 | ILL | 0 | 1 | 1 | 1 |
