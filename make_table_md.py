@@ -31,7 +31,7 @@ exclude: true
 
 
 **Information**
-<div style="overflow-x:auto;" markdown="block>
+
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
 | Link | <a href="%s" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="%s" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="%s" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="%s" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
@@ -43,7 +43,7 @@ exclude: true
 | Ligands | - | %s | %s | %s |
 | Gene | %s | - | - | - |
 | Downstream protein | blank for now %s   |    -    | -  | - |
-</div>
+
 
 **Similarity metrics**
 

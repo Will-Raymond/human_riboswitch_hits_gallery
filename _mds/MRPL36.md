@@ -11,7 +11,7 @@ exclude: true
 
 
 **Information**
-<div style="overflow-x:auto;" markdown="block>
+
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA067458/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000D845C0/1109743" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000DA91D9/1121318" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C49260/1110697" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
@@ -23,7 +23,7 @@ exclude: true
 | Ligands | - | methionine | FMN | methionine |
 | Gene | MRPL36 | - | - | - |
 | Downstream protein | blank for now    |    -    | -  | - |
-</div>
+
 
 **Similarity metrics**
 

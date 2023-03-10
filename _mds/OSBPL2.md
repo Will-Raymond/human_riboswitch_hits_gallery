@@ -11,7 +11,7 @@ exclude: true
 
 
 **Information**
-<div style="overflow-x:auto;" markdown="block>
+
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA075443/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000D6B49A/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C2D022/1418104" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000BFE4B8/56110" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
@@ -23,7 +23,7 @@ exclude: true
 | Ligands | - | GMP | cyclic-di-GMP | fluoride |
 | Gene | OSBPL2 | - | - | - |
 | Downstream protein | blank for now    |    -    | -  | - |
-</div>
+
 
 **Similarity metrics**
 

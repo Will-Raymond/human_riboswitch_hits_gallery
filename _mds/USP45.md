@@ -11,7 +11,7 @@ exclude: true
 
 
 **Information**
-<div style="overflow-x:auto;" markdown="block>
+
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA117717/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS000232144B/1801698" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0002331695/1770526" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D912EF/1904969" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
@@ -23,7 +23,7 @@ exclude: true
 | Ligands | - | cobalamin | cobalamin | SAM |
 | Gene | USP45 | - | - | - |
 | Downstream protein | blank for now    |    -    | -  | - |
-</div>
+
 
 **Similarity metrics**
 

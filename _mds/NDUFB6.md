@@ -11,7 +11,7 @@ exclude: true
 
 
 **Information**
-<div style="overflow-x:auto;" markdown="block>
+
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA071260/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000D83BD3/36818" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS000232BC36/1133849" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0002312B1E/1117647" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
@@ -23,7 +23,7 @@ exclude: true
 | Ligands | - | cobalamin | cobalamin | cobalamin |
 | Gene | NDUFB6 | - | - | - |
 | Downstream protein | blank for now    |    -    | -  | - |
-</div>
+
 
 **Similarity metrics**
 
