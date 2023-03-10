@@ -2,8 +2,119 @@
 layout: page
 title: "NOSIP"
 permalink: /_mds/NOSIP/
+exclude: true
 ---
 
-![](../../alns_9.28.22/aln_5HSAA072878_0.987.png?raw=true
-)
+
+
+![](../../alns_9.28.22/aln_5HSAA072878_0.987.png?raw=true)
+
+
+**Information**
+<div style="overflow-x:auto;" markdown="block>
+| | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
+| ---- | ----------- | ----------- | ----------- | ----------- |
+| Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA072878/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C78052/1131731" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000AB88CE/679192" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C6378C/1408103" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| ID | 5HSAA072878     | URS0000C78052_1131731     | URS0000AB88CE_679192     | URS0000C6378C_1408103     |
+| Length | 84     |  84    | 86   |  83    |
+| Similarity | - | 20.05 | 22.92 | 23.22 |
+| Ensemble Norm | 0.98 | - | - | - |
+| MFE | -22.20 | -27.72 | -23.76 | -23.52 |
+| Ligands | - | Mg2+ | TPP | zmp-ztp |
+| Gene | NOSIP | - | - | - |
+| Downstream protein | blank for now    |    -    | -  | - |
+</div>
+
+**Similarity metrics**
+
+| | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
+| ---- | ----------- | ----------- | ----------- | ----------- |
+| Length MSE | - | 10 | 24.01 | 3.01 |
+| Lev Distance | - | 0 | 4 | 1 |
+| Struct MSE | - | 20 | 22 | 23 |
+| UBS| 5 | 5 | 7 | 6 |
+| BS | 0 | 0 | 0 | 0 |
+| ILL | 0 | 2 | 0 | 1 |
+| ILR | 2 | 1 | 0 | 2 |
+| H | 3 | 3 | 3 | 3 |
+| BL | 2 | 0 | 2 | 2 |
+| BR | 0 | 1 | 4 | 1 |
+| UN | 0.02 | 0.06 | 0.12 | 0.10 |
+
+**Sequences**
+
+
+<div style="overflow-x:auto;">
+
+<table>
+<colgroup>
+<col width="30%" />
+<col width="70%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Field</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td markdown="span">UTR seq + 25 </td>
+<td markdown="span"> uuuccggugucggggcacaguugaagaagcgaccgagggacugggagucguuagugaggATGACGCGGCATGGCAAGAACTGCA </td>
+</tr>
+<tr>
+<td markdown="span">UTR dot + 25  </td>
+<td markdown="span"> .(((((((.((((.((............))..))))...)))))))((((((......))))))((((...........)))).
+</td>
+</tr>
+
+
+<tr>
+<td markdown="span">RS 1 seq </td>
+<td markdown="span"> AAAGCUAUAUGUGACUGGCGAGACGCGGACGAACCGCGAGGGAGCAUAUAGUGACGGAAAUGGCCGUUCGCCUGGGCUGAGGUA
+</td>
+</tr>
+
+
+<tr>
+<td markdown="span">RS 1 dot </td>
+<td markdown="span"> ...(((((((((..((.......(((((.....))))).))..)))))))))(((((......))))).((((......)))).
+</td>
+</tr>
+
+
+<tr>
+<td markdown="span">RS 2 seq </td>
+<td markdown="span"> ACCACGUUACAGGGGCGCGAAAGCUGAGAUGUACCCUUUGACCUGAUCUAGGUAAUGCUAGCGUAGGGAGUAGACCUACGCCUUUU
+</td>
+</tr>
+
+
+<tr>
+<td markdown="span">RS 2 dot </td>
+<td markdown="span"> ..((.((((.((((((((.........).))).)))).)))).))..((((......))))((((((.......))))))......
+</td>
+</tr>
+
+
+<tr>
+<td markdown="span">RS 3 seq </td>
+<td markdown="span"> AUGGCCGUGUGUGACUGGCGAGAGCGGAUAACCGCAAGGGAGCACAUUGCAUCGGAGCAAAGCCGUUCGCCUGGGCAGAGGUA
+</td>
+</tr>
+
+
+<tr>
+<td markdown="span">RS 3 dot </td>
+<td markdown="span"> ...((.((((((..((.(((............)))..))..)))))).))....((((......))))((((......)))).
+</td>
+</tr>
+
+</tbody>
+</table>
+
+
+</div>
+
+
 [Back to Table](../../display)

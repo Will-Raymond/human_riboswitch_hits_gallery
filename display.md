@@ -1,4 +1,3 @@
-
 ---
 layout: page
 title: "UTR visualization"
@@ -305,7 +304,7 @@ $(document).ready(function(){
 <td><a href="/human_riboswitch_hits_gallery/_mds/ACTR6">=></a></td>
 </tr>
 <tr>
-<td>RPL26L1</td>
+<td>RPL26L1_0</td>
 <td>5HSAA092481</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA092481/1">UTR</a></td>
 <td>URS0000D93F65_1798301</td>
@@ -313,7 +312,7 @@ $(document).ready(function(){
 <td>0.950</td>
 <td>0.970</td>
 <td>-22.166</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RPL26L1">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/RPL26L1_0">=></a></td>
 </tr>
 <tr>
 <td>MRPS10</td>
@@ -646,7 +645,7 @@ $(document).ready(function(){
 <td><a href="/human_riboswitch_hits_gallery/_mds/PAX3">=></a></td>
 </tr>
 <tr>
-<td>LARP7</td>
+<td>LARP7_0</td>
 <td>5HSAA057974</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA057974/1">UTR</a></td>
 <td>URS0000C51897_457402</td>
@@ -654,7 +653,7 @@ $(document).ready(function(){
 <td>0.929</td>
 <td>0.972</td>
 <td>-16.554</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/LARP7">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/LARP7_0">=></a></td>
 </tr>
 <tr>
 <td>RNF32</td>
@@ -668,7 +667,7 @@ $(document).ready(function(){
 <td><a href="/human_riboswitch_hits_gallery/_mds/RNF32">=></a></td>
 </tr>
 <tr>
-<td>CCDC138</td>
+<td>CCDC138_0</td>
 <td>5HSAA018350-1</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA018350-1/1">UTR</a></td>
 <td>URS0000D97DBA_1860101</td>
@@ -676,7 +675,7 @@ $(document).ready(function(){
 <td>0.984</td>
 <td>0.959</td>
 <td>-43.593</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CCDC138">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/CCDC138_0">=></a></td>
 </tr>
 <tr>
 <td>ERG</td>
@@ -767,7 +766,7 @@ $(document).ready(function(){
 <td><a href="/human_riboswitch_hits_gallery/_mds/UBAP2L">=></a></td>
 </tr>
 <tr>
-<td>AMTN</td>
+<td>AMTN_0</td>
 <td>5HSAA004300</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA004300/1">UTR</a></td>
 <td>URS0000AB44C1_650150</td>
@@ -775,7 +774,7 @@ $(document).ready(function(){
 <td>0.971</td>
 <td>0.958</td>
 <td>-21.218</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/AMTN">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/AMTN_0">=></a></td>
 </tr>
 <tr>
 <td>OPCML</td>
@@ -987,7 +986,7 @@ $(document).ready(function(){
 <td><a href="/human_riboswitch_hits_gallery/_mds/UTP15">=></a></td>
 </tr>
 <tr>
-<td>PRIM1</td>
+<td>PRIM1_0</td>
 <td>5HSAA084405</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA084405/1">UTR</a></td>
 <td>URS0000C72FB0_12908</td>
@@ -995,7 +994,7 @@ $(document).ready(function(){
 <td>0.977</td>
 <td>0.985</td>
 <td>-13.844</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PRIM1">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/PRIM1_0">=></a></td>
 </tr>
 <tr>
 <td>HAO1</td>
@@ -1064,7 +1063,7 @@ $(document).ready(function(){
 <td><a href="/human_riboswitch_hits_gallery/_mds/DFFA">=></a></td>
 </tr>
 <tr>
-<td>GLA</td>
+<td>GLA_0</td>
 <td>5HSAA044278</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA044278/1">UTR</a></td>
 <td>URS0000E601A3_110319</td>
@@ -1072,10 +1071,10 @@ $(document).ready(function(){
 <td>0.986</td>
 <td>0.919</td>
 <td>-71.240</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/GLA">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/GLA_0">=></a></td>
 </tr>
 <tr>
-<td>PUS7L</td>
+<td>PUS7L_0</td>
 <td>5HSAA086861</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA086861/1">UTR</a></td>
 <td>URS0000DB0CD0_1090615</td>
@@ -1083,7 +1082,7 @@ $(document).ready(function(){
 <td>0.931</td>
 <td>0.971</td>
 <td>-15.122</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PUS7L">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/PUS7L_0">=></a></td>
 </tr>
 <tr>
 <td>FGF14</td>
@@ -1361,7 +1360,7 @@ $(document).ready(function(){
 <td><a href="/human_riboswitch_hits_gallery/_mds/NDUFB8">=></a></td>
 </tr>
 <tr>
-<td>TNNI3K</td>
+<td>TNNI3K_0</td>
 <td>5HSAA112082</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA112082/1">UTR</a></td>
 <td>URS0000C73819_943816</td>
@@ -1369,7 +1368,7 @@ $(document).ready(function(){
 <td>0.971</td>
 <td>0.977</td>
 <td>-7.003</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TNNI3K">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/TNNI3K_0">=></a></td>
 </tr>
 <tr>
 <td>SEC23IP</td>
@@ -1394,7 +1393,7 @@ $(document).ready(function(){
 <td><a href="/human_riboswitch_hits_gallery/_mds/GSS">=></a></td>
 </tr>
 <tr>
-<td>HMGB1</td>
+<td>HMGB1_0</td>
 <td>5HSAA049620</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA049620/1">UTR</a></td>
 <td>URS0000C50408_1351755</td>
@@ -1402,10 +1401,10 @@ $(document).ready(function(){
 <td>0.997</td>
 <td>0.957</td>
 <td>-43.746</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/HMGB1">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/HMGB1_0">=></a></td>
 </tr>
 <tr>
-<td>E2F5</td>
+<td>E2F5_0</td>
 <td>5HSAA032962</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA032962/1">UTR</a></td>
 <td>URS00008FED37_32046</td>
@@ -1413,7 +1412,7 @@ $(document).ready(function(){
 <td>1.000</td>
 <td>0.988</td>
 <td>-20.679</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/E2F5">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/E2F5_0">=></a></td>
 </tr>
 <tr>
 <td>ZNF687</td>
@@ -1823,7 +1822,7 @@ $(document).ready(function(){
 <td><a href="/human_riboswitch_hits_gallery/_mds/SNCAIP">=></a></td>
 </tr>
 <tr>
-<td>HMGB1</td>
+<td>HMGB1_1</td>
 <td>5HSAA049630</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA049630/1">UTR</a></td>
 <td>URS0000DB2738_71657</td>
@@ -1831,7 +1830,7 @@ $(document).ready(function(){
 <td>0.980</td>
 <td>0.934</td>
 <td>-51.719</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/HMGB1">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/HMGB1_1">=></a></td>
 </tr>
 <tr>
 <td>RSL24D1</td>
@@ -1944,7 +1943,7 @@ $(document).ready(function(){
 <td><a href="/human_riboswitch_hits_gallery/_mds/PNPLA6">=></a></td>
 </tr>
 <tr>
-<td>TPRG1L</td>
+<td>TPRG1L_0</td>
 <td>5HSAA113039</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA113039/1">UTR</a></td>
 <td>URS0000D80070_1122209</td>
@@ -1952,7 +1951,7 @@ $(document).ready(function(){
 <td>0.990</td>
 <td>0.975</td>
 <td>-27.481</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TPRG1L">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/TPRG1L_0">=></a></td>
 </tr>
 <tr>
 <td>THAP6</td>
@@ -1999,7 +1998,7 @@ $(document).ready(function(){
 <td><a href="/human_riboswitch_hits_gallery/_mds/EEF2">=></a></td>
 </tr>
 <tr>
-<td>EPB41L3</td>
+<td>EPB41L3_0</td>
 <td>5HSAA035757</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA035757/1">UTR</a></td>
 <td>URS0000D6A741_12908</td>
@@ -2007,7 +2006,7 @@ $(document).ready(function(){
 <td>0.992</td>
 <td>0.973</td>
 <td>-12.909</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/EPB41L3">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/EPB41L3_0">=></a></td>
 </tr>
 <tr>
 <td>IQUB</td>
@@ -2043,7 +2042,7 @@ $(document).ready(function(){
 <td><a href="/human_riboswitch_hits_gallery/_mds/GIN1">=></a></td>
 </tr>
 <tr>
-<td>COQ7</td>
+<td>COQ7_0</td>
 <td>5HSAA024361-1</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA024361-1/1">UTR</a></td>
 <td>URS0000C850D4_1224163</td>
@@ -2051,7 +2050,7 @@ $(document).ready(function(){
 <td>0.954</td>
 <td>0.967</td>
 <td>-21.237</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/COQ7">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/COQ7_0">=></a></td>
 </tr>
 <tr>
 <td>MED19</td>
@@ -2076,7 +2075,7 @@ $(document).ready(function(){
 <td><a href="/human_riboswitch_hits_gallery/_mds/MPI">=></a></td>
 </tr>
 <tr>
-<td>ANAPC10</td>
+<td>ANAPC10_0</td>
 <td>5HSAA004366</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA004366/1">UTR</a></td>
 <td>URS0000BA420C_1520</td>
@@ -2084,10 +2083,10 @@ $(document).ready(function(){
 <td>0.952</td>
 <td>0.932</td>
 <td>-29.534</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ANAPC10">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/ANAPC10_0">=></a></td>
 </tr>
 <tr>
-<td>ZNF808</td>
+<td>ZNF808_0</td>
 <td>5HSAA123977</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA123977/1">UTR</a></td>
 <td>URS0000AB699B_665959</td>
@@ -2095,10 +2094,10 @@ $(document).ready(function(){
 <td>0.999</td>
 <td>0.952</td>
 <td>-27.422</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ZNF808">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/ZNF808_0">=></a></td>
 </tr>
 <tr>
-<td>RSRC1</td>
+<td>RSRC1_0</td>
 <td>5HSAA093483</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA093483/1">UTR</a></td>
 <td>URS000231CFD4_159449</td>
@@ -2106,7 +2105,7 @@ $(document).ready(function(){
 <td>0.999</td>
 <td>0.952</td>
 <td>-48.390</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RSRC1">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/RSRC1_0">=></a></td>
 </tr>
 <tr>
 <td>CPNE5</td>
@@ -2142,7 +2141,7 @@ $(document).ready(function(){
 <td><a href="/human_riboswitch_hits_gallery/_mds/NXT2">=></a></td>
 </tr>
 <tr>
-<td>ANAPC10</td>
+<td>ANAPC10_1</td>
 <td>5HSAA004375</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA004375/1">UTR</a></td>
 <td>URS0000C29119_1121022</td>
@@ -2150,10 +2149,10 @@ $(document).ready(function(){
 <td>0.971</td>
 <td>0.960</td>
 <td>-29.534</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ANAPC10">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/ANAPC10_1">=></a></td>
 </tr>
 <tr>
-<td>SNCAIP</td>
+<td>SNCAIP_0</td>
 <td>5HSAA101881</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA101881/1">UTR</a></td>
 <td>URS0000C86F68_443610</td>
@@ -2161,7 +2160,7 @@ $(document).ready(function(){
 <td>0.994</td>
 <td>0.956</td>
 <td>-32.204</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SNCAIP">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/SNCAIP_0">=></a></td>
 </tr>
 <tr>
 <td>CA7</td>
@@ -2197,7 +2196,7 @@ $(document).ready(function(){
 <td><a href="/human_riboswitch_hits_gallery/_mds/IFT81">=></a></td>
 </tr>
 <tr>
-<td>ZNF292</td>
+<td>ZNF292_0</td>
 <td>5HSAA122589</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA122589/1">UTR</a></td>
 <td>URS0000D9FB79_1805276</td>
@@ -2205,7 +2204,7 @@ $(document).ready(function(){
 <td>0.965</td>
 <td>0.979</td>
 <td>-17.321</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ZNF292">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/ZNF292_0">=></a></td>
 </tr>
 <tr>
 <td>MCAT</td>
@@ -2296,7 +2295,7 @@ $(document).ready(function(){
 <td><a href="/human_riboswitch_hits_gallery/_mds/RBM46">=></a></td>
 </tr>
 <tr>
-<td>CORO7</td>
+<td>CORO7_0</td>
 <td>5HSAA024464</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA024464/1">UTR</a></td>
 <td>URS0000AB2B2B_386415</td>
@@ -2304,7 +2303,7 @@ $(document).ready(function(){
 <td>0.998</td>
 <td>0.968</td>
 <td>-36.278</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CORO7">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/CORO7_0">=></a></td>
 </tr>
 <tr>
 <td>ADARB1</td>
@@ -2318,7 +2317,7 @@ $(document).ready(function(){
 <td><a href="/human_riboswitch_hits_gallery/_mds/ADARB1">=></a></td>
 </tr>
 <tr>
-<td>FKBP15</td>
+<td>FKBP15_0</td>
 <td>5HSAA041101</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA041101/1">UTR</a></td>
 <td>URS0000D9C63A_1797663</td>
@@ -2326,7 +2325,7 @@ $(document).ready(function(){
 <td>0.967</td>
 <td>0.923</td>
 <td>-55.182</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/FKBP15">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/FKBP15_0">=></a></td>
 </tr>
 <tr>
 <td>NUDT7</td>
@@ -2417,7 +2416,7 @@ $(document).ready(function(){
 <td><a href="/human_riboswitch_hits_gallery/_mds/NDUFB6">=></a></td>
 </tr>
 <tr>
-<td>PUS7L</td>
+<td>PUS7L_1</td>
 <td>5HSAA086860</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA086860/1">UTR</a></td>
 <td>URS0000D945DF_1797196</td>
@@ -2425,7 +2424,7 @@ $(document).ready(function(){
 <td>0.978</td>
 <td>0.926</td>
 <td>-32.528</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PUS7L">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/PUS7L_1">=></a></td>
 </tr>
 <tr>
 <td>TMEM117</td>
@@ -2461,7 +2460,7 @@ $(document).ready(function(){
 <td><a href="/human_riboswitch_hits_gallery/_mds/HIPK3">=></a></td>
 </tr>
 <tr>
-<td>CCDC73</td>
+<td>CCDC73_0</td>
 <td>5HSAA018631</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA018631/1">UTR</a></td>
 <td>URS0000DB5491_987057</td>
@@ -2469,7 +2468,7 @@ $(document).ready(function(){
 <td>0.998</td>
 <td>0.974</td>
 <td>-7.173</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CCDC73">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/CCDC73_0">=></a></td>
 </tr>
 <tr>
 <td>CSN3</td>
@@ -2505,7 +2504,7 @@ $(document).ready(function(){
 <td><a href="/human_riboswitch_hits_gallery/_mds/GOSR1">=></a></td>
 </tr>
 <tr>
-<td>PMF1</td>
+<td>PMF1_0</td>
 <td>5HSAA081677</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA081677/1">UTR</a></td>
 <td>URS0000E608E8_80878</td>
@@ -2513,10 +2512,10 @@ $(document).ready(function(){
 <td>0.970</td>
 <td>0.985</td>
 <td>-11.178</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PMF1">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/PMF1_0">=></a></td>
 </tr>
 <tr>
-<td>GEM</td>
+<td>GEM_0</td>
 <td>5HSAA043806</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA043806/1">UTR</a></td>
 <td>URS0000D9B0AD_1917422</td>
@@ -2524,7 +2523,7 @@ $(document).ready(function(){
 <td>0.985</td>
 <td>0.928</td>
 <td>-65.712</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/GEM">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/GEM_0">=></a></td>
 </tr>
 <tr>
 <td>JMJD8</td>
@@ -2582,7 +2581,7 @@ $(document).ready(function(){
 <td><a href="/human_riboswitch_hits_gallery/_mds/CDK5">=></a></td>
 </tr>
 <tr>
-<td>FBXO25</td>
+<td>FBXO25_0</td>
 <td>5HSAA039823</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA039823/1">UTR</a></td>
 <td>URS0000BFF5A5_104623</td>
@@ -2590,10 +2589,10 @@ $(document).ready(function(){
 <td>0.987</td>
 <td>0.983</td>
 <td>-12.508</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/FBXO25">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/FBXO25_0">=></a></td>
 </tr>
 <tr>
-<td>CCDC138</td>
+<td>CCDC138_1</td>
 <td>5HSAA018359</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA018359/1">UTR</a></td>
 <td>URS0000C20071_1587522</td>
@@ -2601,7 +2600,7 @@ $(document).ready(function(){
 <td>0.996</td>
 <td>0.981</td>
 <td>-29.443</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CCDC138">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/CCDC138_1">=></a></td>
 </tr>
 <tr>
 <td>DNAJA1</td>
@@ -2637,7 +2636,7 @@ $(document).ready(function(){
 <td><a href="/human_riboswitch_hits_gallery/_mds/CCNK">=></a></td>
 </tr>
 <tr>
-<td>FADS1</td>
+<td>FADS1_0</td>
 <td>5HSAA037578-3</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA037578-3/1">UTR</a></td>
 <td>URS0000AB2EBF_446469</td>
@@ -2645,7 +2644,7 @@ $(document).ready(function(){
 <td>0.988</td>
 <td>0.963</td>
 <td>-44.948</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/FADS1">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/FADS1_0">=></a></td>
 </tr>
 <tr>
 <td>AASDHPPT</td>
@@ -2659,7 +2658,7 @@ $(document).ready(function(){
 <td><a href="/human_riboswitch_hits_gallery/_mds/AASDHPPT">=></a></td>
 </tr>
 <tr>
-<td>MED24</td>
+<td>MED24_0</td>
 <td>5HSAA064878</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA064878/1">UTR</a></td>
 <td>URS0000D78814_440512</td>
@@ -2667,7 +2666,7 @@ $(document).ready(function(){
 <td>0.996</td>
 <td>0.945</td>
 <td>-47.234</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MED24">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/MED24_0">=></a></td>
 </tr>
 <tr>
 <td>U2AF1L4</td>
@@ -2758,7 +2757,7 @@ $(document).ready(function(){
 <td><a href="/human_riboswitch_hits_gallery/_mds/ZBTB8OS">=></a></td>
 </tr>
 <tr>
-<td>RSRC1</td>
+<td>RSRC1_1</td>
 <td>5HSAA093485</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA093485/1">UTR</a></td>
 <td>URS0000BEC048_2026</td>
@@ -2766,7 +2765,7 @@ $(document).ready(function(){
 <td>0.974</td>
 <td>0.950</td>
 <td>-63.298</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RSRC1">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/RSRC1_1">=></a></td>
 </tr>
 <tr>
 <td>PSMB3</td>
@@ -2780,7 +2779,7 @@ $(document).ready(function(){
 <td><a href="/human_riboswitch_hits_gallery/_mds/PSMB3">=></a></td>
 </tr>
 <tr>
-<td>RUVBL2</td>
+<td>RUVBL2_0</td>
 <td>5HSAA093770</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA093770/1">UTR</a></td>
 <td>URS00021EDC6D_12908</td>
@@ -2788,10 +2787,10 @@ $(document).ready(function(){
 <td>0.962</td>
 <td>0.977</td>
 <td>-7.384</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RUVBL2">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/RUVBL2_0">=></a></td>
 </tr>
 <tr>
-<td>LBR</td>
+<td>LBR_0</td>
 <td>5HSAA058362</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA058362/1">UTR</a></td>
 <td>URS0000D97FBD_1121291</td>
@@ -2799,7 +2798,7 @@ $(document).ready(function(){
 <td>0.977</td>
 <td>0.923</td>
 <td>-35.886</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/LBR">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/LBR_0">=></a></td>
 </tr>
 <tr>
 <td>TXNDC8</td>
@@ -2824,7 +2823,7 @@ $(document).ready(function(){
 <td><a href="/human_riboswitch_hits_gallery/_mds/TIGIT">=></a></td>
 </tr>
 <tr>
-<td>MAPRE1</td>
+<td>MAPRE1_0</td>
 <td>5HSAA063472</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA063472/1">UTR</a></td>
 <td>URS0000D91BD8_1888891</td>
@@ -2832,10 +2831,10 @@ $(document).ready(function(){
 <td>0.988</td>
 <td>0.936</td>
 <td>-55.496</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MAPRE1">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/MAPRE1_0">=></a></td>
 </tr>
 <tr>
-<td>EPB41L3</td>
+<td>EPB41L3_1</td>
 <td>5HSAA035737</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA035737/1">UTR</a></td>
 <td>URS0000C7804F_1236550</td>
@@ -2843,7 +2842,7 @@ $(document).ready(function(){
 <td>0.996</td>
 <td>0.960</td>
 <td>-36.003</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/EPB41L3">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/EPB41L3_1">=></a></td>
 </tr>
 <tr>
 <td>TRPM6</td>
@@ -2912,7 +2911,7 @@ $(document).ready(function(){
 <td><a href="/human_riboswitch_hits_gallery/_mds/RPS10">=></a></td>
 </tr>
 <tr>
-<td>CCDC138</td>
+<td>CCDC138_2</td>
 <td>5HSAA018358</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA018358/1">UTR</a></td>
 <td>URS00021EDB8E_12908</td>
@@ -2920,7 +2919,7 @@ $(document).ready(function(){
 <td>1.000</td>
 <td>0.975</td>
 <td>-37.243</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CCDC138">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/CCDC138_2">=></a></td>
 </tr>
 <tr>
 <td>TMEM50B</td>
@@ -3055,7 +3054,7 @@ $(document).ready(function(){
 <td><a href="/human_riboswitch_hits_gallery/_mds/CCT6B">=></a></td>
 </tr>
 <tr>
-<td>RBM8A</td>
+<td>RBM8A_0</td>
 <td>5HSAA089624-1</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA089624-1/1">UTR</a></td>
 <td>URS0000DA8F5A_488446</td>
@@ -3063,7 +3062,7 @@ $(document).ready(function(){
 <td>0.961</td>
 <td>0.942</td>
 <td>-44.876</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RBM8A">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/RBM8A_0">=></a></td>
 </tr>
 <tr>
 <td>BBX</td>
@@ -3132,7 +3131,7 @@ $(document).ready(function(){
 <td><a href="/human_riboswitch_hits_gallery/_mds/IDE">=></a></td>
 </tr>
 <tr>
-<td>MRPS10</td>
+<td>MRPS10_0</td>
 <td>5HSAA067583</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA067583/1">UTR</a></td>
 <td>URS00023300A3_1618477</td>
@@ -3140,10 +3139,10 @@ $(document).ready(function(){
 <td>0.991</td>
 <td>0.982</td>
 <td>-29.151</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MRPS10">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/MRPS10_0">=></a></td>
 </tr>
 <tr>
-<td>TNFRSF13B</td>
+<td>TNFRSF13B_0</td>
 <td>5HSAA111883</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA111883/1">UTR</a></td>
 <td>URS0000E6020D_1134474</td>
@@ -3151,10 +3150,10 @@ $(document).ready(function(){
 <td>0.991</td>
 <td>0.974</td>
 <td>-12.838</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TNFRSF13B">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/TNFRSF13B_0">=></a></td>
 </tr>
 <tr>
-<td>HOXC9</td>
+<td>HOXC9_0</td>
 <td>5HSAA050600</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA050600/1">UTR</a></td>
 <td>URS0000AB1781_413999</td>
@@ -3162,7 +3161,7 @@ $(document).ready(function(){
 <td>0.995</td>
 <td>0.976</td>
 <td>-21.218</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/HOXC9">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/HOXC9_0">=></a></td>
 </tr>
 <tr>
 <td>OTP</td>
@@ -3198,7 +3197,7 @@ $(document).ready(function(){
 <td><a href="/human_riboswitch_hits_gallery/_mds/EIF6">=></a></td>
 </tr>
 <tr>
-<td>MCAT</td>
+<td>MCAT_0</td>
 <td>5HSAA064154</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA064154/1">UTR</a></td>
 <td>URS00021EDAB7_12908</td>
@@ -3206,10 +3205,10 @@ $(document).ready(function(){
 <td>0.994</td>
 <td>0.982</td>
 <td>-29.600</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MCAT">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/MCAT_0">=></a></td>
 </tr>
 <tr>
-<td>AASDHPPT</td>
+<td>AASDHPPT_0</td>
 <td>5HSAA000186</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA000186/1">UTR</a></td>
 <td>URS0000C7D5FA_1666916</td>
@@ -3217,7 +3216,7 @@ $(document).ready(function(){
 <td>0.965</td>
 <td>0.960</td>
 <td>-21.419</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/AASDHPPT">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/AASDHPPT_0">=></a></td>
 </tr>
 <tr>
 <td>PRG4</td>
@@ -3286,7 +3285,7 @@ $(document).ready(function(){
 <td><a href="/human_riboswitch_hits_gallery/_mds/SPDYA">=></a></td>
 </tr>
 <tr>
-<td>THAP9</td>
+<td>THAP9_0</td>
 <td>5HSAA108987</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA108987/1">UTR</a></td>
 <td>URS0000D7C83F_307121</td>
@@ -3294,7 +3293,7 @@ $(document).ready(function(){
 <td>0.996</td>
 <td>0.929</td>
 <td>-42.216</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/THAP9">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/THAP9_0">=></a></td>
 </tr>
 <tr>
 <td>ZC3H7A</td>
@@ -3319,7 +3318,7 @@ $(document).ready(function(){
 <td><a href="/human_riboswitch_hits_gallery/_mds/TP63">=></a></td>
 </tr>
 <tr>
-<td>MED24</td>
+<td>MED24_1</td>
 <td>5HSAA064831</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA064831/1">UTR</a></td>
 <td>URS0000C3697C_1218508</td>
@@ -3327,10 +3326,10 @@ $(document).ready(function(){
 <td>0.983</td>
 <td>0.947</td>
 <td>-43.169</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MED24">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/MED24_1">=></a></td>
 </tr>
 <tr>
-<td>LARP7</td>
+<td>LARP7_1</td>
 <td>5HSAA057963</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA057963/1">UTR</a></td>
 <td>URS0000D8C782_1665556</td>
@@ -3338,10 +3337,10 @@ $(document).ready(function(){
 <td>0.956</td>
 <td>0.970</td>
 <td>-24.168</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/LARP7">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/LARP7_1">=></a></td>
 </tr>
 <tr>
-<td>C1D</td>
+<td>C1D_0</td>
 <td>5HSAA013481</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA013481/1">UTR</a></td>
 <td>URS0000BEDC68_321267</td>
@@ -3349,7 +3348,7 @@ $(document).ready(function(){
 <td>0.985</td>
 <td>0.958</td>
 <td>-18.086</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/C1D">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/C1D_0">=></a></td>
 </tr>
 <tr>
 <td>SLC25A3</td>
@@ -3473,7 +3472,7 @@ $(document).ready(function(){
 <td><a href="/human_riboswitch_hits_gallery/_mds/PNPO">=></a></td>
 </tr>
 <tr>
-<td>SMC4</td>
+<td>SMC4_0</td>
 <td>5HSAA101353</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA101353/1">UTR</a></td>
 <td>URS0000AB1D31_518637</td>
@@ -3481,7 +3480,7 @@ $(document).ready(function(){
 <td>0.990</td>
 <td>0.971</td>
 <td>-24.416</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SMC4">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/SMC4_0">=></a></td>
 </tr>
 <tr>
 <td>IFITM2</td>
@@ -3561,7 +3560,7 @@ $(document).ready(function(){
 <td><a href="/human_riboswitch_hits_gallery/_mds/SEC24C">=></a></td>
 </tr>
 <tr>
-<td>NCAPH</td>
+<td>NCAPH_0</td>
 <td>5HSAA070477</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA070477/1">UTR</a></td>
 <td>URS0000AB53FC_399726</td>
@@ -3569,7 +3568,7 @@ $(document).ready(function(){
 <td>0.961</td>
 <td>0.969</td>
 <td>-29.442</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/NCAPH">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/NCAPH_0">=></a></td>
 </tr>
 <tr>
 <td>EIF1</td>
@@ -3605,7 +3604,7 @@ $(document).ready(function(){
 <td><a href="/human_riboswitch_hits_gallery/_mds/CASZ1">=></a></td>
 </tr>
 <tr>
-<td>MED24</td>
+<td>MED24_2</td>
 <td>5HSAA064867</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA064867/1">UTR</a></td>
 <td>URS0000D9B850_1798509</td>
@@ -3613,10 +3612,10 @@ $(document).ready(function(){
 <td>0.992</td>
 <td>0.965</td>
 <td>-23.183</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MED24">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/MED24_2">=></a></td>
 </tr>
 <tr>
-<td>MRPS17</td>
+<td>MRPS17_0</td>
 <td>5HSAA067619</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA067619/1">UTR</a></td>
 <td>URS00021EDBFC_1889778</td>
@@ -3624,10 +3623,10 @@ $(document).ready(function(){
 <td>0.981</td>
 <td>0.984</td>
 <td>-4.080</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MRPS17">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/MRPS17_0">=></a></td>
 </tr>
 <tr>
-<td>GNL2</td>
+<td>GNL2_0</td>
 <td>5HSAA045360</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA045360/1">UTR</a></td>
 <td>URS0002312B19_469618</td>
@@ -3635,7 +3634,7 @@ $(document).ready(function(){
 <td>0.987</td>
 <td>0.920</td>
 <td>-63.900</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/GNL2">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/GNL2_0">=></a></td>
 </tr>
 <tr>
 <td>FANCM</td>
@@ -3649,7 +3648,7 @@ $(document).ready(function(){
 <td><a href="/human_riboswitch_hits_gallery/_mds/FANCM">=></a></td>
 </tr>
 <tr>
-<td>MED24</td>
+<td>MED24_3</td>
 <td>5HSAA064824</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA064824/1">UTR</a></td>
 <td>URS0000AB4AB1_12908</td>
@@ -3657,7 +3656,7 @@ $(document).ready(function(){
 <td>1.000</td>
 <td>0.958</td>
 <td>-38.622</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MED24">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/MED24_3">=></a></td>
 </tr>
 <tr>
 <td>WWC3</td>
@@ -3671,7 +3670,7 @@ $(document).ready(function(){
 <td><a href="/human_riboswitch_hits_gallery/_mds/WWC3">=></a></td>
 </tr>
 <tr>
-<td>BMI1</td>
+<td>BMI1_0</td>
 <td>5HSAA010720</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA010720/1">UTR</a></td>
 <td>URS000231E957_716816</td>
@@ -3679,7 +3678,7 @@ $(document).ready(function(){
 <td>0.988</td>
 <td>0.962</td>
 <td>-45.414</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/BMI1">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/BMI1_0">=></a></td>
 </tr>
 <tr>
 <td>ZNF480</td>
@@ -3704,7 +3703,7 @@ $(document).ready(function(){
 <td><a href="/human_riboswitch_hits_gallery/_mds/TSPAN5">=></a></td>
 </tr>
 <tr>
-<td>PPIA</td>
+<td>PPIA_0</td>
 <td>5HSAA083309-0</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA083309-0/1">UTR</a></td>
 <td>URS0000C4BE96_77044</td>
@@ -3712,7 +3711,7 @@ $(document).ready(function(){
 <td>0.984</td>
 <td>0.946</td>
 <td>-63.792</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PPIA">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/PPIA_0">=></a></td>
 </tr>
 <tr>
 <td>EIF3C</td>
@@ -3869,7 +3868,7 @@ $(document).ready(function(){
 <td><a href="/human_riboswitch_hits_gallery/_mds/NOP10">=></a></td>
 </tr>
 <tr>
-<td>EPHA7</td>
+<td>EPHA7_0</td>
 <td>5HSAA036089</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA036089/1">UTR</a></td>
 <td>URS0002326C1D_60547</td>
@@ -3877,7 +3876,7 @@ $(document).ready(function(){
 <td>0.961</td>
 <td>0.895</td>
 <td>-57.927</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/EPHA7">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/EPHA7_0">=></a></td>
 </tr>
 <tr>
 <td>GALNT1</td>
@@ -3968,7 +3967,7 @@ $(document).ready(function(){
 <td><a href="/human_riboswitch_hits_gallery/_mds/HSPE1">=></a></td>
 </tr>
 <tr>
-<td>MAPRE1</td>
+<td>MAPRE1_1</td>
 <td>5HSAA063487</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA063487/1">UTR</a></td>
 <td>URS0000BFE73E_36809</td>
@@ -3976,7 +3975,7 @@ $(document).ready(function(){
 <td>0.951</td>
 <td>0.980</td>
 <td>-23.760</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MAPRE1">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/MAPRE1_1">=></a></td>
 </tr>
 <tr>
 <td>NBN</td>
@@ -3990,7 +3989,7 @@ $(document).ready(function(){
 <td><a href="/human_riboswitch_hits_gallery/_mds/NBN">=></a></td>
 </tr>
 <tr>
-<td>DFFA</td>
+<td>DFFA_0</td>
 <td>5HSAA029710</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA029710/1">UTR</a></td>
 <td>URS0000AB34CC_159087</td>
@@ -3998,7 +3997,7 @@ $(document).ready(function(){
 <td>0.962</td>
 <td>0.960</td>
 <td>-59.252</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/DFFA">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/DFFA_0">=></a></td>
 </tr>
 <tr>
 <td>RPL21</td>
@@ -4012,7 +4011,7 @@ $(document).ready(function(){
 <td><a href="/human_riboswitch_hits_gallery/_mds/RPL21">=></a></td>
 </tr>
 <tr>
-<td>EEF2</td>
+<td>EEF2_0</td>
 <td>5HSAA033474</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA033474/1">UTR</a></td>
 <td>URS0000C745B6_1797883</td>
@@ -4020,7 +4019,7 @@ $(document).ready(function(){
 <td>0.949</td>
 <td>0.973</td>
 <td>-34.267</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/EEF2">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/EEF2_0">=></a></td>
 </tr>
 <tr>
 <td>PRSS27</td>
@@ -4045,7 +4044,7 @@ $(document).ready(function(){
 <td><a href="/human_riboswitch_hits_gallery/_mds/SS18L2">=></a></td>
 </tr>
 <tr>
-<td>HAO1</td>
+<td>HAO1_0</td>
 <td>5HSAA047816</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA047816/1">UTR</a></td>
 <td>URS0000264041_483908</td>
@@ -4053,10 +4052,10 @@ $(document).ready(function(){
 <td>0.986</td>
 <td>0.991</td>
 <td>-9.709</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/HAO1">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/HAO1_0">=></a></td>
 </tr>
 <tr>
-<td>NUDT7</td>
+<td>NUDT7_0</td>
 <td>5HSAA074167</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA074167/1">UTR</a></td>
 <td>URS00008116B0_32630</td>
@@ -4064,7 +4063,7 @@ $(document).ready(function(){
 <td>0.965</td>
 <td>0.971</td>
 <td>-26.053</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/NUDT7">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/NUDT7_0">=></a></td>
 </tr>
 <tr>
 <td>HOXA5</td>
@@ -4078,7 +4077,7 @@ $(document).ready(function(){
 <td><a href="/human_riboswitch_hits_gallery/_mds/HOXA5">=></a></td>
 </tr>
 <tr>
-<td>ZNF480</td>
+<td>ZNF480_0</td>
 <td>5HSAA123103</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA123103/1">UTR</a></td>
 <td>URS0000ABB6D4_1002809</td>
@@ -4086,7 +4085,7 @@ $(document).ready(function(){
 <td>0.956</td>
 <td>0.978</td>
 <td>-28.578</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ZNF480">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/ZNF480_0">=></a></td>
 </tr>
 <tr>
 <td>PTPN3</td>
@@ -4100,7 +4099,7 @@ $(document).ready(function(){
 <td><a href="/human_riboswitch_hits_gallery/_mds/PTPN3">=></a></td>
 </tr>
 <tr>
-<td>MOSPD2</td>
+<td>MOSPD2_0</td>
 <td>5HSAA066968</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA066968/1">UTR</a></td>
 <td>URS0000C00567_1380770</td>
@@ -4108,7 +4107,7 @@ $(document).ready(function(){
 <td>1.000</td>
 <td>0.919</td>
 <td>-35.038</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MOSPD2">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/MOSPD2_0">=></a></td>
 </tr>
 <tr>
 <td>ENY2</td>
@@ -4177,7 +4176,7 @@ $(document).ready(function(){
 <td><a href="/human_riboswitch_hits_gallery/_mds/PRDX3">=></a></td>
 </tr>
 <tr>
-<td>PTPN3</td>
+<td>PTPN3_0</td>
 <td>5HSAA086435</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA086435/1">UTR</a></td>
 <td>URS00021EDC63_1300350</td>
@@ -4185,10 +4184,10 @@ $(document).ready(function(){
 <td>0.992</td>
 <td>0.993</td>
 <td>-4.259</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PTPN3">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/PTPN3_0">=></a></td>
 </tr>
 <tr>
-<td>CDK5</td>
+<td>CDK5_0</td>
 <td>5HSAA020573</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA020573/1">UTR</a></td>
 <td>URS0000C81C99_1263022</td>
@@ -4196,7 +4195,7 @@ $(document).ready(function(){
 <td>0.995</td>
 <td>0.972</td>
 <td>-30.799</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CDK5">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/CDK5_0">=></a></td>
 </tr>
 <tr>
 <td>GTPBP6</td>
@@ -4254,7 +4253,7 @@ $(document).ready(function(){
 <td><a href="/human_riboswitch_hits_gallery/_mds/CCDC59">=></a></td>
 </tr>
 <tr>
-<td>ZNF780A</td>
+<td>ZNF780A_0</td>
 <td>5HSAA123916</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA123916/1">UTR</a></td>
 <td>URS0000C39FD2_84024</td>
@@ -4262,10 +4261,10 @@ $(document).ready(function(){
 <td>0.971</td>
 <td>0.972</td>
 <td>-23.334</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ZNF780A">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/ZNF780A_0">=></a></td>
 </tr>
 <tr>
-<td>XRCC4</td>
+<td>XRCC4_0</td>
 <td>5HSAA120464</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA120464/1">UTR</a></td>
 <td>URS0000C5AB8F_218284</td>
@@ -4273,7 +4272,7 @@ $(document).ready(function(){
 <td>0.986</td>
 <td>0.940</td>
 <td>-20.599</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/XRCC4">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/XRCC4_0">=></a></td>
 </tr>
 <tr>
 <td>STYXL1</td>
@@ -4309,7 +4308,7 @@ $(document).ready(function(){
 <td><a href="/human_riboswitch_hits_gallery/_mds/UBL5">=></a></td>
 </tr>
 <tr>
-<td>SMC4</td>
+<td>SMC4_1</td>
 <td>5HSAA101371</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA101371/1">UTR</a></td>
 <td>URS0000D6A2DF_12908</td>
@@ -4317,10 +4316,10 @@ $(document).ready(function(){
 <td>1.000</td>
 <td>0.978</td>
 <td>-22.587</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SMC4">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/SMC4_1">=></a></td>
 </tr>
 <tr>
-<td>SEC24C</td>
+<td>SEC24C_0</td>
 <td>5HSAA095779</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA095779/1">UTR</a></td>
 <td>URS0000D7D0E9_867080</td>
@@ -4328,10 +4327,10 @@ $(document).ready(function(){
 <td>0.998</td>
 <td>0.921</td>
 <td>-32.285</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SEC24C">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/SEC24C_0">=></a></td>
 </tr>
 <tr>
-<td>HSD17B7</td>
+<td>HSD17B7_0</td>
 <td>5HSAA051002</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA051002/1">UTR</a></td>
 <td>URS0000D860F9_1971627</td>
@@ -4339,10 +4338,10 @@ $(document).ready(function(){
 <td>0.997</td>
 <td>0.961</td>
 <td>-40.631</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/HSD17B7">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/HSD17B7_0">=></a></td>
 </tr>
 <tr>
-<td>UBAP2L</td>
+<td>UBAP2L_0</td>
 <td>5HSAA115804</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA115804/1">UTR</a></td>
 <td>URS0000DA0EC8_431061</td>
@@ -4350,7 +4349,7 @@ $(document).ready(function(){
 <td>0.988</td>
 <td>0.966</td>
 <td>-29.104</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/UBAP2L">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/UBAP2L_0">=></a></td>
 </tr>
 <tr>
 <td>PPHLN1</td>
@@ -4408,7 +4407,7 @@ $(document).ready(function(){
 <td><a href="/human_riboswitch_hits_gallery/_mds/RABGGTA">=></a></td>
 </tr>
 <tr>
-<td>TXNDC8</td>
+<td>TXNDC8_0</td>
 <td>5HSAA115354</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA115354/1">UTR</a></td>
 <td>URS0000D65E69_12908</td>
@@ -4416,10 +4415,10 @@ $(document).ready(function(){
 <td>0.968</td>
 <td>0.986</td>
 <td>-12.866</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TXNDC8">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/TXNDC8_0">=></a></td>
 </tr>
 <tr>
-<td>PSMB3</td>
+<td>PSMB3_0</td>
 <td>5HSAA085508</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA085508/1">UTR</a></td>
 <td>URS0000C154E1_1105031</td>
@@ -4427,7 +4426,7 @@ $(document).ready(function(){
 <td>0.984</td>
 <td>0.950</td>
 <td>-30.643</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PSMB3">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/PSMB3_0">=></a></td>
 </tr>
 <tr>
 <td>ALG13</td>
@@ -4452,7 +4451,7 @@ $(document).ready(function(){
 <td><a href="/human_riboswitch_hits_gallery/_mds/ASB3">=></a></td>
 </tr>
 <tr>
-<td>SEC23IP</td>
+<td>SEC23IP_0</td>
 <td>5HSAA095755</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA095755/1">UTR</a></td>
 <td>URS0000D9554A_1965562</td>
@@ -4460,7 +4459,7 @@ $(document).ready(function(){
 <td>1.000</td>
 <td>0.973</td>
 <td>-37.556</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SEC23IP">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/SEC23IP_0">=></a></td>
 </tr>
 <tr>
 <td>DDX27</td>
@@ -4474,7 +4473,7 @@ $(document).ready(function(){
 <td><a href="/human_riboswitch_hits_gallery/_mds/DDX27">=></a></td>
 </tr>
 <tr>
-<td>GIN1</td>
+<td>GIN1_0</td>
 <td>5HSAA044153</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA044153/1">UTR</a></td>
 <td>URS000084D5C3_1507978</td>
@@ -4482,10 +4481,10 @@ $(document).ready(function(){
 <td>0.979</td>
 <td>0.962</td>
 <td>-27.270</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/GIN1">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/GIN1_0">=></a></td>
 </tr>
 <tr>
-<td>RPL21</td>
+<td>RPL21_0</td>
 <td>5HSAA092442</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA092442/1">UTR</a></td>
 <td>URS0000D9CD14_1261545</td>
@@ -4493,10 +4492,10 @@ $(document).ready(function(){
 <td>0.964</td>
 <td>0.976</td>
 <td>-10.586</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RPL21">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/RPL21_0">=></a></td>
 </tr>
 <tr>
-<td>FANCM</td>
+<td>FANCM_0</td>
 <td>5HSAA039401</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA039401/1">UTR</a></td>
 <td>URS0000C1822D_1503</td>
@@ -4504,10 +4503,10 @@ $(document).ready(function(){
 <td>0.999</td>
 <td>0.963</td>
 <td>-41.136</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/FANCM">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/FANCM_0">=></a></td>
 </tr>
 <tr>
-<td>LARP7</td>
+<td>LARP7_2</td>
 <td>5HSAA057962</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA057962/1">UTR</a></td>
 <td>URS0000AB6FB2_467705</td>
@@ -4515,7 +4514,7 @@ $(document).ready(function(){
 <td>0.972</td>
 <td>0.941</td>
 <td>-30.747</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/LARP7">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/LARP7_2">=></a></td>
 </tr>
 <tr>
 <td>SHCBP1</td>
@@ -4529,7 +4528,7 @@ $(document).ready(function(){
 <td><a href="/human_riboswitch_hits_gallery/_mds/SHCBP1">=></a></td>
 </tr>
 <tr>
-<td>KIAA1143</td>
+<td>KIAA1143_0</td>
 <td>5HSAA055963</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA055963/1">UTR</a></td>
 <td>URS0000D8B0DB_405446</td>
@@ -4537,7 +4536,7 @@ $(document).ready(function(){
 <td>0.967</td>
 <td>0.968</td>
 <td>-28.296</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/KIAA1143">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/KIAA1143_0">=></a></td>
 </tr>
 <tr>
 <td>MARK1</td>
@@ -4573,7 +4572,7 @@ $(document).ready(function(){
 <td><a href="/human_riboswitch_hits_gallery/_mds/PDK2">=></a></td>
 </tr>
 <tr>
-<td>CFHR3</td>
+<td>CFHR3_0</td>
 <td>5HSAA021322</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA021322/1">UTR</a></td>
 <td>URS0000DB0E53_135739</td>
@@ -4581,7 +4580,7 @@ $(document).ready(function(){
 <td>0.976</td>
 <td>0.954</td>
 <td>-14.925</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CFHR3">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/CFHR3_0">=></a></td>
 </tr>
 <tr>
 <td>XRCC5</td>
@@ -4595,7 +4594,7 @@ $(document).ready(function(){
 <td><a href="/human_riboswitch_hits_gallery/_mds/XRCC5">=></a></td>
 </tr>
 <tr>
-<td>RICTOR</td>
+<td>RICTOR_0</td>
 <td>5HSAA091019</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA091019/1">UTR</a></td>
 <td>URS0000E60855_1294143</td>
@@ -4603,7 +4602,7 @@ $(document).ready(function(){
 <td>1.000</td>
 <td>0.983</td>
 <td>-19.704</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RICTOR">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/RICTOR_0">=></a></td>
 </tr>
 <tr>
 <td>HOXA7</td>
@@ -4639,7 +4638,7 @@ $(document).ready(function(){
 <td><a href="/human_riboswitch_hits_gallery/_mds/EHF">=></a></td>
 </tr>
 <tr>
-<td>ALG13</td>
+<td>ALG13_0</td>
 <td>5HSAA003878</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA003878/1">UTR</a></td>
 <td>URS0000BFFD22_630626</td>
@@ -4647,10 +4646,10 @@ $(document).ready(function(){
 <td>0.961</td>
 <td>0.953</td>
 <td>-33.752</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ALG13">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/ALG13_0">=></a></td>
 </tr>
 <tr>
-<td>MCAT</td>
+<td>MCAT_1</td>
 <td>5HSAA064155</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA064155/1">UTR</a></td>
 <td>URS00021EDD5F_12908</td>
@@ -4658,7 +4657,7 @@ $(document).ready(function(){
 <td>0.992</td>
 <td>0.971</td>
 <td>-29.600</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MCAT">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/MCAT_1">=></a></td>
 </tr>
 <tr>
 <td>CEPT1</td>
@@ -4672,7 +4671,7 @@ $(document).ready(function(){
 <td><a href="/human_riboswitch_hits_gallery/_mds/CEPT1">=></a></td>
 </tr>
 <tr>
-<td>PRSS27</td>
+<td>PRSS27_0</td>
 <td>5HSAA085280</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA085280/1">UTR</a></td>
 <td>URS0000AB1A13_257314</td>
@@ -4680,10 +4679,10 @@ $(document).ready(function(){
 <td>1.000</td>
 <td>0.974</td>
 <td>-14.802</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PRSS27">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/PRSS27_0">=></a></td>
 </tr>
 <tr>
-<td>TMX2</td>
+<td>TMX2_0</td>
 <td>5HSAA111796</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA111796/1">UTR</a></td>
 <td>URS0000C3885A_1144310</td>
@@ -4691,10 +4690,10 @@ $(document).ready(function(){
 <td>0.994</td>
 <td>0.940</td>
 <td>-35.832</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TMX2">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/TMX2_0">=></a></td>
 </tr>
 <tr>
-<td>ZNF480</td>
+<td>ZNF480_1</td>
 <td>5HSAA123104</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA123104/1">UTR</a></td>
 <td>URS0000ABB6D4_1002809</td>
@@ -4702,7 +4701,7 @@ $(document).ready(function(){
 <td>0.956</td>
 <td>0.978</td>
 <td>-28.578</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ZNF480">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/ZNF480_1">=></a></td>
 </tr>
 <tr>
 <td>OSBPL2</td>
@@ -4716,7 +4715,7 @@ $(document).ready(function(){
 <td><a href="/human_riboswitch_hits_gallery/_mds/OSBPL2">=></a></td>
 </tr>
 <tr>
-<td>MRPL36</td>
+<td>MRPL36_0</td>
 <td>5HSAA067456</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA067456/1">UTR</a></td>
 <td>URS000043D886_326424</td>
@@ -4724,7 +4723,7 @@ $(document).ready(function(){
 <td>0.963</td>
 <td>0.967</td>
 <td>-25.410</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MRPL36">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/MRPL36_0">=></a></td>
 </tr>
 <tr>
 <td>SPG11</td>
@@ -4738,7 +4737,7 @@ $(document).ready(function(){
 <td><a href="/human_riboswitch_hits_gallery/_mds/SPG11">=></a></td>
 </tr>
 <tr>
-<td>PPIA</td>
+<td>PPIA_1</td>
 <td>5HSAA083307</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA083307/1">UTR</a></td>
 <td>URS0000C72892_999898</td>
@@ -4746,7 +4745,7 @@ $(document).ready(function(){
 <td>0.982</td>
 <td>0.968</td>
 <td>-31.876</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PPIA">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/PPIA_1">=></a></td>
 </tr>
 <tr>
 <td>HOXB5</td>
@@ -4782,7 +4781,7 @@ $(document).ready(function(){
 <td><a href="/human_riboswitch_hits_gallery/_mds/ST14">=></a></td>
 </tr>
 <tr>
-<td>C1D</td>
+<td>C1D_1</td>
 <td>5HSAA013475</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA013475/1">UTR</a></td>
 <td>URS00021EDC92_12908</td>
@@ -4790,10 +4789,10 @@ $(document).ready(function(){
 <td>0.987</td>
 <td>0.975</td>
 <td>-22.354</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/C1D">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/C1D_1">=></a></td>
 </tr>
 <tr>
-<td>C1D</td>
+<td>C1D_2</td>
 <td>5HSAA013479</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA013479/1">UTR</a></td>
 <td>URS0000C3D875_520764</td>
@@ -4801,7 +4800,7 @@ $(document).ready(function(){
 <td>0.969</td>
 <td>0.961</td>
 <td>-26.396</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/C1D">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/C1D_2">=></a></td>
 </tr>
 <tr>
 <td>PPIC</td>
@@ -4870,7 +4869,7 @@ $(document).ready(function(){
 <td><a href="/human_riboswitch_hits_gallery/_mds/CUL3">=></a></td>
 </tr>
 <tr>
-<td>DYNC1LI1</td>
+<td>DYNC1LI1_0</td>
 <td>5HSAA032829</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA032829/1">UTR</a></td>
 <td>URS0000DAF156_573497</td>
@@ -4878,7 +4877,7 @@ $(document).ready(function(){
 <td>0.979</td>
 <td>0.961</td>
 <td>-49.730</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/DYNC1LI1">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/DYNC1LI1_0">=></a></td>
 </tr>
 <tr>
 <td>FTSJ1</td>
@@ -4892,7 +4891,7 @@ $(document).ready(function(){
 <td><a href="/human_riboswitch_hits_gallery/_mds/FTSJ1">=></a></td>
 </tr>
 <tr>
-<td>RPS24</td>
+<td>RPS24_0</td>
 <td>5HSAA092962</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA092962/1">UTR</a></td>
 <td>URS000231AF1A_1519493</td>
@@ -4900,10 +4899,10 @@ $(document).ready(function(){
 <td>0.995</td>
 <td>0.954</td>
 <td>-31.809</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RPS24">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/RPS24_0">=></a></td>
 </tr>
 <tr>
-<td>ENY2</td>
+<td>ENY2_0</td>
 <td>5HSAA035639</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA035639/1">UTR</a></td>
 <td>URS0000D8B865_1317112</td>
@@ -4911,7 +4910,7 @@ $(document).ready(function(){
 <td>0.991</td>
 <td>0.969</td>
 <td>-30.696</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ENY2">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/ENY2_0">=></a></td>
 </tr>
 <tr>
 <td>BNIP2</td>
@@ -4936,7 +4935,7 @@ $(document).ready(function(){
 <td><a href="/human_riboswitch_hits_gallery/_mds/ZFR2">=></a></td>
 </tr>
 <tr>
-<td>PSMD6</td>
+<td>PSMD6_0</td>
 <td>5HSAA085677</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA085677/1">UTR</a></td>
 <td>URS0000C017D4_935700</td>
@@ -4944,7 +4943,7 @@ $(document).ready(function(){
 <td>0.991</td>
 <td>0.985</td>
 <td>-16.518</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PSMD6">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/PSMD6_0">=></a></td>
 </tr>
 <tr>
 <td>HOXB7</td>
@@ -4958,7 +4957,7 @@ $(document).ready(function(){
 <td><a href="/human_riboswitch_hits_gallery/_mds/HOXB7">=></a></td>
 </tr>
 <tr>
-<td>PIGF</td>
+<td>PIGF_0</td>
 <td>5HSAA080173</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA080173/1">UTR</a></td>
 <td>URS0000D7D2E6_1382803</td>
@@ -4966,7 +4965,7 @@ $(document).ready(function(){
 <td>0.996</td>
 <td>0.977</td>
 <td>-9.686</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PIGF">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/PIGF_0">=></a></td>
 </tr>
 <tr>
 <td>WBP11</td>
@@ -4980,7 +4979,7 @@ $(document).ready(function(){
 <td><a href="/human_riboswitch_hits_gallery/_mds/WBP11">=></a></td>
 </tr>
 <tr>
-<td>SMU1</td>
+<td>SMU1_0</td>
 <td>5HSAA101609</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA101609/1">UTR</a></td>
 <td>URS0000AB4909_367336</td>
@@ -4988,10 +4987,10 @@ $(document).ready(function(){
 <td>0.966</td>
 <td>0.944</td>
 <td>-41.608</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SMU1">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/SMU1_0">=></a></td>
 </tr>
 <tr>
-<td>DDX27</td>
+<td>DDX27_0</td>
 <td>5HSAA029046</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA029046/1">UTR</a></td>
 <td>URS00021EDB97_12908</td>
@@ -4999,7 +4998,7 @@ $(document).ready(function(){
 <td>0.989</td>
 <td>0.991</td>
 <td>-5.801</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/DDX27">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/DDX27_0">=></a></td>
 </tr>
 <tr>
 <td>DLGAP1</td>
@@ -5024,7 +5023,7 @@ $(document).ready(function(){
 <td><a href="/human_riboswitch_hits_gallery/_mds/RPS14">=></a></td>
 </tr>
 <tr>
-<td>TTPAL</td>
+<td>TTPAL_0</td>
 <td>5HSAA114956</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA114956/1">UTR</a></td>
 <td>URS0002313BB3_1906740</td>
@@ -5032,7 +5031,7 @@ $(document).ready(function(){
 <td>0.989</td>
 <td>0.970</td>
 <td>-60.727</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TTPAL">=></a></td>
+<td><a href="/human_riboswitch_hits_gallery/_mds/TTPAL_0">=></a></td>
 </tr>
 <tr>
 <td>SPATA19</td>
@@ -5056,5 +5055,4 @@ $(document).ready(function(){
 <td>-28.246</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/BTG2">=></a></td>
 </tr>
-</tbody>
-</table>
+</tbody></table>

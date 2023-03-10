@@ -18,15 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: RS-human5'UTR identification visualization
+title: human 5'UTR Riboswitch identification project
 email: wsraymon@rams.colostate.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  This site provides visualization for the following project: [LINK]. The 5'UTR hits 
-  are provided here for users  to browse their alignment files as well as view their entries on 
-  UTRdb or RNAcentral.
+  This site provides visualization for computationally discovered potential human 5'UTR riboswitches
+  
 baseurl: "/human_riboswitch_hits_gallery" # the subpath of your site, e.g. /blog
 url: "https://will-raymond.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: wsraymond
+twitter_username: focowilbur
 github_username:  william-raymond
 markdown: kramdown
 
@@ -37,7 +36,12 @@ plugins:
   - jekyll-relative-links
   - jekyll-seo-tag
 include: ['_mds']
-# Exclude from processing.
+
+header_pages:
+  - display.md
+  - about.markdown
+  - code.md
+  
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
 # the internal "default list".
