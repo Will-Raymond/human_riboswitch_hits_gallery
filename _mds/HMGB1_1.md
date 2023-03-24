@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA049630/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000ABBC0B/359391" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000D87EC8/244362" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000AB4A2C/508765" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA049630     | URS0000ABBC0B_359391     | URS0000D87EC8_244362     | URS0000AB4A2C_508765     |
 | Length | 167     |  164    | 170   |  168    |
-| Similarity | - | 0.93 | 0.94 | 0.95 |
+| Similarity | - | 0.93 | 0.93 | 0.95 |
 | Ensemble Norm | 0.93 | - | - | - |
 | MFE | -51.72 | -56.98 | -61.63 | -30.80 |
 | Ligands | - | FMN | FMN | lysine |

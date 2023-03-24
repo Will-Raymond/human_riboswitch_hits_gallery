@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA024340/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C64CFB/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS000050FA1E/321967" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D6993C/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA024340     | URS0000C64CFB_12908     | URS000050FA1E_321967     | URS0000D6993C_12908     |
 | Length | 55     |  57    | 55   |  55    |
-| Similarity | - | 0.98 | 0.98 | 0.98 |
+| Similarity | - | 0.97 | 0.98 | 0.98 |
 | Ensemble Norm | 0.98 | - | - | - |
 | MFE | -12.33 | -9.94 | -10.74 | -25.16 |
 | Ligands | - | glutamine | fluoride | unknown |

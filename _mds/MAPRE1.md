@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA063479/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS000231675B/1217418" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000BF7B9B/1131731" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS000078226B/1348973" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA063479     | URS000231675B_1217418     | URS0000BF7B9B_1131731     | URS000078226B_1348973     |
 | Length | 161     |  159    | 160   |  161    |
-| Similarity | - | 0.92 | 0.92 | 0.91 |
+| Similarity | - | 0.88 | 0.87 | 0.85 |
 | Ensemble Norm | 0.92 | - | - | - |
 | MFE | -58.25 | -63.68 | -44.26 | -48.46 |
 | Ligands | - | zmp-ztp | glucosamine | glucosamine |

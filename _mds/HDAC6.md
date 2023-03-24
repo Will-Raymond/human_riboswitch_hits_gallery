@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA048213/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C65A85/797515" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000AB8083/208964" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C790A0/1385511" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA048213     | URS0000C65A85_797515     | URS0000AB8083_208964     | URS0000C790A0_1385511     |
 | Length | 166     |  165    | 163   |  168    |
-| Similarity | - | 0.94 | 0.92 | 0.93 |
+| Similarity | - | 0.94 | 0.91 | 0.92 |
 | Ensemble Norm | 0.94 | - | - | - |
 | MFE | -55.89 | -30.95 | -66.56 | -45.10 |
 | Ligands | - | Mg2+ | FMN | FMN |

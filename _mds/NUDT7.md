@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA074172/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000BE1CD3/1686064" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000AB5600/744980" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000BF1048/1449351" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA074172     | URS0000BE1CD3_1686064     | URS0000AB5600_744980     | URS0000BF1048_1449351     |
 | Length | 83     |  78    | 81   |  80    |
-| Similarity | - | 0.94 | 0.96 | 0.96 |
+| Similarity | - | 0.94 | 0.96 | 0.95 |
 | Ensemble Norm | 0.94 | - | - | - |
 | MFE | -20.44 | -23.65 | -25.18 | -18.84 |
 | Ligands | - | SAM | SAM | Mg2+ |

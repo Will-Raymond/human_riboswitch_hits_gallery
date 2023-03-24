@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA115795/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000DADA8D/1797574" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS000231CE71/1844" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0002329FE0/385025" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA115795     | URS0000DADA8D_1797574     | URS000231CE71_1844     | URS0002329FE0_385025     |
 | Length | 138     |  137    | 141   |  139    |
-| Similarity | - | 0.94 | 0.93 | 0.95 |
+| Similarity | - | 0.93 | 0.93 | 0.95 |
 | Ensemble Norm | 0.94 | - | - | - |
 | MFE | -37.66 | -40.69 | -53.23 | -23.44 |
 | Ligands | - | glycine | cobalamin | cobalamin |

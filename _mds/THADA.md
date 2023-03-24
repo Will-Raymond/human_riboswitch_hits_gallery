@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA108940/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C2D74B/5078" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000BF3CAD/732165" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D9BBC8/1903704" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA108940     | URS0000C2D74B_5078     | URS0000BF3CAD_732165     | URS0000D9BBC8_1903704     |
 | Length | 165     |  170    | 169   |  164    |
-| Similarity | - | 0.90 | 0.91 | 0.94 |
+| Similarity | - | 0.88 | 0.90 | 0.94 |
 | Ensemble Norm | 0.90 | - | - | - |
 | MFE | -48.78 | -53.24 | -67.04 | -46.65 |
 | Ligands | - | TPP | TPP | FMN |

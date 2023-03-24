@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA108987/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000AB53D0/767817" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000AB19FC/378753" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D7891F/1803494" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA108987     | URS0000AB53D0_767817     | URS0000AB19FC_378753     | URS0000D7891F_1803494     |
 | Length | 125     |  121    | 121   |  128    |
-| Similarity | - | 0.93 | 0.93 | 0.94 |
+| Similarity | - | 0.92 | 0.93 | 0.93 |
 | Ensemble Norm | 0.93 | - | - | - |
 | MFE | -42.22 | -40.69 | -42.60 | -52.32 |
 | Ligands | - | molybdenum | TPP | cobalamin |

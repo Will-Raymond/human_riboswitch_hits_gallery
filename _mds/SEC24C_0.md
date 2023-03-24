@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA095779/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C29F1C/1173025" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS000232DD31/929563" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C03308/1834151" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA095779     | URS0000C29F1C_1173025     | URS000232DD31_929563     | URS0000C03308_1834151     |
 | Length | 117     |  112    | 118   |  118    |
-| Similarity | - | 0.92 | 0.96 | 0.94 |
+| Similarity | - | 0.92 | 0.96 | 0.93 |
 | Ensemble Norm | 0.92 | - | - | - |
 | MFE | -32.29 | -29.39 | -32.52 | -49.56 |
 | Ligands | - | fluoride | cobalamin | methionine |

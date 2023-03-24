@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA079608/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000DAF4FE/1904961" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000D67EE2/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C49B47/1111077" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA079608     | URS0000DAF4FE_1904961     | URS0000D67EE2_12908     | URS0000C49B47_1111077     |
 | Length | 86     |  87    | 83   |  88    |
-| Similarity | - | 0.97 | 0.96 | 0.97 |
+| Similarity | - | 0.97 | 0.96 | 0.96 |
 | Ensemble Norm | 0.97 | - | - | - |
 | MFE | -27.90 | -32.46 | -26.85 | -18.73 |
 | Ligands | - | zmp-ztp | GMP | TPP |

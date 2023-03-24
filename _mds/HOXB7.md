@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA050591/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C070E4/157072" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C139F8/1185325" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000ABD6A4/1906" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA050591     | URS0000C070E4_157072     | URS0000C139F8_1185325     | URS0000ABD6A4_1906     |
 | Length | 128     |  126    | 130   |  128    |
-| Similarity | - | 0.95 | 0.94 | 0.95 |
+| Similarity | - | 0.94 | 0.94 | 0.94 |
 | Ensemble Norm | 0.95 | - | - | - |
 | MFE | -18.80 | -41.05 | -36.21 | -50.25 |
 | Ligands | - | TPP | tetrahydrofolate | cobalamin |

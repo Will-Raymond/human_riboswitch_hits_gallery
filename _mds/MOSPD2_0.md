@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA066968/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000D88A49/3330" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C5DB95/1043002" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C0EF14/1561204" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA066968     | URS0000D88A49_3330     | URS0000C5DB95_1043002     | URS0000C0EF14_1561204     |
 | Length | 113     |  108    | 114   |  111    |
-| Similarity | - | 0.92 | 0.96 | 0.95 |
+| Similarity | - | 0.91 | 0.96 | 0.94 |
 | Ensemble Norm | 0.92 | - | - | - |
 | MFE | -35.04 | -30.48 | -27.35 | -37.22 |
 | Ligands | - | lysine | TPP | TPP |

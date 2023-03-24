@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA075443/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000D6B49A/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C2D022/1418104" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000BFE4B8/56110" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA075443     | URS0000D6B49A_12908     | URS0000C2D022_1418104     | URS0000BFE4B8_56110     |
 | Length | 83     |  84    | 85   |  85    |
-| Similarity | - | 0.97 | 0.97 | 0.97 |
+| Similarity | - | 0.97 | 0.96 | 0.97 |
 | Ensemble Norm | 0.97 | - | - | - |
 | MFE | -11.59 | -19.20 | -16.42 | -29.33 |
 | Ligands | - | GMP | cyclic-di-GMP | fluoride |

@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA115354/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000D9F08B/1419482" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000D65DDB/1121930" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C0AB04/1144275" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA115354     | URS0000D9F08B_1419482     | URS0000D65DDB_1121930     | URS0000C0AB04_1144275     |
 | Length | 74     |  74    | 75   |  73    |
-| Similarity | - | 0.99 | 0.98 | 0.98 |
+| Similarity | - | 0.99 | 0.98 | 0.97 |
 | Ensemble Norm | 0.99 | - | - | - |
 | MFE | -12.87 | -16.21 | -16.37 | -21.47 |
 | Ligands | - | fluoride | 2'-dG-II | homocysteine |

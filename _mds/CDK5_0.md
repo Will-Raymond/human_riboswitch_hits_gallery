@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA020573/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000D6808A/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000D9084F/1121421" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C4CA09/1736496" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA020573     | URS0000D6808A_12908     | URS0000D9084F_1121421     | URS0000C4CA09_1736496     |
 | Length | 86     |  84    | 84   |  83    |
-| Similarity | - | 0.97 | 0.97 | 0.96 |
+| Similarity | - | 0.97 | 0.96 | 0.96 |
 | Ensemble Norm | 0.97 | - | - | - |
 | MFE | -30.80 | -32.73 | -23.13 | -34.75 |
 | Ligands | - | GMP | zmp-ztp | fluoride |

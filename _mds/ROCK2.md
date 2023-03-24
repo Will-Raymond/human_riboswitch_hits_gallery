@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA092039/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000D84C66/1230338" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0002317A7E/1532552" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS00023279E3/637910" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA092039     | URS0000D84C66_1230338     | URS0002317A7E_1532552     | URS00023279E3_637910     |
 | Length | 191     |  194    | 190   |  194    |
-| Similarity | - | 0.92 | 0.90 | 0.91 |
+| Similarity | - | 0.92 | 0.88 | 0.90 |
 | Ensemble Norm | 0.92 | - | - | - |
 | MFE | -31.79 | -33.98 | -37.09 | -47.84 |
 | Ligands | - | glycine | cobalamin | cobalamin |

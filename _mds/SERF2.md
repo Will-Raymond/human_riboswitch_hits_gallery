@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA096469/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS000232B619/1803466" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000AB5B62/428126" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000AB3BFF/861360" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA096469     | URS000232B619_1803466     | URS0000AB5B62_428126     | URS0000AB3BFF_861360     |
 | Length | 123     |  126    | 123   |  122    |
-| Similarity | - | 0.94 | 0.96 | 0.96 |
+| Similarity | - | 0.94 | 0.95 | 0.96 |
 | Ensemble Norm | 0.94 | - | - | - |
 | MFE | -40.36 | -44.10 | -23.33 | -40.60 |
 | Ligands | - | cobalamin | cobalamin | methionine |

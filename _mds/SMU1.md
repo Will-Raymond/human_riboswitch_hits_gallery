@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA101610/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000D698A2/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000DA1817/573058" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000AB8AF3/997350" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA101610     | URS0000D698A2_12908     | URS0000DA1817_573058     | URS0000AB8AF3_997350     |
 | Length | 137     |  141    | 139   |  139    |
-| Similarity | - | 0.92 | 0.93 | 0.93 |
+| Similarity | - | 0.91 | 0.91 | 0.91 |
 | Ensemble Norm | 0.92 | - | - | - |
 | MFE | -42.76 | -56.78 | -39.19 | -38.75 |
 | Ligands | - | SAM | lysine | lysine |

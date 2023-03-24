@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA047817/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000AB68C9/1432557" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C43629/908627" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C1E8C0/1423790" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA047817     | URS0000AB68C9_1432557     | URS0000C43629_908627     | URS0000C1E8C0_1423790     |
 | Length | 123     |  124    | 124   |  120    |
-| Similarity | - | 0.95 | 0.95 | 0.94 |
+| Similarity | - | 0.95 | 0.95 | 0.93 |
 | Ensemble Norm | 0.95 | - | - | - |
 | MFE | -16.30 | -33.39 | -34.88 | -30.69 |
 | Ligands | - | TPP | glycine | FMN |

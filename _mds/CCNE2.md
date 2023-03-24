@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA018950/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS00023286FB/446462" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C7C2DB/1386089" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS000232E211/1184607" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA018950     | URS00023286FB_446462     | URS0000C7C2DB_1386089     | URS000232E211_1184607     |
 | Length | 129     |  127    | 131   |  129    |
-| Similarity | - | 0.95 | 0.95 | 0.95 |
+| Similarity | - | 0.95 | 0.95 | 0.94 |
 | Ensemble Norm | 0.95 | - | - | - |
 | MFE | -53.25 | -48.87 | -45.79 | -48.02 |
 | Ligands | - | cobalamin | FMN | cobalamin |

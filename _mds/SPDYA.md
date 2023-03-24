@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA103232/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000DA7FB8/225345" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C5F770/1632865" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C761FE/1262887" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA103232     | URS0000DA7FB8_225345     | URS0000C5F770_1632865     | URS0000C761FE_1262887     |
 | Length | 157     |  159    | 157   |  155    |
-| Similarity | - | 0.94 | 0.94 | 0.93 |
+| Similarity | - | 0.94 | 0.93 | 0.93 |
 | Ensemble Norm | 0.94 | - | - | - |
 | MFE | -58.25 | -31.23 | -56.69 | -37.47 |
 | Ligands | - | glycine | glycine | SAM |

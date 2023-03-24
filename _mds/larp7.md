@@ -17,7 +17,7 @@ exclude: true
 | Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA057965/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C1B1B5/1262894" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000BF967B/1391654" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000AB62A6/903814" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | ID | 5HSAA057965     | URS0000C1B1B5_1262894     | URS0000BF967B_1391654     | URS0000AB62A6_903814     |
 | Length | 119     |  119    | 116   |  118    |
-| Similarity | - | 0.96 | 0.95 | 0.96 |
+| Similarity | - | 0.96 | 0.94 | 0.96 |
 | Ensemble Norm | 0.96 | - | - | - |
 | MFE | -22.58 | -31.91 | -45.86 | -31.85 |
 | Ligands | - | FMN | methionine | molybdenum |
