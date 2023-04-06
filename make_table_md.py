@@ -12,7 +12,7 @@ import pickle
 
 md_dir = './_mds/'
 display_dir = './'
-
+1/0
 def make_md(gene, master_str_tuple):
 
     #<! ![](../../alns_9.28.22/%s?raw=true)>
