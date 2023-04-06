@@ -5,41 +5,55 @@ permalink: /_mds/ODAM/
 exclude: true
 ---
 
+<link rel="stylesheet" href="../../custom.css">
 
 
-![](../../alns_9.28.22/aln_5HSAA074861_0.961.png?raw=true)
+
+<div class="row" >
+  <div class="column">
+    <a href="../../_mds/NXT2/"><img src="../../icons/arrow_left.png" alt="arrow left" style="width:100%"></a>
+  </div>
+  <div class="column_center">
+    <img src="../../alns_9.28.22/aln_5HSAA074861_0.961.png?raw=true" alt="UTR-RS hit comparison" style="width:100%">
+  </div>
+  <div class="column">
+    <a href="../../_mds/OMA1/"><img src="../../icons/arrow_right.png" alt="arrow right" style="width:100%"></a>
+  </div>
+</div>
+
+
 
 
 **Information**
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA074861/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000D6827E/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C2252C/1261130" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C15779/1423744" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
-| ID | 5HSAA074861     | URS0000D6827E_12908     | URS0000C2252C_1261130     | URS0000C15779_1423744     |
-| Length | 44     |  44    | 45   |  45    |
-| Similarity | - | 0.99 | 0.99 | 0.99 |
-| Ensemble Norm | 0.99 | - | - | - |
-| MFE | -2.45 | -5.59 | -4.39 | -5.43 |
-| Ligands | - | glutamine | preQ_1 | preQ_1 |
-| Gene | ODAM | - | - | - |
-| Downstream protein | blank for now    |    -    | -  | - |
+| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA074861/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000D6827E/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C2252C/1261130" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C15779/1423744" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="ID within respective databases">ID</span>  | 5HSAA074861     | URS0000D6827E_12908     | URS0000C2252C_1261130     | URS0000C15779_1423744     |
+| <span title="Length of the sequence in question">Length</span>  | 44     |  44    | 45   |  45    |
+| <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.99 | 0.99 | 0.99 |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.99 | - | - | - |
+| <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -2.45 | -5.59 | -4.39 | -5.43 |
+| <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | glutamine | preQ_1 | preQ_1 |
+| <span title="Homo Sapiens gene abbreviation">Gene</span>  | ODAM | - | - | - |
+| <span title="Link to the sequence source">Downstream protein</span>  | <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ODAM" target="_blank" rel="noopener noreferrer"> Genecard </a>   |    -    | -  | - |
 
 
 **Similarity metrics**
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| Struct MSE | - | 3.01 | 0.03 | 0.06 |
-| Length MSE | - | 0 | 1 | 1 |
-| Lev Distance | - | 12 | 12 | 12 |
-| UBS| 2 | 2 | 2 | 2 |
-| BS | 0 | 0 | 0 | 0 |
-| ILL | 0 | 1 | 0 | 0 |
-| ILR | 0 | 0 | 0 | 0 |
-| H | 2 | 1 | 2 | 2 |
-| BL | 0 | 0 | 0 | 0 |
-| BR | 0 | 1 | 0 | 0 |
-| UN | 0.45 | 0.55 | 0.29 | 0.20 |
+| <span title="Structural feature squared error">Struct SE</span> | - | 3.01 | 0.03 | 0.06 |
+| <span title="Length difference squared error">Length SE</span> | - | 0 | 1 | 1 |
+| <span title="Edit distance of both dot structures">Lev Distance</span> | - | 12 | 12 | 12 |
+| <span title="Unbranched stack count">UBS</span>| 2 | 2 | 2 | 2 |
+| <span title="Branched stack counts">BS</span> | 0 | 0 | 0 | 0 |
+| <span title="Inner loop left count">ILL</span> | 0 | 1 | 0 | 0 |
+| <span title="Inner loop right count">ILR</span> | 0 | 0 | 0 | 0 |
+| <span title="Hairpin counts">H</span> | 2 | 1 | 2 | 2 |
+| <span title="Bulges left count">BL</span> | 0 | 0 | 0 | 0 |
+| <span title="Bulges right count">BR</span> | 0 | 1 | 0 | 0 |
+| <span title="Unpaired nucleotide %">UN</span> | 0.45 | 0.55 | 0.29 | 0.20 |
 
 **Sequences**
 

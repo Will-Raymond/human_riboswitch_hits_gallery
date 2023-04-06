@@ -5,41 +5,55 @@ permalink: /_mds/PRIM1/
 exclude: true
 ---
 
+<link rel="stylesheet" href="../../custom.css">
 
 
-![](../../alns_9.28.22/aln_5HSAA084404_0.964.png?raw=true)
+
+<div class="row" >
+  <div class="column">
+    <a href="../../_mds/PRG4/"><img src="../../icons/arrow_left.png" alt="arrow left" style="width:100%"></a>
+  </div>
+  <div class="column_center">
+    <img src="../../alns_9.28.22/aln_5HSAA084404_0.964.png?raw=true" alt="UTR-RS hit comparison" style="width:100%">
+  </div>
+  <div class="column">
+    <a href="../../_mds/PRIM1_0/"><img src="../../icons/arrow_right.png" alt="arrow right" style="width:100%"></a>
+  </div>
+</div>
+
+
 
 
 **Information**
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA084404/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C621B3/1736380" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000D97BF5/113562" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS000080DF21/210007" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
-| ID | 5HSAA084404     | URS0000C621B3_1736380     | URS0000D97BF5_113562     | URS000080DF21_210007     |
-| Length | 89     |  88    | 87   |  89    |
-| Similarity | - | 0.97 | 0.96 | 0.97 |
-| Ensemble Norm | 0.97 | - | - | - |
-| MFE | -20.67 | -30.40 | -34.44 | -26.39 |
-| Ligands | - | glycine | zmp-ztp | tetrahydrofolate |
-| Gene | PRIM1 | - | - | - |
-| Downstream protein | blank for now    |    -    | -  | - |
+| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA084404/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C621B3/1736380" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000D97BF5/113562" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS000080DF21/210007" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="ID within respective databases">ID</span>  | 5HSAA084404     | URS0000C621B3_1736380     | URS0000D97BF5_113562     | URS000080DF21_210007     |
+| <span title="Length of the sequence in question">Length</span>  | 89     |  88    | 87   |  89    |
+| <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.97 | 0.96 | 0.97 |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.97 | - | - | - |
+| <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -20.67 | -30.40 | -34.44 | -26.39 |
+| <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | glycine | zmp-ztp | tetrahydrofolate |
+| <span title="Homo Sapiens gene abbreviation">Gene</span>  | PRIM1 | - | - | - |
+| <span title="Link to the sequence source">Downstream protein</span>  | <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PRIM1" target="_blank" rel="noopener noreferrer"> Genecard </a>   |    -    | -  | - |
 
 
 **Similarity metrics**
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| Struct MSE | - | 7 | 19 | 14 |
-| Length MSE | - | 1 | 4 | 0 |
-| Lev Distance | - | 22 | 23 | 24 |
-| UBS| 8 | 10 | 5 | 7 |
-| BS | 0 | 0 | 0 | 0 |
-| ILL | 3 | 2 | 1 | 1 |
-| ILR | 2 | 1 | 1 | 0 |
-| H | 2 | 2 | 2 | 2 |
-| BL | 3 | 3 | 2 | 4 |
-| BR | 3 | 4 | 1 | 1 |
-| UN | 0.12 | 0.11 | 0.16 | 0.18 |
+| <span title="Structural feature squared error">Struct SE</span> | - | 7 | 19 | 14 |
+| <span title="Length difference squared error">Length SE</span> | - | 1 | 4 | 0 |
+| <span title="Edit distance of both dot structures">Lev Distance</span> | - | 22 | 23 | 24 |
+| <span title="Unbranched stack count">UBS</span>| 8 | 10 | 5 | 7 |
+| <span title="Branched stack counts">BS</span> | 0 | 0 | 0 | 0 |
+| <span title="Inner loop left count">ILL</span> | 3 | 2 | 1 | 1 |
+| <span title="Inner loop right count">ILR</span> | 2 | 1 | 1 | 0 |
+| <span title="Hairpin counts">H</span> | 2 | 2 | 2 | 2 |
+| <span title="Bulges left count">BL</span> | 3 | 3 | 2 | 4 |
+| <span title="Bulges right count">BR</span> | 3 | 4 | 1 | 1 |
+| <span title="Unpaired nucleotide %">UN</span> | 0.12 | 0.11 | 0.16 | 0.18 |
 
 **Sequences**
 

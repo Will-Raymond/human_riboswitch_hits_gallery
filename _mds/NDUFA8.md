@@ -5,41 +5,55 @@ permalink: /_mds/NDUFA8/
 exclude: true
 ---
 
+<link rel="stylesheet" href="../../custom.css">
 
 
-![](../../alns_9.28.22/aln_5HSAA071188_0.988.png?raw=true)
+
+<div class="row" >
+  <div class="column">
+    <a href="../../_mds/NDUFA2/"><img src="../../icons/arrow_left.png" alt="arrow left" style="width:100%"></a>
+  </div>
+  <div class="column_center">
+    <img src="../../alns_9.28.22/aln_5HSAA071188_0.988.png?raw=true" alt="UTR-RS hit comparison" style="width:100%">
+  </div>
+  <div class="column">
+    <a href="../../_mds/NDUFA9/"><img src="../../icons/arrow_right.png" alt="arrow right" style="width:100%"></a>
+  </div>
+</div>
+
+
 
 
 **Information**
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA071188/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS00021EE0A1/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000D6AF81/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS00021EDBA2/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
-| ID | 5HSAA071188     | URS00021EE0A1_12908     | URS0000D6AF81_12908     | URS00021EDBA2_12908     |
-| Length | 47     |  46    | 47   |  46    |
-| Similarity | - | 0.99 | 0.99 | 0.98 |
-| Ensemble Norm | 0.99 | - | - | - |
-| MFE | -8.99 | -5.22 | -8.71 | -11.48 |
-| Ligands | - | SAM | unknown | SAM |
-| Gene | NDUFA8 | - | - | - |
-| Downstream protein | blank for now    |    -    | -  | - |
+| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA071188/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS00021EE0A1/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000D6AF81/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS00021EDBA2/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="ID within respective databases">ID</span>  | 5HSAA071188     | URS00021EE0A1_12908     | URS0000D6AF81_12908     | URS00021EDBA2_12908     |
+| <span title="Length of the sequence in question">Length</span>  | 47     |  46    | 47   |  46    |
+| <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.99 | 0.99 | 0.98 |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.99 | - | - | - |
+| <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -8.99 | -5.22 | -8.71 | -11.48 |
+| <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | SAM | unknown | SAM |
+| <span title="Homo Sapiens gene abbreviation">Gene</span>  | NDUFA8 | - | - | - |
+| <span title="Link to the sequence source">Downstream protein</span>  | <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NDUFA8" target="_blank" rel="noopener noreferrer"> Genecard </a>   |    -    | -  | - |
 
 
 **Similarity metrics**
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| Struct MSE | - | 2 | 2.02 | 4.04 |
-| Length MSE | - | 1 | 0 | 1 |
-| Lev Distance | - | 8 | 10 | 13 |
-| UBS| 3 | 2 | 2 | 4 |
-| BS | 0 | 0 | 0 | 0 |
-| ILL | 0 | 0 | 0 | 1 |
-| ILR | 0 | 0 | 0 | 1 |
-| H | 2 | 2 | 2 | 2 |
-| BL | 1 | 0 | 0 | 1 |
-| BR | 0 | 0 | 0 | 1 |
-| UN | 0.30 | 0.24 | 0.15 | 0.11 |
+| <span title="Structural feature squared error">Struct SE</span> | - | 2 | 2.02 | 4.04 |
+| <span title="Length difference squared error">Length SE</span> | - | 1 | 0 | 1 |
+| <span title="Edit distance of both dot structures">Lev Distance</span> | - | 8 | 10 | 13 |
+| <span title="Unbranched stack count">UBS</span>| 3 | 2 | 2 | 4 |
+| <span title="Branched stack counts">BS</span> | 0 | 0 | 0 | 0 |
+| <span title="Inner loop left count">ILL</span> | 0 | 0 | 0 | 1 |
+| <span title="Inner loop right count">ILR</span> | 0 | 0 | 0 | 1 |
+| <span title="Hairpin counts">H</span> | 2 | 2 | 2 | 2 |
+| <span title="Bulges left count">BL</span> | 1 | 0 | 0 | 1 |
+| <span title="Bulges right count">BR</span> | 0 | 0 | 0 | 1 |
+| <span title="Unpaired nucleotide %">UN</span> | 0.30 | 0.24 | 0.15 | 0.11 |
 
 **Sequences**
 

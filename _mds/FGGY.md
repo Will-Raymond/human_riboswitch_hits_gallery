@@ -5,41 +5,55 @@ permalink: /_mds/FGGY/
 exclude: true
 ---
 
+<link rel="stylesheet" href="../../custom.css">
 
 
-![](../../alns_9.28.22/aln_5HSAA040842_0.962.png?raw=true)
+
+<div class="row" >
+  <div class="column">
+    <a href="../../_mds/FGF14/"><img src="../../icons/arrow_left.png" alt="arrow left" style="width:100%"></a>
+  </div>
+  <div class="column_center">
+    <img src="../../alns_9.28.22/aln_5HSAA040842_0.962.png?raw=true" alt="UTR-RS hit comparison" style="width:100%">
+  </div>
+  <div class="column">
+    <a href="../../_mds/FKBP15/"><img src="../../icons/arrow_right.png" alt="arrow right" style="width:100%"></a>
+  </div>
+</div>
+
+
 
 
 **Information**
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA040842/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000D93902/1897039" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000AB2A25/1262738" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C4211A/67373" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
-| ID | 5HSAA040842     | URS0000D93902_1897039     | URS0000AB2A25_1262738     | URS0000C4211A_67373     |
-| Length | 95     |  93    | 93   |  96    |
-| Similarity | - | 0.97 | 0.97 | 0.97 |
-| Ensemble Norm | 0.97 | - | - | - |
-| MFE | -29.31 | -19.70 | -19.70 | -45.51 |
-| Ligands | - | TPP | TPP | cobalamin |
-| Gene | FGGY | - | - | - |
-| Downstream protein | blank for now    |    -    | -  | - |
+| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA040842/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000D93902/1897039" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000AB2A25/1262738" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C4211A/67373" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="ID within respective databases">ID</span>  | 5HSAA040842     | URS0000D93902_1897039     | URS0000AB2A25_1262738     | URS0000C4211A_67373     |
+| <span title="Length of the sequence in question">Length</span>  | 95     |  93    | 93   |  96    |
+| <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.97 | 0.97 | 0.97 |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.97 | - | - | - |
+| <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -29.31 | -19.70 | -19.70 | -45.51 |
+| <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | TPP | TPP | cobalamin |
+| <span title="Homo Sapiens gene abbreviation">Gene</span>  | FGGY | - | - | - |
+| <span title="Link to the sequence source">Downstream protein</span>  | <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=FGGY" target="_blank" rel="noopener noreferrer"> Genecard </a>   |    -    | -  | - |
 
 
 **Similarity metrics**
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| Struct MSE | - | 6 | 6 | 4 |
-| Length MSE | - | 4 | 4 | 1 |
-| Lev Distance | - | 21 | 21 | 27 |
-| UBS| 8 | 7 | 7 | 7 |
-| BS | 0 | 0 | 0 | 0 |
-| ILL | 1 | 1 | 1 | 1 |
-| ILR | 1 | 1 | 1 | 2 |
-| H | 3 | 3 | 3 | 2 |
-| BL | 2 | 3 | 3 | 1 |
-| BR | 3 | 1 | 1 | 3 |
-| UN | 0.17 | 0.19 | 0.19 | 0.18 |
+| <span title="Structural feature squared error">Struct SE</span> | - | 6 | 6 | 4 |
+| <span title="Length difference squared error">Length SE</span> | - | 4 | 4 | 1 |
+| <span title="Edit distance of both dot structures">Lev Distance</span> | - | 21 | 21 | 27 |
+| <span title="Unbranched stack count">UBS</span>| 8 | 7 | 7 | 7 |
+| <span title="Branched stack counts">BS</span> | 0 | 0 | 0 | 0 |
+| <span title="Inner loop left count">ILL</span> | 1 | 1 | 1 | 1 |
+| <span title="Inner loop right count">ILR</span> | 1 | 1 | 1 | 2 |
+| <span title="Hairpin counts">H</span> | 3 | 3 | 3 | 2 |
+| <span title="Bulges left count">BL</span> | 2 | 3 | 3 | 1 |
+| <span title="Bulges right count">BR</span> | 3 | 1 | 1 | 3 |
+| <span title="Unpaired nucleotide %">UN</span> | 0.17 | 0.19 | 0.19 | 0.18 |
 
 **Sequences**
 

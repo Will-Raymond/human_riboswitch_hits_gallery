@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+}
+
+.row {
+  display: flex;
+  align-items:center;
+  width:100%;
+}
+
+.column_side {
+  flex: .5%;
+  padding: 5px;
+}
+.column_center {
+  flex: 99%;
+  flex-grow: 1;
+  padding: 5px;
+}
+
+.wrapper {
+    /* max-width: -webkit-calc(800px - (30px * 2)); */
+    max-width: calc(1500px - (30px * 2));
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 30px;
+    padding-left: 30px;
+}

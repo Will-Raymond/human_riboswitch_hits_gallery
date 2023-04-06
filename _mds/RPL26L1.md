@@ -5,41 +5,55 @@ permalink: /_mds/RPL26L1/
 exclude: true
 ---
 
+<link rel="stylesheet" href="../../custom.css">
 
 
-![](../../alns_9.28.22/aln_5HSAA092485_0.947.png?raw=true)
+
+<div class="row" >
+  <div class="column">
+    <a href="../../_mds/RPL21_0/"><img src="../../icons/arrow_left.png" alt="arrow left" style="width:100%"></a>
+  </div>
+  <div class="column_center">
+    <img src="../../alns_9.28.22/aln_5HSAA092485_0.947.png?raw=true" alt="UTR-RS hit comparison" style="width:100%">
+  </div>
+  <div class="column">
+    <a href="../../_mds/RPL26L1_0/"><img src="../../icons/arrow_right.png" alt="arrow right" style="width:100%"></a>
+  </div>
+</div>
+
+
 
 
 **Information**
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA092485/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000D9A6DE/987057" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000DA275D/1798253" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000ABB1D6/269796" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
-| ID | 5HSAA092485     | URS0000D9A6DE_987057     | URS0000DA275D_1798253     | URS0000ABB1D6_269796     |
-| Length | 73     |  71    | 75   |  77    |
-| Similarity | - | 0.97 | 0.97 | 0.96 |
-| Ensemble Norm | 0.97 | - | - | - |
-| MFE | -23.87 | -21.33 | -15.94 | -17.74 |
-| Ligands | - | fluoride | SAM | SAM |
-| Gene | RPL26L1 | - | - | - |
-| Downstream protein | blank for now    |    -    | -  | - |
+| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA092485/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000D9A6DE/987057" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000DA275D/1798253" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000ABB1D6/269796" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="ID within respective databases">ID</span>  | 5HSAA092485     | URS0000D9A6DE_987057     | URS0000DA275D_1798253     | URS0000ABB1D6_269796     |
+| <span title="Length of the sequence in question">Length</span>  | 73     |  71    | 75   |  77    |
+| <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.97 | 0.97 | 0.96 |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.97 | - | - | - |
+| <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -23.87 | -21.33 | -15.94 | -17.74 |
+| <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | fluoride | SAM | SAM |
+| <span title="Homo Sapiens gene abbreviation">Gene</span>  | RPL26L1 | - | - | - |
+| <span title="Link to the sequence source">Downstream protein</span>  | <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RPL26L1" target="_blank" rel="noopener noreferrer"> Genecard </a>   |    -    | -  | - |
 
 
 **Similarity metrics**
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| Struct MSE | - | 4 | 6.01 | 14 |
-| Length MSE | - | 4 | 4 | 16 |
-| Lev Distance | - | 18 | 18 | 16 |
-| UBS| 3 | 4 | 5 | 5 |
-| BS | 0 | 0 | 0 | 0 |
-| ILL | 0 | 0 | 1 | 0 |
-| ILR | 0 | 1 | 1 | 0 |
-| H | 2 | 2 | 2 | 2 |
-| BL | 1 | 0 | 1 | 2 |
-| BR | 0 | 1 | 0 | 3 |
-| UN | 0.18 | 0.15 | 0.28 | 0.13 |
+| <span title="Structural feature squared error">Struct SE</span> | - | 4 | 6.01 | 14 |
+| <span title="Length difference squared error">Length SE</span> | - | 4 | 4 | 16 |
+| <span title="Edit distance of both dot structures">Lev Distance</span> | - | 18 | 18 | 16 |
+| <span title="Unbranched stack count">UBS</span>| 3 | 4 | 5 | 5 |
+| <span title="Branched stack counts">BS</span> | 0 | 0 | 0 | 0 |
+| <span title="Inner loop left count">ILL</span> | 0 | 0 | 1 | 0 |
+| <span title="Inner loop right count">ILR</span> | 0 | 1 | 1 | 0 |
+| <span title="Hairpin counts">H</span> | 2 | 2 | 2 | 2 |
+| <span title="Bulges left count">BL</span> | 1 | 0 | 1 | 2 |
+| <span title="Bulges right count">BR</span> | 0 | 1 | 0 | 3 |
+| <span title="Unpaired nucleotide %">UN</span> | 0.18 | 0.15 | 0.28 | 0.13 |
 
 **Sequences**
 

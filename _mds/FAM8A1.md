@@ -5,41 +5,55 @@ permalink: /_mds/FAM8A1/
 exclude: true
 ---
 
+<link rel="stylesheet" href="../../custom.css">
 
 
-![](../../alns_9.28.22/aln_5HSAA039154_0.982.png?raw=true)
+
+<div class="row" >
+  <div class="column">
+    <a href="../../_mds/FAM114A2/"><img src="../../icons/arrow_left.png" alt="arrow left" style="width:100%"></a>
+  </div>
+  <div class="column_center">
+    <img src="../../alns_9.28.22/aln_5HSAA039154_0.982.png?raw=true" alt="UTR-RS hit comparison" style="width:100%">
+  </div>
+  <div class="column">
+    <a href="../../_mds/FANCB/"><img src="../../icons/arrow_right.png" alt="arrow right" style="width:100%"></a>
+  </div>
+</div>
+
+
 
 
 **Information**
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA039154/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C295AF/401526" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0002318E2C/1618499" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS00023137B4/1262794" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
-| ID | 5HSAA039154     | URS0000C295AF_401526     | URS0002318E2C_1618499     | URS00023137B4_1262794     |
-| Length | 80     |  78    | 79   |  82    |
-| Similarity | - | 0.97 | 0.98 | 0.97 |
-| Ensemble Norm | 0.97 | - | - | - |
-| MFE | -23.19 | -24.36 | -13.90 | -16.02 |
-| Ligands | - | Ni/Co | cobalamin | cobalamin |
-| Gene | FAM8A1 | - | - | - |
-| Downstream protein | blank for now    |    -    | -  | - |
+| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA039154/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C295AF/401526" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0002318E2C/1618499" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS00023137B4/1262794" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="ID within respective databases">ID</span>  | 5HSAA039154     | URS0000C295AF_401526     | URS0002318E2C_1618499     | URS00023137B4_1262794     |
+| <span title="Length of the sequence in question">Length</span>  | 80     |  78    | 79   |  82    |
+| <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.97 | 0.98 | 0.97 |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.97 | - | - | - |
+| <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -23.19 | -24.36 | -13.90 | -16.02 |
+| <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | Ni/Co | cobalamin | cobalamin |
+| <span title="Homo Sapiens gene abbreviation">Gene</span>  | FAM8A1 | - | - | - |
+| <span title="Link to the sequence source">Downstream protein</span>  | <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=FAM8A1" target="_blank" rel="noopener noreferrer"> Genecard </a>   |    -    | -  | - |
 
 
 **Similarity metrics**
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| Struct MSE | - | 33 | 7.01 | 7 |
-| Length MSE | - | 4 | 1 | 4 |
-| Lev Distance | - | 16 | 19 | 20 |
-| UBS| 5 | 7 | 4 | 5 |
-| BS | 0 | 0 | 0 | 0 |
-| ILL | 3 | 1 | 1 | 2 |
-| ILR | 2 | 2 | 1 | 1 |
-| H | 2 | 2 | 2 | 2 |
-| BL | 0 | 4 | 1 | 1 |
-| BR | 0 | 3 | 0 | 2 |
-| UN | 0.24 | 0.19 | 0.34 | 0.28 |
+| <span title="Structural feature squared error">Struct SE</span> | - | 33 | 7.01 | 7 |
+| <span title="Length difference squared error">Length SE</span> | - | 4 | 1 | 4 |
+| <span title="Edit distance of both dot structures">Lev Distance</span> | - | 16 | 19 | 20 |
+| <span title="Unbranched stack count">UBS</span>| 5 | 7 | 4 | 5 |
+| <span title="Branched stack counts">BS</span> | 0 | 0 | 0 | 0 |
+| <span title="Inner loop left count">ILL</span> | 3 | 1 | 1 | 2 |
+| <span title="Inner loop right count">ILR</span> | 2 | 2 | 1 | 1 |
+| <span title="Hairpin counts">H</span> | 2 | 2 | 2 | 2 |
+| <span title="Bulges left count">BL</span> | 0 | 4 | 1 | 1 |
+| <span title="Bulges right count">BR</span> | 0 | 3 | 0 | 2 |
+| <span title="Unpaired nucleotide %">UN</span> | 0.24 | 0.19 | 0.34 | 0.28 |
 
 **Sequences**
 

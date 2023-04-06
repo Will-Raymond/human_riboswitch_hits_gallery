@@ -5,41 +5,55 @@ permalink: /_mds/PPIA_1/
 exclude: true
 ---
 
+<link rel="stylesheet" href="../../custom.css">
 
 
-![](../../alns_9.28.22/aln_5HSAA083307_0.982.png?raw=true)
+
+<div class="row" >
+  <div class="column">
+    <a href="../../_mds/PPIA_0/"><img src="../../icons/arrow_left.png" alt="arrow left" style="width:100%"></a>
+  </div>
+  <div class="column_center">
+    <img src="../../alns_9.28.22/aln_5HSAA083307_0.982.png?raw=true" alt="UTR-RS hit comparison" style="width:100%">
+  </div>
+  <div class="column">
+    <a href="../../_mds/PPIC/"><img src="../../icons/arrow_right.png" alt="arrow right" style="width:100%"></a>
+  </div>
+</div>
+
+
 
 
 **Information**
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA083307/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000AB9D17/350058" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C7EBA0/226910" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000DA0693/1797572" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
-| ID | 5HSAA083307     | URS0000AB9D17_350058     | URS0000C7EBA0_226910     | URS0000DA0693_1797572     |
-| Length | 108     |  110    | 106   |  105    |
-| Similarity | - | 0.97 | 0.96 | 0.96 |
-| Ensemble Norm | 0.97 | - | - | - |
-| MFE | -31.88 | -59.94 | -31.39 | -33.41 |
-| Ligands | - | guanidine | TPP | TPP |
-| Gene | PPIA | - | - | - |
-| Downstream protein | blank for now    |    -    | -  | - |
+| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA083307/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000AB9D17/350058" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C7EBA0/226910" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000DA0693/1797572" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="ID within respective databases">ID</span>  | 5HSAA083307     | URS0000AB9D17_350058     | URS0000C7EBA0_226910     | URS0000DA0693_1797572     |
+| <span title="Length of the sequence in question">Length</span>  | 108     |  110    | 106   |  105    |
+| <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.97 | 0.96 | 0.96 |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.97 | - | - | - |
+| <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -31.88 | -59.94 | -31.39 | -33.41 |
+| <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | guanidine | TPP | TPP |
+| <span title="Homo Sapiens gene abbreviation">Gene</span>  | PPIA | - | - | - |
+| <span title="Link to the sequence source">Downstream protein</span>  | <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PPIA" target="_blank" rel="noopener noreferrer"> Genecard </a>   |    -    | -  | - |
 
 
 **Similarity metrics**
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| Struct MSE | - | 2 | 32.01 | 2 |
-| Length MSE | - | 4 | 4 | 9 |
-| Lev Distance | - | 22 | 23 | 23 |
-| UBS| 10 | 10 | 9 | 10 |
-| BS | 0 | 0 | 0 | 0 |
-| ILL | 2 | 2 | 3 | 1 |
-| ILR | 2 | 1 | 5 | 3 |
-| H | 2 | 2 | 1 | 2 |
-| BL | 5 | 5 | 1 | 5 |
-| BR | 5 | 4 | 3 | 5 |
-| UN | 0.08 | 0.07 | 0.16 | 0.10 |
+| <span title="Structural feature squared error">Struct SE</span> | - | 2 | 32.01 | 2 |
+| <span title="Length difference squared error">Length SE</span> | - | 4 | 4 | 9 |
+| <span title="Edit distance of both dot structures">Lev Distance</span> | - | 22 | 23 | 23 |
+| <span title="Unbranched stack count">UBS</span>| 10 | 10 | 9 | 10 |
+| <span title="Branched stack counts">BS</span> | 0 | 0 | 0 | 0 |
+| <span title="Inner loop left count">ILL</span> | 2 | 2 | 3 | 1 |
+| <span title="Inner loop right count">ILR</span> | 2 | 1 | 5 | 3 |
+| <span title="Hairpin counts">H</span> | 2 | 2 | 1 | 2 |
+| <span title="Bulges left count">BL</span> | 5 | 5 | 1 | 5 |
+| <span title="Bulges right count">BR</span> | 5 | 4 | 3 | 5 |
+| <span title="Unpaired nucleotide %">UN</span> | 0.08 | 0.07 | 0.16 | 0.10 |
 
 **Sequences**
 

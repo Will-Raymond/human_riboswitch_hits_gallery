@@ -5,41 +5,55 @@ permalink: /_mds/PUS7L_1/
 exclude: true
 ---
 
+<link rel="stylesheet" href="../../custom.css">
 
 
-![](../../alns_9.28.22/aln_5HSAA086860_0.977.png?raw=true)
+
+<div class="row" >
+  <div class="column">
+    <a href="../../_mds/PUS7L_0/"><img src="../../icons/arrow_left.png" alt="arrow left" style="width:100%"></a>
+  </div>
+  <div class="column_center">
+    <img src="../../alns_9.28.22/aln_5HSAA086860_0.977.png?raw=true" alt="UTR-RS hit comparison" style="width:100%">
+  </div>
+  <div class="column">
+    <a href="../../_mds/PYROXD1/"><img src="../../icons/arrow_right.png" alt="arrow right" style="width:100%"></a>
+  </div>
+</div>
+
+
 
 
 **Information**
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA086860/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C30979/1619313" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000BF6E53/1384484" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0002323BFC/1193069" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
-| ID | 5HSAA086860     | URS0000C30979_1619313     | URS0000BF6E53_1384484     | URS0002323BFC_1193069     |
-| Length | 129     |  133    | 126   |  131    |
-| Similarity | - | 0.93 | 0.93 | 0.95 |
-| Ensemble Norm | 0.93 | - | - | - |
-| MFE | -32.53 | -35.79 | -43.31 | -31.28 |
-| Ligands | - | molybdenum | TPP | cobalamin |
-| Gene | PUS7L | - | - | - |
-| Downstream protein | blank for now    |    -    | -  | - |
+| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA086860/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C30979/1619313" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000BF6E53/1384484" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0002323BFC/1193069" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="ID within respective databases">ID</span>  | 5HSAA086860     | URS0000C30979_1619313     | URS0000BF6E53_1384484     | URS0002323BFC_1193069     |
+| <span title="Length of the sequence in question">Length</span>  | 129     |  133    | 126   |  131    |
+| <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.93 | 0.93 | 0.95 |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.93 | - | - | - |
+| <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -32.53 | -35.79 | -43.31 | -31.28 |
+| <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | molybdenum | TPP | cobalamin |
+| <span title="Homo Sapiens gene abbreviation">Gene</span>  | PUS7L | - | - | - |
+| <span title="Link to the sequence source">Downstream protein</span>  | <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PUS7L" target="_blank" rel="noopener noreferrer"> Genecard </a>   |    -    | -  | - |
 
 
 **Similarity metrics**
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| Struct MSE | - | 18.03 | 37.02 | 4 |
-| Length MSE | - | 16 | 9 | 4 |
-| Lev Distance | - | 35 | 37 | 39 |
-| UBS| 5 | 8 | 9 | 6 |
-| BS | 0 | 0 | 0 | 0 |
-| ILL | 1 | 3 | 0 | 0 |
-| ILR | 0 | 2 | 1 | 0 |
-| H | 4 | 5 | 5 | 5 |
-| BL | 0 | 0 | 3 | 1 |
-| BR | 0 | 0 | 3 | 0 |
-| UN | 0.28 | 0.11 | 0.15 | 0.26 |
+| <span title="Structural feature squared error">Struct SE</span> | - | 18.03 | 37.02 | 4 |
+| <span title="Length difference squared error">Length SE</span> | - | 16 | 9 | 4 |
+| <span title="Edit distance of both dot structures">Lev Distance</span> | - | 35 | 37 | 39 |
+| <span title="Unbranched stack count">UBS</span>| 5 | 8 | 9 | 6 |
+| <span title="Branched stack counts">BS</span> | 0 | 0 | 0 | 0 |
+| <span title="Inner loop left count">ILL</span> | 1 | 3 | 0 | 0 |
+| <span title="Inner loop right count">ILR</span> | 0 | 2 | 1 | 0 |
+| <span title="Hairpin counts">H</span> | 4 | 5 | 5 | 5 |
+| <span title="Bulges left count">BL</span> | 0 | 0 | 3 | 1 |
+| <span title="Bulges right count">BR</span> | 0 | 0 | 3 | 0 |
+| <span title="Unpaired nucleotide %">UN</span> | 0.28 | 0.11 | 0.15 | 0.26 |
 
 **Sequences**
 

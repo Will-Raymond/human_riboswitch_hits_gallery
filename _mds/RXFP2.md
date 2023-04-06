@@ -5,41 +5,55 @@ permalink: /_mds/RXFP2/
 exclude: true
 ---
 
+<link rel="stylesheet" href="../../custom.css">
 
 
-![](../../alns_9.28.22/aln_5HSAA093834_0.984.png?raw=true)
+
+<div class="row" >
+  <div class="column">
+    <a href="../../_mds/RUVBL2_0/"><img src="../../icons/arrow_left.png" alt="arrow left" style="width:100%"></a>
+  </div>
+  <div class="column_center">
+    <img src="../../alns_9.28.22/aln_5HSAA093834_0.984.png?raw=true" alt="UTR-RS hit comparison" style="width:100%">
+  </div>
+  <div class="column">
+    <a href="../../_mds/SAMD4A/"><img src="../../icons/arrow_right.png" alt="arrow right" style="width:100%"></a>
+  </div>
+</div>
+
+
 
 
 **Information**
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA093834/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C219E3/1262915" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000D9DA9B/1552" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000ABCF2B/869312" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
-| ID | 5HSAA093834     | URS0000C219E3_1262915     | URS0000D9DA9B_1552     | URS0000ABCF2B_869312     |
-| Length | 96     |  95    | 93   |  97    |
-| Similarity | - | 0.97 | 0.96 | 0.97 |
-| Ensemble Norm | 0.97 | - | - | - |
-| MFE | -11.26 | -19.91 | -18.75 | -24.15 |
-| Ligands | - | glycine | glycine | preQ_1 |
-| Gene | RXFP2 | - | - | - |
-| Downstream protein | blank for now    |    -    | -  | - |
+| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA093834/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C219E3/1262915" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000D9DA9B/1552" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000ABCF2B/869312" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="ID within respective databases">ID</span>  | 5HSAA093834     | URS0000C219E3_1262915     | URS0000D9DA9B_1552     | URS0000ABCF2B_869312     |
+| <span title="Length of the sequence in question">Length</span>  | 96     |  95    | 93   |  97    |
+| <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.97 | 0.96 | 0.97 |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.97 | - | - | - |
+| <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -11.26 | -19.91 | -18.75 | -24.15 |
+| <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | glycine | glycine | preQ_1 |
+| <span title="Homo Sapiens gene abbreviation">Gene</span>  | RXFP2 | - | - | - |
+| <span title="Link to the sequence source">Downstream protein</span>  | <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RXFP2" target="_blank" rel="noopener noreferrer"> Genecard </a>   |    -    | -  | - |
 
 
 **Similarity metrics**
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| Struct MSE | - | 4.03 | 17.02 | 10 |
-| Length MSE | - | 1 | 9 | 1 |
-| Lev Distance | - | 21 | 21 | 23 |
-| UBS| 5 | 6 | 8 | 4 |
-| BS | 0 | 0 | 0 | 0 |
-| ILL | 1 | 1 | 1 | 1 |
-| ILR | 0 | 0 | 2 | 1 |
-| H | 2 | 3 | 2 | 2 |
-| BL | 2 | 1 | 4 | 0 |
-| BR | 2 | 3 | 2 | 0 |
-| UN | 0.40 | 0.23 | 0.25 | 0.43 |
+| <span title="Structural feature squared error">Struct SE</span> | - | 4.03 | 17.02 | 10 |
+| <span title="Length difference squared error">Length SE</span> | - | 1 | 9 | 1 |
+| <span title="Edit distance of both dot structures">Lev Distance</span> | - | 21 | 21 | 23 |
+| <span title="Unbranched stack count">UBS</span>| 5 | 6 | 8 | 4 |
+| <span title="Branched stack counts">BS</span> | 0 | 0 | 0 | 0 |
+| <span title="Inner loop left count">ILL</span> | 1 | 1 | 1 | 1 |
+| <span title="Inner loop right count">ILR</span> | 0 | 0 | 2 | 1 |
+| <span title="Hairpin counts">H</span> | 2 | 3 | 2 | 2 |
+| <span title="Bulges left count">BL</span> | 2 | 1 | 4 | 0 |
+| <span title="Bulges right count">BR</span> | 2 | 3 | 2 | 0 |
+| <span title="Unpaired nucleotide %">UN</span> | 0.40 | 0.23 | 0.25 | 0.43 |
 
 **Sequences**
 

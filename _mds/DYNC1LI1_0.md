@@ -5,41 +5,55 @@ permalink: /_mds/DYNC1LI1_0/
 exclude: true
 ---
 
+<link rel="stylesheet" href="../../custom.css">
 
 
-![](../../alns_9.28.22/aln_5HSAA032829_0.979.png?raw=true)
+
+<div class="row" >
+  <div class="column">
+    <a href="../../_mds/DYNC1LI1/"><img src="../../icons/arrow_left.png" alt="arrow left" style="width:100%"></a>
+  </div>
+  <div class="column_center">
+    <img src="../../alns_9.28.22/aln_5HSAA032829_0.979.png?raw=true" alt="UTR-RS hit comparison" style="width:100%">
+  </div>
+  <div class="column">
+    <a href="../../_mds/E2F5/"><img src="../../icons/arrow_right.png" alt="arrow right" style="width:100%"></a>
+  </div>
+</div>
+
+
 
 
 **Information**
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA032829/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000BE6846/1408250" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000AB716A/1033810" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000BE9DE3/1588023" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
-| ID | 5HSAA032829     | URS0000BE6846_1408250     | URS0000AB716A_1033810     | URS0000BE9DE3_1588023     |
-| Length | 113     |  116    | 115   |  114    |
-| Similarity | - | 0.96 | 0.97 | 0.97 |
-| Ensemble Norm | 0.96 | - | - | - |
-| MFE | -49.73 | -55.68 | -30.08 | -56.43 |
-| Ligands | - | methionine | tetrahydrofolate | methionine |
-| Gene | DYNC1LI1 | - | - | - |
-| Downstream protein | blank for now    |    -    | -  | - |
+| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA032829/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000BE6846/1408250" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000AB716A/1033810" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000BE9DE3/1588023" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="ID within respective databases">ID</span>  | 5HSAA032829     | URS0000BE6846_1408250     | URS0000AB716A_1033810     | URS0000BE9DE3_1588023     |
+| <span title="Length of the sequence in question">Length</span>  | 113     |  116    | 115   |  114    |
+| <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.96 | 0.97 | 0.97 |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.96 | - | - | - |
+| <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -49.73 | -55.68 | -30.08 | -56.43 |
+| <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | methionine | tetrahydrofolate | methionine |
+| <span title="Homo Sapiens gene abbreviation">Gene</span>  | DYNC1LI1 | - | - | - |
+| <span title="Link to the sequence source">Downstream protein</span>  | <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DYNC1LI1" target="_blank" rel="noopener noreferrer"> Genecard </a>   |    -    | -  | - |
 
 
 **Similarity metrics**
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| Struct MSE | - | 5 | 5.01 | 19 |
-| Length MSE | - | 9 | 4 | 1 |
-| Lev Distance | - | 20 | 21 | 24 |
-| UBS| 7 | 8 | 8 | 9 |
-| BS | 0 | 0 | 0 | 0 |
-| ILL | 1 | 2 | 1 | 1 |
-| ILR | 2 | 1 | 2 | 0 |
-| H | 2 | 2 | 2 | 3 |
-| BL | 1 | 2 | 3 | 4 |
-| BR | 2 | 3 | 2 | 3 |
-| UN | 0.12 | 0.07 | 0.04 | 0.06 |
+| <span title="Structural feature squared error">Struct SE</span> | - | 5 | 5.01 | 19 |
+| <span title="Length difference squared error">Length SE</span> | - | 9 | 4 | 1 |
+| <span title="Edit distance of both dot structures">Lev Distance</span> | - | 20 | 21 | 24 |
+| <span title="Unbranched stack count">UBS</span>| 7 | 8 | 8 | 9 |
+| <span title="Branched stack counts">BS</span> | 0 | 0 | 0 | 0 |
+| <span title="Inner loop left count">ILL</span> | 1 | 2 | 1 | 1 |
+| <span title="Inner loop right count">ILR</span> | 2 | 1 | 2 | 0 |
+| <span title="Hairpin counts">H</span> | 2 | 2 | 2 | 3 |
+| <span title="Bulges left count">BL</span> | 1 | 2 | 3 | 4 |
+| <span title="Bulges right count">BR</span> | 2 | 3 | 2 | 3 |
+| <span title="Unpaired nucleotide %">UN</span> | 0.12 | 0.07 | 0.04 | 0.06 |
 
 **Sequences**
 

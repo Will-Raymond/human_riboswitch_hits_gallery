@@ -5,41 +5,55 @@ permalink: /_mds/MAPRE1_0/
 exclude: true
 ---
 
+<link rel="stylesheet" href="../../custom.css">
 
 
-![](../../alns_9.28.22/aln_5HSAA063472_0.988.png?raw=true)
+
+<div class="row" >
+  <div class="column">
+    <a href="../../_mds/MAPRE1/"><img src="../../icons/arrow_left.png" alt="arrow left" style="width:100%"></a>
+  </div>
+  <div class="column_center">
+    <img src="../../alns_9.28.22/aln_5HSAA063472_0.988.png?raw=true" alt="UTR-RS hit comparison" style="width:100%">
+  </div>
+  <div class="column">
+    <a href="../../_mds/MAPRE1_1/"><img src="../../icons/arrow_right.png" alt="arrow right" style="width:100%"></a>
+  </div>
+</div>
+
+
 
 
 **Information**
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA063472/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000D7D311/1471761" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS000078226B/1348973" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS00005490DF/936573" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
-| ID | 5HSAA063472     | URS0000D7D311_1471761     | URS000078226B_1348973     | URS00005490DF_936573     |
-| Length | 164     |  165    | 161   |  163    |
-| Similarity | - | 0.92 | 0.85 | 0.89 |
-| Ensemble Norm | 0.94 | - | - | - |
-| MFE | -55.50 | -55.22 | -48.46 | -61.03 |
-| Ligands | - | glucosamine | glucosamine | glucosamine |
-| Gene | MAPRE1 | - | - | - |
-| Downstream protein | blank for now    |    -    | -  | - |
+| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA063472/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000D7D311/1471761" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS000078226B/1348973" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS00005490DF/936573" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="ID within respective databases">ID</span>  | 5HSAA063472     | URS0000D7D311_1471761     | URS000078226B_1348973     | URS00005490DF_936573     |
+| <span title="Length of the sequence in question">Length</span>  | 164     |  165    | 161   |  163    |
+| <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.92 | 0.85 | 0.89 |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.94 | - | - | - |
+| <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -55.50 | -55.22 | -48.46 | -61.03 |
+| <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | glucosamine | glucosamine | glucosamine |
+| <span title="Homo Sapiens gene abbreviation">Gene</span>  | MAPRE1 | - | - | - |
+| <span title="Link to the sequence source">Downstream protein</span>  | <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MAPRE1" target="_blank" rel="noopener noreferrer"> Genecard </a>   |    -    | -  | - |
 
 
 **Similarity metrics**
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| Struct MSE | - | 62 | 178.01 | 127 |
-| Length MSE | - | 1 | 9 | 1 |
-| Lev Distance | - | 49 | 47 | 49 |
-| UBS| 17 | 13 | 9 | 10 |
-| BS | 0 | 0 | 0 | 0 |
-| ILL | 5 | 1 | 1 | 3 |
-| ILR | 4 | 3 | 4 | 5 |
-| H | 3 | 3 | 4 | 3 |
-| BL | 6 | 8 | 2 | 3 |
-| BR | 10 | 5 | 1 | 2 |
-| UN | 0.07 | 0.12 | 0.16 | 0.11 |
+| <span title="Structural feature squared error">Struct SE</span> | - | 62 | 178.01 | 127 |
+| <span title="Length difference squared error">Length SE</span> | - | 1 | 9 | 1 |
+| <span title="Edit distance of both dot structures">Lev Distance</span> | - | 49 | 47 | 49 |
+| <span title="Unbranched stack count">UBS</span>| 17 | 13 | 9 | 10 |
+| <span title="Branched stack counts">BS</span> | 0 | 0 | 0 | 0 |
+| <span title="Inner loop left count">ILL</span> | 5 | 1 | 1 | 3 |
+| <span title="Inner loop right count">ILR</span> | 4 | 3 | 4 | 5 |
+| <span title="Hairpin counts">H</span> | 3 | 3 | 4 | 3 |
+| <span title="Bulges left count">BL</span> | 6 | 8 | 2 | 3 |
+| <span title="Bulges right count">BR</span> | 10 | 5 | 1 | 2 |
+| <span title="Unpaired nucleotide %">UN</span> | 0.07 | 0.12 | 0.16 | 0.11 |
 
 **Sequences**
 

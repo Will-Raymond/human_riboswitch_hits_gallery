@@ -5,41 +5,55 @@ permalink: /_mds/METTL5/
 exclude: true
 ---
 
+<link rel="stylesheet" href="../../custom.css">
 
 
-![](../../alns_9.28.22/aln_5HSAA065303_0.987.png?raw=true)
+
+<div class="row" >
+  <div class="column">
+    <a href="../../_mds/MEIG1/"><img src="../../icons/arrow_left.png" alt="arrow left" style="width:100%"></a>
+  </div>
+  <div class="column_center">
+    <img src="../../alns_9.28.22/aln_5HSAA065303_0.987.png?raw=true" alt="UTR-RS hit comparison" style="width:100%">
+  </div>
+  <div class="column">
+    <a href="../../_mds/MIOS/"><img src="../../icons/arrow_right.png" alt="arrow right" style="width:100%"></a>
+  </div>
+</div>
+
+
 
 
 **Information**
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA065303/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000AB9CC7/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C74820/1262955" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000AB4563/182337" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
-| ID | 5HSAA065303     | URS0000AB9CC7_12908     | URS0000C74820_1262955     | URS0000AB4563_182337     |
-| Length | 132     |  131    | 132   |  131    |
-| Similarity | - | 0.95 | 0.96 | 0.95 |
-| Ensemble Norm | 0.96 | - | - | - |
-| MFE | -46.70 | -27.88 | -47.76 | -36.32 |
-| Ligands | - | cobalamin | tetrahydrofolate | molybdenum |
-| Gene | METTL5 | - | - | - |
-| Downstream protein | blank for now    |    -    | -  | - |
+| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA065303/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000AB9CC7/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C74820/1262955" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000AB4563/182337" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="ID within respective databases">ID</span>  | 5HSAA065303     | URS0000AB9CC7_12908     | URS0000C74820_1262955     | URS0000AB4563_182337     |
+| <span title="Length of the sequence in question">Length</span>  | 132     |  131    | 132   |  131    |
+| <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.95 | 0.96 | 0.95 |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.96 | - | - | - |
+| <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -46.70 | -27.88 | -47.76 | -36.32 |
+| <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | tetrahydrofolate | molybdenum |
+| <span title="Homo Sapiens gene abbreviation">Gene</span>  | METTL5 | - | - | - |
+| <span title="Link to the sequence source">Downstream protein</span>  | <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=METTL5" target="_blank" rel="noopener noreferrer"> Genecard </a>   |    -    | -  | - |
 
 
 **Similarity metrics**
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| Struct MSE | - | 10 | 4 | 15 |
-| Length MSE | - | 1 | 0 | 1 |
-| Lev Distance | - | 36 | 37 | 37 |
-| UBS| 10 | 10 | 9 | 10 |
-| BS | 0 | 0 | 0 | 0 |
-| ILL | 1 | 3 | 1 | 2 |
-| ILR | 0 | 2 | 1 | 3 |
-| H | 4 | 3 | 4 | 4 |
-| BL | 4 | 4 | 3 | 3 |
-| BR | 4 | 3 | 3 | 2 |
-| UN | 0.09 | 0.08 | 0.09 | 0.08 |
+| <span title="Structural feature squared error">Struct SE</span> | - | 10 | 4 | 15 |
+| <span title="Length difference squared error">Length SE</span> | - | 1 | 0 | 1 |
+| <span title="Edit distance of both dot structures">Lev Distance</span> | - | 36 | 37 | 37 |
+| <span title="Unbranched stack count">UBS</span>| 10 | 10 | 9 | 10 |
+| <span title="Branched stack counts">BS</span> | 0 | 0 | 0 | 0 |
+| <span title="Inner loop left count">ILL</span> | 1 | 3 | 1 | 2 |
+| <span title="Inner loop right count">ILR</span> | 0 | 2 | 1 | 3 |
+| <span title="Hairpin counts">H</span> | 4 | 3 | 4 | 4 |
+| <span title="Bulges left count">BL</span> | 4 | 4 | 3 | 3 |
+| <span title="Bulges right count">BR</span> | 4 | 3 | 3 | 2 |
+| <span title="Unpaired nucleotide %">UN</span> | 0.09 | 0.08 | 0.09 | 0.08 |
 
 **Sequences**
 

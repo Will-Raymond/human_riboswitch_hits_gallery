@@ -5,41 +5,55 @@ permalink: /_mds/ZC3H7A/
 exclude: true
 ---
 
+<link rel="stylesheet" href="../../custom.css">
 
 
-![](../../alns_9.28.22/aln_5HSAA121170_0.995.png?raw=true)
+
+<div class="row" >
+  <div class="column">
+    <a href="../../_mds/ZBTB8OS/"><img src="../../icons/arrow_left.png" alt="arrow left" style="width:100%"></a>
+  </div>
+  <div class="column_center">
+    <img src="../../alns_9.28.22/aln_5HSAA121170_0.995.png?raw=true" alt="UTR-RS hit comparison" style="width:100%">
+  </div>
+  <div class="column">
+    <a href="../../_mds/ZFR2/"><img src="../../icons/arrow_right.png" alt="arrow right" style="width:100%"></a>
+  </div>
+</div>
+
+
 
 
 **Information**
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA121170/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS000232E5F4/1299333" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000AB9BCA/439493" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000BF78A0/395962" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
-| ID | 5HSAA121170     | URS000232E5F4_1299333     | URS0000AB9BCA_439493     | URS0000BF78A0_395962     |
-| Length | 68     |  66    | 67   |  66    |
-| Similarity | - | 0.97 | 0.98 | 0.97 |
-| Ensemble Norm | 0.97 | - | - | - |
-| MFE | -8.87 | -24.31 | -6.90 | -15.81 |
-| Ligands | - | fluoride | SAM | glutamine |
-| Gene | ZC3H7A | - | - | - |
-| Downstream protein | blank for now    |    -    | -  | - |
+| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA121170/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS000232E5F4/1299333" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000AB9BCA/439493" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000BF78A0/395962" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="ID within respective databases">ID</span>  | 5HSAA121170     | URS000232E5F4_1299333     | URS0000AB9BCA_439493     | URS0000BF78A0_395962     |
+| <span title="Length of the sequence in question">Length</span>  | 68     |  66    | 67   |  66    |
+| <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.97 | 0.98 | 0.97 |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.97 | - | - | - |
+| <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -8.87 | -24.31 | -6.90 | -15.81 |
+| <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | fluoride | SAM | glutamine |
+| <span title="Homo Sapiens gene abbreviation">Gene</span>  | ZC3H7A | - | - | - |
+| <span title="Link to the sequence source">Downstream protein</span>  | <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ZC3H7A" target="_blank" rel="noopener noreferrer"> Genecard </a>   |    -    | -  | - |
 
 
 **Similarity metrics**
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| Struct MSE | - | 4.01 | 2 | 8.01 |
-| Length MSE | - | 4 | 1 | 4 |
-| Lev Distance | - | 17 | 18 | 18 |
-| UBS| 5 | 4 | 4 | 3 |
-| BS | 0 | 0 | 0 | 0 |
-| ILL | 1 | 1 | 1 | 1 |
-| ILR | 1 | 0 | 1 | 1 |
-| H | 2 | 2 | 2 | 2 |
-| BL | 0 | 1 | 0 | 0 |
-| BR | 2 | 1 | 1 | 0 |
-| UN | 0.19 | 0.27 | 0.24 | 0.29 |
+| <span title="Structural feature squared error">Struct SE</span> | - | 4.01 | 2 | 8.01 |
+| <span title="Length difference squared error">Length SE</span> | - | 4 | 1 | 4 |
+| <span title="Edit distance of both dot structures">Lev Distance</span> | - | 17 | 18 | 18 |
+| <span title="Unbranched stack count">UBS</span>| 5 | 4 | 4 | 3 |
+| <span title="Branched stack counts">BS</span> | 0 | 0 | 0 | 0 |
+| <span title="Inner loop left count">ILL</span> | 1 | 1 | 1 | 1 |
+| <span title="Inner loop right count">ILR</span> | 1 | 0 | 1 | 1 |
+| <span title="Hairpin counts">H</span> | 2 | 2 | 2 | 2 |
+| <span title="Bulges left count">BL</span> | 0 | 1 | 0 | 0 |
+| <span title="Bulges right count">BR</span> | 2 | 1 | 1 | 0 |
+| <span title="Unpaired nucleotide %">UN</span> | 0.19 | 0.27 | 0.24 | 0.29 |
 
 **Sequences**
 

@@ -5,41 +5,55 @@ permalink: /_mds/CCDC73/
 exclude: true
 ---
 
+<link rel="stylesheet" href="../../custom.css">
 
 
-![](../../alns_9.28.22/aln_5HSAA018632_0.995.png?raw=true)
+
+<div class="row" >
+  <div class="column">
+    <a href="../../_mds/CCDC59/"><img src="../../icons/arrow_left.png" alt="arrow left" style="width:100%"></a>
+  </div>
+  <div class="column_center">
+    <img src="../../alns_9.28.22/aln_5HSAA018632_0.995.png?raw=true" alt="UTR-RS hit comparison" style="width:100%">
+  </div>
+  <div class="column">
+    <a href="../../_mds/CCDC73_0/"><img src="../../icons/arrow_right.png" alt="arrow right" style="width:100%"></a>
+  </div>
+</div>
+
+
 
 
 **Information**
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA018632/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000BF1C3B/1454004" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000DADA8B/1940822" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C2ECE3/515619" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
-| ID | 5HSAA018632     | URS0000BF1C3B_1454004     | URS0000DADA8B_1940822     | URS0000C2ECE3_515619     |
-| Length | 83     |  82    | 78   |  80    |
-| Similarity | - | 0.97 | 0.94 | 0.96 |
-| Ensemble Norm | 0.97 | - | - | - |
-| MFE | -9.89 | -20.12 | -12.84 | -11.99 |
-| Ligands | - | SAM | SAM | zmp-ztp |
-| Gene | CCDC73 | - | - | - |
-| Downstream protein | blank for now    |    -    | -  | - |
+| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA018632/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000BF1C3B/1454004" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000DADA8B/1940822" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C2ECE3/515619" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="ID within respective databases">ID</span>  | 5HSAA018632     | URS0000BF1C3B_1454004     | URS0000DADA8B_1940822     | URS0000C2ECE3_515619     |
+| <span title="Length of the sequence in question">Length</span>  | 83     |  82    | 78   |  80    |
+| <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.97 | 0.94 | 0.96 |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.97 | - | - | - |
+| <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -9.89 | -20.12 | -12.84 | -11.99 |
+| <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | SAM | SAM | zmp-ztp |
+| <span title="Homo Sapiens gene abbreviation">Gene</span>  | CCDC73 | - | - | - |
+| <span title="Link to the sequence source">Downstream protein</span>  | <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CCDC73" target="_blank" rel="noopener noreferrer"> Genecard </a>   |    -    | -  | - |
 
 
 **Similarity metrics**
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| Struct MSE | - | 19 | 2.20 | 3.10 |
-| Length MSE | - | 1 | 25 | 9 |
-| Lev Distance | - | 21 | 19 | 23 |
-| UBS| 5 | 3 | 5 | 5 |
-| BS | 0 | 0 | 0 | 0 |
-| ILL | 0 | 0 | 0 | 0 |
-| ILR | 1 | 2 | 1 | 0 |
-| H | 2 | 1 | 1 | 2 |
-| BL | 3 | 0 | 3 | 2 |
-| BR | 2 | 0 | 1 | 3 |
-| UN | 0.06 | 0.05 | 0.51 | 0.38 |
+| <span title="Structural feature squared error">Struct SE</span> | - | 19 | 2.20 | 3.10 |
+| <span title="Length difference squared error">Length SE</span> | - | 1 | 25 | 9 |
+| <span title="Edit distance of both dot structures">Lev Distance</span> | - | 21 | 19 | 23 |
+| <span title="Unbranched stack count">UBS</span>| 5 | 3 | 5 | 5 |
+| <span title="Branched stack counts">BS</span> | 0 | 0 | 0 | 0 |
+| <span title="Inner loop left count">ILL</span> | 0 | 0 | 0 | 0 |
+| <span title="Inner loop right count">ILR</span> | 1 | 2 | 1 | 0 |
+| <span title="Hairpin counts">H</span> | 2 | 1 | 1 | 2 |
+| <span title="Bulges left count">BL</span> | 3 | 0 | 3 | 2 |
+| <span title="Bulges right count">BR</span> | 2 | 0 | 1 | 3 |
+| <span title="Unpaired nucleotide %">UN</span> | 0.06 | 0.05 | 0.51 | 0.38 |
 
 **Sequences**
 

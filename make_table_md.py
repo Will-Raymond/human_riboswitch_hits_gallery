@@ -15,7 +15,7 @@ display_dir = './'
 
 def make_md(gene, master_str_tuple):
 
-    
+    #<! ![](../../alns_9.28.22/%s?raw=true)>
     with open(md_dir + '%s.md'%gene,'w') as f:
        
         md_text = '''---
@@ -25,41 +25,55 @@ permalink: /_mds/%s/
 exclude: true
 ---
 
+<link rel="stylesheet" href="../../custom.css">
 
 
-![](../../alns_9.28.22/%s?raw=true)
+
+<div class="row" >
+  <div class="column">
+    <a href="../../_mds/%s/"><img src="../../icons/arrow_left.png" alt="arrow left" style="width:100%%"></a>
+  </div>
+  <div class="column_center">
+    <img src="../../alns_9.28.22/%s?raw=true" alt="UTR-RS hit comparison" style="width:100%%">
+  </div>
+  <div class="column">
+    <a href="../../_mds/%s/"><img src="../../icons/arrow_right.png" alt="arrow right" style="width:100%%"></a>
+  </div>
+</div>
+
+
 
 
 **Information**
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| Link | <a href="%s" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="%s" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="%s" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="%s" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
-| ID | %s     | %s     | %s     | %s     |
-| Length | %s     |  %s    | %s   |  %s    |
-| Similarity | - | %s | %s | %s |
-| Ensemble Norm | %s | - | - | - |
-| MFE | %s | %s | %s | %s |
-| Ligands | - | %s | %s | %s |
-| Gene | %s | - | - | - |
-| Downstream protein | blank for now %s   |    -    | -  | - |
+| <span title="Link to the sequence source">Link</span> | <a href="%s" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="%s" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="%s" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="%s" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="ID within respective databases">ID</span>  | %s     | %s     | %s     | %s     |
+| <span title="Length of the sequence in question">Length</span>  | %s     |  %s    | %s   |  %s    |
+| <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | %s | %s | %s |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | %s | - | - | - |
+| <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | %s | %s | %s | %s |
+| <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | %s | %s | %s |
+| <span title="Homo Sapiens gene abbreviation">Gene</span>  | %s | - | - | - |
+| <span title="Link to the sequence source">Downstream protein</span>  | <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=%s" target="_blank" rel="noopener noreferrer"> Genecard </a>   |    -    | -  | - |
 
 
 **Similarity metrics**
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| Struct MSE | - | %s | %s | %s |
-| Length MSE | - | %s | %s | %s |
-| Lev Distance | - | %s | %s | %s |
-| UBS| %s | %s | %s | %s |
-| BS | %s | %s | %s | %s |
-| ILL | %s | %s | %s | %s |
-| ILR | %s | %s | %s | %s |
-| H | %s | %s | %s | %s |
-| BL | %s | %s | %s | %s |
-| BR | %s | %s | %s | %s |
-| UN | %s | %s | %s | %s |
+| <span title="Structural feature squared error">Struct SE</span> | - | %s | %s | %s |
+| <span title="Length difference squared error">Length SE</span> | - | %s | %s | %s |
+| <span title="Edit distance of both dot structures">Lev Distance</span> | - | %s | %s | %s |
+| <span title="Unbranched stack count">UBS</span>| %s | %s | %s | %s |
+| <span title="Branched stack counts">BS</span> | %s | %s | %s | %s |
+| <span title="Inner loop left count">ILL</span> | %s | %s | %s | %s |
+| <span title="Inner loop right count">ILR</span> | %s | %s | %s | %s |
+| <span title="Hairpin counts">H</span> | %s | %s | %s | %s |
+| <span title="Bulges left count">BL</span> | %s | %s | %s | %s |
+| <span title="Bulges right count">BR</span> | %s | %s | %s | %s |
+| <span title="Unpaired nucleotide %%">UN</span> | %s | %s | %s | %s |
 
 **Sequences**
 
@@ -341,13 +355,30 @@ for i in range(len(ulist)):
 
 
 
-
+sorted_genes = sorted(used_genes)
 #make_md_table(ulist, used_genes, best_RSs, utr_probas, algn_scores_1, MFEs, norm_algn)  
 
 for i in range(len(ulist)):
     
     
     file = fpaths[i]
+    
+    
+    gene_index_sorted = sorted_genes.index(used_genes[i])
+    
+    if used_genes[i] != 'AASDHPPT':
+        previous_index = used_genes.index(sorted_genes[gene_index_sorted-1])
+    else:
+        previous_index = used_genes.index(sorted_genes[gene_index_sorted])
+        
+    if used_genes[i] != 'ZNF821':
+        next_index = used_genes.index(sorted_genes[gene_index_sorted+1])
+    else:
+        next_index = used_genes.index(sorted_genes[gene_index_sorted])
+    
+    previous_file = used_genes[previous_index]
+    next_file = used_genes[next_index]
+        
     gene = used_genes[i]
     utr_id = ulist[i]
     protein = genes[i]
@@ -361,7 +392,7 @@ for i in range(len(ulist)):
     rs3_link = "https://rnacentral.org/rna/%s"%rs3_id.replace('_','/')
     utr_link = "http://utrdb.ba.itb.cnr.it/getutr/%s/1"%utr_id
     
-    uniprot_link = ''
+    uniprot_link = protein
     
     utr_seq = utr_seqs[i]
     rs1_seq = rs1_seqs[i]
@@ -413,7 +444,7 @@ for i in range(len(ulist)):
 
     
     
-    mst = [gene.upper(), gene.upper(), file, utr_link, rs1_link, rs2_link,
+    mst = [gene.upper(), gene.upper(), previous_file, file, next_file, utr_link, rs1_link, rs2_link,
                         rs3_link, utr_id, rs1_id, rs2_id, rs3_id, 
                         utr_l, rs1_l, rs2_l, rs3_l, rs1_sim, rs2_sim, rs3_sim, ens,
                         utr_mfe, rs1_mfe, rs2_mfe, rs3_mfe,

@@ -5,41 +5,55 @@ permalink: /_mds/SRC/
 exclude: true
 ---
 
+<link rel="stylesheet" href="../../custom.css">
 
 
-![](../../alns_9.28.22/aln_5HSAA103797_0.955.png?raw=true)
+
+<div class="row" >
+  <div class="column">
+    <a href="../../_mds/SPIRE1/"><img src="../../icons/arrow_left.png" alt="arrow left" style="width:100%"></a>
+  </div>
+  <div class="column_center">
+    <img src="../../alns_9.28.22/aln_5HSAA103797_0.955.png?raw=true" alt="UTR-RS hit comparison" style="width:100%">
+  </div>
+  <div class="column">
+    <a href="../../_mds/SRGAP1/"><img src="../../icons/arrow_right.png" alt="arrow right" style="width:100%"></a>
+  </div>
+</div>
+
+
 
 
 **Information**
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA103797/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000BE34D8/717785" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000D7BAAE/53376" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000CF85F4/2043167" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
-| ID | 5HSAA103797     | URS0000BE34D8_717785     | URS0000D7BAAE_53376     | URS0000CF85F4_2043167     |
-| Length | 64     |  63    | 62   |  62    |
-| Similarity | - | 0.99 | 0.98 | 0.98 |
-| Ensemble Norm | 0.99 | - | - | - |
-| MFE | -18.02 | -18.01 | -18.21 | -14.35 |
-| Ligands | - | fluoride | fluoride | fluoride |
-| Gene | SRC | - | - | - |
-| Downstream protein | blank for now    |    -    | -  | - |
+| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA103797/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000BE34D8/717785" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000D7BAAE/53376" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000CF85F4/2043167" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="ID within respective databases">ID</span>  | 5HSAA103797     | URS0000BE34D8_717785     | URS0000D7BAAE_53376     | URS0000CF85F4_2043167     |
+| <span title="Length of the sequence in question">Length</span>  | 64     |  63    | 62   |  62    |
+| <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.99 | 0.98 | 0.98 |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.99 | - | - | - |
+| <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -18.02 | -18.01 | -18.21 | -14.35 |
+| <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | fluoride | fluoride | fluoride |
+| <span title="Homo Sapiens gene abbreviation">Gene</span>  | SRC | - | - | - |
+| <span title="Link to the sequence source">Downstream protein</span>  | <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SRC" target="_blank" rel="noopener noreferrer"> Genecard </a>   |    -    | -  | - |
 
 
 **Similarity metrics**
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| Struct MSE | - | 7 | 13.02 | 3 |
-| Length MSE | - | 1 | 4 | 4 |
-| Lev Distance | - | 10 | 12 | 13 |
-| UBS| 4 | 5 | 6 | 4 |
-| BS | 0 | 0 | 0 | 0 |
-| ILL | 0 | 0 | 0 | 1 |
-| ILR | 2 | 1 | 1 | 1 |
-| H | 2 | 2 | 2 | 2 |
-| BL | 1 | 2 | 3 | 1 |
-| BR | 0 | 2 | 2 | 1 |
-| UN | 0.14 | 0.08 | 0.02 | 0.18 |
+| <span title="Structural feature squared error">Struct SE</span> | - | 7 | 13.02 | 3 |
+| <span title="Length difference squared error">Length SE</span> | - | 1 | 4 | 4 |
+| <span title="Edit distance of both dot structures">Lev Distance</span> | - | 10 | 12 | 13 |
+| <span title="Unbranched stack count">UBS</span>| 4 | 5 | 6 | 4 |
+| <span title="Branched stack counts">BS</span> | 0 | 0 | 0 | 0 |
+| <span title="Inner loop left count">ILL</span> | 0 | 0 | 0 | 1 |
+| <span title="Inner loop right count">ILR</span> | 2 | 1 | 1 | 1 |
+| <span title="Hairpin counts">H</span> | 2 | 2 | 2 | 2 |
+| <span title="Bulges left count">BL</span> | 1 | 2 | 3 | 1 |
+| <span title="Bulges right count">BR</span> | 0 | 2 | 2 | 1 |
+| <span title="Unpaired nucleotide %">UN</span> | 0.14 | 0.08 | 0.02 | 0.18 |
 
 **Sequences**
 

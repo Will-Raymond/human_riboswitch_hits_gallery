@@ -5,41 +5,55 @@ permalink: /_mds/SEC23IP/
 exclude: true
 ---
 
+<link rel="stylesheet" href="../../custom.css">
 
 
-![](../../alns_9.28.22/aln_5HSAA095764_1.000.png?raw=true)
+
+<div class="row" >
+  <div class="column">
+    <a href="../../_mds/SCYL2/"><img src="../../icons/arrow_left.png" alt="arrow left" style="width:100%"></a>
+  </div>
+  <div class="column_center">
+    <img src="../../alns_9.28.22/aln_5HSAA095764_1.000.png?raw=true" alt="UTR-RS hit comparison" style="width:100%">
+  </div>
+  <div class="column">
+    <a href="../../_mds/SEC23IP_0/"><img src="../../icons/arrow_right.png" alt="arrow right" style="width:100%"></a>
+  </div>
+</div>
+
+
 
 
 **Information**
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA095764/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C38A05/1268072" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C81894/1131935" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C68DD4/1743146" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
-| ID | 5HSAA095764     | URS0000C38A05_1268072     | URS0000C81894_1131935     | URS0000C68DD4_1743146     |
-| Length | 101     |  102    | 101   |  101    |
-| Similarity | - | 0.97 | 0.97 | 0.97 |
-| Ensemble Norm | 0.97 | - | - | - |
-| MFE | -38.81 | -28.07 | -18.04 | -17.87 |
-| Ligands | - | purine | purine | TPP |
-| Gene | SEC23IP | - | - | - |
-| Downstream protein | blank for now    |    -    | -  | - |
+| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA095764/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C38A05/1268072" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C81894/1131935" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C68DD4/1743146" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="ID within respective databases">ID</span>  | 5HSAA095764     | URS0000C38A05_1268072     | URS0000C81894_1131935     | URS0000C68DD4_1743146     |
+| <span title="Length of the sequence in question">Length</span>  | 101     |  102    | 101   |  101    |
+| <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.97 | 0.97 | 0.97 |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.97 | - | - | - |
+| <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -38.81 | -28.07 | -18.04 | -17.87 |
+| <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | purine | purine | TPP |
+| <span title="Homo Sapiens gene abbreviation">Gene</span>  | SEC23IP | - | - | - |
+| <span title="Link to the sequence source">Downstream protein</span>  | <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SEC23IP" target="_blank" rel="noopener noreferrer"> Genecard </a>   |    -    | -  | - |
 
 
 **Similarity metrics**
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| Struct MSE | - | 7.01 | 6.01 | 24.02 |
-| Length MSE | - | 1 | 0 | 0 |
-| Lev Distance | - | 23 | 25 | 25 |
-| UBS| 8 | 6 | 8 | 10 |
-| BS | 0 | 0 | 0 | 0 |
-| ILL | 0 | 1 | 1 | 1 |
-| ILR | 2 | 2 | 2 | 1 |
-| H | 3 | 2 | 2 | 2 |
-| BL | 2 | 1 | 2 | 6 |
-| BR | 2 | 2 | 4 | 3 |
-| UN | 0.09 | 0.19 | 0.21 | 0.22 |
+| <span title="Structural feature squared error">Struct SE</span> | - | 7.01 | 6.01 | 24.02 |
+| <span title="Length difference squared error">Length SE</span> | - | 1 | 0 | 0 |
+| <span title="Edit distance of both dot structures">Lev Distance</span> | - | 23 | 25 | 25 |
+| <span title="Unbranched stack count">UBS</span>| 8 | 6 | 8 | 10 |
+| <span title="Branched stack counts">BS</span> | 0 | 0 | 0 | 0 |
+| <span title="Inner loop left count">ILL</span> | 0 | 1 | 1 | 1 |
+| <span title="Inner loop right count">ILR</span> | 2 | 2 | 2 | 1 |
+| <span title="Hairpin counts">H</span> | 3 | 2 | 2 | 2 |
+| <span title="Bulges left count">BL</span> | 2 | 1 | 2 | 6 |
+| <span title="Bulges right count">BR</span> | 2 | 2 | 4 | 3 |
+| <span title="Unpaired nucleotide %">UN</span> | 0.09 | 0.19 | 0.21 | 0.22 |
 
 **Sequences**
 

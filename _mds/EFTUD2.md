@@ -5,41 +5,55 @@ permalink: /_mds/EFTUD2/
 exclude: true
 ---
 
+<link rel="stylesheet" href="../../custom.css">
 
 
-![](../../alns_9.28.22/aln_5HSAA033623_0.975.png?raw=true)
+
+<div class="row" >
+  <div class="column">
+    <a href="../../_mds/EEF2_0/"><img src="../../icons/arrow_left.png" alt="arrow left" style="width:100%"></a>
+  </div>
+  <div class="column_center">
+    <img src="../../alns_9.28.22/aln_5HSAA033623_0.975.png?raw=true" alt="UTR-RS hit comparison" style="width:100%">
+  </div>
+  <div class="column">
+    <a href="../../_mds/EHF/"><img src="../../icons/arrow_right.png" alt="arrow right" style="width:100%"></a>
+  </div>
+</div>
+
+
 
 
 **Information**
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA033623/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000E60155/28066" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000E6060A/1189611" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000E60322/1315974" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
-| ID | 5HSAA033623     | URS0000E60155_28066     | URS0000E6060A_1189611     | URS0000E60322_1315974     |
-| Length | 56     |  59    | 56   |  58    |
-| Similarity | - | 0.98 | 0.99 | 0.98 |
-| Ensemble Norm | 0.98 | - | - | - |
-| MFE | -13.85 | -12.24 | -23.75 | -19.75 |
-| Ligands | - | unknown | unknown | unknown |
-| Gene | EFTUD2 | - | - | - |
-| Downstream protein | blank for now    |    -    | -  | - |
+| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA033623/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000E60155/28066" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000E6060A/1189611" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000E60322/1315974" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="ID within respective databases">ID</span>  | 5HSAA033623     | URS0000E60155_28066     | URS0000E6060A_1189611     | URS0000E60322_1315974     |
+| <span title="Length of the sequence in question">Length</span>  | 56     |  59    | 56   |  58    |
+| <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.98 | 0.99 | 0.98 |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.98 | - | - | - |
+| <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -13.85 | -12.24 | -23.75 | -19.75 |
+| <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | unknown | unknown | unknown |
+| <span title="Homo Sapiens gene abbreviation">Gene</span>  | EFTUD2 | - | - | - |
+| <span title="Link to the sequence source">Downstream protein</span>  | <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=EFTUD2" target="_blank" rel="noopener noreferrer"> Genecard </a>   |    -    | -  | - |
 
 
 **Similarity metrics**
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| Struct MSE | - | 3 | 2 | 3 |
-| Length MSE | - | 9 | 0 | 4 |
-| Lev Distance | - | 9 | 11 | 11 |
-| UBS| 3 | 4 | 3 | 4 |
-| BS | 0 | 0 | 0 | 0 |
-| ILL | 0 | 1 | 1 | 1 |
-| ILR | 0 | 0 | 0 | 1 |
-| H | 2 | 2 | 2 | 2 |
-| BL | 1 | 1 | 0 | 1 |
-| BR | 0 | 1 | 0 | 0 |
-| UN | 0.14 | 0.19 | 0.16 | 0.19 |
+| <span title="Structural feature squared error">Struct SE</span> | - | 3 | 2 | 3 |
+| <span title="Length difference squared error">Length SE</span> | - | 9 | 0 | 4 |
+| <span title="Edit distance of both dot structures">Lev Distance</span> | - | 9 | 11 | 11 |
+| <span title="Unbranched stack count">UBS</span>| 3 | 4 | 3 | 4 |
+| <span title="Branched stack counts">BS</span> | 0 | 0 | 0 | 0 |
+| <span title="Inner loop left count">ILL</span> | 0 | 1 | 1 | 1 |
+| <span title="Inner loop right count">ILR</span> | 0 | 0 | 0 | 1 |
+| <span title="Hairpin counts">H</span> | 2 | 2 | 2 | 2 |
+| <span title="Bulges left count">BL</span> | 1 | 1 | 0 | 1 |
+| <span title="Bulges right count">BR</span> | 0 | 1 | 0 | 0 |
+| <span title="Unpaired nucleotide %">UN</span> | 0.14 | 0.19 | 0.16 | 0.19 |
 
 **Sequences**
 

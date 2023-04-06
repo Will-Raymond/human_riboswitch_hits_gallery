@@ -5,41 +5,55 @@ permalink: /_mds/SEC24D/
 exclude: true
 ---
 
+<link rel="stylesheet" href="../../custom.css">
 
 
-![](../../alns_9.28.22/aln_5HSAA095814_0.981.png?raw=true)
+
+<div class="row" >
+  <div class="column">
+    <a href="../../_mds/SEC24C_0/"><img src="../../icons/arrow_left.png" alt="arrow left" style="width:100%"></a>
+  </div>
+  <div class="column_center">
+    <img src="../../alns_9.28.22/aln_5HSAA095814_0.981.png?raw=true" alt="UTR-RS hit comparison" style="width:100%">
+  </div>
+  <div class="column">
+    <a href="../../_mds/SERF2/"><img src="../../icons/arrow_right.png" alt="arrow right" style="width:100%"></a>
+  </div>
+</div>
+
+
 
 
 **Information**
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA095814/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000AB5A53/392500" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000AB576E/228405" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000AB202F/39946" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
-| ID | 5HSAA095814     | URS0000AB5A53_392500     | URS0000AB576E_228405     | URS0000AB202F_39946     |
-| Length | 130     |  130    | 128   |  132    |
-| Similarity | - | 0.95 | 0.95 | 0.94 |
-| Ensemble Norm | 0.96 | - | - | - |
-| MFE | -29.80 | -36.27 | -51.87 | -50.92 |
-| Ligands | - | glycine | molybdenum | glycine |
-| Gene | SEC24D | - | - | - |
-| Downstream protein | blank for now    |    -    | -  | - |
+| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA095814/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000AB5A53/392500" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000AB576E/228405" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000AB202F/39946" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="ID within respective databases">ID</span>  | 5HSAA095814     | URS0000AB5A53_392500     | URS0000AB576E_228405     | URS0000AB202F_39946     |
+| <span title="Length of the sequence in question">Length</span>  | 130     |  130    | 128   |  132    |
+| <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.95 | 0.95 | 0.94 |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.96 | - | - | - |
+| <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -29.80 | -36.27 | -51.87 | -50.92 |
+| <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | glycine | molybdenum | glycine |
+| <span title="Homo Sapiens gene abbreviation">Gene</span>  | SEC24D | - | - | - |
+| <span title="Link to the sequence source">Downstream protein</span>  | <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SEC24D" target="_blank" rel="noopener noreferrer"> Genecard </a>   |    -    | -  | - |
 
 
 **Similarity metrics**
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| Struct MSE | - | 39 | 10 | 36 |
-| Length MSE | - | 0 | 4 | 4 |
-| Lev Distance | - | 31 | 35 | 35 |
-| UBS| 12 | 10 | 12 | 11 |
-| BS | 0 | 0 | 0 | 0 |
-| ILL | 3 | 4 | 2 | 3 |
-| ILR | 2 | 5 | 4 | 5 |
-| H | 2 | 2 | 2 | 2 |
-| BL | 5 | 2 | 3 | 4 |
-| BR | 6 | 2 | 5 | 1 |
-| UN | 0.03 | 0.06 | 0.05 | 0.05 |
+| <span title="Structural feature squared error">Struct SE</span> | - | 39 | 10 | 36 |
+| <span title="Length difference squared error">Length SE</span> | - | 0 | 4 | 4 |
+| <span title="Edit distance of both dot structures">Lev Distance</span> | - | 31 | 35 | 35 |
+| <span title="Unbranched stack count">UBS</span>| 12 | 10 | 12 | 11 |
+| <span title="Branched stack counts">BS</span> | 0 | 0 | 0 | 0 |
+| <span title="Inner loop left count">ILL</span> | 3 | 4 | 2 | 3 |
+| <span title="Inner loop right count">ILR</span> | 2 | 5 | 4 | 5 |
+| <span title="Hairpin counts">H</span> | 2 | 2 | 2 | 2 |
+| <span title="Bulges left count">BL</span> | 5 | 2 | 3 | 4 |
+| <span title="Bulges right count">BR</span> | 6 | 2 | 5 | 1 |
+| <span title="Unpaired nucleotide %">UN</span> | 0.03 | 0.06 | 0.05 | 0.05 |
 
 **Sequences**
 

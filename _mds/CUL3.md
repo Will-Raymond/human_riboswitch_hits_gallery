@@ -5,41 +5,55 @@ permalink: /_mds/CUL3/
 exclude: true
 ---
 
+<link rel="stylesheet" href="../../custom.css">
 
 
-![](../../alns_9.28.22/aln_5HSAA027204_0.999.png?raw=true)
+
+<div class="row" >
+  <div class="column">
+    <a href="../../_mds/CSN3/"><img src="../../icons/arrow_left.png" alt="arrow left" style="width:100%"></a>
+  </div>
+  <div class="column_center">
+    <img src="../../alns_9.28.22/aln_5HSAA027204_0.999.png?raw=true" alt="UTR-RS hit comparison" style="width:100%">
+  </div>
+  <div class="column">
+    <a href="../../_mds/DDX10/"><img src="../../icons/arrow_right.png" alt="arrow right" style="width:100%"></a>
+  </div>
+</div>
+
+
 
 
 **Information**
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA027204/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000AB193D/323261" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C5DB52/1262857" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C66E5E/1423724" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
-| ID | 5HSAA027204     | URS0000AB193D_323261     | URS0000C5DB52_1262857     | URS0000C66E5E_1423724     |
-| Length | 93     |  97    | 96   |  90    |
-| Similarity | - | 0.95 | 0.96 | 0.96 |
-| Ensemble Norm | 0.95 | - | - | - |
-| MFE | -34.14 | -27.71 | -23.92 | -15.96 |
-| Ligands | - | TPP | tetrahydrofolate | SAM |
-| Gene | CUL3 | - | - | - |
-| Downstream protein | blank for now    |    -    | -  | - |
+| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA027204/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000AB193D/323261" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C5DB52/1262857" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C66E5E/1423724" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="ID within respective databases">ID</span>  | 5HSAA027204     | URS0000AB193D_323261     | URS0000C5DB52_1262857     | URS0000C66E5E_1423724     |
+| <span title="Length of the sequence in question">Length</span>  | 93     |  97    | 96   |  90    |
+| <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.95 | 0.96 | 0.96 |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.95 | - | - | - |
+| <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -34.14 | -27.71 | -23.92 | -15.96 |
+| <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | TPP | tetrahydrofolate | SAM |
+| <span title="Homo Sapiens gene abbreviation">Gene</span>  | CUL3 | - | - | - |
+| <span title="Link to the sequence source">Downstream protein</span>  | <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CUL3" target="_blank" rel="noopener noreferrer"> Genecard </a>   |    -    | -  | - |
 
 
 **Similarity metrics**
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| Struct MSE | - | 2 | 0 | 6 |
-| Length MSE | - | 16 | 9 | 9 |
-| Lev Distance | - | 18 | 21 | 21 |
-| UBS| 7 | 8 | 7 | 7 |
-| BS | 0 | 0 | 0 | 0 |
-| ILL | 1 | 1 | 1 | 2 |
-| ILR | 1 | 1 | 1 | 2 |
-| H | 2 | 2 | 2 | 2 |
-| BL | 3 | 4 | 3 | 1 |
-| BR | 3 | 3 | 3 | 3 |
-| UN | 0.08 | 0.14 | 0.14 | 0.04 |
+| <span title="Structural feature squared error">Struct SE</span> | - | 2 | 0 | 6 |
+| <span title="Length difference squared error">Length SE</span> | - | 16 | 9 | 9 |
+| <span title="Edit distance of both dot structures">Lev Distance</span> | - | 18 | 21 | 21 |
+| <span title="Unbranched stack count">UBS</span>| 7 | 8 | 7 | 7 |
+| <span title="Branched stack counts">BS</span> | 0 | 0 | 0 | 0 |
+| <span title="Inner loop left count">ILL</span> | 1 | 1 | 1 | 2 |
+| <span title="Inner loop right count">ILR</span> | 1 | 1 | 1 | 2 |
+| <span title="Hairpin counts">H</span> | 2 | 2 | 2 | 2 |
+| <span title="Bulges left count">BL</span> | 3 | 4 | 3 | 1 |
+| <span title="Bulges right count">BR</span> | 3 | 3 | 3 | 3 |
+| <span title="Unpaired nucleotide %">UN</span> | 0.08 | 0.14 | 0.14 | 0.04 |
 
 **Sequences**
 

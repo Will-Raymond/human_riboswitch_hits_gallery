@@ -5,41 +5,55 @@ permalink: /_mds/MAN1A1/
 exclude: true
 ---
 
+<link rel="stylesheet" href="../../custom.css">
 
 
-![](../../alns_9.28.22/aln_5HSAA062043_0.987.png?raw=true)
+
+<div class="row" >
+  <div class="column">
+    <a href="../../_mds/MAGOHB/"><img src="../../icons/arrow_left.png" alt="arrow left" style="width:100%"></a>
+  </div>
+  <div class="column_center">
+    <img src="../../alns_9.28.22/aln_5HSAA062043_0.987.png?raw=true" alt="UTR-RS hit comparison" style="width:100%">
+  </div>
+  <div class="column">
+    <a href="../../_mds/MAP2K4/"><img src="../../icons/arrow_right.png" alt="arrow right" style="width:100%"></a>
+  </div>
+</div>
+
+
 
 
 **Information**
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA062043/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000D67F2B/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000ABB19F/1227275" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D674D4/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
-| ID | 5HSAA062043     | URS0000D67F2B_12908     | URS0000ABB19F_1227275     | URS0000D674D4_12908     |
-| Length | 91     |  91    | 89   |  92    |
-| Similarity | - | 0.98 | 0.97 | 0.97 |
-| Ensemble Norm | 0.98 | - | - | - |
-| MFE | -23.42 | -38.68 | -19.95 | -35.57 |
-| Ligands | - | GMP | tetrahydrofolate | GMP |
-| Gene | MAN1A1 | - | - | - |
-| Downstream protein | blank for now    |    -    | -  | - |
+| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA062043/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000D67F2B/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000ABB19F/1227275" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D674D4/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="ID within respective databases">ID</span>  | 5HSAA062043     | URS0000D67F2B_12908     | URS0000ABB19F_1227275     | URS0000D674D4_12908     |
+| <span title="Length of the sequence in question">Length</span>  | 91     |  91    | 89   |  92    |
+| <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.98 | 0.97 | 0.97 |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.98 | - | - | - |
+| <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -23.42 | -38.68 | -19.95 | -35.57 |
+| <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | GMP | tetrahydrofolate | GMP |
+| <span title="Homo Sapiens gene abbreviation">Gene</span>  | MAN1A1 | - | - | - |
+| <span title="Link to the sequence source">Downstream protein</span>  | <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MAN1A1" target="_blank" rel="noopener noreferrer"> Genecard </a>   |    -    | -  | - |
 
 
 **Similarity metrics**
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| Struct MSE | - | 3 | 5 | 3 |
-| Length MSE | - | 0 | 4 | 1 |
-| Lev Distance | - | 21 | 22 | 23 |
-| UBS| 5 | 5 | 5 | 5 |
-| BS | 0 | 0 | 0 | 0 |
-| ILL | 1 | 1 | 3 | 1 |
-| ILR | 2 | 1 | 2 | 2 |
-| H | 2 | 3 | 2 | 3 |
-| BL | 1 | 0 | 0 | 0 |
-| BR | 1 | 1 | 1 | 0 |
-| UN | 0.21 | 0.16 | 0.22 | 0.16 |
+| <span title="Structural feature squared error">Struct SE</span> | - | 3 | 5 | 3 |
+| <span title="Length difference squared error">Length SE</span> | - | 0 | 4 | 1 |
+| <span title="Edit distance of both dot structures">Lev Distance</span> | - | 21 | 22 | 23 |
+| <span title="Unbranched stack count">UBS</span>| 5 | 5 | 5 | 5 |
+| <span title="Branched stack counts">BS</span> | 0 | 0 | 0 | 0 |
+| <span title="Inner loop left count">ILL</span> | 1 | 1 | 3 | 1 |
+| <span title="Inner loop right count">ILR</span> | 2 | 1 | 2 | 2 |
+| <span title="Hairpin counts">H</span> | 2 | 3 | 2 | 3 |
+| <span title="Bulges left count">BL</span> | 1 | 0 | 0 | 0 |
+| <span title="Bulges right count">BR</span> | 1 | 1 | 1 | 0 |
+| <span title="Unpaired nucleotide %">UN</span> | 0.21 | 0.16 | 0.22 | 0.16 |
 
 **Sequences**
 

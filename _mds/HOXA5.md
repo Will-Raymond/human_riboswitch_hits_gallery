@@ -5,41 +5,55 @@ permalink: /_mds/HOXA5/
 exclude: true
 ---
 
+<link rel="stylesheet" href="../../custom.css">
 
 
-![](../../alns_9.28.22/aln_5HSAA050571_0.992.png?raw=true)
+
+<div class="row" >
+  <div class="column">
+    <a href="../../_mds/HOXA4/"><img src="../../icons/arrow_left.png" alt="arrow left" style="width:100%"></a>
+  </div>
+  <div class="column_center">
+    <img src="../../alns_9.28.22/aln_5HSAA050571_0.992.png?raw=true" alt="UTR-RS hit comparison" style="width:100%">
+  </div>
+  <div class="column">
+    <a href="../../_mds/HOXA7/"><img src="../../icons/arrow_right.png" alt="arrow right" style="width:100%"></a>
+  </div>
+</div>
+
+
 
 
 **Information**
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA050571/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000AB7530/525246" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS00023189B4/408172" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D81328/1797652" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
-| ID | 5HSAA050571     | URS0000AB7530_525246     | URS00023189B4_408172     | URS0000D81328_1797652     |
-| Length | 86     |  85    | 84   |  83    |
-| Similarity | - | 0.97 | 0.97 | 0.96 |
-| Ensemble Norm | 0.97 | - | - | - |
-| MFE | -9.88 | -26.87 | -13.87 | -18.57 |
-| Ligands | - | SAM | cobalamin | fluoride |
-| Gene | HOXA5 | - | - | - |
-| Downstream protein | blank for now    |    -    | -  | - |
+| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA050571/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000AB7530/525246" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS00023189B4/408172" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D81328/1797652" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="ID within respective databases">ID</span>  | 5HSAA050571     | URS0000AB7530_525246     | URS00023189B4_408172     | URS0000D81328_1797652     |
+| <span title="Length of the sequence in question">Length</span>  | 86     |  85    | 84   |  83    |
+| <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.97 | 0.97 | 0.96 |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.97 | - | - | - |
+| <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -9.88 | -26.87 | -13.87 | -18.57 |
+| <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | SAM | cobalamin | fluoride |
+| <span title="Homo Sapiens gene abbreviation">Gene</span>  | HOXA5 | - | - | - |
+| <span title="Link to the sequence source">Downstream protein</span>  | <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HOXA5" target="_blank" rel="noopener noreferrer"> Genecard </a>   |    -    | -  | - |
 
 
 **Similarity metrics**
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| Struct MSE | - | 5.01 | 4 | 18 |
-| Length MSE | - | 1 | 4 | 9 |
-| Lev Distance | - | 22 | 22 | 21 |
-| UBS| 5 | 5 | 5 | 7 |
-| BS | 0 | 0 | 0 | 0 |
-| ILL | 3 | 2 | 2 | 2 |
-| ILR | 2 | 1 | 3 | 2 |
-| H | 2 | 1 | 2 | 2 |
-| BL | 0 | 1 | 1 | 3 |
-| BR | 1 | 2 | 0 | 3 |
-| UN | 0.16 | 0.05 | 0.17 | 0.10 |
+| <span title="Structural feature squared error">Struct SE</span> | - | 5.01 | 4 | 18 |
+| <span title="Length difference squared error">Length SE</span> | - | 1 | 4 | 9 |
+| <span title="Edit distance of both dot structures">Lev Distance</span> | - | 22 | 22 | 21 |
+| <span title="Unbranched stack count">UBS</span>| 5 | 5 | 5 | 7 |
+| <span title="Branched stack counts">BS</span> | 0 | 0 | 0 | 0 |
+| <span title="Inner loop left count">ILL</span> | 3 | 2 | 2 | 2 |
+| <span title="Inner loop right count">ILR</span> | 2 | 1 | 3 | 2 |
+| <span title="Hairpin counts">H</span> | 2 | 1 | 2 | 2 |
+| <span title="Bulges left count">BL</span> | 0 | 1 | 1 | 3 |
+| <span title="Bulges right count">BR</span> | 1 | 2 | 0 | 3 |
+| <span title="Unpaired nucleotide %">UN</span> | 0.16 | 0.05 | 0.17 | 0.10 |
 
 **Sequences**
 

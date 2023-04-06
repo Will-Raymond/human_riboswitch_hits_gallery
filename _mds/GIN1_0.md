@@ -5,41 +5,55 @@ permalink: /_mds/GIN1_0/
 exclude: true
 ---
 
+<link rel="stylesheet" href="../../custom.css">
 
 
-![](../../alns_9.28.22/aln_5HSAA044153_0.979.png?raw=true)
+
+<div class="row" >
+  <div class="column">
+    <a href="../../_mds/GIN1/"><img src="../../icons/arrow_left.png" alt="arrow left" style="width:100%"></a>
+  </div>
+  <div class="column_center">
+    <img src="../../alns_9.28.22/aln_5HSAA044153_0.979.png?raw=true" alt="UTR-RS hit comparison" style="width:100%">
+  </div>
+  <div class="column">
+    <a href="../../_mds/GLA/"><img src="../../icons/arrow_right.png" alt="arrow right" style="width:100%"></a>
+  </div>
+</div>
+
+
 
 
 **Information**
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA044153/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C46B33/1231342" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C8A897/1515613" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS00023142FB/1090379" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
-| ID | 5HSAA044153     | URS0000C46B33_1231342     | URS0000C8A897_1515613     | URS00023142FB_1090379     |
-| Length | 120     |  120    | 118   |  121    |
-| Similarity | - | 0.96 | 0.95 | 0.96 |
-| Ensemble Norm | 0.96 | - | - | - |
-| MFE | -27.27 | -37.35 | -27.59 | -31.92 |
-| Ligands | - | SAM | TPP | cobalamin |
-| Gene | GIN1 | - | - | - |
-| Downstream protein | blank for now    |    -    | -  | - |
+| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA044153/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C46B33/1231342" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C8A897/1515613" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS00023142FB/1090379" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="ID within respective databases">ID</span>  | 5HSAA044153     | URS0000C46B33_1231342     | URS0000C8A897_1515613     | URS00023142FB_1090379     |
+| <span title="Length of the sequence in question">Length</span>  | 120     |  120    | 118   |  121    |
+| <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.96 | 0.95 | 0.96 |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.96 | - | - | - |
+| <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -27.27 | -37.35 | -27.59 | -31.92 |
+| <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | SAM | TPP | cobalamin |
+| <span title="Homo Sapiens gene abbreviation">Gene</span>  | GIN1 | - | - | - |
+| <span title="Link to the sequence source">Downstream protein</span>  | <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GIN1" target="_blank" rel="noopener noreferrer"> Genecard </a>   |    -    | -  | - |
 
 
 **Similarity metrics**
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| Struct MSE | - | 12 | 30.01 | 12 |
-| Length MSE | - | 0 | 4 | 1 |
-| Lev Distance | - | 32 | 32 | 33 |
-| UBS| 10 | 9 | 7 | 10 |
-| BS | 0 | 0 | 0 | 0 |
-| ILL | 3 | 0 | 1 | 2 |
-| ILR | 1 | 0 | 2 | 2 |
-| H | 4 | 4 | 4 | 4 |
-| BL | 2 | 2 | 2 | 3 |
-| BR | 5 | 4 | 1 | 2 |
-| UN | 0.17 | 0.23 | 0.25 | 0.13 |
+| <span title="Structural feature squared error">Struct SE</span> | - | 12 | 30.01 | 12 |
+| <span title="Length difference squared error">Length SE</span> | - | 0 | 4 | 1 |
+| <span title="Edit distance of both dot structures">Lev Distance</span> | - | 32 | 32 | 33 |
+| <span title="Unbranched stack count">UBS</span>| 10 | 9 | 7 | 10 |
+| <span title="Branched stack counts">BS</span> | 0 | 0 | 0 | 0 |
+| <span title="Inner loop left count">ILL</span> | 3 | 0 | 1 | 2 |
+| <span title="Inner loop right count">ILR</span> | 1 | 0 | 2 | 2 |
+| <span title="Hairpin counts">H</span> | 4 | 4 | 4 | 4 |
+| <span title="Bulges left count">BL</span> | 2 | 2 | 2 | 3 |
+| <span title="Bulges right count">BR</span> | 5 | 4 | 1 | 2 |
+| <span title="Unpaired nucleotide %">UN</span> | 0.17 | 0.23 | 0.25 | 0.13 |
 
 **Sequences**
 

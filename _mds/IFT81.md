@@ -5,41 +5,55 @@ permalink: /_mds/IFT81/
 exclude: true
 ---
 
+<link rel="stylesheet" href="../../custom.css">
 
 
-![](../../alns_9.28.22/aln_5HSAA051937_0.984.png?raw=true)
+
+<div class="row" >
+  <div class="column">
+    <a href="../../_mds/IFITM2/"><img src="../../icons/arrow_left.png" alt="arrow left" style="width:100%"></a>
+  </div>
+  <div class="column_center">
+    <img src="../../alns_9.28.22/aln_5HSAA051937_0.984.png?raw=true" alt="UTR-RS hit comparison" style="width:100%">
+  </div>
+  <div class="column">
+    <a href="../../_mds/IFT88/"><img src="../../icons/arrow_right.png" alt="arrow right" style="width:100%"></a>
+  </div>
+</div>
+
+
 
 
 **Information**
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA051937/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C62801/1609098" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000D9015A/1528693" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D863E7/1775675" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
-| ID | 5HSAA051937     | URS0000C62801_1609098     | URS0000D9015A_1528693     | URS0000D863E7_1775675     |
-| Length | 155     |  157    | 155   |  154    |
-| Similarity | - | 0.93 | 0.95 | 0.91 |
-| Ensemble Norm | 0.94 | - | - | - |
-| MFE | -42.72 | -60.82 | -48.44 | -46.46 |
-| Ligands | - | TPP | cobalamin | FMN |
-| Gene | IFT81 | - | - | - |
-| Downstream protein | blank for now    |    -    | -  | - |
+| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA051937/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C62801/1609098" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000D9015A/1528693" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D863E7/1775675" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="ID within respective databases">ID</span>  | 5HSAA051937     | URS0000C62801_1609098     | URS0000D9015A_1528693     | URS0000D863E7_1775675     |
+| <span title="Length of the sequence in question">Length</span>  | 155     |  157    | 155   |  154    |
+| <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.93 | 0.95 | 0.91 |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.94 | - | - | - |
+| <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -42.72 | -60.82 | -48.44 | -46.46 |
+| <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | TPP | cobalamin | FMN |
+| <span title="Homo Sapiens gene abbreviation">Gene</span>  | IFT81 | - | - | - |
+| <span title="Link to the sequence source">Downstream protein</span>  | <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=IFT81" target="_blank" rel="noopener noreferrer"> Genecard </a>   |    -    | -  | - |
 
 
 **Similarity metrics**
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| Struct MSE | - | 24 | 5 | 78 |
-| Length MSE | - | 4 | 0 | 1 |
-| Lev Distance | - | 46 | 49 | 51 |
-| UBS| 11 | 13 | 12 | 15 |
-| BS | 0 | 0 | 0 | 0 |
-| ILL | 5 | 2 | 5 | 2 |
-| ILR | 1 | 1 | 1 | 2 |
-| H | 3 | 4 | 3 | 3 |
-| BL | 2 | 5 | 4 | 8 |
-| BR | 4 | 5 | 4 | 8 |
-| UN | 0.12 | 0.13 | 0.13 | 0.10 |
+| <span title="Structural feature squared error">Struct SE</span> | - | 24 | 5 | 78 |
+| <span title="Length difference squared error">Length SE</span> | - | 4 | 0 | 1 |
+| <span title="Edit distance of both dot structures">Lev Distance</span> | - | 46 | 49 | 51 |
+| <span title="Unbranched stack count">UBS</span>| 11 | 13 | 12 | 15 |
+| <span title="Branched stack counts">BS</span> | 0 | 0 | 0 | 0 |
+| <span title="Inner loop left count">ILL</span> | 5 | 2 | 5 | 2 |
+| <span title="Inner loop right count">ILR</span> | 1 | 1 | 1 | 2 |
+| <span title="Hairpin counts">H</span> | 3 | 4 | 3 | 3 |
+| <span title="Bulges left count">BL</span> | 2 | 5 | 4 | 8 |
+| <span title="Bulges right count">BR</span> | 4 | 5 | 4 | 8 |
+| <span title="Unpaired nucleotide %">UN</span> | 0.12 | 0.13 | 0.13 | 0.10 |
 
 **Sequences**
 

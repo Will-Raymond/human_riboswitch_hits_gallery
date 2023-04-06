@@ -5,41 +5,55 @@ permalink: /_mds/PSMA3/
 exclude: true
 ---
 
+<link rel="stylesheet" href="../../custom.css">
 
 
-![](../../alns_9.28.22/aln_5HSAA085448_0.945.png?raw=true)
+
+<div class="row" >
+  <div class="column">
+    <a href="../../_mds/PRSS27_0/"><img src="../../icons/arrow_left.png" alt="arrow left" style="width:100%"></a>
+  </div>
+  <div class="column_center">
+    <img src="../../alns_9.28.22/aln_5HSAA085448_0.945.png?raw=true" alt="UTR-RS hit comparison" style="width:100%">
+  </div>
+  <div class="column">
+    <a href="../../_mds/PSMB3/"><img src="../../icons/arrow_right.png" alt="arrow right" style="width:100%"></a>
+  </div>
+</div>
+
+
 
 
 **Information**
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA085448/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C566F9/1804984" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS00022CD256/219649" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D85E3D/1434837" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
-| ID | 5HSAA085448     | URS0000C566F9_1804984     | URS00022CD256_219649     | URS0000D85E3D_1434837     |
-| Length | 71     |  72    | 72   |  70    |
-| Similarity | - | 0.98 | 0.98 | 0.98 |
-| Ensemble Norm | 0.98 | - | - | - |
-| MFE | -18.04 | -22.84 | -20.77 | -30.72 |
-| Ligands | - | fluoride | fluoride | cobalamin |
-| Gene | PSMA3 | - | - | - |
-| Downstream protein | blank for now    |    -    | -  | - |
+| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA085448/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C566F9/1804984" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS00022CD256/219649" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D85E3D/1434837" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="ID within respective databases">ID</span>  | 5HSAA085448     | URS0000C566F9_1804984     | URS00022CD256_219649     | URS0000D85E3D_1434837     |
+| <span title="Length of the sequence in question">Length</span>  | 71     |  72    | 72   |  70    |
+| <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.98 | 0.98 | 0.98 |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.98 | - | - | - |
+| <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -18.04 | -22.84 | -20.77 | -30.72 |
+| <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | fluoride | fluoride | cobalamin |
+| <span title="Homo Sapiens gene abbreviation">Gene</span>  | PSMA3 | - | - | - |
+| <span title="Link to the sequence source">Downstream protein</span>  | <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PSMA3" target="_blank" rel="noopener noreferrer"> Genecard </a>   |    -    | -  | - |
 
 
 **Similarity metrics**
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| Struct MSE | - | 17.02 | 6.02 | 4 |
-| Length MSE | - | 1 | 1 | 1 |
-| Lev Distance | - | 16 | 17 | 18 |
-| UBS| 4 | 5 | 3 | 5 |
-| BS | 0 | 0 | 0 | 0 |
-| ILL | 2 | 0 | 1 | 1 |
-| ILR | 2 | 0 | 0 | 2 |
-| H | 2 | 2 | 2 | 2 |
-| BL | 0 | 2 | 0 | 1 |
-| BR | 0 | 2 | 0 | 1 |
-| UN | 0.15 | 0.28 | 0.31 | 0.14 |
+| <span title="Structural feature squared error">Struct SE</span> | - | 17.02 | 6.02 | 4 |
+| <span title="Length difference squared error">Length SE</span> | - | 1 | 1 | 1 |
+| <span title="Edit distance of both dot structures">Lev Distance</span> | - | 16 | 17 | 18 |
+| <span title="Unbranched stack count">UBS</span>| 4 | 5 | 3 | 5 |
+| <span title="Branched stack counts">BS</span> | 0 | 0 | 0 | 0 |
+| <span title="Inner loop left count">ILL</span> | 2 | 0 | 1 | 1 |
+| <span title="Inner loop right count">ILR</span> | 2 | 0 | 0 | 2 |
+| <span title="Hairpin counts">H</span> | 2 | 2 | 2 | 2 |
+| <span title="Bulges left count">BL</span> | 0 | 2 | 0 | 1 |
+| <span title="Bulges right count">BR</span> | 0 | 2 | 0 | 1 |
+| <span title="Unpaired nucleotide %">UN</span> | 0.15 | 0.28 | 0.31 | 0.14 |
 
 **Sequences**
 

@@ -5,41 +5,55 @@ permalink: /_mds/NOSIP/
 exclude: true
 ---
 
+<link rel="stylesheet" href="../../custom.css">
 
 
-![](../../alns_9.28.22/aln_5HSAA072878_0.987.png?raw=true)
+
+<div class="row" >
+  <div class="column">
+    <a href="../../_mds/NOP10/"><img src="../../icons/arrow_left.png" alt="arrow left" style="width:100%"></a>
+  </div>
+  <div class="column_center">
+    <img src="../../alns_9.28.22/aln_5HSAA072878_0.987.png?raw=true" alt="UTR-RS hit comparison" style="width:100%">
+  </div>
+  <div class="column">
+    <a href="../../_mds/NUDT7/"><img src="../../icons/arrow_right.png" alt="arrow right" style="width:100%"></a>
+  </div>
+</div>
+
+
 
 
 **Information**
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA072878/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C78052/1131731" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000AB88CE/679192" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C6378C/1408103" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
-| ID | 5HSAA072878     | URS0000C78052_1131731     | URS0000AB88CE_679192     | URS0000C6378C_1408103     |
-| Length | 84     |  84    | 86   |  83    |
-| Similarity | - | 0.98 | 0.96 | 0.97 |
-| Ensemble Norm | 0.98 | - | - | - |
-| MFE | -22.20 | -27.72 | -23.76 | -23.52 |
-| Ligands | - | Mg2+ | TPP | zmp-ztp |
-| Gene | NOSIP | - | - | - |
-| Downstream protein | blank for now    |    -    | -  | - |
+| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA072878/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C78052/1131731" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000AB88CE/679192" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C6378C/1408103" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="ID within respective databases">ID</span>  | 5HSAA072878     | URS0000C78052_1131731     | URS0000AB88CE_679192     | URS0000C6378C_1408103     |
+| <span title="Length of the sequence in question">Length</span>  | 84     |  84    | 86   |  83    |
+| <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.98 | 0.96 | 0.97 |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.98 | - | - | - |
+| <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -22.20 | -27.72 | -23.76 | -23.52 |
+| <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | Mg2+ | TPP | zmp-ztp |
+| <span title="Homo Sapiens gene abbreviation">Gene</span>  | NOSIP | - | - | - |
+| <span title="Link to the sequence source">Downstream protein</span>  | <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NOSIP" target="_blank" rel="noopener noreferrer"> Genecard </a>   |    -    | -  | - |
 
 
 **Similarity metrics**
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| Struct MSE | - | 10 | 24.01 | 3.01 |
-| Length MSE | - | 0 | 4 | 1 |
-| Lev Distance | - | 20 | 22 | 23 |
-| UBS| 5 | 5 | 7 | 6 |
-| BS | 0 | 0 | 0 | 0 |
-| ILL | 0 | 2 | 0 | 1 |
-| ILR | 2 | 1 | 0 | 2 |
-| H | 3 | 3 | 3 | 3 |
-| BL | 2 | 0 | 2 | 2 |
-| BR | 0 | 1 | 4 | 1 |
-| UN | 0.02 | 0.06 | 0.12 | 0.10 |
+| <span title="Structural feature squared error">Struct SE</span> | - | 10 | 24.01 | 3.01 |
+| <span title="Length difference squared error">Length SE</span> | - | 0 | 4 | 1 |
+| <span title="Edit distance of both dot structures">Lev Distance</span> | - | 20 | 22 | 23 |
+| <span title="Unbranched stack count">UBS</span>| 5 | 5 | 7 | 6 |
+| <span title="Branched stack counts">BS</span> | 0 | 0 | 0 | 0 |
+| <span title="Inner loop left count">ILL</span> | 0 | 2 | 0 | 1 |
+| <span title="Inner loop right count">ILR</span> | 2 | 1 | 0 | 2 |
+| <span title="Hairpin counts">H</span> | 3 | 3 | 3 | 3 |
+| <span title="Bulges left count">BL</span> | 2 | 0 | 2 | 2 |
+| <span title="Bulges right count">BR</span> | 0 | 1 | 4 | 1 |
+| <span title="Unpaired nucleotide %">UN</span> | 0.02 | 0.06 | 0.12 | 0.10 |
 
 **Sequences**
 

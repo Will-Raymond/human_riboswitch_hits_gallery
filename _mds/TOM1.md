@@ -5,41 +5,55 @@ permalink: /_mds/TOM1/
 exclude: true
 ---
 
+<link rel="stylesheet" href="../../custom.css">
 
 
-![](../../alns_9.28.22/aln_5HSAA112297-1_0.980.png?raw=true)
+
+<div class="row" >
+  <div class="column">
+    <a href="../../_mds/TNNI3K_0/"><img src="../../icons/arrow_left.png" alt="arrow left" style="width:100%"></a>
+  </div>
+  <div class="column_center">
+    <img src="../../alns_9.28.22/aln_5HSAA112297-1_0.980.png?raw=true" alt="UTR-RS hit comparison" style="width:100%">
+  </div>
+  <div class="column">
+    <a href="../../_mds/TP63/"><img src="../../icons/arrow_right.png" alt="arrow right" style="width:100%"></a>
+  </div>
+</div>
+
+
 
 
 **Information**
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA112297-1/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000D7C649/252474" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C6DC86/1736384" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000DA1AB0/1776758" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
-| ID | 5HSAA112297-1     | URS0000D7C649_252474     | URS0000C6DC86_1736384     | URS0000DA1AB0_1776758     |
-| Length | 96     |  97    | 94   |  98    |
-| Similarity | - | 0.97 | 0.97 | 0.97 |
-| Ensemble Norm | 0.98 | - | - | - |
-| MFE | -34.52 | -38.65 | -37.97 | -18.50 |
-| Ligands | - | glycine | glycine | purine |
-| Gene | TOM1 | - | - | - |
-| Downstream protein | blank for now    |    -    | -  | - |
+| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA112297-1/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000D7C649/252474" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C6DC86/1736384" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000DA1AB0/1776758" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="ID within respective databases">ID</span>  | 5HSAA112297-1     | URS0000D7C649_252474     | URS0000C6DC86_1736384     | URS0000DA1AB0_1776758     |
+| <span title="Length of the sequence in question">Length</span>  | 96     |  97    | 94   |  98    |
+| <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.97 | 0.97 | 0.97 |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.98 | - | - | - |
+| <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -34.52 | -38.65 | -37.97 | -18.50 |
+| <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | glycine | glycine | purine |
+| <span title="Homo Sapiens gene abbreviation">Gene</span>  | TOM1 | - | - | - |
+| <span title="Link to the sequence source">Downstream protein</span>  | <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TOM1" target="_blank" rel="noopener noreferrer"> Genecard </a>   |    -    | -  | - |
 
 
 **Similarity metrics**
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| Struct MSE | - | 4 | 5 | 6 |
-| Length MSE | - | 1 | 4 | 4 |
-| Lev Distance | - | 20 | 22 | 22 |
-| UBS| 7 | 8 | 6 | 6 |
-| BS | 0 | 0 | 0 | 0 |
-| ILL | 1 | 2 | 2 | 1 |
-| ILR | 3 | 2 | 2 | 1 |
-| H | 2 | 2 | 2 | 2 |
-| BL | 3 | 2 | 2 | 3 |
-| BR | 2 | 2 | 1 | 3 |
-| UN | 0.23 | 0.22 | 0.22 | 0.20 |
+| <span title="Structural feature squared error">Struct SE</span> | - | 4 | 5 | 6 |
+| <span title="Length difference squared error">Length SE</span> | - | 1 | 4 | 4 |
+| <span title="Edit distance of both dot structures">Lev Distance</span> | - | 20 | 22 | 22 |
+| <span title="Unbranched stack count">UBS</span>| 7 | 8 | 6 | 6 |
+| <span title="Branched stack counts">BS</span> | 0 | 0 | 0 | 0 |
+| <span title="Inner loop left count">ILL</span> | 1 | 2 | 2 | 1 |
+| <span title="Inner loop right count">ILR</span> | 3 | 2 | 2 | 1 |
+| <span title="Hairpin counts">H</span> | 2 | 2 | 2 | 2 |
+| <span title="Bulges left count">BL</span> | 3 | 2 | 2 | 3 |
+| <span title="Bulges right count">BR</span> | 2 | 2 | 1 | 3 |
+| <span title="Unpaired nucleotide %">UN</span> | 0.23 | 0.22 | 0.22 | 0.20 |
 
 **Sequences**
 

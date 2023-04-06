@@ -5,41 +5,55 @@ permalink: /_mds/TMEM50B/
 exclude: true
 ---
 
+<link rel="stylesheet" href="../../custom.css">
 
 
-![](../../alns_9.28.22/aln_5HSAA111257_0.979.png?raw=true)
+
+<div class="row" >
+  <div class="column">
+    <a href="../../_mds/TMEM139/"><img src="../../icons/arrow_left.png" alt="arrow left" style="width:100%"></a>
+  </div>
+  <div class="column_center">
+    <img src="../../alns_9.28.22/aln_5HSAA111257_0.979.png?raw=true" alt="UTR-RS hit comparison" style="width:100%">
+  </div>
+  <div class="column">
+    <a href="../../_mds/TMEM80/"><img src="../../icons/arrow_right.png" alt="arrow right" style="width:100%"></a>
+  </div>
+</div>
+
+
 
 
 **Information**
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA111257/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000AB8205/190304" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C7460B/2138" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D8E55B/201502" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
-| ID | 5HSAA111257     | URS0000AB8205_190304     | URS0000C7460B_2138     | URS0000D8E55B_201502     |
-| Length | 102     |  99    | 100   |  100    |
-| Similarity | - | 0.96 | 0.96 | 0.96 |
-| Ensemble Norm | 0.96 | - | - | - |
-| MFE | -18 | -12.62 | -15.28 | -15.28 |
-| Ligands | - | purine | purine | purine |
-| Gene | TMEM50B | - | - | - |
-| Downstream protein | blank for now    |    -    | -  | - |
+| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA111257/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000AB8205/190304" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C7460B/2138" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D8E55B/201502" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="ID within respective databases">ID</span>  | 5HSAA111257     | URS0000AB8205_190304     | URS0000C7460B_2138     | URS0000D8E55B_201502     |
+| <span title="Length of the sequence in question">Length</span>  | 102     |  99    | 100   |  100    |
+| <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.96 | 0.96 | 0.96 |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.96 | - | - | - |
+| <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -18 | -12.62 | -15.28 | -15.28 |
+| <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | purine | purine | purine |
+| <span title="Homo Sapiens gene abbreviation">Gene</span>  | TMEM50B | - | - | - |
+| <span title="Link to the sequence source">Downstream protein</span>  | <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TMEM50B" target="_blank" rel="noopener noreferrer"> Genecard </a>   |    -    | -  | - |
 
 
 **Similarity metrics**
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| Struct MSE | - | 6 | 14 | 14 |
-| Length MSE | - | 9 | 4 | 4 |
-| Lev Distance | - | 22 | 23 | 23 |
-| UBS| 6 | 5 | 3 | 3 |
-| BS | 0 | 0 | 0 | 0 |
-| ILL | 2 | 2 | 2 | 2 |
-| ILR | 2 | 2 | 2 | 2 |
-| H | 2 | 1 | 1 | 1 |
-| BL | 0 | 2 | 0 | 0 |
-| BR | 2 | 2 | 0 | 0 |
-| UN | 0.28 | 0.35 | 0.33 | 0.33 |
+| <span title="Structural feature squared error">Struct SE</span> | - | 6 | 14 | 14 |
+| <span title="Length difference squared error">Length SE</span> | - | 9 | 4 | 4 |
+| <span title="Edit distance of both dot structures">Lev Distance</span> | - | 22 | 23 | 23 |
+| <span title="Unbranched stack count">UBS</span>| 6 | 5 | 3 | 3 |
+| <span title="Branched stack counts">BS</span> | 0 | 0 | 0 | 0 |
+| <span title="Inner loop left count">ILL</span> | 2 | 2 | 2 | 2 |
+| <span title="Inner loop right count">ILR</span> | 2 | 2 | 2 | 2 |
+| <span title="Hairpin counts">H</span> | 2 | 1 | 1 | 1 |
+| <span title="Bulges left count">BL</span> | 0 | 2 | 0 | 0 |
+| <span title="Bulges right count">BR</span> | 2 | 2 | 0 | 0 |
+| <span title="Unpaired nucleotide %">UN</span> | 0.28 | 0.35 | 0.33 | 0.33 |
 
 **Sequences**
 

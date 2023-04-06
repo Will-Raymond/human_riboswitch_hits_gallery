@@ -5,41 +5,55 @@ permalink: /_mds/PMF1/
 exclude: true
 ---
 
+<link rel="stylesheet" href="../../custom.css">
 
 
-![](../../alns_9.28.22/aln_5HSAA081676_0.987.png?raw=true)
+
+<div class="row" >
+  <div class="column">
+    <a href="../../_mds/PLXNC1/"><img src="../../icons/arrow_left.png" alt="arrow left" style="width:100%"></a>
+  </div>
+  <div class="column_center">
+    <img src="../../alns_9.28.22/aln_5HSAA081676_0.987.png?raw=true" alt="UTR-RS hit comparison" style="width:100%">
+  </div>
+  <div class="column">
+    <a href="../../_mds/PMF1_0/"><img src="../../icons/arrow_right.png" alt="arrow right" style="width:100%"></a>
+  </div>
+</div>
+
+
 
 
 **Information**
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA081676/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C526CF/1227363" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000D68714/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D6CE9A/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
-| ID | 5HSAA081676     | URS0000C526CF_1227363     | URS0000D68714_12908     | URS0000D6CE9A_12908     |
-| Length | 48     |  48    | 49   |  46    |
-| Similarity | - | 0.99 | 0.99 | 0.98 |
-| Ensemble Norm | 0.99 | - | - | - |
-| MFE | -11.18 | -9.36 | -12.04 | -19.24 |
-| Ligands | - | preQ_1 | unknown | unknown |
-| Gene | PMF1 | - | - | - |
-| Downstream protein | blank for now    |    -    | -  | - |
+| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA081676/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C526CF/1227363" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000D68714/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D6CE9A/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="ID within respective databases">ID</span>  | 5HSAA081676     | URS0000C526CF_1227363     | URS0000D68714_12908     | URS0000D6CE9A_12908     |
+| <span title="Length of the sequence in question">Length</span>  | 48     |  48    | 49   |  46    |
+| <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.99 | 0.99 | 0.98 |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.99 | - | - | - |
+| <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -11.18 | -9.36 | -12.04 | -19.24 |
+| <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | preQ_1 | unknown | unknown |
+| <span title="Homo Sapiens gene abbreviation">Gene</span>  | PMF1 | - | - | - |
+| <span title="Link to the sequence source">Downstream protein</span>  | <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PMF1" target="_blank" rel="noopener noreferrer"> Genecard </a>   |    -    | -  | - |
 
 
 **Similarity metrics**
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| Struct MSE | - | 2 | 10 | 2 |
-| Length MSE | - | 0 | 1 | 4 |
-| Lev Distance | - | 9 | 10 | 10 |
-| UBS| 3 | 2 | 4 | 3 |
-| BS | 0 | 0 | 0 | 0 |
-| ILL | 1 | 0 | 0 | 0 |
-| ILR | 0 | 0 | 0 | 0 |
-| H | 2 | 2 | 2 | 2 |
-| BL | 0 | 0 | 2 | 1 |
-| BR | 0 | 0 | 2 | 0 |
-| UN | 0.19 | 0.25 | 0.24 | 0.15 |
+| <span title="Structural feature squared error">Struct SE</span> | - | 2 | 10 | 2 |
+| <span title="Length difference squared error">Length SE</span> | - | 0 | 1 | 4 |
+| <span title="Edit distance of both dot structures">Lev Distance</span> | - | 9 | 10 | 10 |
+| <span title="Unbranched stack count">UBS</span>| 3 | 2 | 4 | 3 |
+| <span title="Branched stack counts">BS</span> | 0 | 0 | 0 | 0 |
+| <span title="Inner loop left count">ILL</span> | 1 | 0 | 0 | 0 |
+| <span title="Inner loop right count">ILR</span> | 0 | 0 | 0 | 0 |
+| <span title="Hairpin counts">H</span> | 2 | 2 | 2 | 2 |
+| <span title="Bulges left count">BL</span> | 0 | 0 | 2 | 1 |
+| <span title="Bulges right count">BR</span> | 0 | 0 | 2 | 0 |
+| <span title="Unpaired nucleotide %">UN</span> | 0.19 | 0.25 | 0.24 | 0.15 |
 
 **Sequences**
 

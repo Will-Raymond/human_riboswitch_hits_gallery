@@ -5,41 +5,55 @@ permalink: /_mds/COQ3/
 exclude: true
 ---
 
+<link rel="stylesheet" href="../../custom.css">
 
 
-![](../../alns_9.28.22/aln_5HSAA024340_0.940.png?raw=true)
+
+<div class="row" >
+  <div class="column">
+    <a href="../../_mds/COPB2/"><img src="../../icons/arrow_left.png" alt="arrow left" style="width:100%"></a>
+  </div>
+  <div class="column_center">
+    <img src="../../alns_9.28.22/aln_5HSAA024340_0.940.png?raw=true" alt="UTR-RS hit comparison" style="width:100%">
+  </div>
+  <div class="column">
+    <a href="../../_mds/COQ7/"><img src="../../icons/arrow_right.png" alt="arrow right" style="width:100%"></a>
+  </div>
+</div>
+
+
 
 
 **Information**
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA024340/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C64CFB/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS000050FA1E/321967" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D6993C/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
-| ID | 5HSAA024340     | URS0000C64CFB_12908     | URS000050FA1E_321967     | URS0000D6993C_12908     |
-| Length | 55     |  57    | 55   |  55    |
-| Similarity | - | 0.97 | 0.98 | 0.98 |
-| Ensemble Norm | 0.98 | - | - | - |
-| MFE | -12.33 | -9.94 | -10.74 | -25.16 |
-| Ligands | - | glutamine | fluoride | unknown |
-| Gene | COQ3 | - | - | - |
-| Downstream protein | blank for now    |    -    | -  | - |
+| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA024340/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C64CFB/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS000050FA1E/321967" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D6993C/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="ID within respective databases">ID</span>  | 5HSAA024340     | URS0000C64CFB_12908     | URS000050FA1E_321967     | URS0000D6993C_12908     |
+| <span title="Length of the sequence in question">Length</span>  | 55     |  57    | 55   |  55    |
+| <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.97 | 0.98 | 0.98 |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.98 | - | - | - |
+| <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -12.33 | -9.94 | -10.74 | -25.16 |
+| <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | glutamine | fluoride | unknown |
+| <span title="Homo Sapiens gene abbreviation">Gene</span>  | COQ3 | - | - | - |
+| <span title="Link to the sequence source">Downstream protein</span>  | <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ3" target="_blank" rel="noopener noreferrer"> Genecard </a>   |    -    | -  | - |
 
 
 **Similarity metrics**
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| Struct MSE | - | 12.01 | 7.06 | 11 |
-| Length MSE | - | 4 | 0 | 0 |
-| Lev Distance | - | 15 | 18 | 18 |
-| UBS| 5 | 4 | 3 | 3 |
-| BS | 0 | 0 | 0 | 0 |
-| ILL | 0 | 1 | 0 | 0 |
-| ILR | 0 | 2 | 0 | 1 |
-| H | 3 | 2 | 2 | 2 |
-| BL | 2 | 1 | 1 | 1 |
-| BR | 2 | 0 | 1 | 0 |
-| UN | 0.07 | 0.19 | 0.31 | 0.13 |
+| <span title="Structural feature squared error">Struct SE</span> | - | 12.01 | 7.06 | 11 |
+| <span title="Length difference squared error">Length SE</span> | - | 4 | 0 | 0 |
+| <span title="Edit distance of both dot structures">Lev Distance</span> | - | 15 | 18 | 18 |
+| <span title="Unbranched stack count">UBS</span>| 5 | 4 | 3 | 3 |
+| <span title="Branched stack counts">BS</span> | 0 | 0 | 0 | 0 |
+| <span title="Inner loop left count">ILL</span> | 0 | 1 | 0 | 0 |
+| <span title="Inner loop right count">ILR</span> | 0 | 2 | 0 | 1 |
+| <span title="Hairpin counts">H</span> | 3 | 2 | 2 | 2 |
+| <span title="Bulges left count">BL</span> | 2 | 1 | 1 | 1 |
+| <span title="Bulges right count">BR</span> | 2 | 0 | 1 | 0 |
+| <span title="Unpaired nucleotide %">UN</span> | 0.07 | 0.19 | 0.31 | 0.13 |
 
 **Sequences**
 

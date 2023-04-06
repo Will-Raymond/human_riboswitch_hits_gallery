@@ -5,41 +5,55 @@ permalink: /_mds/PRSS27_0/
 exclude: true
 ---
 
+<link rel="stylesheet" href="../../custom.css">
 
 
-![](../../alns_9.28.22/aln_5HSAA085280_1.000.png?raw=true)
+
+<div class="row" >
+  <div class="column">
+    <a href="../../_mds/PRSS27/"><img src="../../icons/arrow_left.png" alt="arrow left" style="width:100%"></a>
+  </div>
+  <div class="column_center">
+    <img src="../../alns_9.28.22/aln_5HSAA085280_1.000.png?raw=true" alt="UTR-RS hit comparison" style="width:100%">
+  </div>
+  <div class="column">
+    <a href="../../_mds/PSMA3/"><img src="../../icons/arrow_right.png" alt="arrow right" style="width:100%"></a>
+  </div>
+</div>
+
+
 
 
 **Information**
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA085280/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000D6CA44/441165" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000BE39F9/381754" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C431E8/1239307" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
-| ID | 5HSAA085280     | URS0000D6CA44_441165     | URS0000BE39F9_381754     | URS0000C431E8_1239307     |
-| Length | 66     |  67    | 63   |  64    |
-| Similarity | - | 0.97 | 0.96 | 0.97 |
-| Ensemble Norm | 0.97 | - | - | - |
-| MFE | -14.80 | -21.14 | -17.63 | -9.73 |
-| Ligands | - | fluoride | fluoride | fluoride |
-| Gene | PRSS27 | - | - | - |
-| Downstream protein | blank for now    |    -    | -  | - |
+| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA085280/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000D6CA44/441165" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000BE39F9/381754" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C431E8/1239307" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="ID within respective databases">ID</span>  | 5HSAA085280     | URS0000D6CA44_441165     | URS0000BE39F9_381754     | URS0000C431E8_1239307     |
+| <span title="Length of the sequence in question">Length</span>  | 66     |  67    | 63   |  64    |
+| <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.97 | 0.96 | 0.97 |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.97 | - | - | - |
+| <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -14.80 | -21.14 | -17.63 | -9.73 |
+| <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | fluoride | fluoride | fluoride |
+| <span title="Homo Sapiens gene abbreviation">Gene</span>  | PRSS27 | - | - | - |
+| <span title="Link to the sequence source">Downstream protein</span>  | <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PRSS27" target="_blank" rel="noopener noreferrer"> Genecard </a>   |    -    | -  | - |
 
 
 **Similarity metrics**
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| Struct MSE | - | 7.05 | 9 | 10.01 |
-| Length MSE | - | 1 | 9 | 4 |
-| Lev Distance | - | 21 | 20 | 21 |
-| UBS| 2 | 4 | 4 | 3 |
-| BS | 0 | 0 | 0 | 0 |
-| ILL | 0 | 0 | 2 | 0 |
-| ILR | 0 | 1 | 0 | 2 |
-| H | 2 | 3 | 2 | 1 |
-| BL | 0 | 1 | 0 | 2 |
-| BR | 0 | 0 | 1 | 0 |
-| UN | 0.05 | 0.27 | 0.08 | 0.14 |
+| <span title="Structural feature squared error">Struct SE</span> | - | 7.05 | 9 | 10.01 |
+| <span title="Length difference squared error">Length SE</span> | - | 1 | 9 | 4 |
+| <span title="Edit distance of both dot structures">Lev Distance</span> | - | 21 | 20 | 21 |
+| <span title="Unbranched stack count">UBS</span>| 2 | 4 | 4 | 3 |
+| <span title="Branched stack counts">BS</span> | 0 | 0 | 0 | 0 |
+| <span title="Inner loop left count">ILL</span> | 0 | 0 | 2 | 0 |
+| <span title="Inner loop right count">ILR</span> | 0 | 1 | 0 | 2 |
+| <span title="Hairpin counts">H</span> | 2 | 3 | 2 | 1 |
+| <span title="Bulges left count">BL</span> | 0 | 1 | 0 | 2 |
+| <span title="Bulges right count">BR</span> | 0 | 0 | 1 | 0 |
+| <span title="Unpaired nucleotide %">UN</span> | 0.05 | 0.27 | 0.08 | 0.14 |
 
 **Sequences**
 

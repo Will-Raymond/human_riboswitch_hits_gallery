@@ -5,41 +5,55 @@ permalink: /_mds/EPHA7_0/
 exclude: true
 ---
 
+<link rel="stylesheet" href="../../custom.css">
 
 
-![](../../alns_9.28.22/aln_5HSAA036089_0.961.png?raw=true)
+
+<div class="row" >
+  <div class="column">
+    <a href="../../_mds/EPHA7/"><img src="../../icons/arrow_left.png" alt="arrow left" style="width:100%"></a>
+  </div>
+  <div class="column_center">
+    <img src="../../alns_9.28.22/aln_5HSAA036089_0.961.png?raw=true" alt="UTR-RS hit comparison" style="width:100%">
+  </div>
+  <div class="column">
+    <a href="../../_mds/ERG/"><img src="../../icons/arrow_right.png" alt="arrow right" style="width:100%"></a>
+  </div>
+</div>
+
+
 
 
 **Information**
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| Link | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA036089/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS000232E25D/1632865" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS000232B087/194439" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS000231E47C/651661" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
-| ID | 5HSAA036089     | URS000232E25D_1632865     | URS000232B087_194439     | URS000231E47C_651661     |
-| Length | 266     |  262    | 268   |  264    |
-| Similarity | - | 0.87 | 0.84 | 0.91 |
-| Ensemble Norm | 0.90 | - | - | - |
-| MFE | -57.93 | -76.70 | -87.25 | -81.49 |
-| Ligands | - | cobalamin | cobalamin | cobalamin |
-| Gene | EPHA7 | - | - | - |
-| Downstream protein | blank for now    |    -    | -  | - |
+| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA036089/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS000232E25D/1632865" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS000232B087/194439" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS000231E47C/651661" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="ID within respective databases">ID</span>  | 5HSAA036089     | URS000232E25D_1632865     | URS000232B087_194439     | URS000231E47C_651661     |
+| <span title="Length of the sequence in question">Length</span>  | 266     |  262    | 268   |  264    |
+| <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.87 | 0.84 | 0.91 |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.90 | - | - | - |
+| <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -57.93 | -76.70 | -87.25 | -81.49 |
+| <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | cobalamin | cobalamin |
+| <span title="Homo Sapiens gene abbreviation">Gene</span>  | EPHA7 | - | - | - |
+| <span title="Link to the sequence source">Downstream protein</span>  | <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=EPHA7" target="_blank" rel="noopener noreferrer"> Genecard </a>   |    -    | -  | - |
 
 
 **Similarity metrics**
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| Struct MSE | - | 71.02 | 156.01 | 29.01 |
-| Length MSE | - | 16 | 4 | 4 |
-| Lev Distance | - | 113 | 117 | 119 |
-| UBS| 14 | 18 | 25 | 16 |
-| BS | 0 | 4 | 0 | 0 |
-| ILL | 4 | 6 | 4 | 6 |
-| ILR | 4 | 7 | 8 | 4 |
-| H | 4 | 3 | 3 | 6 |
-| BL | 5 | 9 | 8 | 4 |
-| BR | 6 | 9 | 9 | 2 |
-| UN | 0.15 | 0.02 | 0.04 | 0.07 |
+| <span title="Structural feature squared error">Struct SE</span> | - | 71.02 | 156.01 | 29.01 |
+| <span title="Length difference squared error">Length SE</span> | - | 16 | 4 | 4 |
+| <span title="Edit distance of both dot structures">Lev Distance</span> | - | 113 | 117 | 119 |
+| <span title="Unbranched stack count">UBS</span>| 14 | 18 | 25 | 16 |
+| <span title="Branched stack counts">BS</span> | 0 | 4 | 0 | 0 |
+| <span title="Inner loop left count">ILL</span> | 4 | 6 | 4 | 6 |
+| <span title="Inner loop right count">ILR</span> | 4 | 7 | 8 | 4 |
+| <span title="Hairpin counts">H</span> | 4 | 3 | 3 | 6 |
+| <span title="Bulges left count">BL</span> | 5 | 9 | 8 | 4 |
+| <span title="Bulges right count">BR</span> | 6 | 9 | 9 | 2 |
+| <span title="Unpaired nucleotide %">UN</span> | 0.15 | 0.02 | 0.04 | 0.07 |
 
 **Sequences**
 
