@@ -8,16 +8,17 @@ exclude: true
 <link rel="stylesheet" href="../../custom.css">
 
 
+<div> Detected as RS by 19 out of 19 classifiers </div>
 
 <div class="row" >
   <div class="column">
-    <a href="../../_mds/FBXO25_0/"><img src="../../icons/arrow_left.png" alt="arrow left" style="width:100%"></a>
+    <a href="../../_mds/OS9/"><img src="../../icons/arrow_left.png" alt="arrow left" style="width:100%"></a>
   </div>
   <div class="column_center">
     <img src="../../alns_9.28.22/aln_5HSAA040128_0.984.png?raw=true" alt="UTR-RS hit comparison" style="width:100%">
   </div>
   <div class="column">
-    <a href="../../_mds/FDPS/"><img src="../../icons/arrow_right.png" alt="arrow right" style="width:100%"></a>
+    <a href="../../_mds/CCDC138_0/"><img src="../../icons/arrow_right.png" alt="arrow right" style="width:100%"></a>
   </div>
 </div>
 
@@ -32,7 +33,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA040128     | URS0000D79814_1918948     | URS0000D7CC13_1802409     | URS0000C097BD_1178482     |
 | <span title="Length of the sequence in question">Length</span>  | 191     |  188    | 186   |  197    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.91 | 0.89 | 0.88 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.92 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.91 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -58.90 | -51.56 | -48.92 | -71.48 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | TPP | TPP | FMN |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | FCHSD2 | - | - | - |

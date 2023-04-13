@@ -8,11 +8,11 @@ Created on Wed Mar  8 12:49:19 2023
 import pandas as pd
 import os
 import pickle
-
+import numpy as np
 
 md_dir = './_mds/'
 display_dir = './'
-1/0
+
 def make_md(gene, master_str_tuple):
 
     #<! ![](../../alns_9.28.22/%s?raw=true)>
@@ -28,6 +28,7 @@ exclude: true
 <link rel="stylesheet" href="../../custom.css">
 
 
+<div> Detected as RS by %s out of 19 classifiers </div>
 
 <div class="row" >
   <div class="column">
@@ -156,7 +157,7 @@ exclude: true
         f.writelines(md_text)
         
 
-def make_md_table(utr_list, genes, best_RSs, utr_probas, algn_scores, MFEs, norm_algn):
+def make_md_table(utr_list, genes, best_RSs, utr_probas, algn_scores, MFEs, norm_algn, classifier_count):
     
     
     with open(display_dir + 'display.md','w') as f:
@@ -198,6 +199,7 @@ def make_md_table(utr_list, genes, best_RSs, utr_probas, algn_scores, MFEs, norm
         <th>Closest RS</th>
         <th>RS link</th>
         <th>Ensemble Norm</th>
+        <th>Ensemble Count</th>
         <th>Similarity</th>
         <th>MFE</th>
         <th>Visualization</th>
@@ -227,6 +229,7 @@ def make_md_table(utr_list, genes, best_RSs, utr_probas, algn_scores, MFEs, norm
             '<td>%s</td>\n'%best_RS,
             '<td><a href="https://rnacentral.org/rna/%s">RS</a></td>\n'%best_RS_url,
             '<td>%.3f</td>\n'%utr_probability,
+            '<td>%i</td>\n'%int(classifier_count[i]),
             '<td>%.3f</td>\n'%algn_score,
             '<td>%.3f</td>\n'%MFE,
             '<td><a href="/human_riboswitch_hits_gallery/_mds/%s">=></a></td>\n'%gene,
@@ -240,8 +243,12 @@ def make_md_table(utr_list, genes, best_RSs, utr_probas, algn_scores, MFEs, norm
         
         
 
+
+
 with open('./data_files/utr_probas.pkl', 'rb') as f:
     utr_probas = pickle.load(f)
+    
+ENS_count = np.load('./data_files/ENS_count.npy')
 with open('./data_files/ulist.pkl', 'rb') as f:
     ulist = pickle.load(f)
 with open('./data_files/genes.pkl', 'rb') as f:
@@ -335,6 +342,8 @@ with open('./data_files/rs3_feats.pkl', 'rb') as f:
 with open('./data_files/utr_feats.pkl', 'rb') as f:
     utr_feats = pickle.load(f)    
 
+
+
 used_genes = []
 
 for i in range(len(ulist)):
@@ -356,7 +365,12 @@ for i in range(len(ulist)):
 
 
 sorted_genes = sorted(used_genes)
-#make_md_table(ulist, used_genes, best_RSs, utr_probas, algn_scores_1, MFEs, norm_algn)  
+
+sort_proba = np.sort(utr_probas)[::-1]
+sort_index = np.argsort(utr_probas)[::-1].tolist()
+
+
+#make_md_table(ulist, used_genes, best_RSs, utr_probas, algn_scores_1, MFEs, norm_algn, ENS_count)  
 
 for i in range(len(ulist)):
     
@@ -364,20 +378,21 @@ for i in range(len(ulist)):
     file = fpaths[i]
     
     
-    gene_index_sorted = sorted_genes.index(used_genes[i])
+    gene_index_sorted = np.where(sort_proba == utr_probas[i])[0][0]
     
-    if used_genes[i] != 'AASDHPPT':
-        previous_index = used_genes.index(sorted_genes[gene_index_sorted-1])
+    if gene_index_sorted !=0:
+        previous_index = sort_index[gene_index_sorted-1]
     else:
-        previous_index = used_genes.index(sorted_genes[gene_index_sorted])
+        previous_index = sort_index[gene_index_sorted]
         
-    if used_genes[i] != 'ZNF821':
-        next_index = used_genes.index(sorted_genes[gene_index_sorted+1])
+    if gene_index_sorted != 1514:
+        next_index = sort_index[gene_index_sorted+1]
     else:
-        next_index = used_genes.index(sorted_genes[gene_index_sorted])
+        next_index = sort_index[gene_index_sorted]
     
     previous_file = used_genes[previous_index]
     next_file = used_genes[next_index]
+    enscount = ENS_count[i]
         
     gene = used_genes[i]
     utr_id = ulist[i]
@@ -444,7 +459,7 @@ for i in range(len(ulist)):
 
     
     
-    mst = [gene.upper(), gene.upper(), previous_file, file, next_file, utr_link, rs1_link, rs2_link,
+    mst = [gene.upper(), gene.upper(), enscount, previous_file, file, next_file, utr_link, rs1_link, rs2_link,
                         rs3_link, utr_id, rs1_id, rs2_id, rs3_id, 
                         utr_l, rs1_l, rs2_l, rs3_l, rs1_sim, rs2_sim, rs3_sim, ens,
                         utr_mfe, rs1_mfe, rs2_mfe, rs3_mfe,

@@ -8,16 +8,17 @@ exclude: true
 <link rel="stylesheet" href="../../custom.css">
 
 
+<div> Detected as RS by 19 out of 19 classifiers </div>
 
 <div class="row" >
   <div class="column">
-    <a href="../../_mds/OMA1/"><img src="../../icons/arrow_left.png" alt="arrow left" style="width:100%"></a>
+    <a href="../../_mds/PSMB3_0/"><img src="../../icons/arrow_left.png" alt="arrow left" style="width:100%"></a>
   </div>
   <div class="column_center">
     <img src="../../alns_9.28.22/aln_5HSAA075140_0.988.png?raw=true" alt="UTR-RS hit comparison" style="width:100%">
   </div>
   <div class="column">
-    <a href="../../_mds/OS9/"><img src="../../icons/arrow_right.png" alt="arrow right" style="width:100%"></a>
+    <a href="../../_mds/PMF1_1/"><img src="../../icons/arrow_right.png" alt="arrow right" style="width:100%"></a>
   </div>
 </div>
 
@@ -32,7 +33,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA075140     | URS0000D87AB1_1686310     | URS0001A24B6D_1907202     | URS0000D92E6B_1802287     |
 | <span title="Length of the sequence in question">Length</span>  | 34     |  36    | 35   |  38    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.97 | 0.98 | 0.96 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.98 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.97 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -8.64 | -13.46 | -12.44 | -9.18 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | SAM | unknown | fluoride |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | OPCML | - | - | - |

@@ -8,16 +8,17 @@ exclude: true
 <link rel="stylesheet" href="../../custom.css">
 
 
+<div> Detected as RS by 19 out of 19 classifiers </div>
 
 <div class="row" >
   <div class="column">
-    <a href="../../_mds/GLA/"><img src="../../icons/arrow_left.png" alt="arrow left" style="width:100%"></a>
+    <a href="../../_mds/TMEM139/"><img src="../../icons/arrow_left.png" alt="arrow left" style="width:100%"></a>
   </div>
   <div class="column_center">
     <img src="../../alns_9.28.22/aln_5HSAA044278_0.986.png?raw=true" alt="UTR-RS hit comparison" style="width:100%">
   </div>
   <div class="column">
-    <a href="../../_mds/GNL2/"><img src="../../icons/arrow_right.png" alt="arrow right" style="width:100%"></a>
+    <a href="../../_mds/DLGAP1/"><img src="../../icons/arrow_right.png" alt="arrow right" style="width:100%"></a>
   </div>
 </div>
 
@@ -32,7 +33,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA044278     | URS0000E60472_1125712     | URS0000C894B3_1188252     | URS0002317360_1262865     |
 | <span title="Length of the sequence in question">Length</span>  | 256     |  256    | 254   |  257    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.89 | 0.93 | 0.92 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.92 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.89 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -71.24 | -106.16 | -72.22 | -87.06 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | unknown | lysine | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | GLA | - | - | - |

@@ -1,0 +1,135 @@
+---
+layout: page
+title: "RNH1_1"
+permalink: /_mds/RNH1_1/
+exclude: true
+---
+
+<link rel="stylesheet" href="../../custom.css">
+
+
+<div> Detected as RS by 14 out of 19 classifiers </div>
+
+<div class="row" >
+  <div class="column">
+    <a href="../../_mds/ITGB6/"><img src="../../icons/arrow_left.png" alt="arrow left" style="width:100%"></a>
+  </div>
+  <div class="column_center">
+    <img src="../../alns_9.28.22/aln_5HSAA091823-25_0.883.png?raw=true" alt="UTR-RS hit comparison" style="width:100%">
+  </div>
+  <div class="column">
+    <a href="../../_mds/RNH1_0/"><img src="../../icons/arrow_right.png" alt="arrow right" style="width:100%"></a>
+  </div>
+</div>
+
+
+
+
+**Information**
+
+| | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
+| ---- | ----------- | ----------- | ----------- | ----------- |
+| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA091823-25/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS000231CA5C/1200284" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS000232208F/1860102" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0002321F0A/1191298" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="ID within respective databases">ID</span>  | 5HSAA091823-25     | URS000231CA5C_1200284     | URS000232208F_1860102     | URS0002321F0A_1191298     |
+| <span title="Length of the sequence in question">Length</span>  | 206     |  208    | 208   |  205    |
+| <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.87 | 0.89 | 0.90 |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.87 | - | - | - |
+| <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -77.72 | -66.15 | -74.49 | -45.59 |
+| <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | cobalamin | cobalamin |
+| <span title="Homo Sapiens gene abbreviation">Gene</span>  | RNH1 | - | - | - |
+| <span title="Link to the sequence source">Downstream protein</span>  | <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RNH1" target="_blank" rel="noopener noreferrer"> Genecard </a>   |    -    | -  | - |
+
+
+**Similarity metrics**
+
+| | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
+| ---- | ----------- | ----------- | ----------- | ----------- |
+| <span title="Structural feature squared error">Struct SE</span> | - | 203 | 137 | 116 |
+| <span title="Length difference squared error">Length SE</span> | - | 4 | 4 | 1 |
+| <span title="Edit distance of both dot structures">Lev Distance</span> | - | 70 | 71 | 72 |
+| <span title="Unbranched stack count">UBS</span>| 8 | 18 | 17 | 15 |
+| <span title="Branched stack counts">BS</span> | 7 | 0 | 0 | 0 |
+| <span title="Inner loop left count">ILL</span> | 3 | 7 | 5 | 4 |
+| <span title="Inner loop right count">ILR</span> | 3 | 9 | 4 | 5 |
+| <span title="Hairpin counts">H</span> | 3 | 2 | 3 | 3 |
+| <span title="Bulges left count">BL</span> | 5 | 5 | 6 | 2 |
+| <span title="Bulges right count">BR</span> | 4 | 5 | 5 | 6 |
+| <span title="Unpaired nucleotide %">UN</span> | 0.07 | 0.01 | 0.06 | 0.14 |
+
+**Sequences**
+
+
+<div style="overflow-x:auto;">
+
+<table>
+<colgroup>
+<col width="30%" />
+<col width="70%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Field</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td markdown="span">UTR seq + 25 </td>
+<td markdown="span"> ccacgcaccugaccacgcccacgagccggcucgaacacgcccgcgccgcugacuggcgggugggguugucgacacguucaacccguucugcuggcucgagaacgaaguaggccgucucgcucugggucuccaggcccgcgaccguccgccagucgucccgaggccacucuucaccuccaccATGAGCCTGGACATCCAGAGCCTGG </td>
+</tr>
+<tr>
+<td markdown="span">UTR dot + 25  </td>
+<td markdown="span"> ..(((..(((.((..((..(.(((((((((..((((.(((((((...........)))))))((((((.((...))..)))))))))).))))))))).)..))..))))).)))(..(((((((((.(((((((.................((((...((((..........))))....))))))))))).)))))))))..).
+</td>
+</tr>
+
+
+<tr>
+<td markdown="span">RS 1 seq </td>
+<td markdown="span"> UAGUGACGCAUCUGCUUCGGUUCGAGCGCUUCGGCGUUCGAUGAAAAGGGAACGCAGUGCGACCCGUUCGGUCAAACCUGCGGCUGCCCCCCGCAACAGUAAGCGAUGAACUAAGCCGGAUUUGCCACUGGAGUGAUCAAAGCACUGGGAAGGCCCGGCCCAGCCUAGAUCUGCGAGCCAGGAGGCCUGCCGAGGUGUUCAUCCUGUU
+</td>
+</tr>
+
+
+<tr>
+<td markdown="span">RS 1 dot </td>
+<td markdown="span"> ..(((..(((.((((...((((((((((..(((((((((..........))))))....)))..)))))))....))).)))).)))....)))(((((.....(((((((..(.((((....(((.((((.((((((...((.(((((....)))))....))...)))).))...))))..)))...))).).)))))))))))))
+</td>
+</tr>
+
+
+<tr>
+<td markdown="span">RS 2 seq </td>
+<td markdown="span"> GCGGAAGCUAUCGUGCAAGGUGCCGCAACGCAGAUUUGCUGCCGCGGUUAAACGGGAAACAGGUGCGUGUAGGUGAAACGCCAUGCCUGUGCUGUCCCCGCAACGGUAAGCGAGUGUGGGUGUGUCGAUAGGCCACUGGGUGAAAUCCUGGGAAGGCGACAUGUCAAGACUCGUGAGCCCGGAUACCGGCCUUCGCACACGUGAACGG
+</td>
+</tr>
+
+
+<tr>
+<td markdown="span">RS 2 dot </td>
+<td markdown="span"> ((((.(.((........)).).))))....((.((((((((((((((....((((...((((((((((.........))))...)))))).))))..))))...)))).)))))).)).(((((.(((.(((((....(((...((((.(((...((((...........))))...)))))))))))))))))))))))........
+</td>
+</tr>
+
+
+<tr>
+<td markdown="span">RS 3 seq </td>
+<td markdown="span"> AUACUAUCCUCGCGAGCUGGUGCCAUUUUAGAUGUAUAGAUGGCCGAAAAGGGAAUCUGGUGCAAAUCCAGAACUGACGCGCAGCGGUAAAAGAGAACGAGUAUUUGUCAAACACUGCACAUAGGUUUGUGUGGGAAGUUAAAUAUAAGGUGGCCUAUUGGCUGUGCUCUUAAGUCCGAAUACCUGCCAGCAGCUGAGUCAUAUC
+</td>
+</tr>
+
+
+<tr>
+<td markdown="span">RS 3 dot </td>
+<td markdown="span"> (((((...(((((..(((((((.((((((.(((((((((((..((.....))..))))).))))..)).)))).)).))).)))).))....)))....)))))..........(((((((......)))))))...............(((((...((((((((((..................))..)))))))))))))...
+</td>
+</tr>
+
+</tbody>
+</table>
+
+
+</div>
+
+
+[Back to Table](../../display)

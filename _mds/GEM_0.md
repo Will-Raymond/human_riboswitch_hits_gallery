@@ -8,10 +8,11 @@ exclude: true
 <link rel="stylesheet" href="../../custom.css">
 
 
+<div> Detected as RS by 19 out of 19 classifiers </div>
 
 <div class="row" >
   <div class="column">
-    <a href="../../_mds/GEM/"><img src="../../icons/arrow_left.png" alt="arrow left" style="width:100%"></a>
+    <a href="../../_mds/C1D_3/"><img src="../../icons/arrow_left.png" alt="arrow left" style="width:100%"></a>
   </div>
   <div class="column_center">
     <img src="../../alns_9.28.22/aln_5HSAA043806_0.985.png?raw=true" alt="UTR-RS hit comparison" style="width:100%">
@@ -32,7 +33,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA043806     | URS000231AD1C_1223542     | URS0002314E4C_350688     | URS00023296EC_988812     |
 | <span title="Length of the sequence in question">Length</span>  | 180     |  180    | 177   |  181    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.91 | 0.91 | 0.92 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.93 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.91 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -65.71 | -62.17 | -24.56 | -83.09 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | cobalamin | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | GEM | - | - | - |

@@ -38,6 +38,7 @@ plugins:
 include: ['_mds']
 
 header_pages:
+  - utrhittable.md
   - display.md
   - about.markdown
   - code.md

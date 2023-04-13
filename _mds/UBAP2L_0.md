@@ -8,16 +8,17 @@ exclude: true
 <link rel="stylesheet" href="../../custom.css">
 
 
+<div> Detected as RS by 19 out of 19 classifiers </div>
 
 <div class="row" >
   <div class="column">
-    <a href="../../_mds/UBAP2L/"><img src="../../icons/arrow_left.png" alt="arrow left" style="width:100%"></a>
+    <a href="../../_mds/MAPRE1_1/"><img src="../../icons/arrow_left.png" alt="arrow left" style="width:100%"></a>
   </div>
   <div class="column_center">
     <img src="../../alns_9.28.22/aln_5HSAA115804_0.988.png?raw=true" alt="UTR-RS hit comparison" style="width:100%">
   </div>
   <div class="column">
-    <a href="../../_mds/UBL5/"><img src="../../icons/arrow_right.png" alt="arrow right" style="width:100%"></a>
+    <a href="../../_mds/NDUFA8/"><img src="../../icons/arrow_right.png" alt="arrow right" style="width:100%"></a>
   </div>
 </div>
 
@@ -32,7 +33,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA115804     | URS0000AB60AB_3641     | URS0000D8ADFB_49451     | URS0000D8F7DB_210143     |
 | <span title="Length of the sequence in question">Length</span>  | 138     |  138    | 136   |  139    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.96 | 0.95 | 0.96 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.97 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.96 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -29.10 | -45.01 | -39.42 | -51.01 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | TPP | Ni/Co | TPP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | UBAP2L | - | - | - |

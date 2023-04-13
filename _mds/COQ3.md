@@ -8,16 +8,17 @@ exclude: true
 <link rel="stylesheet" href="../../custom.css">
 
 
+<div> Detected as RS by 19 out of 19 classifiers </div>
 
 <div class="row" >
   <div class="column">
-    <a href="../../_mds/COPB2/"><img src="../../icons/arrow_left.png" alt="arrow left" style="width:100%"></a>
+    <a href="../../_mds/HHAT/"><img src="../../icons/arrow_left.png" alt="arrow left" style="width:100%"></a>
   </div>
   <div class="column_center">
     <img src="../../alns_9.28.22/aln_5HSAA024340_0.940.png?raw=true" alt="UTR-RS hit comparison" style="width:100%">
   </div>
   <div class="column">
-    <a href="../../_mds/COQ7/"><img src="../../icons/arrow_right.png" alt="arrow right" style="width:100%"></a>
+    <a href="../../_mds/NOP2/"><img src="../../icons/arrow_right.png" alt="arrow right" style="width:100%"></a>
   </div>
 </div>
 
@@ -32,7 +33,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA024340     | URS0000C64CFB_12908     | URS000050FA1E_321967     | URS0000D6993C_12908     |
 | <span title="Length of the sequence in question">Length</span>  | 55     |  57    | 55   |  55    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.97 | 0.98 | 0.98 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.98 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.97 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -12.33 | -9.94 | -10.74 | -25.16 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | glutamine | fluoride | unknown |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | COQ3 | - | - | - |
