@@ -18,7 +18,7 @@ exclude: true
     <img src="../../alns_9.28.22/aln_5HSAA111669_0.860.png?raw=true" alt="UTR-RS hit comparison" style="width:100%">
   </div>
   <div class="column">
-    <a href="../../_mds/MMACHC/"><img src="../../icons/arrow_right.png" alt="arrow right" style="width:100%"></a>
+    <a href="../../_mds/FOXP1/"><img src="../../icons/arrow_right.png" alt="arrow right" style="width:100%"></a>
   </div>
 </div>
 

@@ -8,17 +8,17 @@ exclude: true
 <link rel="stylesheet" href="../../custom.css">
 
 
-<div> Detected as RS by 14 out of 19 classifiers </div>
+<div> Detected as RS by 15 out of 19 classifiers </div>
 
 <div class="row" >
   <div class="column">
-    <a href="../../_mds/BECN1/"><img src="../../icons/arrow_left.png" alt="arrow left" style="width:100%"></a>
+    <a href="../../_mds/LGALS2/"><img src="../../icons/arrow_left.png" alt="arrow left" style="width:100%"></a>
   </div>
   <div class="column_center">
-    <img src="../../alns_9.28.22/aln_5HSAA106209_0.879.png?raw=true" alt="UTR-RS hit comparison" style="width:100%">
+    <img src="../../alns_9.28.22/aln_5HSAA106209_0.881.png?raw=true" alt="UTR-RS hit comparison" style="width:100%">
   </div>
   <div class="column">
-    <a href="../../_mds/SCOC/"><img src="../../icons/arrow_right.png" alt="arrow right" style="width:100%"></a>
+    <a href="../../_mds/FGGY/"><img src="../../icons/arrow_right.png" alt="arrow right" style="width:100%"></a>
   </div>
 </div>
 

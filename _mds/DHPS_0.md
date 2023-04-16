@@ -12,13 +12,13 @@ exclude: true
 
 <div class="row" >
   <div class="column">
-    <a href="../../_mds/GSTM1/"><img src="../../icons/arrow_left.png" alt="arrow left" style="width:100%"></a>
+    <a href="../../_mds/SLC23A3/"><img src="../../icons/arrow_left.png" alt="arrow left" style="width:100%"></a>
   </div>
   <div class="column_center">
-    <img src="../../alns_9.28.22/aln_5HSAA029998_0.729.png?raw=true" alt="UTR-RS hit comparison" style="width:100%">
+    <img src="../../alns_9.28.22/aln_5HSAA029998_0.720.png?raw=true" alt="UTR-RS hit comparison" style="width:100%">
   </div>
   <div class="column">
-    <a href="../../_mds/SLC37A2/"><img src="../../icons/arrow_right.png" alt="arrow right" style="width:100%"></a>
+    <a href="../../_mds/ATP6V1C1/"><img src="../../icons/arrow_right.png" alt="arrow right" style="width:100%"></a>
   </div>
 </div>
 

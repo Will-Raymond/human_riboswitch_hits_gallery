@@ -157,10 +157,10 @@ exclude: true
         f.writelines(md_text)
         
 
-def make_md_table(utr_list, genes, best_RSs, utr_probas, algn_scores, MFEs, norm_algn, classifier_count):
+def make_md_table(utr_list, genes, best_RSs, utr_probas, algn_scores, MFEs, norm_algn, classifier_count, table_name='display'):
     
     
-    with open(display_dir + 'display.md','w') as f:
+    with open(display_dir + '%s.md'%table_name,'w') as f:
         
         
         x = '''
@@ -364,14 +364,71 @@ for i in range(len(ulist)):
 
 
 
+ens20 = True
+if ens20 == True:
+    ulist_keep = []
+    keep_indexes = []
+    for i in range(len(ulist)):
+        if ENS_count[i] == 20:
+            ulist_keep.append(ulist[i])
+            keep_indexes.append(i)
+    
+            
+    ulist2 = [ulist[i] for i in range(len(ulist)) if i in keep_indexes]
+    utr_probas = [utr_probas[i] for i in range(len(ulist)) if i in keep_indexes]
+    used_genes = [used_genes[i] for i in range(len(ulist)) if i in keep_indexes]
+    best_RSs = [best_RSs[i] for i in range(len(ulist)) if i in keep_indexes]
+    MFEs = [MFEs[i] for i in range(len(ulist)) if i in keep_indexes]
+    fpaths = [fpaths[i] for i in range(len(ulist)) if i in keep_indexes]
+    norm_algn = [norm_algn[i] for i in range(len(ulist)) if i in keep_indexes]
+    algn_scores_1 = [algn_scores_1[i] for i in range(len(ulist)) if i in keep_indexes]
+    algn_scores_2 = [algn_scores_2[i] for i in range(len(ulist)) if i in keep_indexes]
+    algn_scores_3 = [algn_scores_3[i] for i in range(len(ulist)) if i in keep_indexes]
+    
+    rs1_ids = [rs1_ids[i] for i in range(len(ulist)) if i in keep_indexes]
+    rs2_ids = [rs2_ids[i] for i in range(len(ulist)) if i in keep_indexes]
+    rs3_ids = [rs3_ids[i] for i in range(len(ulist)) if i in keep_indexes]
+    
+    rs1_seqs = [rs1_seqs[i] for i in range(len(ulist)) if i in keep_indexes]
+    rs2_seqs = [rs2_seqs[i] for i in range(len(ulist)) if i in keep_indexes]
+    rs3_seqs = [rs3_seqs[i] for i in range(len(ulist)) if i in keep_indexes]
+    utr_seqs = [utr_seqs[i] for i in range(len(ulist)) if i in keep_indexes]
+
+    rs1_mfes = [rs1_mfes[i] for i in range(len(ulist)) if i in keep_indexes]
+    rs2_mfes = [rs2_mfes[i] for i in range(len(ulist)) if i in keep_indexes]
+    rs3_mfes = [rs3_mfes[i] for i in range(len(ulist)) if i in keep_indexes]
+    utr_mfes = [utr_mfes[i] for i in range(len(ulist)) if i in keep_indexes]
+
+    rs1_ligands = [rs1_ligands[i] for i in range(len(ulist)) if i in keep_indexes]
+    rs2_ligands = [rs2_ligands[i] for i in range(len(ulist)) if i in keep_indexes]
+    rs3_ligands = [rs3_ligands[i] for i in range(len(ulist)) if i in keep_indexes]
+
+    rs1_length_MSE = [rs1_length_MSE[i] for i in range(len(ulist)) if i in keep_indexes]
+    rs2_length_MSE = [rs2_length_MSE[i] for i in range(len(ulist)) if i in keep_indexes]
+    rs3_length_MSE = [rs3_length_MSE[i] for i in range(len(ulist)) if i in keep_indexes]
+
+    rs1_lev_dist = [rs1_lev_dist[i] for i in range(len(ulist)) if i in keep_indexes]
+    rs2_lev_dist = [rs2_lev_dist[i] for i in range(len(ulist)) if i in keep_indexes]
+    rs3_lev_dist = [rs3_lev_dist[i] for i in range(len(ulist)) if i in keep_indexes]
+
+    rs1_struct_mse = [rs1_struct_mse[i] for i in range(len(ulist)) if i in keep_indexes]
+    rs2_struct_mse = [rs2_struct_mse[i] for i in range(len(ulist)) if i in keep_indexes]
+    rs3_struct_mse = [rs3_struct_mse[i] for i in range(len(ulist)) if i in keep_indexes]
+
+    rs1_feats = [rs1_feats[i] for i in range(len(ulist)) if i in keep_indexes]
+    rs2_feats = [rs2_feats[i] for i in range(len(ulist)) if i in keep_indexes]
+    rs3_feats = [rs3_feats[i] for i in range(len(ulist)) if i in keep_indexes]
+    utr_feats = [utr_feats[i] for i in range(len(ulist)) if i in keep_indexes]
+    
 sorted_genes = sorted(used_genes)
 
 sort_proba = np.sort(utr_probas)[::-1]
 sort_index = np.argsort(utr_probas)[::-1].tolist()
 
 
-#make_md_table(ulist, used_genes, best_RSs, utr_probas, algn_scores_1, MFEs, norm_algn, ENS_count)  
+make_md_table(ulist2, used_genes, best_RSs, utr_probas, algn_scores_1, MFEs, norm_algn, ENS_count, table_name='display_20')  
 
+1/0
 for i in range(len(ulist)):
     
     
@@ -385,7 +442,7 @@ for i in range(len(ulist)):
     else:
         previous_index = sort_index[gene_index_sorted]
         
-    if gene_index_sorted != 1514:
+    if gene_index_sorted != 1532:
         next_index = sort_index[gene_index_sorted+1]
     else:
         next_index = sort_index[gene_index_sorted]

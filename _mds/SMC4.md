@@ -8,17 +8,17 @@ exclude: true
 <link rel="stylesheet" href="../../custom.css">
 
 
-<div> Detected as RS by 19 out of 19 classifiers </div>
+<div> Detected as RS by 16 out of 19 classifiers </div>
 
 <div class="row" >
   <div class="column">
-    <a href="../../_mds/MEIG1/"><img src="../../icons/arrow_left.png" alt="arrow left" style="width:100%"></a>
+    <a href="../../_mds/THAP9_1/"><img src="../../icons/arrow_left.png" alt="arrow left" style="width:100%"></a>
   </div>
   <div class="column_center">
-    <img src="../../alns_9.28.22/aln_5HSAA101368_0.992.png?raw=true" alt="UTR-RS hit comparison" style="width:100%">
+    <img src="../../alns_9.28.22/aln_5HSAA101349_0.905.png?raw=true" alt="UTR-RS hit comparison" style="width:100%">
   </div>
   <div class="column">
-    <a href="../../_mds/PHF19_0/"><img src="../../icons/arrow_right.png" alt="arrow right" style="width:100%"></a>
+    <a href="../../_mds/TUBG1/"><img src="../../icons/arrow_right.png" alt="arrow right" style="width:100%"></a>
   </div>
 </div>
 
@@ -29,13 +29,13 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA101368/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS000232A9F4/58049" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000DB65E1/1776758" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000ABC348/340099" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
-| <span title="ID within respective databases">ID</span>  | 5HSAA101368     | URS000232A9F4_58049     | URS0000DB65E1_1776758     | URS0000ABC348_340099     |
-| <span title="Length of the sequence in question">Length</span>  | 114     |  111    | 114   |  115    |
-| <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.95 | 0.96 | 0.96 |
+| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA101349/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000D961F6/1519565" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C709B5/161355" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000BF6E5D/675120" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="ID within respective databases">ID</span>  | 5HSAA101349     | URS0000D961F6_1519565     | URS0000C709B5_161355     | URS0000BF6E5D_675120     |
+| <span title="Length of the sequence in question">Length</span>  | 138     |  139    | 141   |  137    |
+| <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.95 | 0.93 | 0.94 |
 | <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.95 | - | - | - |
-| <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -28.19 | -20.24 | -31.72 | -31.95 |
-| <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | FMN | FMN |
+| <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -39.33 | -28.67 | -65.39 | -30.43 |
+| <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | TPP | TPP | TPP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | SMC4 | - | - | - |
 | <span title="Link to the sequence source">Downstream protein</span>  | <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SMC4" target="_blank" rel="noopener noreferrer"> Genecard </a>   |    -    | -  | - |
 
@@ -44,17 +44,17 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Structural feature squared error">Struct SE</span> | - | 8.01 | 19 | 3.01 |
-| <span title="Length difference squared error">Length SE</span> | - | 9 | 0 | 1 |
-| <span title="Edit distance of both dot structures">Lev Distance</span> | - | 29 | 33 | 33 |
-| <span title="Unbranched stack count">UBS</span>| 9 | 7 | 11 | 9 |
+| <span title="Structural feature squared error">Struct SE</span> | - | 14.01 | 25 | 26.01 |
+| <span title="Length difference squared error">Length SE</span> | - | 1 | 9 | 1 |
+| <span title="Edit distance of both dot structures">Lev Distance</span> | - | 38 | 37 | 45 |
+| <span title="Unbranched stack count">UBS</span>| 11 | 12 | 9 | 9 |
 | <span title="Branched stack counts">BS</span> | 0 | 0 | 0 | 0 |
-| <span title="Inner loop left count">ILL</span> | 3 | 3 | 2 | 2 |
-| <span title="Inner loop right count">ILR</span> | 2 | 3 | 2 | 2 |
-| <span title="Hairpin counts">H</span> | 3 | 2 | 2 | 2 |
-| <span title="Bulges left count">BL</span> | 3 | 2 | 5 | 3 |
-| <span title="Bulges right count">BR</span> | 3 | 2 | 6 | 4 |
-| <span title="Unpaired nucleotide %">UN</span> | 0.05 | 0.16 | 0.10 | 0.17 |
+| <span title="Inner loop left count">ILL</span> | 1 | 3 | 3 | 3 |
+| <span title="Inner loop right count">ILR</span> | 2 | 4 | 2 | 2 |
+| <span title="Hairpin counts">H</span> | 4 | 4 | 4 | 4 |
+| <span title="Bulges left count">BL</span> | 5 | 3 | 1 | 2 |
+| <span title="Bulges right count">BR</span> | 3 | 2 | 2 | 0 |
+| <span title="Unpaired nucleotide %">UN</span> | 0.14 | 0.04 | 0.13 | 0.23 |
 
 **Sequences**
 
@@ -75,53 +75,53 @@ exclude: true
 <tbody>
 <tr>
 <td markdown="span">UTR seq + 25 </td>
-<td markdown="span"> guauuuuaggcgccauuuucgagugaaggacccggagccgaaacaccgguaggagcggggagguggguacuacacaaccgucuccagcaATGCCCCGTAAAGGCACCCAGCCCT </td>
+<td markdown="span"> uaggcgccauuuucgagugaaggacccggagccgaaacaccgguaggagcggggagguggguacuacacaaccgucuccagccuuggucugaguggacuguccugcagcgaccATGCCCCGTAAAGGCACCCAGCCCT </td>
 </tr>
 <tr>
 <td markdown="span">UTR dot + 25  </td>
-<td markdown="span"> ((.((((.(((.((...(((.......)))...)).))))))).))(((.....((..((((((((...........)))))))).))......)))....(((.....)))..
+<td markdown="span"> ..(((.((...(((.......)))...)).)))......(((.......)))((((((((...........)))))))).((((((((.((.((.(.((((...))))).)))).))).....)))))..........
 </td>
 </tr>
 
 
 <tr>
 <td markdown="span">RS 1 seq </td>
-<td markdown="span"> UUUUUGUGUUAUGAAGAUGGUGAAAAUCCAUCGCUGUGCCCGCAACUGUAAAUGAAGUGAUAUUCAGUUUUCCGAUAAAUAUCGCCUCAAAGUCAGAUAGCUAACCAAAAA
+<td markdown="span"> CACUCUCGCUGCGGGAGCUUGAUGUGGGAAAUAAUAUGCUGAGAGUUUCAAAGUCUAUGGUUCUUGAAAAGACUUUGUAUCGACCGUUCGAACCUGCUCAUGGUAAUGCAUGCGAAAGGGAACGUGAGUUGUGCAAUGG
 </td>
 </tr>
 
 
 <tr>
 <td markdown="span">RS 1 dot </td>
-<td markdown="span"> ...(((((.((((..(((((.......)))))..))))..)))))(((....(((.((((((((..(((....))).)))))))).)))....)))...............
+<td markdown="span"> (((((..(((.....)))..)).))).(((((..(......)..)))))(((((((.............)))))))(((.(((((((((...(((.(.((((......)))).)..))))))))...))))))).....
 </td>
 </tr>
 
 
 <tr>
 <td markdown="span">RS 2 seq </td>
-<td markdown="span"> UUAUAUCUUCAGGGCAGGGUGCAAGUCCCUACCGGCGGUAUAGCCCGCGAGCCGUAAGGUUGAUUCGGUGAAAGUCCGAAGCCGACAGUAUAGUCUGGAUGGGAGAAGAUAAUU
+<td markdown="span"> AAUAUCUACCGCGGGAGCUCGGGCGGAGCCGGGCUGAGAGGGCGGGACCACGCGGAGGGCCGGAGAAGGCCCUCCCACGCGCCGCCGACCGCAUGAACCUGUCCGGGUAAUGCCGGCGUAGGGAGCGCGUGAUGACGUCCG
 </td>
 </tr>
 
 
 <tr>
 <td markdown="span">RS 2 dot </td>
-<td markdown="span"> (((((((.((.((..((((.......)))).)))).)))))))(((((.(((.(((..((((.(((((.......)))))..))))..))).).)).).))))...........
+<td markdown="span"> ........((.(...(((((((......)))))))..).))(((......)))((((((((......))))))))((((((((((((...((((..((((....)))).)))))))))......)))))))..........
 </td>
 </tr>
 
 
 <tr>
 <td markdown="span">RS 3 seq </td>
-<td markdown="span"> UAAAACCUUCGGGGAUCGGUGAAAUUCCGUACCGGCGGUAUAGCCCGCGAGCCUUUUGGCAGACUCGGUGAAAUUCCGAGGCCGACAGUUAAAGUCUGGAUGGGAGAAGGAGAAA
+<td markdown="span"> CUUUUGCAUGACGGGUGUUCACUUGCCCUGCCUUCGCUGCCUUCAUCAGCAAUGGACGCGGACAUUUGAUCUGAGAUCAUACCGUUCUAACCAGAGUCACGAUAAUGCGUGCGAUGGGACUAUGCCUUCCUCUAACU
 </td>
 </tr>
 
 
 <tr>
 <td markdown="span">RS 3 dot </td>
-<td markdown="span"> ....(((.((((....(((.......)))..)))).)))....(((((.((.((((((((...(((((.......))))))))))......))).)).).))))...........
+<td markdown="span"> .....(((....(((((......))))))))....((((.......))))..((((.((((.....(((((...)))))..)))))))).(((..(.((((......)))))..)))....................
 </td>
 </tr>
 

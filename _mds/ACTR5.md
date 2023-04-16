@@ -8,7 +8,7 @@ exclude: true
 <link rel="stylesheet" href="../../custom.css">
 
 
-<div> Detected as RS by 15 out of 19 classifiers </div>
+<div> Detected as RS by 16 out of 19 classifiers </div>
 
 <div class="row" >
   <div class="column">
@@ -18,7 +18,7 @@ exclude: true
     <img src="../../alns_9.28.22/aln_5HSAA001795_0.928.png?raw=true" alt="UTR-RS hit comparison" style="width:100%">
   </div>
   <div class="column">
-    <a href="../../_mds/NECAP1/"><img src="../../icons/arrow_right.png" alt="arrow right" style="width:100%"></a>
+    <a href="../../_mds/DMBX1/"><img src="../../icons/arrow_right.png" alt="arrow right" style="width:100%"></a>
   </div>
 </div>
 

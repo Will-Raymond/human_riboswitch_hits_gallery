@@ -8,17 +8,17 @@ exclude: true
 <link rel="stylesheet" href="../../custom.css">
 
 
-<div> Detected as RS by 19 out of 19 classifiers </div>
+<div> Detected as RS by 20 out of 19 classifiers </div>
 
 <div class="row" >
   <div class="column">
-    <a href="../../_mds/KIF18A_0/"><img src="../../icons/arrow_left.png" alt="arrow left" style="width:100%"></a>
+    <a href="../../_mds/GHITM/"><img src="../../icons/arrow_left.png" alt="arrow left" style="width:100%"></a>
   </div>
   <div class="column_center">
-    <img src="../../alns_9.28.22/aln_5HSAA041101_0.967.png?raw=true" alt="UTR-RS hit comparison" style="width:100%">
+    <img src="../../alns_9.28.22/aln_5HSAA041102_0.958.png?raw=true" alt="UTR-RS hit comparison" style="width:100%">
   </div>
   <div class="column">
-    <a href="../../_mds/BNIP2/"><img src="../../icons/arrow_right.png" alt="arrow right" style="width:100%"></a>
+    <a href="../../_mds/MEMO1/"><img src="../../icons/arrow_right.png" alt="arrow right" style="width:100%"></a>
   </div>
 </div>
 
@@ -29,11 +29,11 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA041101/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000BF143C/1262904" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C34E0B/1217655" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000DB3BBF/1797673" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
-| <span title="ID within respective databases">ID</span>  | 5HSAA041101     | URS0000BF143C_1262904     | URS0000C34E0B_1217655     | URS0000DB3BBF_1797673     |
-| <span title="Length of the sequence in question">Length</span>  | 143     |  147    | 145   |  146    |
-| <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.92 | 0.95 | 0.93 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.92 | - | - | - |
+| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA041102/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000BF143C/1262904" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C34E0B/1217655" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000DB3BBF/1797673" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="ID within respective databases">ID</span>  | 5HSAA041102     | URS0000BF143C_1262904     | URS0000C34E0B_1217655     | URS0000DB3BBF_1797673     |
+| <span title="Length of the sequence in question">Length</span>  | 144     |  147    | 145   |  146    |
+| <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.94 | 0.95 | 0.94 |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.94 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -55.18 | -26.91 | -31.35 | -57.31 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | glucosamine | Mn2+ | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | FKBP15 | - | - | - |
@@ -45,8 +45,8 @@ exclude: true
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
 | <span title="Structural feature squared error">Struct SE</span> | - | 10 | 5 | 20 |
-| <span title="Length difference squared error">Length SE</span> | - | 16 | 4 | 9 |
-| <span title="Edit distance of both dot structures">Lev Distance</span> | - | 37 | 40 | 39 |
+| <span title="Length difference squared error">Length SE</span> | - | 9 | 1 | 4 |
+| <span title="Edit distance of both dot structures">Lev Distance</span> | - | 36 | 40 | 40 |
 | <span title="Unbranched stack count">UBS</span>| 10 | 8 | 10 | 13 |
 | <span title="Branched stack counts">BS</span> | 0 | 0 | 0 | 0 |
 | <span title="Inner loop left count">ILL</span> | 4 | 2 | 4 | 3 |
@@ -75,11 +75,11 @@ exclude: true
 <tbody>
 <tr>
 <td markdown="span">UTR seq + 25 </td>
-<td markdown="span"> aguucgcccugccggaaagcagcacgccgccgcggcauuuuacgacgucggcggugacaggcccugggacucugggaauacccagcuuccuccccgcaacccggugaaagccaacgcaATGTTCGGTGCGGGGGACGAGGACG </td>
+<td markdown="span"> gaguucgcccugccggaaagcagcacgccgccgcggcauuuuacgacgucggcggugacaggcccugggacucugggaauacccagcuuccuccccgcaacccggugaaagccaacgcaATGTTCGGTGCGGGGGACGAGGACG </td>
 </tr>
 <tr>
 <td markdown="span">UTR dot + 25  </td>
-<td markdown="span"> .........(.((((...((....((((((((((...........)).))))))))....)).)))).)..(((((....)))))((((.((((((((..((((.....((....)).....))))))))))))..))))...
+<td markdown="span"> ..........(.((((...((....((((((((((...........)).))))))))....)).)))).)..(((((....)))))((((.((((((((..((((.....((....)).....))))))))))))..))))...
 </td>
 </tr>
 
