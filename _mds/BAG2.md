@@ -8,7 +8,7 @@ exclude: true
 <link rel="stylesheet" href="../../custom.css">
 
 
-<div> Detected as RS by 6 out of 19 classifiers </div>
+<div> Detected as RS by 6 out of 20 classifiers </div>
 
 <div class="row" >
   <div class="column">

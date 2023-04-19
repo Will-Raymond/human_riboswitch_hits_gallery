@@ -28,7 +28,7 @@ exclude: true
 <link rel="stylesheet" href="../../custom.css">
 
 
-<div> Detected as RS by %s out of 19 classifiers </div>
+<div> Detected as RS by %s out of 20 classifiers </div>
 
 <div class="row" >
   <div class="column">
@@ -364,7 +364,7 @@ for i in range(len(ulist)):
 
 
 
-ens20 = True
+ens20 = False
 if ens20 == True:
     ulist_keep = []
     keep_indexes = []
@@ -424,31 +424,25 @@ sorted_genes = sorted(used_genes)
 
 sort_proba = np.sort(utr_probas)[::-1]
 sort_index = np.argsort(utr_probas)[::-1].tolist()
+page_order = [used_genes[i] for i in sort_index]
+
+#make_md_table(ulist2, used_genes, best_RSs, utr_probas, algn_scores_1, MFEs, norm_algn, ENS_count, table_name='display_20')  
 
 
-make_md_table(ulist2, used_genes, best_RSs, utr_probas, algn_scores_1, MFEs, norm_algn, ENS_count, table_name='display_20')  
-
-1/0
+previously_used_indexes = []
 for i in range(len(ulist)):
     
     
     file = fpaths[i]
-    
-    
-    gene_index_sorted = np.where(sort_proba == utr_probas[i])[0][0]
-    
-    if gene_index_sorted !=0:
-        previous_index = sort_index[gene_index_sorted-1]
+    gis = page_order.index(used_genes[i])
+    if gis != 0:
+        previous_file = page_order[gis-1]
     else:
-        previous_index = sort_index[gene_index_sorted]
-        
-    if gene_index_sorted != 1532:
-        next_index = sort_index[gene_index_sorted+1]
+        previous_file = page_order[gis]
+    if gis != 1532:
+        next_file = page_order[gis+1]
     else:
-        next_index = sort_index[gene_index_sorted]
-    
-    previous_file = used_genes[previous_index]
-    next_file = used_genes[next_index]
+        next_file = page_order[gis]
     enscount = ENS_count[i]
         
     gene = used_genes[i]
@@ -536,11 +530,11 @@ for i in range(len(ulist)):
                         rs1_seq, rs1_dot, rs2_seq, rs2_dot, rs3_seq, rs3_dot]
     
     master_str_tuple = []
-    for i in range(len(mst)):
-        if isinstance(mst[i],str):
-            master_str_tuple.append(mst[i])
+    for j in range(len(mst)):
+        if isinstance(mst[j],str):
+            master_str_tuple.append(mst[j])
         else:
-            ss = '{:.2f}'.format(mst[i])
+            ss = '{:.2f}'.format(mst[j])
             if ss[-2:] == '00':
                 ss = ss[:-3]
             master_str_tuple.append(ss)
