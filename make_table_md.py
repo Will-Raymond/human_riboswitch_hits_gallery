@@ -152,7 +152,9 @@ exclude: true
 </div>
 
 
-[Back to Table](../../display)
+[Back to Ensemble of 20 Table](../../display_436)
+
+[Back to Ensemble of 1 Table](../../display_1533)
 '''%master_str_tuple
         f.writelines(md_text)
         

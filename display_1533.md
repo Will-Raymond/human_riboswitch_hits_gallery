@@ -50,7 +50,7 @@ $(document).ready(function(){
 <td>18</td>
 <td>0.935</td>
 <td>-29.807</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/A1CF">=></a></td>
+<td><a href="/riboeuk/_mds/A1CF">=></a></td>
 </tr>
 <tr>
 <td>A2ML1</td>
@@ -62,7 +62,7 @@ $(document).ready(function(){
 <td>3</td>
 <td>0.947</td>
 <td>-24.949</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/A2ML1">=></a></td>
+<td><a href="/riboeuk/_mds/A2ML1">=></a></td>
 </tr>
 <tr>
 <td>AAAS</td>
@@ -74,7 +74,7 @@ $(document).ready(function(){
 <td>8</td>
 <td>0.941</td>
 <td>-62.566</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/AAAS">=></a></td>
+<td><a href="/riboeuk/_mds/AAAS">=></a></td>
 </tr>
 <tr>
 <td>AASDH</td>
@@ -86,7 +86,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.926</td>
 <td>-43.142</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/AASDH">=></a></td>
+<td><a href="/riboeuk/_mds/AASDH">=></a></td>
 </tr>
 <tr>
 <td>AASDH_0</td>
@@ -98,7 +98,7 @@ $(document).ready(function(){
 <td>11</td>
 <td>0.924</td>
 <td>-41.821</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/AASDH_0">=></a></td>
+<td><a href="/riboeuk/_mds/AASDH_0">=></a></td>
 </tr>
 <tr>
 <td>AASDHPPT</td>
@@ -110,7 +110,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.959</td>
 <td>-21.419</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/AASDHPPT">=></a></td>
+<td><a href="/riboeuk/_mds/AASDHPPT">=></a></td>
 </tr>
 <tr>
 <td>AASDHPPT_0</td>
@@ -122,7 +122,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.959</td>
 <td>-21.419</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/AASDHPPT_0">=></a></td>
+<td><a href="/riboeuk/_mds/AASDHPPT_0">=></a></td>
 </tr>
 <tr>
 <td>ABCB1</td>
@@ -134,7 +134,7 @@ $(document).ready(function(){
 <td>14</td>
 <td>0.963</td>
 <td>-17.171</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ABCB1">=></a></td>
+<td><a href="/riboeuk/_mds/ABCB1">=></a></td>
 </tr>
 <tr>
 <td>ABCB5</td>
@@ -146,7 +146,7 @@ $(document).ready(function(){
 <td>2</td>
 <td>0.973</td>
 <td>-11.235</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ABCB5">=></a></td>
+<td><a href="/riboeuk/_mds/ABCB5">=></a></td>
 </tr>
 <tr>
 <td>ABCC11</td>
@@ -158,7 +158,7 @@ $(document).ready(function(){
 <td>11</td>
 <td>0.957</td>
 <td>-9.751</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ABCC11">=></a></td>
+<td><a href="/riboeuk/_mds/ABCC11">=></a></td>
 </tr>
 <tr>
 <td>ABCC11_0</td>
@@ -170,7 +170,7 @@ $(document).ready(function(){
 <td>2</td>
 <td>0.955</td>
 <td>-30.055</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ABCC11_0">=></a></td>
+<td><a href="/riboeuk/_mds/ABCC11_0">=></a></td>
 </tr>
 <tr>
 <td>ABCC9</td>
@@ -182,7 +182,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.987</td>
 <td>-8.067</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ABCC9">=></a></td>
+<td><a href="/riboeuk/_mds/ABCC9">=></a></td>
 </tr>
 <tr>
 <td>ABCD3</td>
@@ -194,7 +194,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.976</td>
 <td>-36.287</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ABCD3">=></a></td>
+<td><a href="/riboeuk/_mds/ABCD3">=></a></td>
 </tr>
 <tr>
 <td>ABCF3</td>
@@ -206,7 +206,7 @@ $(document).ready(function(){
 <td>5</td>
 <td>0.979</td>
 <td>-17.422</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ABCF3">=></a></td>
+<td><a href="/riboeuk/_mds/ABCF3">=></a></td>
 </tr>
 <tr>
 <td>ABCF3_0</td>
@@ -218,7 +218,7 @@ $(document).ready(function(){
 <td>3</td>
 <td>0.981</td>
 <td>-16.385</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ABCF3_0">=></a></td>
+<td><a href="/riboeuk/_mds/ABCF3_0">=></a></td>
 </tr>
 <tr>
 <td>ABCF3_1</td>
@@ -230,7 +230,7 @@ $(document).ready(function(){
 <td>6</td>
 <td>0.924</td>
 <td>-68.489</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ABCF3_1">=></a></td>
+<td><a href="/riboeuk/_mds/ABCF3_1">=></a></td>
 </tr>
 <tr>
 <td>ACAD8</td>
@@ -242,7 +242,7 @@ $(document).ready(function(){
 <td>2</td>
 <td>0.947</td>
 <td>-56.200</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ACAD8">=></a></td>
+<td><a href="/riboeuk/_mds/ACAD8">=></a></td>
 </tr>
 <tr>
 <td>ACAP3</td>
@@ -254,7 +254,7 @@ $(document).ready(function(){
 <td>2</td>
 <td>0.932</td>
 <td>-45.239</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ACAP3">=></a></td>
+<td><a href="/riboeuk/_mds/ACAP3">=></a></td>
 </tr>
 <tr>
 <td>ACE</td>
@@ -266,7 +266,7 @@ $(document).ready(function(){
 <td>4</td>
 <td>0.984</td>
 <td>-16.232</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ACE">=></a></td>
+<td><a href="/riboeuk/_mds/ACE">=></a></td>
 </tr>
 <tr>
 <td>ACP2</td>
@@ -278,7 +278,7 @@ $(document).ready(function(){
 <td>4</td>
 <td>0.946</td>
 <td>-58.553</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ACP2">=></a></td>
+<td><a href="/riboeuk/_mds/ACP2">=></a></td>
 </tr>
 <tr>
 <td>ACP2_0</td>
@@ -290,7 +290,7 @@ $(document).ready(function(){
 <td>4</td>
 <td>0.980</td>
 <td>-18.586</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ACP2_0">=></a></td>
+<td><a href="/riboeuk/_mds/ACP2_0">=></a></td>
 </tr>
 <tr>
 <td>ACP6</td>
@@ -302,7 +302,7 @@ $(document).ready(function(){
 <td>5</td>
 <td>0.976</td>
 <td>-26.849</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ACP6">=></a></td>
+<td><a href="/riboeuk/_mds/ACP6">=></a></td>
 </tr>
 <tr>
 <td>ACSS2</td>
@@ -314,7 +314,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.974</td>
 <td>-44.744</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ACSS2">=></a></td>
+<td><a href="/riboeuk/_mds/ACSS2">=></a></td>
 </tr>
 <tr>
 <td>ACTR5</td>
@@ -326,7 +326,7 @@ $(document).ready(function(){
 <td>16</td>
 <td>0.975</td>
 <td>-15.892</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ACTR5">=></a></td>
+<td><a href="/riboeuk/_mds/ACTR5">=></a></td>
 </tr>
 <tr>
 <td>ACTR6</td>
@@ -338,7 +338,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.973</td>
 <td>-24.432</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ACTR6">=></a></td>
+<td><a href="/riboeuk/_mds/ACTR6">=></a></td>
 </tr>
 <tr>
 <td>ADAD1</td>
@@ -350,7 +350,7 @@ $(document).ready(function(){
 <td>16</td>
 <td>0.938</td>
 <td>-65.247</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ADAD1">=></a></td>
+<td><a href="/riboeuk/_mds/ADAD1">=></a></td>
 </tr>
 <tr>
 <td>ADARB1</td>
@@ -362,7 +362,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.951</td>
 <td>-21.125</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ADARB1">=></a></td>
+<td><a href="/riboeuk/_mds/ADARB1">=></a></td>
 </tr>
 <tr>
 <td>ADD1</td>
@@ -374,7 +374,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.953</td>
 <td>-44.458</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ADD1">=></a></td>
+<td><a href="/riboeuk/_mds/ADD1">=></a></td>
 </tr>
 <tr>
 <td>ADH7</td>
@@ -386,7 +386,7 @@ $(document).ready(function(){
 <td>12</td>
 <td>0.976</td>
 <td>-13.842</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ADH7">=></a></td>
+<td><a href="/riboeuk/_mds/ADH7">=></a></td>
 </tr>
 <tr>
 <td>ADI1</td>
@@ -398,7 +398,7 @@ $(document).ready(function(){
 <td>17</td>
 <td>0.959</td>
 <td>-36.181</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ADI1">=></a></td>
+<td><a href="/riboeuk/_mds/ADI1">=></a></td>
 </tr>
 <tr>
 <td>ADM</td>
@@ -410,7 +410,7 @@ $(document).ready(function(){
 <td>16</td>
 <td>0.974</td>
 <td>-26.987</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ADM">=></a></td>
+<td><a href="/riboeuk/_mds/ADM">=></a></td>
 </tr>
 <tr>
 <td>ADRA1D</td>
@@ -422,7 +422,7 @@ $(document).ready(function(){
 <td>19</td>
 <td>0.972</td>
 <td>-30.129</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ADRA1D">=></a></td>
+<td><a href="/riboeuk/_mds/ADRA1D">=></a></td>
 </tr>
 <tr>
 <td>AEBP2</td>
@@ -434,7 +434,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.990</td>
 <td>-6.342</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/AEBP2">=></a></td>
+<td><a href="/riboeuk/_mds/AEBP2">=></a></td>
 </tr>
 <tr>
 <td>AFM</td>
@@ -446,7 +446,7 @@ $(document).ready(function(){
 <td>11</td>
 <td>0.964</td>
 <td>-18.742</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/AFM">=></a></td>
+<td><a href="/riboeuk/_mds/AFM">=></a></td>
 </tr>
 <tr>
 <td>AFP</td>
@@ -458,7 +458,7 @@ $(document).ready(function(){
 <td>12</td>
 <td>0.976</td>
 <td>-12.601</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/AFP">=></a></td>
+<td><a href="/riboeuk/_mds/AFP">=></a></td>
 </tr>
 <tr>
 <td>AFP_0</td>
@@ -470,7 +470,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.962</td>
 <td>-23.682</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/AFP_0">=></a></td>
+<td><a href="/riboeuk/_mds/AFP_0">=></a></td>
 </tr>
 <tr>
 <td>AFTPH</td>
@@ -482,7 +482,7 @@ $(document).ready(function(){
 <td>5</td>
 <td>0.985</td>
 <td>-5.006</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/AFTPH">=></a></td>
+<td><a href="/riboeuk/_mds/AFTPH">=></a></td>
 </tr>
 <tr>
 <td>AGTPBP1</td>
@@ -494,7 +494,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.960</td>
 <td>-23.281</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/AGTPBP1">=></a></td>
+<td><a href="/riboeuk/_mds/AGTPBP1">=></a></td>
 </tr>
 <tr>
 <td>AGTPBP1_0</td>
@@ -506,7 +506,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.897</td>
 <td>-66.420</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/AGTPBP1_0">=></a></td>
+<td><a href="/riboeuk/_mds/AGTPBP1_0">=></a></td>
 </tr>
 <tr>
 <td>AIP</td>
@@ -518,7 +518,7 @@ $(document).ready(function(){
 <td>2</td>
 <td>0.941</td>
 <td>-54.323</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/AIP">=></a></td>
+<td><a href="/riboeuk/_mds/AIP">=></a></td>
 </tr>
 <tr>
 <td>AIP_0</td>
@@ -530,7 +530,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.934</td>
 <td>-50.928</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/AIP_0">=></a></td>
+<td><a href="/riboeuk/_mds/AIP_0">=></a></td>
 </tr>
 <tr>
 <td>AKR1B1</td>
@@ -542,7 +542,7 @@ $(document).ready(function(){
 <td>6</td>
 <td>0.970</td>
 <td>-34.242</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/AKR1B1">=></a></td>
+<td><a href="/riboeuk/_mds/AKR1B1">=></a></td>
 </tr>
 <tr>
 <td>ALDH18A1</td>
@@ -554,7 +554,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.896</td>
 <td>-56.158</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ALDH18A1">=></a></td>
+<td><a href="/riboeuk/_mds/ALDH18A1">=></a></td>
 </tr>
 <tr>
 <td>ALDH18A1_0</td>
@@ -566,7 +566,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.951</td>
 <td>-36.713</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ALDH18A1_0">=></a></td>
+<td><a href="/riboeuk/_mds/ALDH18A1_0">=></a></td>
 </tr>
 <tr>
 <td>ALDH18A1_1</td>
@@ -578,7 +578,7 @@ $(document).ready(function(){
 <td>17</td>
 <td>0.947</td>
 <td>-42.856</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ALDH18A1_1">=></a></td>
+<td><a href="/riboeuk/_mds/ALDH18A1_1">=></a></td>
 </tr>
 <tr>
 <td>ALDH8A1</td>
@@ -590,7 +590,7 @@ $(document).ready(function(){
 <td>5</td>
 <td>0.977</td>
 <td>-26.428</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ALDH8A1">=></a></td>
+<td><a href="/riboeuk/_mds/ALDH8A1">=></a></td>
 </tr>
 <tr>
 <td>ALG13</td>
@@ -602,7 +602,7 @@ $(document).ready(function(){
 <td>19</td>
 <td>0.979</td>
 <td>-13.975</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ALG13">=></a></td>
+<td><a href="/riboeuk/_mds/ALG13">=></a></td>
 </tr>
 <tr>
 <td>ALG13_0</td>
@@ -614,7 +614,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.981</td>
 <td>-16.962</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ALG13_0">=></a></td>
+<td><a href="/riboeuk/_mds/ALG13_0">=></a></td>
 </tr>
 <tr>
 <td>ALG13_1</td>
@@ -626,7 +626,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.953</td>
 <td>-33.752</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ALG13_1">=></a></td>
+<td><a href="/riboeuk/_mds/ALG13_1">=></a></td>
 </tr>
 <tr>
 <td>ALOX15</td>
@@ -638,7 +638,7 @@ $(document).ready(function(){
 <td>2</td>
 <td>0.979</td>
 <td>-8.200</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ALOX15">=></a></td>
+<td><a href="/riboeuk/_mds/ALOX15">=></a></td>
 </tr>
 <tr>
 <td>AMELX</td>
@@ -650,7 +650,7 @@ $(document).ready(function(){
 <td>4</td>
 <td>0.981</td>
 <td>-14.905</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/AMELX">=></a></td>
+<td><a href="/riboeuk/_mds/AMELX">=></a></td>
 </tr>
 <tr>
 <td>AMTN</td>
@@ -662,7 +662,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.963</td>
 <td>-18.225</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/AMTN">=></a></td>
+<td><a href="/riboeuk/_mds/AMTN">=></a></td>
 </tr>
 <tr>
 <td>AMTN_0</td>
@@ -674,7 +674,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.957</td>
 <td>-21.218</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/AMTN_0">=></a></td>
+<td><a href="/riboeuk/_mds/AMTN_0">=></a></td>
 </tr>
 <tr>
 <td>AMZ2</td>
@@ -686,7 +686,7 @@ $(document).ready(function(){
 <td>11</td>
 <td>0.965</td>
 <td>-34.889</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/AMZ2">=></a></td>
+<td><a href="/riboeuk/_mds/AMZ2">=></a></td>
 </tr>
 <tr>
 <td>AMZ2_0</td>
@@ -698,7 +698,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.947</td>
 <td>-33.297</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/AMZ2_0">=></a></td>
+<td><a href="/riboeuk/_mds/AMZ2_0">=></a></td>
 </tr>
 <tr>
 <td>ANAPC10</td>
@@ -710,7 +710,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.931</td>
 <td>-29.534</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ANAPC10">=></a></td>
+<td><a href="/riboeuk/_mds/ANAPC10">=></a></td>
 </tr>
 <tr>
 <td>ANAPC10_0</td>
@@ -722,7 +722,7 @@ $(document).ready(function(){
 <td>17</td>
 <td>0.920</td>
 <td>-64.202</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ANAPC10_0">=></a></td>
+<td><a href="/riboeuk/_mds/ANAPC10_0">=></a></td>
 </tr>
 <tr>
 <td>ANAPC10_1</td>
@@ -734,7 +734,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.934</td>
 <td>-32.098</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ANAPC10_1">=></a></td>
+<td><a href="/riboeuk/_mds/ANAPC10_1">=></a></td>
 </tr>
 <tr>
 <td>ANAPC10_2</td>
@@ -746,7 +746,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.960</td>
 <td>-29.534</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ANAPC10_2">=></a></td>
+<td><a href="/riboeuk/_mds/ANAPC10_2">=></a></td>
 </tr>
 <tr>
 <td>ANAPC11</td>
@@ -758,7 +758,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.941</td>
 <td>-70.382</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ANAPC11">=></a></td>
+<td><a href="/riboeuk/_mds/ANAPC11">=></a></td>
 </tr>
 <tr>
 <td>ANAPC7</td>
@@ -770,7 +770,7 @@ $(document).ready(function(){
 <td>4</td>
 <td>0.993</td>
 <td>-7.929</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ANAPC7">=></a></td>
+<td><a href="/riboeuk/_mds/ANAPC7">=></a></td>
 </tr>
 <tr>
 <td>ANKRD24</td>
@@ -782,7 +782,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.983</td>
 <td>-1.335</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ANKRD24">=></a></td>
+<td><a href="/riboeuk/_mds/ANKRD24">=></a></td>
 </tr>
 <tr>
 <td>ANKRD44</td>
@@ -794,7 +794,7 @@ $(document).ready(function(){
 <td>7</td>
 <td>0.950</td>
 <td>-40.297</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ANKRD44">=></a></td>
+<td><a href="/riboeuk/_mds/ANKRD44">=></a></td>
 </tr>
 <tr>
 <td>ANKRD45</td>
@@ -806,7 +806,7 @@ $(document).ready(function(){
 <td>12</td>
 <td>0.967</td>
 <td>-24.323</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ANKRD45">=></a></td>
+<td><a href="/riboeuk/_mds/ANKRD45">=></a></td>
 </tr>
 <tr>
 <td>ANTXR2</td>
@@ -818,7 +818,7 @@ $(document).ready(function(){
 <td>8</td>
 <td>0.931</td>
 <td>-50.484</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ANTXR2">=></a></td>
+<td><a href="/riboeuk/_mds/ANTXR2">=></a></td>
 </tr>
 <tr>
 <td>AP3S1</td>
@@ -830,7 +830,7 @@ $(document).ready(function(){
 <td>4</td>
 <td>0.949</td>
 <td>-62.956</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/AP3S1">=></a></td>
+<td><a href="/riboeuk/_mds/AP3S1">=></a></td>
 </tr>
 <tr>
 <td>APEX1</td>
@@ -842,7 +842,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.955</td>
 <td>-45.022</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/APEX1">=></a></td>
+<td><a href="/riboeuk/_mds/APEX1">=></a></td>
 </tr>
 <tr>
 <td>APH1B</td>
@@ -854,7 +854,7 @@ $(document).ready(function(){
 <td>3</td>
 <td>0.989</td>
 <td>-24.137</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/APH1B">=></a></td>
+<td><a href="/riboeuk/_mds/APH1B">=></a></td>
 </tr>
 <tr>
 <td>APOLD1</td>
@@ -866,7 +866,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.960</td>
 <td>-38.927</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/APOLD1">=></a></td>
+<td><a href="/riboeuk/_mds/APOLD1">=></a></td>
 </tr>
 <tr>
 <td>ARHGAP11B</td>
@@ -878,7 +878,7 @@ $(document).ready(function(){
 <td>10</td>
 <td>0.916</td>
 <td>-47.415</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ARHGAP11B">=></a></td>
+<td><a href="/riboeuk/_mds/ARHGAP11B">=></a></td>
 </tr>
 <tr>
 <td>ARHGDIA</td>
@@ -890,7 +890,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.955</td>
 <td>-42.512</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ARHGDIA">=></a></td>
+<td><a href="/riboeuk/_mds/ARHGDIA">=></a></td>
 </tr>
 <tr>
 <td>ARHGEF17</td>
@@ -902,7 +902,7 @@ $(document).ready(function(){
 <td>14</td>
 <td>0.939</td>
 <td>-59.960</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ARHGEF17">=></a></td>
+<td><a href="/riboeuk/_mds/ARHGEF17">=></a></td>
 </tr>
 <tr>
 <td>ARHGEF2</td>
@@ -914,7 +914,7 @@ $(document).ready(function(){
 <td>13</td>
 <td>0.955</td>
 <td>-64.773</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ARHGEF2">=></a></td>
+<td><a href="/riboeuk/_mds/ARHGEF2">=></a></td>
 </tr>
 <tr>
 <td>ARID2</td>
@@ -926,7 +926,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.986</td>
 <td>-6.196</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ARID2">=></a></td>
+<td><a href="/riboeuk/_mds/ARID2">=></a></td>
 </tr>
 <tr>
 <td>ARID5B</td>
@@ -938,7 +938,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.980</td>
 <td>-6.880</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ARID5B">=></a></td>
+<td><a href="/riboeuk/_mds/ARID5B">=></a></td>
 </tr>
 <tr>
 <td>ARL2</td>
@@ -950,7 +950,7 @@ $(document).ready(function(){
 <td>11</td>
 <td>0.957</td>
 <td>-45.059</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ARL2">=></a></td>
+<td><a href="/riboeuk/_mds/ARL2">=></a></td>
 </tr>
 <tr>
 <td>ARL6IP5</td>
@@ -962,7 +962,7 @@ $(document).ready(function(){
 <td>19</td>
 <td>0.936</td>
 <td>-33.444</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ARL6IP5">=></a></td>
+<td><a href="/riboeuk/_mds/ARL6IP5">=></a></td>
 </tr>
 <tr>
 <td>ARL6IP5_0</td>
@@ -974,7 +974,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.966</td>
 <td>-22.378</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ARL6IP5_0">=></a></td>
+<td><a href="/riboeuk/_mds/ARL6IP5_0">=></a></td>
 </tr>
 <tr>
 <td>ARPC2</td>
@@ -986,7 +986,7 @@ $(document).ready(function(){
 <td>19</td>
 <td>0.964</td>
 <td>-11.652</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ARPC2">=></a></td>
+<td><a href="/riboeuk/_mds/ARPC2">=></a></td>
 </tr>
 <tr>
 <td>ARV1</td>
@@ -998,7 +998,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.960</td>
 <td>-28.395</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ARV1">=></a></td>
+<td><a href="/riboeuk/_mds/ARV1">=></a></td>
 </tr>
 <tr>
 <td>ASAH2B</td>
@@ -1010,7 +1010,7 @@ $(document).ready(function(){
 <td>13</td>
 <td>0.961</td>
 <td>-30.912</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ASAH2B">=></a></td>
+<td><a href="/riboeuk/_mds/ASAH2B">=></a></td>
 </tr>
 <tr>
 <td>ASAP1</td>
@@ -1022,7 +1022,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.988</td>
 <td>-9.466</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ASAP1">=></a></td>
+<td><a href="/riboeuk/_mds/ASAP1">=></a></td>
 </tr>
 <tr>
 <td>ASB15</td>
@@ -1034,7 +1034,7 @@ $(document).ready(function(){
 <td>17</td>
 <td>0.970</td>
 <td>-7.132</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ASB15">=></a></td>
+<td><a href="/riboeuk/_mds/ASB15">=></a></td>
 </tr>
 <tr>
 <td>ASB17</td>
@@ -1046,7 +1046,7 @@ $(document).ready(function(){
 <td>14</td>
 <td>0.970</td>
 <td>-10.449</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ASB17">=></a></td>
+<td><a href="/riboeuk/_mds/ASB17">=></a></td>
 </tr>
 <tr>
 <td>ASB3</td>
@@ -1058,7 +1058,7 @@ $(document).ready(function(){
 <td>13</td>
 <td>0.923</td>
 <td>-61.356</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ASB3">=></a></td>
+<td><a href="/riboeuk/_mds/ASB3">=></a></td>
 </tr>
 <tr>
 <td>ASB3_0</td>
@@ -1070,7 +1070,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.875</td>
 <td>-94.427</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ASB3_0">=></a></td>
+<td><a href="/riboeuk/_mds/ASB3_0">=></a></td>
 </tr>
 <tr>
 <td>ASB3_1</td>
@@ -1082,7 +1082,7 @@ $(document).ready(function(){
 <td>14</td>
 <td>0.886</td>
 <td>-88.794</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ASB3_1">=></a></td>
+<td><a href="/riboeuk/_mds/ASB3_1">=></a></td>
 </tr>
 <tr>
 <td>ASCL3</td>
@@ -1094,7 +1094,7 @@ $(document).ready(function(){
 <td>4</td>
 <td>0.976</td>
 <td>-15.018</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ASCL3">=></a></td>
+<td><a href="/riboeuk/_mds/ASCL3">=></a></td>
 </tr>
 <tr>
 <td>ASH2L</td>
@@ -1106,7 +1106,7 @@ $(document).ready(function(){
 <td>2</td>
 <td>0.964</td>
 <td>-19.997</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ASH2L">=></a></td>
+<td><a href="/riboeuk/_mds/ASH2L">=></a></td>
 </tr>
 <tr>
 <td>ASH2L_0</td>
@@ -1118,7 +1118,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.969</td>
 <td>-18.778</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ASH2L_0">=></a></td>
+<td><a href="/riboeuk/_mds/ASH2L_0">=></a></td>
 </tr>
 <tr>
 <td>ASPH</td>
@@ -1130,7 +1130,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.958</td>
 <td>-24.229</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ASPH">=></a></td>
+<td><a href="/riboeuk/_mds/ASPH">=></a></td>
 </tr>
 <tr>
 <td>ATCAY</td>
@@ -1142,7 +1142,7 @@ $(document).ready(function(){
 <td>18</td>
 <td>0.965</td>
 <td>-18.505</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ATCAY">=></a></td>
+<td><a href="/riboeuk/_mds/ATCAY">=></a></td>
 </tr>
 <tr>
 <td>ATF1</td>
@@ -1154,7 +1154,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.973</td>
 <td>-14.488</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ATF1">=></a></td>
+<td><a href="/riboeuk/_mds/ATF1">=></a></td>
 </tr>
 <tr>
 <td>ATG12</td>
@@ -1166,7 +1166,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.954</td>
 <td>-47.445</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ATG12">=></a></td>
+<td><a href="/riboeuk/_mds/ATG12">=></a></td>
 </tr>
 <tr>
 <td>ATL2</td>
@@ -1178,7 +1178,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.982</td>
 <td>-8.225</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ATL2">=></a></td>
+<td><a href="/riboeuk/_mds/ATL2">=></a></td>
 </tr>
 <tr>
 <td>ATP2C2</td>
@@ -1190,7 +1190,7 @@ $(document).ready(function(){
 <td>3</td>
 <td>0.957</td>
 <td>-56.751</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ATP2C2">=></a></td>
+<td><a href="/riboeuk/_mds/ATP2C2">=></a></td>
 </tr>
 <tr>
 <td>ATP6AP1L</td>
@@ -1202,7 +1202,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.980</td>
 <td>-15.473</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ATP6AP1L">=></a></td>
+<td><a href="/riboeuk/_mds/ATP6AP1L">=></a></td>
 </tr>
 <tr>
 <td>ATP6V0B</td>
@@ -1214,7 +1214,7 @@ $(document).ready(function(){
 <td>2</td>
 <td>0.968</td>
 <td>-48.051</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ATP6V0B">=></a></td>
+<td><a href="/riboeuk/_mds/ATP6V0B">=></a></td>
 </tr>
 <tr>
 <td>ATP6V1C1</td>
@@ -1226,7 +1226,7 @@ $(document).ready(function(){
 <td>2</td>
 <td>0.931</td>
 <td>-48.809</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ATP6V1C1">=></a></td>
+<td><a href="/riboeuk/_mds/ATP6V1C1">=></a></td>
 </tr>
 <tr>
 <td>ATP7A</td>
@@ -1238,7 +1238,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.912</td>
 <td>-57.145</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ATP7A">=></a></td>
+<td><a href="/riboeuk/_mds/ATP7A">=></a></td>
 </tr>
 <tr>
 <td>ATRNL1</td>
@@ -1250,7 +1250,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.974</td>
 <td>-22.029</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ATRNL1">=></a></td>
+<td><a href="/riboeuk/_mds/ATRNL1">=></a></td>
 </tr>
 <tr>
 <td>AUH</td>
@@ -1262,7 +1262,7 @@ $(document).ready(function(){
 <td>3</td>
 <td>0.983</td>
 <td>-29.038</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/AUH">=></a></td>
+<td><a href="/riboeuk/_mds/AUH">=></a></td>
 </tr>
 <tr>
 <td>AUH_0</td>
@@ -1274,7 +1274,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.932</td>
 <td>-33.610</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/AUH_0">=></a></td>
+<td><a href="/riboeuk/_mds/AUH_0">=></a></td>
 </tr>
 <tr>
 <td>AURKC</td>
@@ -1286,7 +1286,7 @@ $(document).ready(function(){
 <td>2</td>
 <td>0.939</td>
 <td>-40.547</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/AURKC">=></a></td>
+<td><a href="/riboeuk/_mds/AURKC">=></a></td>
 </tr>
 <tr>
 <td>B2M</td>
@@ -1298,7 +1298,7 @@ $(document).ready(function(){
 <td>3</td>
 <td>0.986</td>
 <td>-13.566</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/B2M">=></a></td>
+<td><a href="/riboeuk/_mds/B2M">=></a></td>
 </tr>
 <tr>
 <td>BAG2</td>
@@ -1310,7 +1310,7 @@ $(document).ready(function(){
 <td>6</td>
 <td>0.906</td>
 <td>-45.670</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/BAG2">=></a></td>
+<td><a href="/riboeuk/_mds/BAG2">=></a></td>
 </tr>
 <tr>
 <td>BARD1</td>
@@ -1322,7 +1322,7 @@ $(document).ready(function(){
 <td>4</td>
 <td>0.945</td>
 <td>-23.736</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/BARD1">=></a></td>
+<td><a href="/riboeuk/_mds/BARD1">=></a></td>
 </tr>
 <tr>
 <td>BBS1</td>
@@ -1334,7 +1334,7 @@ $(document).ready(function(){
 <td>2</td>
 <td>0.980</td>
 <td>-9.428</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/BBS1">=></a></td>
+<td><a href="/riboeuk/_mds/BBS1">=></a></td>
 </tr>
 <tr>
 <td>BBS9</td>
@@ -1346,7 +1346,7 @@ $(document).ready(function(){
 <td>8</td>
 <td>0.940</td>
 <td>-27.084</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/BBS9">=></a></td>
+<td><a href="/riboeuk/_mds/BBS9">=></a></td>
 </tr>
 <tr>
 <td>BBX</td>
@@ -1358,7 +1358,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.980</td>
 <td>-10.706</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/BBX">=></a></td>
+<td><a href="/riboeuk/_mds/BBX">=></a></td>
 </tr>
 <tr>
 <td>BCAS2</td>
@@ -1370,7 +1370,7 @@ $(document).ready(function(){
 <td>11</td>
 <td>0.972</td>
 <td>-26.101</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/BCAS2">=></a></td>
+<td><a href="/riboeuk/_mds/BCAS2">=></a></td>
 </tr>
 <tr>
 <td>BCKDHA</td>
@@ -1382,7 +1382,7 @@ $(document).ready(function(){
 <td>18</td>
 <td>0.982</td>
 <td>-26.146</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/BCKDHA">=></a></td>
+<td><a href="/riboeuk/_mds/BCKDHA">=></a></td>
 </tr>
 <tr>
 <td>BCS1L</td>
@@ -1394,7 +1394,7 @@ $(document).ready(function(){
 <td>11</td>
 <td>0.934</td>
 <td>-49.595</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/BCS1L">=></a></td>
+<td><a href="/riboeuk/_mds/BCS1L">=></a></td>
 </tr>
 <tr>
 <td>BECN1</td>
@@ -1406,7 +1406,7 @@ $(document).ready(function(){
 <td>10</td>
 <td>0.939</td>
 <td>-95.720</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/BECN1">=></a></td>
+<td><a href="/riboeuk/_mds/BECN1">=></a></td>
 </tr>
 <tr>
 <td>BHMT</td>
@@ -1418,7 +1418,7 @@ $(document).ready(function(){
 <td>16</td>
 <td>0.975</td>
 <td>-33.897</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/BHMT">=></a></td>
+<td><a href="/riboeuk/_mds/BHMT">=></a></td>
 </tr>
 <tr>
 <td>BHMT_0</td>
@@ -1430,7 +1430,7 @@ $(document).ready(function(){
 <td>19</td>
 <td>0.967</td>
 <td>-25.373</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/BHMT_0">=></a></td>
+<td><a href="/riboeuk/_mds/BHMT_0">=></a></td>
 </tr>
 <tr>
 <td>BLVRA</td>
@@ -1442,7 +1442,7 @@ $(document).ready(function(){
 <td>14</td>
 <td>0.918</td>
 <td>-32.840</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/BLVRA">=></a></td>
+<td><a href="/riboeuk/_mds/BLVRA">=></a></td>
 </tr>
 <tr>
 <td>BMI1</td>
@@ -1454,7 +1454,7 @@ $(document).ready(function(){
 <td>2</td>
 <td>0.946</td>
 <td>-48.105</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/BMI1">=></a></td>
+<td><a href="/riboeuk/_mds/BMI1">=></a></td>
 </tr>
 <tr>
 <td>BMI1_0</td>
@@ -1466,7 +1466,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.974</td>
 <td>-29.244</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/BMI1_0">=></a></td>
+<td><a href="/riboeuk/_mds/BMI1_0">=></a></td>
 </tr>
 <tr>
 <td>BMI1_1</td>
@@ -1478,7 +1478,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.961</td>
 <td>-45.414</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/BMI1_1">=></a></td>
+<td><a href="/riboeuk/_mds/BMI1_1">=></a></td>
 </tr>
 <tr>
 <td>BMPR1B</td>
@@ -1490,7 +1490,7 @@ $(document).ready(function(){
 <td>3</td>
 <td>0.943</td>
 <td>-54.123</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/BMPR1B">=></a></td>
+<td><a href="/riboeuk/_mds/BMPR1B">=></a></td>
 </tr>
 <tr>
 <td>BMS1</td>
@@ -1502,7 +1502,7 @@ $(document).ready(function(){
 <td>12</td>
 <td>0.978</td>
 <td>-20.498</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/BMS1">=></a></td>
+<td><a href="/riboeuk/_mds/BMS1">=></a></td>
 </tr>
 <tr>
 <td>BNIP2</td>
@@ -1514,7 +1514,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.963</td>
 <td>-47.901</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/BNIP2">=></a></td>
+<td><a href="/riboeuk/_mds/BNIP2">=></a></td>
 </tr>
 <tr>
 <td>BRD1</td>
@@ -1526,7 +1526,7 @@ $(document).ready(function(){
 <td>16</td>
 <td>0.955</td>
 <td>-37.437</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/BRD1">=></a></td>
+<td><a href="/riboeuk/_mds/BRD1">=></a></td>
 </tr>
 <tr>
 <td>BRSK1</td>
@@ -1538,7 +1538,7 @@ $(document).ready(function(){
 <td>10</td>
 <td>0.918</td>
 <td>-43.573</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/BRSK1">=></a></td>
+<td><a href="/riboeuk/_mds/BRSK1">=></a></td>
 </tr>
 <tr>
 <td>BTF3</td>
@@ -1550,7 +1550,7 @@ $(document).ready(function(){
 <td>18</td>
 <td>0.970</td>
 <td>-10.314</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/BTF3">=></a></td>
+<td><a href="/riboeuk/_mds/BTF3">=></a></td>
 </tr>
 <tr>
 <td>BTG2</td>
@@ -1562,7 +1562,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.971</td>
 <td>-28.246</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/BTG2">=></a></td>
+<td><a href="/riboeuk/_mds/BTG2">=></a></td>
 </tr>
 <tr>
 <td>BTG2_0</td>
@@ -1574,7 +1574,7 @@ $(document).ready(function(){
 <td>12</td>
 <td>0.938</td>
 <td>-52.750</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/BTG2_0">=></a></td>
+<td><a href="/riboeuk/_mds/BTG2_0">=></a></td>
 </tr>
 <tr>
 <td>BTG2_1</td>
@@ -1586,7 +1586,7 @@ $(document).ready(function(){
 <td>14</td>
 <td>0.948</td>
 <td>-52.750</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/BTG2_1">=></a></td>
+<td><a href="/riboeuk/_mds/BTG2_1">=></a></td>
 </tr>
 <tr>
 <td>BZW1</td>
@@ -1598,7 +1598,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.977</td>
 <td>-22.222</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/BZW1">=></a></td>
+<td><a href="/riboeuk/_mds/BZW1">=></a></td>
 </tr>
 <tr>
 <td>BZW1_0</td>
@@ -1610,7 +1610,7 @@ $(document).ready(function(){
 <td>16</td>
 <td>0.942</td>
 <td>-20.724</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/BZW1_0">=></a></td>
+<td><a href="/riboeuk/_mds/BZW1_0">=></a></td>
 </tr>
 <tr>
 <td>C1D</td>
@@ -1622,7 +1622,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.975</td>
 <td>-22.354</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/C1D">=></a></td>
+<td><a href="/riboeuk/_mds/C1D">=></a></td>
 </tr>
 <tr>
 <td>C1D_0</td>
@@ -1634,7 +1634,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.905</td>
 <td>-45.829</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/C1D_0">=></a></td>
+<td><a href="/riboeuk/_mds/C1D_0">=></a></td>
 </tr>
 <tr>
 <td>C1D_1</td>
@@ -1646,7 +1646,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.961</td>
 <td>-26.396</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/C1D_1">=></a></td>
+<td><a href="/riboeuk/_mds/C1D_1">=></a></td>
 </tr>
 <tr>
 <td>C1D_2</td>
@@ -1658,7 +1658,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.980</td>
 <td>-18.536</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/C1D_2">=></a></td>
+<td><a href="/riboeuk/_mds/C1D_2">=></a></td>
 </tr>
 <tr>
 <td>C1D_3</td>
@@ -1670,7 +1670,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.958</td>
 <td>-18.086</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/C1D_3">=></a></td>
+<td><a href="/riboeuk/_mds/C1D_3">=></a></td>
 </tr>
 <tr>
 <td>C5</td>
@@ -1682,7 +1682,7 @@ $(document).ready(function(){
 <td>6</td>
 <td>0.980</td>
 <td>-11.516</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/C5">=></a></td>
+<td><a href="/riboeuk/_mds/C5">=></a></td>
 </tr>
 <tr>
 <td>CA5B</td>
@@ -1694,7 +1694,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.916</td>
 <td>-38.560</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CA5B">=></a></td>
+<td><a href="/riboeuk/_mds/CA5B">=></a></td>
 </tr>
 <tr>
 <td>CA5B_0</td>
@@ -1706,7 +1706,7 @@ $(document).ready(function(){
 <td>16</td>
 <td>0.939</td>
 <td>-47.133</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CA5B_0">=></a></td>
+<td><a href="/riboeuk/_mds/CA5B_0">=></a></td>
 </tr>
 <tr>
 <td>CA7</td>
@@ -1718,7 +1718,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.953</td>
 <td>-58.876</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CA7">=></a></td>
+<td><a href="/riboeuk/_mds/CA7">=></a></td>
 </tr>
 <tr>
 <td>CACNA1B</td>
@@ -1730,7 +1730,7 @@ $(document).ready(function(){
 <td>9</td>
 <td>0.978</td>
 <td>-11.727</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CACNA1B">=></a></td>
+<td><a href="/riboeuk/_mds/CACNA1B">=></a></td>
 </tr>
 <tr>
 <td>CALCOCO1</td>
@@ -1742,7 +1742,7 @@ $(document).ready(function(){
 <td>14</td>
 <td>0.964</td>
 <td>-20.150</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CALCOCO1">=></a></td>
+<td><a href="/riboeuk/_mds/CALCOCO1">=></a></td>
 </tr>
 <tr>
 <td>CANX</td>
@@ -1754,7 +1754,7 @@ $(document).ready(function(){
 <td>19</td>
 <td>0.970</td>
 <td>-14.598</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CANX">=></a></td>
+<td><a href="/riboeuk/_mds/CANX">=></a></td>
 </tr>
 <tr>
 <td>CAP2</td>
@@ -1766,7 +1766,7 @@ $(document).ready(function(){
 <td>16</td>
 <td>0.975</td>
 <td>-20.835</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CAP2">=></a></td>
+<td><a href="/riboeuk/_mds/CAP2">=></a></td>
 </tr>
 <tr>
 <td>CARD6</td>
@@ -1778,7 +1778,7 @@ $(document).ready(function(){
 <td>2</td>
 <td>0.972</td>
 <td>-13.422</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CARD6">=></a></td>
+<td><a href="/riboeuk/_mds/CARD6">=></a></td>
 </tr>
 <tr>
 <td>CASK</td>
@@ -1790,7 +1790,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.974</td>
 <td>-17.779</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CASK">=></a></td>
+<td><a href="/riboeuk/_mds/CASK">=></a></td>
 </tr>
 <tr>
 <td>CASP14</td>
@@ -1802,7 +1802,7 @@ $(document).ready(function(){
 <td>18</td>
 <td>0.974</td>
 <td>-15.213</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CASP14">=></a></td>
+<td><a href="/riboeuk/_mds/CASP14">=></a></td>
 </tr>
 <tr>
 <td>CASP2</td>
@@ -1814,7 +1814,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.973</td>
 <td>-24.801</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CASP2">=></a></td>
+<td><a href="/riboeuk/_mds/CASP2">=></a></td>
 </tr>
 <tr>
 <td>CAST</td>
@@ -1826,7 +1826,7 @@ $(document).ready(function(){
 <td>12</td>
 <td>0.962</td>
 <td>-28.728</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CAST">=></a></td>
+<td><a href="/riboeuk/_mds/CAST">=></a></td>
 </tr>
 <tr>
 <td>CASZ1</td>
@@ -1838,7 +1838,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.928</td>
 <td>-53.135</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CASZ1">=></a></td>
+<td><a href="/riboeuk/_mds/CASZ1">=></a></td>
 </tr>
 <tr>
 <td>CCAR1</td>
@@ -1850,7 +1850,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.953</td>
 <td>-36.108</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CCAR1">=></a></td>
+<td><a href="/riboeuk/_mds/CCAR1">=></a></td>
 </tr>
 <tr>
 <td>CCDC103</td>
@@ -1862,7 +1862,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.934</td>
 <td>-59.660</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CCDC103">=></a></td>
+<td><a href="/riboeuk/_mds/CCDC103">=></a></td>
 </tr>
 <tr>
 <td>CCDC103_0</td>
@@ -1874,7 +1874,7 @@ $(document).ready(function(){
 <td>6</td>
 <td>0.947</td>
 <td>-53.444</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CCDC103_0">=></a></td>
+<td><a href="/riboeuk/_mds/CCDC103_0">=></a></td>
 </tr>
 <tr>
 <td>CCDC103_1</td>
@@ -1886,7 +1886,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.944</td>
 <td>-57.444</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CCDC103_1">=></a></td>
+<td><a href="/riboeuk/_mds/CCDC103_1">=></a></td>
 </tr>
 <tr>
 <td>CCDC127</td>
@@ -1898,7 +1898,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.960</td>
 <td>-40.376</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CCDC127">=></a></td>
+<td><a href="/riboeuk/_mds/CCDC127">=></a></td>
 </tr>
 <tr>
 <td>CCDC138</td>
@@ -1910,7 +1910,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.973</td>
 <td>-32.992</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CCDC138">=></a></td>
+<td><a href="/riboeuk/_mds/CCDC138">=></a></td>
 </tr>
 <tr>
 <td>CCDC138_0</td>
@@ -1922,7 +1922,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.957</td>
 <td>-43.593</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CCDC138_0">=></a></td>
+<td><a href="/riboeuk/_mds/CCDC138_0">=></a></td>
 </tr>
 <tr>
 <td>CCDC138_1</td>
@@ -1934,7 +1934,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.974</td>
 <td>-37.243</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CCDC138_1">=></a></td>
+<td><a href="/riboeuk/_mds/CCDC138_1">=></a></td>
 </tr>
 <tr>
 <td>CCDC138_2</td>
@@ -1946,7 +1946,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.981</td>
 <td>-29.443</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CCDC138_2">=></a></td>
+<td><a href="/riboeuk/_mds/CCDC138_2">=></a></td>
 </tr>
 <tr>
 <td>CCDC158</td>
@@ -1958,7 +1958,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.946</td>
 <td>-22.232</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CCDC158">=></a></td>
+<td><a href="/riboeuk/_mds/CCDC158">=></a></td>
 </tr>
 <tr>
 <td>CCDC51</td>
@@ -1970,7 +1970,7 @@ $(document).ready(function(){
 <td>7</td>
 <td>0.984</td>
 <td>-21.484</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CCDC51">=></a></td>
+<td><a href="/riboeuk/_mds/CCDC51">=></a></td>
 </tr>
 <tr>
 <td>CCDC59</td>
@@ -1982,7 +1982,7 @@ $(document).ready(function(){
 <td>19</td>
 <td>0.978</td>
 <td>-27.490</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CCDC59">=></a></td>
+<td><a href="/riboeuk/_mds/CCDC59">=></a></td>
 </tr>
 <tr>
 <td>CCDC66</td>
@@ -1994,7 +1994,7 @@ $(document).ready(function(){
 <td>4</td>
 <td>0.964</td>
 <td>-33.192</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CCDC66">=></a></td>
+<td><a href="/riboeuk/_mds/CCDC66">=></a></td>
 </tr>
 <tr>
 <td>CCDC73</td>
@@ -2006,7 +2006,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.974</td>
 <td>-7.173</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CCDC73">=></a></td>
+<td><a href="/riboeuk/_mds/CCDC73">=></a></td>
 </tr>
 <tr>
 <td>CCDC73_0</td>
@@ -2018,7 +2018,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.970</td>
 <td>-9.889</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CCDC73_0">=></a></td>
+<td><a href="/riboeuk/_mds/CCDC73_0">=></a></td>
 </tr>
 <tr>
 <td>CCDC91</td>
@@ -2030,7 +2030,7 @@ $(document).ready(function(){
 <td>2</td>
 <td>0.970</td>
 <td>-22.676</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CCDC91">=></a></td>
+<td><a href="/riboeuk/_mds/CCDC91">=></a></td>
 </tr>
 <tr>
 <td>CCNE2</td>
@@ -2042,7 +2042,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.951</td>
 <td>-53.248</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CCNE2">=></a></td>
+<td><a href="/riboeuk/_mds/CCNE2">=></a></td>
 </tr>
 <tr>
 <td>CCNK</td>
@@ -2054,7 +2054,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.941</td>
 <td>-36.925</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CCNK">=></a></td>
+<td><a href="/riboeuk/_mds/CCNK">=></a></td>
 </tr>
 <tr>
 <td>CCNO</td>
@@ -2066,7 +2066,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.942</td>
 <td>-79.427</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CCNO">=></a></td>
+<td><a href="/riboeuk/_mds/CCNO">=></a></td>
 </tr>
 <tr>
 <td>CCNO_0</td>
@@ -2078,7 +2078,7 @@ $(document).ready(function(){
 <td>18</td>
 <td>0.973</td>
 <td>-42.284</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CCNO_0">=></a></td>
+<td><a href="/riboeuk/_mds/CCNO_0">=></a></td>
 </tr>
 <tr>
 <td>CCT6B</td>
@@ -2090,7 +2090,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.939</td>
 <td>-29.901</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CCT6B">=></a></td>
+<td><a href="/riboeuk/_mds/CCT6B">=></a></td>
 </tr>
 <tr>
 <td>CD164</td>
@@ -2102,7 +2102,7 @@ $(document).ready(function(){
 <td>19</td>
 <td>0.970</td>
 <td>-18.592</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CD164">=></a></td>
+<td><a href="/riboeuk/_mds/CD164">=></a></td>
 </tr>
 <tr>
 <td>CDC42</td>
@@ -2114,7 +2114,7 @@ $(document).ready(function(){
 <td>19</td>
 <td>0.939</td>
 <td>-66.035</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CDC42">=></a></td>
+<td><a href="/riboeuk/_mds/CDC42">=></a></td>
 </tr>
 <tr>
 <td>CDH19</td>
@@ -2126,7 +2126,7 @@ $(document).ready(function(){
 <td>6</td>
 <td>0.833</td>
 <td>-23.890</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CDH19">=></a></td>
+<td><a href="/riboeuk/_mds/CDH19">=></a></td>
 </tr>
 <tr>
 <td>CDK5</td>
@@ -2138,7 +2138,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.972</td>
 <td>-30.799</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CDK5">=></a></td>
+<td><a href="/riboeuk/_mds/CDK5">=></a></td>
 </tr>
 <tr>
 <td>CDK5_0</td>
@@ -2150,7 +2150,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.979</td>
 <td>-20.594</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CDK5_0">=></a></td>
+<td><a href="/riboeuk/_mds/CDK5_0">=></a></td>
 </tr>
 <tr>
 <td>CDYL2</td>
@@ -2162,7 +2162,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.953</td>
 <td>-44.842</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CDYL2">=></a></td>
+<td><a href="/riboeuk/_mds/CDYL2">=></a></td>
 </tr>
 <tr>
 <td>CEP70</td>
@@ -2174,7 +2174,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.935</td>
 <td>-59.285</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CEP70">=></a></td>
+<td><a href="/riboeuk/_mds/CEP70">=></a></td>
 </tr>
 <tr>
 <td>CEP97</td>
@@ -2186,7 +2186,7 @@ $(document).ready(function(){
 <td>5</td>
 <td>0.983</td>
 <td>-13.951</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CEP97">=></a></td>
+<td><a href="/riboeuk/_mds/CEP97">=></a></td>
 </tr>
 <tr>
 <td>CEPT1</td>
@@ -2198,7 +2198,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.936</td>
 <td>-48.677</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CEPT1">=></a></td>
+<td><a href="/riboeuk/_mds/CEPT1">=></a></td>
 </tr>
 <tr>
 <td>CES3</td>
@@ -2210,7 +2210,7 @@ $(document).ready(function(){
 <td>7</td>
 <td>0.970</td>
 <td>-25.098</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CES3">=></a></td>
+<td><a href="/riboeuk/_mds/CES3">=></a></td>
 </tr>
 <tr>
 <td>CETN2</td>
@@ -2222,7 +2222,7 @@ $(document).ready(function(){
 <td>14</td>
 <td>0.971</td>
 <td>-21.267</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CETN2">=></a></td>
+<td><a href="/riboeuk/_mds/CETN2">=></a></td>
 </tr>
 <tr>
 <td>CETN2_0</td>
@@ -2234,7 +2234,7 @@ $(document).ready(function(){
 <td>18</td>
 <td>0.972</td>
 <td>-28.868</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CETN2_0">=></a></td>
+<td><a href="/riboeuk/_mds/CETN2_0">=></a></td>
 </tr>
 <tr>
 <td>CETN3</td>
@@ -2246,7 +2246,7 @@ $(document).ready(function(){
 <td>13</td>
 <td>0.876</td>
 <td>-47.449</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CETN3">=></a></td>
+<td><a href="/riboeuk/_mds/CETN3">=></a></td>
 </tr>
 <tr>
 <td>CFH</td>
@@ -2258,7 +2258,7 @@ $(document).ready(function(){
 <td>2</td>
 <td>0.981</td>
 <td>-1.249</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CFH">=></a></td>
+<td><a href="/riboeuk/_mds/CFH">=></a></td>
 </tr>
 <tr>
 <td>CFHR3</td>
@@ -2270,7 +2270,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.958</td>
 <td>-14.925</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CFHR3">=></a></td>
+<td><a href="/riboeuk/_mds/CFHR3">=></a></td>
 </tr>
 <tr>
 <td>CFHR3_0</td>
@@ -2282,7 +2282,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.952</td>
 <td>-14.925</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CFHR3_0">=></a></td>
+<td><a href="/riboeuk/_mds/CFHR3_0">=></a></td>
 </tr>
 <tr>
 <td>CFHR4</td>
@@ -2294,7 +2294,7 @@ $(document).ready(function(){
 <td>6</td>
 <td>0.975</td>
 <td>-9.766</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CFHR4">=></a></td>
+<td><a href="/riboeuk/_mds/CFHR4">=></a></td>
 </tr>
 <tr>
 <td>CFHR4_0</td>
@@ -2306,7 +2306,7 @@ $(document).ready(function(){
 <td>13</td>
 <td>0.943</td>
 <td>-29.157</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CFHR4_0">=></a></td>
+<td><a href="/riboeuk/_mds/CFHR4_0">=></a></td>
 </tr>
 <tr>
 <td>CFHR4_1</td>
@@ -2318,7 +2318,7 @@ $(document).ready(function(){
 <td>4</td>
 <td>0.962</td>
 <td>-9.766</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CFHR4_1">=></a></td>
+<td><a href="/riboeuk/_mds/CFHR4_1">=></a></td>
 </tr>
 <tr>
 <td>CHKA</td>
@@ -2330,7 +2330,7 @@ $(document).ready(function(){
 <td>2</td>
 <td>0.980</td>
 <td>-22.253</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CHKA">=></a></td>
+<td><a href="/riboeuk/_mds/CHKA">=></a></td>
 </tr>
 <tr>
 <td>CHRFAM7A</td>
@@ -2342,7 +2342,7 @@ $(document).ready(function(){
 <td>17</td>
 <td>0.973</td>
 <td>-20.865</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CHRFAM7A">=></a></td>
+<td><a href="/riboeuk/_mds/CHRFAM7A">=></a></td>
 </tr>
 <tr>
 <td>CHURC1</td>
@@ -2354,7 +2354,7 @@ $(document).ready(function(){
 <td>19</td>
 <td>0.965</td>
 <td>-28.420</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CHURC1">=></a></td>
+<td><a href="/riboeuk/_mds/CHURC1">=></a></td>
 </tr>
 <tr>
 <td>CHURC1_0</td>
@@ -2366,7 +2366,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.914</td>
 <td>-55.962</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CHURC1_0">=></a></td>
+<td><a href="/riboeuk/_mds/CHURC1_0">=></a></td>
 </tr>
 <tr>
 <td>CIRBP</td>
@@ -2378,7 +2378,7 @@ $(document).ready(function(){
 <td>6</td>
 <td>0.940</td>
 <td>-53.222</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CIRBP">=></a></td>
+<td><a href="/riboeuk/_mds/CIRBP">=></a></td>
 </tr>
 <tr>
 <td>CLCA1</td>
@@ -2390,7 +2390,7 @@ $(document).ready(function(){
 <td>19</td>
 <td>0.943</td>
 <td>-28.340</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CLCA1">=></a></td>
+<td><a href="/riboeuk/_mds/CLCA1">=></a></td>
 </tr>
 <tr>
 <td>CLCA4</td>
@@ -2402,7 +2402,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.983</td>
 <td>-11.549</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CLCA4">=></a></td>
+<td><a href="/riboeuk/_mds/CLCA4">=></a></td>
 </tr>
 <tr>
 <td>CLCA4_0</td>
@@ -2414,7 +2414,7 @@ $(document).ready(function(){
 <td>18</td>
 <td>0.947</td>
 <td>-23.883</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CLCA4_0">=></a></td>
+<td><a href="/riboeuk/_mds/CLCA4_0">=></a></td>
 </tr>
 <tr>
 <td>CLCN7</td>
@@ -2426,7 +2426,7 @@ $(document).ready(function(){
 <td>17</td>
 <td>0.947</td>
 <td>-57.728</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CLCN7">=></a></td>
+<td><a href="/riboeuk/_mds/CLCN7">=></a></td>
 </tr>
 <tr>
 <td>CLDN22</td>
@@ -2438,7 +2438,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.983</td>
 <td>-12.479</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CLDN22">=></a></td>
+<td><a href="/riboeuk/_mds/CLDN22">=></a></td>
 </tr>
 <tr>
 <td>CLEC7A</td>
@@ -2450,7 +2450,7 @@ $(document).ready(function(){
 <td>5</td>
 <td>0.973</td>
 <td>-13.233</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CLEC7A">=></a></td>
+<td><a href="/riboeuk/_mds/CLEC7A">=></a></td>
 </tr>
 <tr>
 <td>CLGN</td>
@@ -2462,7 +2462,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.838</td>
 <td>-53.146</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CLGN">=></a></td>
+<td><a href="/riboeuk/_mds/CLGN">=></a></td>
 </tr>
 <tr>
 <td>CLIP4</td>
@@ -2474,7 +2474,7 @@ $(document).ready(function(){
 <td>6</td>
 <td>0.971</td>
 <td>-42.130</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CLIP4">=></a></td>
+<td><a href="/riboeuk/_mds/CLIP4">=></a></td>
 </tr>
 <tr>
 <td>CLK2</td>
@@ -2486,7 +2486,7 @@ $(document).ready(function(){
 <td>11</td>
 <td>0.886</td>
 <td>-28.141</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CLK2">=></a></td>
+<td><a href="/riboeuk/_mds/CLK2">=></a></td>
 </tr>
 <tr>
 <td>CLK2_0</td>
@@ -2498,7 +2498,7 @@ $(document).ready(function(){
 <td>11</td>
 <td>0.953</td>
 <td>-27.386</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CLK2_0">=></a></td>
+<td><a href="/riboeuk/_mds/CLK2_0">=></a></td>
 </tr>
 <tr>
 <td>CLK2_1</td>
@@ -2510,7 +2510,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.987</td>
 <td>-3.038</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CLK2_1">=></a></td>
+<td><a href="/riboeuk/_mds/CLK2_1">=></a></td>
 </tr>
 <tr>
 <td>CLNK</td>
@@ -2522,7 +2522,7 @@ $(document).ready(function(){
 <td>16</td>
 <td>0.965</td>
 <td>-11.918</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CLNK">=></a></td>
+<td><a href="/riboeuk/_mds/CLNK">=></a></td>
 </tr>
 <tr>
 <td>CLPB</td>
@@ -2534,7 +2534,7 @@ $(document).ready(function(){
 <td>11</td>
 <td>0.979</td>
 <td>-29.451</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CLPB">=></a></td>
+<td><a href="/riboeuk/_mds/CLPB">=></a></td>
 </tr>
 <tr>
 <td>CLYBL</td>
@@ -2546,7 +2546,7 @@ $(document).ready(function(){
 <td>2</td>
 <td>0.961</td>
 <td>-14.431</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CLYBL">=></a></td>
+<td><a href="/riboeuk/_mds/CLYBL">=></a></td>
 </tr>
 <tr>
 <td>CMBL</td>
@@ -2558,7 +2558,7 @@ $(document).ready(function(){
 <td>3</td>
 <td>0.953</td>
 <td>-29.081</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CMBL">=></a></td>
+<td><a href="/riboeuk/_mds/CMBL">=></a></td>
 </tr>
 <tr>
 <td>CNKSR2</td>
@@ -2570,7 +2570,7 @@ $(document).ready(function(){
 <td>17</td>
 <td>0.983</td>
 <td>-13.626</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CNKSR2">=></a></td>
+<td><a href="/riboeuk/_mds/CNKSR2">=></a></td>
 </tr>
 <tr>
 <td>CNPY4</td>
@@ -2582,7 +2582,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.958</td>
 <td>-36.644</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CNPY4">=></a></td>
+<td><a href="/riboeuk/_mds/CNPY4">=></a></td>
 </tr>
 <tr>
 <td>CNTN1</td>
@@ -2594,7 +2594,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.933</td>
 <td>-25.653</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CNTN1">=></a></td>
+<td><a href="/riboeuk/_mds/CNTN1">=></a></td>
 </tr>
 <tr>
 <td>CNTN4</td>
@@ -2606,7 +2606,7 @@ $(document).ready(function(){
 <td>9</td>
 <td>0.965</td>
 <td>-16.370</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CNTN4">=></a></td>
+<td><a href="/riboeuk/_mds/CNTN4">=></a></td>
 </tr>
 <tr>
 <td>COG1</td>
@@ -2618,7 +2618,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.983</td>
 <td>-20.388</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/COG1">=></a></td>
+<td><a href="/riboeuk/_mds/COG1">=></a></td>
 </tr>
 <tr>
 <td>COIL</td>
@@ -2630,7 +2630,7 @@ $(document).ready(function(){
 <td>6</td>
 <td>0.986</td>
 <td>-17.629</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/COIL">=></a></td>
+<td><a href="/riboeuk/_mds/COIL">=></a></td>
 </tr>
 <tr>
 <td>COL5A3</td>
@@ -2642,7 +2642,7 @@ $(document).ready(function(){
 <td>13</td>
 <td>0.957</td>
 <td>-47.906</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/COL5A3">=></a></td>
+<td><a href="/riboeuk/_mds/COL5A3">=></a></td>
 </tr>
 <tr>
 <td>COL9A3</td>
@@ -2654,7 +2654,7 @@ $(document).ready(function(){
 <td>18</td>
 <td>0.986</td>
 <td>-12.876</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/COL9A3">=></a></td>
+<td><a href="/riboeuk/_mds/COL9A3">=></a></td>
 </tr>
 <tr>
 <td>COMMD10</td>
@@ -2666,7 +2666,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.943</td>
 <td>-40.042</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/COMMD10">=></a></td>
+<td><a href="/riboeuk/_mds/COMMD10">=></a></td>
 </tr>
 <tr>
 <td>COMMD2</td>
@@ -2678,7 +2678,7 @@ $(document).ready(function(){
 <td>18</td>
 <td>0.970</td>
 <td>-23.656</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/COMMD2">=></a></td>
+<td><a href="/riboeuk/_mds/COMMD2">=></a></td>
 </tr>
 <tr>
 <td>COMMD2_0</td>
@@ -2690,7 +2690,7 @@ $(document).ready(function(){
 <td>8</td>
 <td>0.966</td>
 <td>-24.896</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/COMMD2_0">=></a></td>
+<td><a href="/riboeuk/_mds/COMMD2_0">=></a></td>
 </tr>
 <tr>
 <td>COPB1</td>
@@ -2702,7 +2702,7 @@ $(document).ready(function(){
 <td>4</td>
 <td>0.903</td>
 <td>-58.766</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/COPB1">=></a></td>
+<td><a href="/riboeuk/_mds/COPB1">=></a></td>
 </tr>
 <tr>
 <td>COPB1_0</td>
@@ -2714,7 +2714,7 @@ $(document).ready(function(){
 <td>13</td>
 <td>0.936</td>
 <td>-69.200</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/COPB1_0">=></a></td>
+<td><a href="/riboeuk/_mds/COPB1_0">=></a></td>
 </tr>
 <tr>
 <td>COPB2</td>
@@ -2726,7 +2726,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.875</td>
 <td>-43.068</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/COPB2">=></a></td>
+<td><a href="/riboeuk/_mds/COPB2">=></a></td>
 </tr>
 <tr>
 <td>COPS7B</td>
@@ -2738,7 +2738,7 @@ $(document).ready(function(){
 <td>10</td>
 <td>0.942</td>
 <td>-38.486</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/COPS7B">=></a></td>
+<td><a href="/riboeuk/_mds/COPS7B">=></a></td>
 </tr>
 <tr>
 <td>COQ3</td>
@@ -2750,7 +2750,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.975</td>
 <td>-12.329</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/COQ3">=></a></td>
+<td><a href="/riboeuk/_mds/COQ3">=></a></td>
 </tr>
 <tr>
 <td>COQ7</td>
@@ -2762,7 +2762,7 @@ $(document).ready(function(){
 <td>19</td>
 <td>0.970</td>
 <td>-19.822</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/COQ7">=></a></td>
+<td><a href="/riboeuk/_mds/COQ7">=></a></td>
 </tr>
 <tr>
 <td>COQ7_0</td>
@@ -2774,7 +2774,7 @@ $(document).ready(function(){
 <td>10</td>
 <td>0.959</td>
 <td>-27.804</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/COQ7_0">=></a></td>
+<td><a href="/riboeuk/_mds/COQ7_0">=></a></td>
 </tr>
 <tr>
 <td>COQ7_1</td>
@@ -2786,7 +2786,7 @@ $(document).ready(function(){
 <td>19</td>
 <td>0.965</td>
 <td>-21.237</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/COQ7_1">=></a></td>
+<td><a href="/riboeuk/_mds/COQ7_1">=></a></td>
 </tr>
 <tr>
 <td>COQ7_2</td>
@@ -2798,7 +2798,7 @@ $(document).ready(function(){
 <td>14</td>
 <td>0.988</td>
 <td>-9.344</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/COQ7_2">=></a></td>
+<td><a href="/riboeuk/_mds/COQ7_2">=></a></td>
 </tr>
 <tr>
 <td>COQ9</td>
@@ -2810,7 +2810,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.954</td>
 <td>-48.558</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/COQ9">=></a></td>
+<td><a href="/riboeuk/_mds/COQ9">=></a></td>
 </tr>
 <tr>
 <td>CORO1B</td>
@@ -2822,7 +2822,7 @@ $(document).ready(function(){
 <td>14</td>
 <td>0.958</td>
 <td>-50.350</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CORO1B">=></a></td>
+<td><a href="/riboeuk/_mds/CORO1B">=></a></td>
 </tr>
 <tr>
 <td>CORO1B_0</td>
@@ -2834,7 +2834,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.948</td>
 <td>-57.805</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CORO1B_0">=></a></td>
+<td><a href="/riboeuk/_mds/CORO1B_0">=></a></td>
 </tr>
 <tr>
 <td>CORO1B_1</td>
@@ -2846,7 +2846,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.931</td>
 <td>-60.954</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CORO1B_1">=></a></td>
+<td><a href="/riboeuk/_mds/CORO1B_1">=></a></td>
 </tr>
 <tr>
 <td>CORO1C</td>
@@ -2858,7 +2858,7 @@ $(document).ready(function(){
 <td>3</td>
 <td>0.983</td>
 <td>-9.757</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CORO1C">=></a></td>
+<td><a href="/riboeuk/_mds/CORO1C">=></a></td>
 </tr>
 <tr>
 <td>CORO7</td>
@@ -2870,7 +2870,7 @@ $(document).ready(function(){
 <td>14</td>
 <td>0.907</td>
 <td>-61.397</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CORO7">=></a></td>
+<td><a href="/riboeuk/_mds/CORO7">=></a></td>
 </tr>
 <tr>
 <td>CORO7_0</td>
@@ -2882,7 +2882,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.967</td>
 <td>-36.278</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CORO7_0">=></a></td>
+<td><a href="/riboeuk/_mds/CORO7_0">=></a></td>
 </tr>
 <tr>
 <td>CORO7_1</td>
@@ -2894,7 +2894,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.983</td>
 <td>-10.944</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CORO7_1">=></a></td>
+<td><a href="/riboeuk/_mds/CORO7_1">=></a></td>
 </tr>
 <tr>
 <td>COX17</td>
@@ -2906,7 +2906,7 @@ $(document).ready(function(){
 <td>3</td>
 <td>0.967</td>
 <td>-35.468</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/COX17">=></a></td>
+<td><a href="/riboeuk/_mds/COX17">=></a></td>
 </tr>
 <tr>
 <td>COX18</td>
@@ -2918,7 +2918,7 @@ $(document).ready(function(){
 <td>6</td>
 <td>0.974</td>
 <td>-44.995</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/COX18">=></a></td>
+<td><a href="/riboeuk/_mds/COX18">=></a></td>
 </tr>
 <tr>
 <td>COX6C</td>
@@ -2930,7 +2930,7 @@ $(document).ready(function(){
 <td>12</td>
 <td>0.976</td>
 <td>-15.387</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/COX6C">=></a></td>
+<td><a href="/riboeuk/_mds/COX6C">=></a></td>
 </tr>
 <tr>
 <td>CPLX3</td>
@@ -2942,7 +2942,7 @@ $(document).ready(function(){
 <td>4</td>
 <td>0.951</td>
 <td>-58.246</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CPLX3">=></a></td>
+<td><a href="/riboeuk/_mds/CPLX3">=></a></td>
 </tr>
 <tr>
 <td>CPNE5</td>
@@ -2954,7 +2954,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.974</td>
 <td>-20.081</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CPNE5">=></a></td>
+<td><a href="/riboeuk/_mds/CPNE5">=></a></td>
 </tr>
 <tr>
 <td>CPXM2</td>
@@ -2966,7 +2966,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.982</td>
 <td>-13.776</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CPXM2">=></a></td>
+<td><a href="/riboeuk/_mds/CPXM2">=></a></td>
 </tr>
 <tr>
 <td>CREB1</td>
@@ -2978,7 +2978,7 @@ $(document).ready(function(){
 <td>4</td>
 <td>0.933</td>
 <td>-57.804</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CREB1">=></a></td>
+<td><a href="/riboeuk/_mds/CREB1">=></a></td>
 </tr>
 <tr>
 <td>CROT</td>
@@ -2990,7 +2990,7 @@ $(document).ready(function(){
 <td>4</td>
 <td>0.935</td>
 <td>-20.459</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CROT">=></a></td>
+<td><a href="/riboeuk/_mds/CROT">=></a></td>
 </tr>
 <tr>
 <td>CRYBG3</td>
@@ -3002,7 +3002,7 @@ $(document).ready(function(){
 <td>7</td>
 <td>0.975</td>
 <td>-31.060</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CRYBG3">=></a></td>
+<td><a href="/riboeuk/_mds/CRYBG3">=></a></td>
 </tr>
 <tr>
 <td>CRYGA</td>
@@ -3014,7 +3014,7 @@ $(document).ready(function(){
 <td>18</td>
 <td>0.978</td>
 <td>-8.052</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CRYGA">=></a></td>
+<td><a href="/riboeuk/_mds/CRYGA">=></a></td>
 </tr>
 <tr>
 <td>CRYM</td>
@@ -3026,7 +3026,7 @@ $(document).ready(function(){
 <td>5</td>
 <td>0.961</td>
 <td>-31.162</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CRYM">=></a></td>
+<td><a href="/riboeuk/_mds/CRYM">=></a></td>
 </tr>
 <tr>
 <td>CSN3</td>
@@ -3038,7 +3038,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.969</td>
 <td>-16.866</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CSN3">=></a></td>
+<td><a href="/riboeuk/_mds/CSN3">=></a></td>
 </tr>
 <tr>
 <td>CT45A3</td>
@@ -3050,7 +3050,7 @@ $(document).ready(function(){
 <td>16</td>
 <td>0.960</td>
 <td>-22.606</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CT45A3">=></a></td>
+<td><a href="/riboeuk/_mds/CT45A3">=></a></td>
 </tr>
 <tr>
 <td>CT45A6</td>
@@ -3062,7 +3062,7 @@ $(document).ready(function(){
 <td>18</td>
 <td>0.971</td>
 <td>-28.958</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CT45A6">=></a></td>
+<td><a href="/riboeuk/_mds/CT45A6">=></a></td>
 </tr>
 <tr>
 <td>CTDP1</td>
@@ -3074,7 +3074,7 @@ $(document).ready(function(){
 <td>3</td>
 <td>0.946</td>
 <td>-71.870</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CTDP1">=></a></td>
+<td><a href="/riboeuk/_mds/CTDP1">=></a></td>
 </tr>
 <tr>
 <td>CTNNBL1</td>
@@ -3086,7 +3086,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.956</td>
 <td>-19.855</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CTNNBL1">=></a></td>
+<td><a href="/riboeuk/_mds/CTNNBL1">=></a></td>
 </tr>
 <tr>
 <td>CTNND2</td>
@@ -3098,7 +3098,7 @@ $(document).ready(function(){
 <td>18</td>
 <td>0.953</td>
 <td>-27.946</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CTNND2">=></a></td>
+<td><a href="/riboeuk/_mds/CTNND2">=></a></td>
 </tr>
 <tr>
 <td>CTSD</td>
@@ -3110,7 +3110,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.906</td>
 <td>-63.175</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CTSD">=></a></td>
+<td><a href="/riboeuk/_mds/CTSD">=></a></td>
 </tr>
 <tr>
 <td>CTSK</td>
@@ -3122,7 +3122,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.965</td>
 <td>-15.614</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CTSK">=></a></td>
+<td><a href="/riboeuk/_mds/CTSK">=></a></td>
 </tr>
 <tr>
 <td>CUL3</td>
@@ -3134,7 +3134,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.954</td>
 <td>-34.144</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CUL3">=></a></td>
+<td><a href="/riboeuk/_mds/CUL3">=></a></td>
 </tr>
 <tr>
 <td>CWF19L1</td>
@@ -3146,7 +3146,7 @@ $(document).ready(function(){
 <td>3</td>
 <td>0.946</td>
 <td>-36.985</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CWF19L1">=></a></td>
+<td><a href="/riboeuk/_mds/CWF19L1">=></a></td>
 </tr>
 <tr>
 <td>CYP19A1</td>
@@ -3158,7 +3158,7 @@ $(document).ready(function(){
 <td>18</td>
 <td>0.942</td>
 <td>-42.272</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CYP19A1">=></a></td>
+<td><a href="/riboeuk/_mds/CYP19A1">=></a></td>
 </tr>
 <tr>
 <td>CYP2U1</td>
@@ -3170,7 +3170,7 @@ $(document).ready(function(){
 <td>7</td>
 <td>0.986</td>
 <td>-20.977</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/CYP2U1">=></a></td>
+<td><a href="/riboeuk/_mds/CYP2U1">=></a></td>
 </tr>
 <tr>
 <td>DAZAP2</td>
@@ -3182,7 +3182,7 @@ $(document).ready(function(){
 <td>18</td>
 <td>0.900</td>
 <td>-69.240</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/DAZAP2">=></a></td>
+<td><a href="/riboeuk/_mds/DAZAP2">=></a></td>
 </tr>
 <tr>
 <td>DAZAP2_0</td>
@@ -3194,7 +3194,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.879</td>
 <td>-77.824</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/DAZAP2_0">=></a></td>
+<td><a href="/riboeuk/_mds/DAZAP2_0">=></a></td>
 </tr>
 <tr>
 <td>DBF4B</td>
@@ -3206,7 +3206,7 @@ $(document).ready(function(){
 <td>16</td>
 <td>0.937</td>
 <td>-34.227</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/DBF4B">=></a></td>
+<td><a href="/riboeuk/_mds/DBF4B">=></a></td>
 </tr>
 <tr>
 <td>DCTN3</td>
@@ -3218,7 +3218,7 @@ $(document).ready(function(){
 <td>11</td>
 <td>0.989</td>
 <td>-23.962</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/DCTN3">=></a></td>
+<td><a href="/riboeuk/_mds/DCTN3">=></a></td>
 </tr>
 <tr>
 <td>DCTN4</td>
@@ -3230,7 +3230,7 @@ $(document).ready(function(){
 <td>13</td>
 <td>0.919</td>
 <td>-44.561</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/DCTN4">=></a></td>
+<td><a href="/riboeuk/_mds/DCTN4">=></a></td>
 </tr>
 <tr>
 <td>DDX10</td>
@@ -3242,7 +3242,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.960</td>
 <td>-24.228</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/DDX10">=></a></td>
+<td><a href="/riboeuk/_mds/DDX10">=></a></td>
 </tr>
 <tr>
 <td>DDX18</td>
@@ -3254,7 +3254,7 @@ $(document).ready(function(){
 <td>18</td>
 <td>0.927</td>
 <td>-36.440</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/DDX18">=></a></td>
+<td><a href="/riboeuk/_mds/DDX18">=></a></td>
 </tr>
 <tr>
 <td>DDX19A</td>
@@ -3266,7 +3266,7 @@ $(document).ready(function(){
 <td>11</td>
 <td>0.972</td>
 <td>-38.934</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/DDX19A">=></a></td>
+<td><a href="/riboeuk/_mds/DDX19A">=></a></td>
 </tr>
 <tr>
 <td>DDX24</td>
@@ -3278,7 +3278,7 @@ $(document).ready(function(){
 <td>3</td>
 <td>0.936</td>
 <td>-60.459</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/DDX24">=></a></td>
+<td><a href="/riboeuk/_mds/DDX24">=></a></td>
 </tr>
 <tr>
 <td>DDX24_0</td>
@@ -3290,7 +3290,7 @@ $(document).ready(function(){
 <td>3</td>
 <td>0.938</td>
 <td>-49.645</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/DDX24_0">=></a></td>
+<td><a href="/riboeuk/_mds/DDX24_0">=></a></td>
 </tr>
 <tr>
 <td>DDX27</td>
@@ -3302,7 +3302,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.991</td>
 <td>-5.801</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/DDX27">=></a></td>
+<td><a href="/riboeuk/_mds/DDX27">=></a></td>
 </tr>
 <tr>
 <td>DDX27_0</td>
@@ -3314,7 +3314,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.972</td>
 <td>-21.548</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/DDX27_0">=></a></td>
+<td><a href="/riboeuk/_mds/DDX27_0">=></a></td>
 </tr>
 <tr>
 <td>DDX41</td>
@@ -3326,7 +3326,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.971</td>
 <td>-26.291</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/DDX41">=></a></td>
+<td><a href="/riboeuk/_mds/DDX41">=></a></td>
 </tr>
 <tr>
 <td>DDX47</td>
@@ -3338,7 +3338,7 @@ $(document).ready(function(){
 <td>12</td>
 <td>0.975</td>
 <td>-7.776</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/DDX47">=></a></td>
+<td><a href="/riboeuk/_mds/DDX47">=></a></td>
 </tr>
 <tr>
 <td>DDX47_0</td>
@@ -3350,7 +3350,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.981</td>
 <td>-9.696</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/DDX47_0">=></a></td>
+<td><a href="/riboeuk/_mds/DDX47_0">=></a></td>
 </tr>
 <tr>
 <td>DDX47_1</td>
@@ -3362,7 +3362,7 @@ $(document).ready(function(){
 <td>14</td>
 <td>0.982</td>
 <td>-14.701</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/DDX47_1">=></a></td>
+<td><a href="/riboeuk/_mds/DDX47_1">=></a></td>
 </tr>
 <tr>
 <td>DDX5</td>
@@ -3374,7 +3374,7 @@ $(document).ready(function(){
 <td>4</td>
 <td>0.854</td>
 <td>-110.327</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/DDX5">=></a></td>
+<td><a href="/riboeuk/_mds/DDX5">=></a></td>
 </tr>
 <tr>
 <td>DDX58</td>
@@ -3386,7 +3386,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.984</td>
 <td>-14.984</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/DDX58">=></a></td>
+<td><a href="/riboeuk/_mds/DDX58">=></a></td>
 </tr>
 <tr>
 <td>DDX58_0</td>
@@ -3398,7 +3398,7 @@ $(document).ready(function(){
 <td>18</td>
 <td>0.982</td>
 <td>-14.984</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/DDX58_0">=></a></td>
+<td><a href="/riboeuk/_mds/DDX58_0">=></a></td>
 </tr>
 <tr>
 <td>DEDD2</td>
@@ -3410,7 +3410,7 @@ $(document).ready(function(){
 <td>12</td>
 <td>0.942</td>
 <td>-48.823</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/DEDD2">=></a></td>
+<td><a href="/riboeuk/_mds/DEDD2">=></a></td>
 </tr>
 <tr>
 <td>DFFA</td>
@@ -3422,7 +3422,7 @@ $(document).ready(function(){
 <td>16</td>
 <td>0.948</td>
 <td>-59.252</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/DFFA">=></a></td>
+<td><a href="/riboeuk/_mds/DFFA">=></a></td>
 </tr>
 <tr>
 <td>DFFA_0</td>
@@ -3434,7 +3434,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.959</td>
 <td>-59.252</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/DFFA_0">=></a></td>
+<td><a href="/riboeuk/_mds/DFFA_0">=></a></td>
 </tr>
 <tr>
 <td>DFFA_1</td>
@@ -3446,7 +3446,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.933</td>
 <td>-62.001</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/DFFA_1">=></a></td>
+<td><a href="/riboeuk/_mds/DFFA_1">=></a></td>
 </tr>
 <tr>
 <td>DGAT2L6</td>
@@ -3458,7 +3458,7 @@ $(document).ready(function(){
 <td>4</td>
 <td>0.939</td>
 <td>-26.048</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/DGAT2L6">=></a></td>
+<td><a href="/riboeuk/_mds/DGAT2L6">=></a></td>
 </tr>
 <tr>
 <td>DGKA</td>
@@ -3470,7 +3470,7 @@ $(document).ready(function(){
 <td>17</td>
 <td>0.939</td>
 <td>-37.609</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/DGKA">=></a></td>
+<td><a href="/riboeuk/_mds/DGKA">=></a></td>
 </tr>
 <tr>
 <td>DGKD</td>
@@ -3482,7 +3482,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.959</td>
 <td>-24.520</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/DGKD">=></a></td>
+<td><a href="/riboeuk/_mds/DGKD">=></a></td>
 </tr>
 <tr>
 <td>DGUOK</td>
@@ -3494,7 +3494,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.960</td>
 <td>-37.928</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/DGUOK">=></a></td>
+<td><a href="/riboeuk/_mds/DGUOK">=></a></td>
 </tr>
 <tr>
 <td>DHCR7</td>
@@ -3506,7 +3506,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.938</td>
 <td>-54.963</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/DHCR7">=></a></td>
+<td><a href="/riboeuk/_mds/DHCR7">=></a></td>
 </tr>
 <tr>
 <td>DHCR7_0</td>
@@ -3518,7 +3518,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.984</td>
 <td>-5.316</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/DHCR7_0">=></a></td>
+<td><a href="/riboeuk/_mds/DHCR7_0">=></a></td>
 </tr>
 <tr>
 <td>DHDH</td>
@@ -3530,7 +3530,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.970</td>
 <td>-21.492</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/DHDH">=></a></td>
+<td><a href="/riboeuk/_mds/DHDH">=></a></td>
 </tr>
 <tr>
 <td>DHPS</td>
@@ -3542,7 +3542,7 @@ $(document).ready(function(){
 <td>3</td>
 <td>0.960</td>
 <td>-47.561</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/DHPS">=></a></td>
+<td><a href="/riboeuk/_mds/DHPS">=></a></td>
 </tr>
 <tr>
 <td>DHPS_0</td>
@@ -3554,7 +3554,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.960</td>
 <td>-48.860</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/DHPS_0">=></a></td>
+<td><a href="/riboeuk/_mds/DHPS_0">=></a></td>
 </tr>
 <tr>
 <td>DHX36</td>
@@ -3566,7 +3566,7 @@ $(document).ready(function(){
 <td>7</td>
 <td>0.940</td>
 <td>-21.863</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/DHX36">=></a></td>
+<td><a href="/riboeuk/_mds/DHX36">=></a></td>
 </tr>
 <tr>
 <td>DKC1</td>
@@ -3578,7 +3578,7 @@ $(document).ready(function(){
 <td>13</td>
 <td>0.951</td>
 <td>-43.734</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/DKC1">=></a></td>
+<td><a href="/riboeuk/_mds/DKC1">=></a></td>
 </tr>
 <tr>
 <td>DLGAP1</td>
@@ -3590,7 +3590,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.978</td>
 <td>-4.016</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/DLGAP1">=></a></td>
+<td><a href="/riboeuk/_mds/DLGAP1">=></a></td>
 </tr>
 <tr>
 <td>DMBX1</td>
@@ -3602,7 +3602,7 @@ $(document).ready(function(){
 <td>18</td>
 <td>0.984</td>
 <td>-12.447</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/DMBX1">=></a></td>
+<td><a href="/riboeuk/_mds/DMBX1">=></a></td>
 </tr>
 <tr>
 <td>DNAH9</td>
@@ -3614,7 +3614,7 @@ $(document).ready(function(){
 <td>3</td>
 <td>0.971</td>
 <td>-31.087</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/DNAH9">=></a></td>
+<td><a href="/riboeuk/_mds/DNAH9">=></a></td>
 </tr>
 <tr>
 <td>DNAI2</td>
@@ -3626,7 +3626,7 @@ $(document).ready(function(){
 <td>11</td>
 <td>0.947</td>
 <td>-27.570</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/DNAI2">=></a></td>
+<td><a href="/riboeuk/_mds/DNAI2">=></a></td>
 </tr>
 <tr>
 <td>DNAJA1</td>
@@ -3638,7 +3638,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.965</td>
 <td>-25.821</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/DNAJA1">=></a></td>
+<td><a href="/riboeuk/_mds/DNAJA1">=></a></td>
 </tr>
 <tr>
 <td>DNAJB8</td>
@@ -3650,7 +3650,7 @@ $(document).ready(function(){
 <td>10</td>
 <td>0.976</td>
 <td>-17.713</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/DNAJB8">=></a></td>
+<td><a href="/riboeuk/_mds/DNAJB8">=></a></td>
 </tr>
 <tr>
 <td>DNAJC11</td>
@@ -3662,7 +3662,7 @@ $(document).ready(function(){
 <td>17</td>
 <td>0.957</td>
 <td>-10.001</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/DNAJC11">=></a></td>
+<td><a href="/riboeuk/_mds/DNAJC11">=></a></td>
 </tr>
 <tr>
 <td>DNAJC28</td>
@@ -3674,7 +3674,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.950</td>
 <td>-55.790</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/DNAJC28">=></a></td>
+<td><a href="/riboeuk/_mds/DNAJC28">=></a></td>
 </tr>
 <tr>
 <td>DNAJC7</td>
@@ -3686,7 +3686,7 @@ $(document).ready(function(){
 <td>16</td>
 <td>0.919</td>
 <td>-29.808</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/DNAJC7">=></a></td>
+<td><a href="/riboeuk/_mds/DNAJC7">=></a></td>
 </tr>
 <tr>
 <td>DNTTIP2</td>
@@ -3698,7 +3698,7 @@ $(document).ready(function(){
 <td>4</td>
 <td>0.982</td>
 <td>-15.101</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/DNTTIP2">=></a></td>
+<td><a href="/riboeuk/_mds/DNTTIP2">=></a></td>
 </tr>
 <tr>
 <td>DOCK11</td>
@@ -3710,7 +3710,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.969</td>
 <td>-20.084</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/DOCK11">=></a></td>
+<td><a href="/riboeuk/_mds/DOCK11">=></a></td>
 </tr>
 <tr>
 <td>DOCK11_0</td>
@@ -3722,7 +3722,7 @@ $(document).ready(function(){
 <td>10</td>
 <td>0.964</td>
 <td>-33.714</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/DOCK11_0">=></a></td>
+<td><a href="/riboeuk/_mds/DOCK11_0">=></a></td>
 </tr>
 <tr>
 <td>DPY19L2</td>
@@ -3734,7 +3734,7 @@ $(document).ready(function(){
 <td>16</td>
 <td>0.952</td>
 <td>-40.500</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/DPY19L2">=></a></td>
+<td><a href="/riboeuk/_mds/DPY19L2">=></a></td>
 </tr>
 <tr>
 <td>DPYSL2</td>
@@ -3746,7 +3746,7 @@ $(document).ready(function(){
 <td>4</td>
 <td>0.916</td>
 <td>-57.524</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/DPYSL2">=></a></td>
+<td><a href="/riboeuk/_mds/DPYSL2">=></a></td>
 </tr>
 <tr>
 <td>DUSP11</td>
@@ -3758,7 +3758,7 @@ $(document).ready(function(){
 <td>14</td>
 <td>0.979</td>
 <td>-25.329</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/DUSP11">=></a></td>
+<td><a href="/riboeuk/_mds/DUSP11">=></a></td>
 </tr>
 <tr>
 <td>DUSP6</td>
@@ -3770,7 +3770,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.984</td>
 <td>-7.345</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/DUSP6">=></a></td>
+<td><a href="/riboeuk/_mds/DUSP6">=></a></td>
 </tr>
 <tr>
 <td>DYDC1</td>
@@ -3782,7 +3782,7 @@ $(document).ready(function(){
 <td>8</td>
 <td>0.978</td>
 <td>-19.573</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/DYDC1">=></a></td>
+<td><a href="/riboeuk/_mds/DYDC1">=></a></td>
 </tr>
 <tr>
 <td>DYNC1LI1</td>
@@ -3794,7 +3794,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.960</td>
 <td>-49.730</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/DYNC1LI1">=></a></td>
+<td><a href="/riboeuk/_mds/DYNC1LI1">=></a></td>
 </tr>
 <tr>
 <td>DYNC1LI1_0</td>
@@ -3806,7 +3806,7 @@ $(document).ready(function(){
 <td>19</td>
 <td>0.957</td>
 <td>-55.924</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/DYNC1LI1_0">=></a></td>
+<td><a href="/riboeuk/_mds/DYNC1LI1_0">=></a></td>
 </tr>
 <tr>
 <td>E2F5</td>
@@ -3818,7 +3818,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.987</td>
 <td>-20.679</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/E2F5">=></a></td>
+<td><a href="/riboeuk/_mds/E2F5">=></a></td>
 </tr>
 <tr>
 <td>E2F5_0</td>
@@ -3830,7 +3830,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.990</td>
 <td>-17.801</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/E2F5_0">=></a></td>
+<td><a href="/riboeuk/_mds/E2F5_0">=></a></td>
 </tr>
 <tr>
 <td>EDA</td>
@@ -3842,7 +3842,7 @@ $(document).ready(function(){
 <td>4</td>
 <td>0.944</td>
 <td>-48.168</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/EDA">=></a></td>
+<td><a href="/riboeuk/_mds/EDA">=></a></td>
 </tr>
 <tr>
 <td>EEF2</td>
@@ -3854,7 +3854,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.967</td>
 <td>-34.267</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/EEF2">=></a></td>
+<td><a href="/riboeuk/_mds/EEF2">=></a></td>
 </tr>
 <tr>
 <td>EEF2_0</td>
@@ -3866,7 +3866,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.973</td>
 <td>-34.267</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/EEF2_0">=></a></td>
+<td><a href="/riboeuk/_mds/EEF2_0">=></a></td>
 </tr>
 <tr>
 <td>EFTUD2</td>
@@ -3878,7 +3878,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.977</td>
 <td>-13.854</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/EFTUD2">=></a></td>
+<td><a href="/riboeuk/_mds/EFTUD2">=></a></td>
 </tr>
 <tr>
 <td>EHF</td>
@@ -3890,7 +3890,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.956</td>
 <td>-25.277</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/EHF">=></a></td>
+<td><a href="/riboeuk/_mds/EHF">=></a></td>
 </tr>
 <tr>
 <td>EHMT2</td>
@@ -3902,7 +3902,7 @@ $(document).ready(function(){
 <td>5</td>
 <td>0.979</td>
 <td>-5.779</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/EHMT2">=></a></td>
+<td><a href="/riboeuk/_mds/EHMT2">=></a></td>
 </tr>
 <tr>
 <td>EIF1</td>
@@ -3914,7 +3914,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.971</td>
 <td>-6.394</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/EIF1">=></a></td>
+<td><a href="/riboeuk/_mds/EIF1">=></a></td>
 </tr>
 <tr>
 <td>EIF2B2</td>
@@ -3926,7 +3926,7 @@ $(document).ready(function(){
 <td>17</td>
 <td>0.953</td>
 <td>-36.434</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/EIF2B2">=></a></td>
+<td><a href="/riboeuk/_mds/EIF2B2">=></a></td>
 </tr>
 <tr>
 <td>EIF3C</td>
@@ -3938,7 +3938,7 @@ $(document).ready(function(){
 <td>3</td>
 <td>0.969</td>
 <td>-43.424</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/EIF3C">=></a></td>
+<td><a href="/riboeuk/_mds/EIF3C">=></a></td>
 </tr>
 <tr>
 <td>EIF3C_0</td>
@@ -3950,7 +3950,7 @@ $(document).ready(function(){
 <td>19</td>
 <td>0.961</td>
 <td>-32.694</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/EIF3C_0">=></a></td>
+<td><a href="/riboeuk/_mds/EIF3C_0">=></a></td>
 </tr>
 <tr>
 <td>EIF3CL</td>
@@ -3962,7 +3962,7 @@ $(document).ready(function(){
 <td>13</td>
 <td>0.966</td>
 <td>-33.480</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/EIF3CL">=></a></td>
+<td><a href="/riboeuk/_mds/EIF3CL">=></a></td>
 </tr>
 <tr>
 <td>EIF3E</td>
@@ -3974,7 +3974,7 @@ $(document).ready(function(){
 <td>14</td>
 <td>0.935</td>
 <td>-31.913</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/EIF3E">=></a></td>
+<td><a href="/riboeuk/_mds/EIF3E">=></a></td>
 </tr>
 <tr>
 <td>EIF3H</td>
@@ -3986,7 +3986,7 @@ $(document).ready(function(){
 <td>19</td>
 <td>0.918</td>
 <td>-46.851</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/EIF3H">=></a></td>
+<td><a href="/riboeuk/_mds/EIF3H">=></a></td>
 </tr>
 <tr>
 <td>EIF3I</td>
@@ -3998,7 +3998,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.965</td>
 <td>-24.004</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/EIF3I">=></a></td>
+<td><a href="/riboeuk/_mds/EIF3I">=></a></td>
 </tr>
 <tr>
 <td>EIF4A1</td>
@@ -4010,7 +4010,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.931</td>
 <td>-57.575</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/EIF4A1">=></a></td>
+<td><a href="/riboeuk/_mds/EIF4A1">=></a></td>
 </tr>
 <tr>
 <td>EIF4E2</td>
@@ -4022,7 +4022,7 @@ $(document).ready(function(){
 <td>17</td>
 <td>0.935</td>
 <td>-60.257</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/EIF4E2">=></a></td>
+<td><a href="/riboeuk/_mds/EIF4E2">=></a></td>
 </tr>
 <tr>
 <td>EIF4H</td>
@@ -4034,7 +4034,7 @@ $(document).ready(function(){
 <td>18</td>
 <td>0.982</td>
 <td>-3.293</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/EIF4H">=></a></td>
+<td><a href="/riboeuk/_mds/EIF4H">=></a></td>
 </tr>
 <tr>
 <td>EIF5A</td>
@@ -4046,7 +4046,7 @@ $(document).ready(function(){
 <td>10</td>
 <td>0.846</td>
 <td>-43.405</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/EIF5A">=></a></td>
+<td><a href="/riboeuk/_mds/EIF5A">=></a></td>
 </tr>
 <tr>
 <td>EIF6</td>
@@ -4058,7 +4058,7 @@ $(document).ready(function(){
 <td>19</td>
 <td>0.978</td>
 <td>-28.557</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/EIF6">=></a></td>
+<td><a href="/riboeuk/_mds/EIF6">=></a></td>
 </tr>
 <tr>
 <td>EIF6_0</td>
@@ -4070,7 +4070,7 @@ $(document).ready(function(){
 <td>14</td>
 <td>0.966</td>
 <td>-25.746</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/EIF6_0">=></a></td>
+<td><a href="/riboeuk/_mds/EIF6_0">=></a></td>
 </tr>
 <tr>
 <td>ELP3</td>
@@ -4082,7 +4082,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.936</td>
 <td>-50.547</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ELP3">=></a></td>
+<td><a href="/riboeuk/_mds/ELP3">=></a></td>
 </tr>
 <tr>
 <td>ENPP2</td>
@@ -4094,7 +4094,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.963</td>
 <td>-24.516</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ENPP2">=></a></td>
+<td><a href="/riboeuk/_mds/ENPP2">=></a></td>
 </tr>
 <tr>
 <td>ENY2</td>
@@ -4106,7 +4106,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.968</td>
 <td>-30.696</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ENY2">=></a></td>
+<td><a href="/riboeuk/_mds/ENY2">=></a></td>
 </tr>
 <tr>
 <td>ENY2_0</td>
@@ -4118,7 +4118,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.975</td>
 <td>-23.298</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ENY2_0">=></a></td>
+<td><a href="/riboeuk/_mds/ENY2_0">=></a></td>
 </tr>
 <tr>
 <td>ENY2_1</td>
@@ -4130,7 +4130,7 @@ $(document).ready(function(){
 <td>19</td>
 <td>0.946</td>
 <td>-46.745</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ENY2_1">=></a></td>
+<td><a href="/riboeuk/_mds/ENY2_1">=></a></td>
 </tr>
 <tr>
 <td>EPB41L3</td>
@@ -4142,7 +4142,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.958</td>
 <td>-36.003</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/EPB41L3">=></a></td>
+<td><a href="/riboeuk/_mds/EPB41L3">=></a></td>
 </tr>
 <tr>
 <td>EPB41L3_0</td>
@@ -4154,7 +4154,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.973</td>
 <td>-12.909</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/EPB41L3_0">=></a></td>
+<td><a href="/riboeuk/_mds/EPB41L3_0">=></a></td>
 </tr>
 <tr>
 <td>EPB41L3_1</td>
@@ -4166,7 +4166,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.972</td>
 <td>-11.838</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/EPB41L3_1">=></a></td>
+<td><a href="/riboeuk/_mds/EPB41L3_1">=></a></td>
 </tr>
 <tr>
 <td>EPB41L3_2</td>
@@ -4178,7 +4178,7 @@ $(document).ready(function(){
 <td>11</td>
 <td>0.959</td>
 <td>-26.011</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/EPB41L3_2">=></a></td>
+<td><a href="/riboeuk/_mds/EPB41L3_2">=></a></td>
 </tr>
 <tr>
 <td>EPDR1</td>
@@ -4190,7 +4190,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.992</td>
 <td>-14.554</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/EPDR1">=></a></td>
+<td><a href="/riboeuk/_mds/EPDR1">=></a></td>
 </tr>
 <tr>
 <td>EPHA7</td>
@@ -4202,7 +4202,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.872</td>
 <td>-57.927</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/EPHA7">=></a></td>
+<td><a href="/riboeuk/_mds/EPHA7">=></a></td>
 </tr>
 <tr>
 <td>EPHA7_0</td>
@@ -4214,7 +4214,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.846</td>
 <td>-57.927</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/EPHA7_0">=></a></td>
+<td><a href="/riboeuk/_mds/EPHA7_0">=></a></td>
 </tr>
 <tr>
 <td>EPS8</td>
@@ -4226,7 +4226,7 @@ $(document).ready(function(){
 <td>18</td>
 <td>0.936</td>
 <td>-13.276</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/EPS8">=></a></td>
+<td><a href="/riboeuk/_mds/EPS8">=></a></td>
 </tr>
 <tr>
 <td>EPSTI1</td>
@@ -4238,7 +4238,7 @@ $(document).ready(function(){
 <td>16</td>
 <td>0.972</td>
 <td>-31.836</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/EPSTI1">=></a></td>
+<td><a href="/riboeuk/_mds/EPSTI1">=></a></td>
 </tr>
 <tr>
 <td>ERCC1</td>
@@ -4250,7 +4250,7 @@ $(document).ready(function(){
 <td>18</td>
 <td>0.984</td>
 <td>-8.242</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ERCC1">=></a></td>
+<td><a href="/riboeuk/_mds/ERCC1">=></a></td>
 </tr>
 <tr>
 <td>ERCC6L</td>
@@ -4262,7 +4262,7 @@ $(document).ready(function(){
 <td>17</td>
 <td>0.946</td>
 <td>-28.022</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ERCC6L">=></a></td>
+<td><a href="/riboeuk/_mds/ERCC6L">=></a></td>
 </tr>
 <tr>
 <td>ERG</td>
@@ -4274,7 +4274,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.947</td>
 <td>-16.413</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ERG">=></a></td>
+<td><a href="/riboeuk/_mds/ERG">=></a></td>
 </tr>
 <tr>
 <td>ERGIC2</td>
@@ -4286,7 +4286,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.933</td>
 <td>-49.213</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ERGIC2">=></a></td>
+<td><a href="/riboeuk/_mds/ERGIC2">=></a></td>
 </tr>
 <tr>
 <td>ERGIC2_0</td>
@@ -4298,7 +4298,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.942</td>
 <td>-58.755</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ERGIC2_0">=></a></td>
+<td><a href="/riboeuk/_mds/ERGIC2_0">=></a></td>
 </tr>
 <tr>
 <td>ERGIC2_1</td>
@@ -4310,7 +4310,7 @@ $(document).ready(function(){
 <td>10</td>
 <td>0.937</td>
 <td>-55.239</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ERGIC2_1">=></a></td>
+<td><a href="/riboeuk/_mds/ERGIC2_1">=></a></td>
 </tr>
 <tr>
 <td>ERP27</td>
@@ -4322,7 +4322,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.929</td>
 <td>-41.924</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ERP27">=></a></td>
+<td><a href="/riboeuk/_mds/ERP27">=></a></td>
 </tr>
 <tr>
 <td>ETV3</td>
@@ -4334,7 +4334,7 @@ $(document).ready(function(){
 <td>14</td>
 <td>0.948</td>
 <td>-35.396</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ETV3">=></a></td>
+<td><a href="/riboeuk/_mds/ETV3">=></a></td>
 </tr>
 <tr>
 <td>EXOC4</td>
@@ -4346,7 +4346,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.927</td>
 <td>-50.809</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/EXOC4">=></a></td>
+<td><a href="/riboeuk/_mds/EXOC4">=></a></td>
 </tr>
 <tr>
 <td>EXOG</td>
@@ -4358,7 +4358,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.986</td>
 <td>-10.492</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/EXOG">=></a></td>
+<td><a href="/riboeuk/_mds/EXOG">=></a></td>
 </tr>
 <tr>
 <td>EXOSC3</td>
@@ -4370,7 +4370,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.978</td>
 <td>-18.156</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/EXOSC3">=></a></td>
+<td><a href="/riboeuk/_mds/EXOSC3">=></a></td>
 </tr>
 <tr>
 <td>EXOSC3_0</td>
@@ -4382,7 +4382,7 @@ $(document).ready(function(){
 <td>19</td>
 <td>0.978</td>
 <td>-26.788</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/EXOSC3_0">=></a></td>
+<td><a href="/riboeuk/_mds/EXOSC3_0">=></a></td>
 </tr>
 <tr>
 <td>EXOSC9</td>
@@ -4394,7 +4394,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.958</td>
 <td>-39.376</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/EXOSC9">=></a></td>
+<td><a href="/riboeuk/_mds/EXOSC9">=></a></td>
 </tr>
 <tr>
 <td>EXPH5</td>
@@ -4406,7 +4406,7 @@ $(document).ready(function(){
 <td>12</td>
 <td>0.951</td>
 <td>-24.980</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/EXPH5">=></a></td>
+<td><a href="/riboeuk/_mds/EXPH5">=></a></td>
 </tr>
 <tr>
 <td>EYA2</td>
@@ -4418,7 +4418,7 @@ $(document).ready(function(){
 <td>10</td>
 <td>0.939</td>
 <td>-50.725</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/EYA2">=></a></td>
+<td><a href="/riboeuk/_mds/EYA2">=></a></td>
 </tr>
 <tr>
 <td>EYA2_0</td>
@@ -4430,7 +4430,7 @@ $(document).ready(function(){
 <td>9</td>
 <td>0.939</td>
 <td>-37.140</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/EYA2_0">=></a></td>
+<td><a href="/riboeuk/_mds/EYA2_0">=></a></td>
 </tr>
 <tr>
 <td>FADS1</td>
@@ -4442,7 +4442,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.960</td>
 <td>-44.948</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/FADS1">=></a></td>
+<td><a href="/riboeuk/_mds/FADS1">=></a></td>
 </tr>
 <tr>
 <td>FADS1_0</td>
@@ -4454,7 +4454,7 @@ $(document).ready(function(){
 <td>7</td>
 <td>0.940</td>
 <td>-43.539</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/FADS1_0">=></a></td>
+<td><a href="/riboeuk/_mds/FADS1_0">=></a></td>
 </tr>
 <tr>
 <td>FADS1_1</td>
@@ -4466,7 +4466,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.960</td>
 <td>-44.948</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/FADS1_1">=></a></td>
+<td><a href="/riboeuk/_mds/FADS1_1">=></a></td>
 </tr>
 <tr>
 <td>FADS1_2</td>
@@ -4478,7 +4478,7 @@ $(document).ready(function(){
 <td>7</td>
 <td>0.940</td>
 <td>-43.539</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/FADS1_2">=></a></td>
+<td><a href="/riboeuk/_mds/FADS1_2">=></a></td>
 </tr>
 <tr>
 <td>FAF1</td>
@@ -4490,7 +4490,7 @@ $(document).ready(function(){
 <td>19</td>
 <td>0.979</td>
 <td>-39.642</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/FAF1">=></a></td>
+<td><a href="/riboeuk/_mds/FAF1">=></a></td>
 </tr>
 <tr>
 <td>FAM111A</td>
@@ -4502,7 +4502,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.973</td>
 <td>-17.463</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/FAM111A">=></a></td>
+<td><a href="/riboeuk/_mds/FAM111A">=></a></td>
 </tr>
 <tr>
 <td>FAM114A2</td>
@@ -4514,7 +4514,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.951</td>
 <td>-44.460</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/FAM114A2">=></a></td>
+<td><a href="/riboeuk/_mds/FAM114A2">=></a></td>
 </tr>
 <tr>
 <td>FAM114A2_0</td>
@@ -4526,7 +4526,7 @@ $(document).ready(function(){
 <td>17</td>
 <td>0.957</td>
 <td>-44.089</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/FAM114A2_0">=></a></td>
+<td><a href="/riboeuk/_mds/FAM114A2_0">=></a></td>
 </tr>
 <tr>
 <td>FAM114A2_1</td>
@@ -4538,7 +4538,7 @@ $(document).ready(function(){
 <td>19</td>
 <td>0.941</td>
 <td>-54.567</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/FAM114A2_1">=></a></td>
+<td><a href="/riboeuk/_mds/FAM114A2_1">=></a></td>
 </tr>
 <tr>
 <td>FAM120B</td>
@@ -4550,7 +4550,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.985</td>
 <td>-9.426</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/FAM120B">=></a></td>
+<td><a href="/riboeuk/_mds/FAM120B">=></a></td>
 </tr>
 <tr>
 <td>FAM72A</td>
@@ -4562,7 +4562,7 @@ $(document).ready(function(){
 <td>6</td>
 <td>0.963</td>
 <td>-27.680</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/FAM72A">=></a></td>
+<td><a href="/riboeuk/_mds/FAM72A">=></a></td>
 </tr>
 <tr>
 <td>FAM8A1</td>
@@ -4574,7 +4574,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.968</td>
 <td>-23.191</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/FAM8A1">=></a></td>
+<td><a href="/riboeuk/_mds/FAM8A1">=></a></td>
 </tr>
 <tr>
 <td>FANCA</td>
@@ -4586,7 +4586,7 @@ $(document).ready(function(){
 <td>2</td>
 <td>0.980</td>
 <td>-26.392</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/FANCA">=></a></td>
+<td><a href="/riboeuk/_mds/FANCA">=></a></td>
 </tr>
 <tr>
 <td>FANCA_0</td>
@@ -4598,7 +4598,7 @@ $(document).ready(function(){
 <td>6</td>
 <td>0.986</td>
 <td>-21.049</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/FANCA_0">=></a></td>
+<td><a href="/riboeuk/_mds/FANCA_0">=></a></td>
 </tr>
 <tr>
 <td>FANCA_1</td>
@@ -4610,7 +4610,7 @@ $(document).ready(function(){
 <td>10</td>
 <td>0.977</td>
 <td>-26.392</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/FANCA_1">=></a></td>
+<td><a href="/riboeuk/_mds/FANCA_1">=></a></td>
 </tr>
 <tr>
 <td>FANCA_2</td>
@@ -4622,7 +4622,7 @@ $(document).ready(function(){
 <td>8</td>
 <td>0.979</td>
 <td>-25.138</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/FANCA_2">=></a></td>
+<td><a href="/riboeuk/_mds/FANCA_2">=></a></td>
 </tr>
 <tr>
 <td>FANCB</td>
@@ -4634,7 +4634,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.942</td>
 <td>-44.442</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/FANCB">=></a></td>
+<td><a href="/riboeuk/_mds/FANCB">=></a></td>
 </tr>
 <tr>
 <td>FANCM</td>
@@ -4646,7 +4646,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.965</td>
 <td>-41.136</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/FANCM">=></a></td>
+<td><a href="/riboeuk/_mds/FANCM">=></a></td>
 </tr>
 <tr>
 <td>FANCM_0</td>
@@ -4658,7 +4658,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.962</td>
 <td>-41.136</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/FANCM_0">=></a></td>
+<td><a href="/riboeuk/_mds/FANCM_0">=></a></td>
 </tr>
 <tr>
 <td>FANK1</td>
@@ -4670,7 +4670,7 @@ $(document).ready(function(){
 <td>16</td>
 <td>0.953</td>
 <td>-53.975</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/FANK1">=></a></td>
+<td><a href="/riboeuk/_mds/FANK1">=></a></td>
 </tr>
 <tr>
 <td>FARP2</td>
@@ -4682,7 +4682,7 @@ $(document).ready(function(){
 <td>17</td>
 <td>0.950</td>
 <td>-52.971</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/FARP2">=></a></td>
+<td><a href="/riboeuk/_mds/FARP2">=></a></td>
 </tr>
 <tr>
 <td>FASTKD3</td>
@@ -4694,7 +4694,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.937</td>
 <td>-33.067</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/FASTKD3">=></a></td>
+<td><a href="/riboeuk/_mds/FASTKD3">=></a></td>
 </tr>
 <tr>
 <td>FBL</td>
@@ -4706,7 +4706,7 @@ $(document).ready(function(){
 <td>4</td>
 <td>0.971</td>
 <td>-36.092</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/FBL">=></a></td>
+<td><a href="/riboeuk/_mds/FBL">=></a></td>
 </tr>
 <tr>
 <td>FBXO11</td>
@@ -4718,7 +4718,7 @@ $(document).ready(function(){
 <td>13</td>
 <td>0.948</td>
 <td>-14.616</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/FBXO11">=></a></td>
+<td><a href="/riboeuk/_mds/FBXO11">=></a></td>
 </tr>
 <tr>
 <td>FBXO25</td>
@@ -4730,7 +4730,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.963</td>
 <td>-29.102</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/FBXO25">=></a></td>
+<td><a href="/riboeuk/_mds/FBXO25">=></a></td>
 </tr>
 <tr>
 <td>FBXO25_0</td>
@@ -4742,7 +4742,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.983</td>
 <td>-12.508</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/FBXO25_0">=></a></td>
+<td><a href="/riboeuk/_mds/FBXO25_0">=></a></td>
 </tr>
 <tr>
 <td>FBXW12</td>
@@ -4754,7 +4754,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.977</td>
 <td>-5.359</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/FBXW12">=></a></td>
+<td><a href="/riboeuk/_mds/FBXW12">=></a></td>
 </tr>
 <tr>
 <td>FCGRT</td>
@@ -4766,7 +4766,7 @@ $(document).ready(function(){
 <td>18</td>
 <td>0.968</td>
 <td>-24.712</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/FCGRT">=></a></td>
+<td><a href="/riboeuk/_mds/FCGRT">=></a></td>
 </tr>
 <tr>
 <td>FCHSD2</td>
@@ -4778,7 +4778,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.911</td>
 <td>-58.899</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/FCHSD2">=></a></td>
+<td><a href="/riboeuk/_mds/FCHSD2">=></a></td>
 </tr>
 <tr>
 <td>FDFT1</td>
@@ -4790,7 +4790,7 @@ $(document).ready(function(){
 <td>19</td>
 <td>0.973</td>
 <td>-17.273</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/FDFT1">=></a></td>
+<td><a href="/riboeuk/_mds/FDFT1">=></a></td>
 </tr>
 <tr>
 <td>FDFT1_0</td>
@@ -4802,7 +4802,7 @@ $(document).ready(function(){
 <td>19</td>
 <td>0.973</td>
 <td>-17.273</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/FDFT1_0">=></a></td>
+<td><a href="/riboeuk/_mds/FDFT1_0">=></a></td>
 </tr>
 <tr>
 <td>FDFT1_1</td>
@@ -4814,7 +4814,7 @@ $(document).ready(function(){
 <td>19</td>
 <td>0.973</td>
 <td>-17.273</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/FDFT1_1">=></a></td>
+<td><a href="/riboeuk/_mds/FDFT1_1">=></a></td>
 </tr>
 <tr>
 <td>FDFT1_2</td>
@@ -4826,7 +4826,7 @@ $(document).ready(function(){
 <td>19</td>
 <td>0.973</td>
 <td>-17.273</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/FDFT1_2">=></a></td>
+<td><a href="/riboeuk/_mds/FDFT1_2">=></a></td>
 </tr>
 <tr>
 <td>FDFT1_3</td>
@@ -4838,7 +4838,7 @@ $(document).ready(function(){
 <td>19</td>
 <td>0.973</td>
 <td>-17.273</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/FDFT1_3">=></a></td>
+<td><a href="/riboeuk/_mds/FDFT1_3">=></a></td>
 </tr>
 <tr>
 <td>FDPS</td>
@@ -4850,7 +4850,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.954</td>
 <td>-46.978</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/FDPS">=></a></td>
+<td><a href="/riboeuk/_mds/FDPS">=></a></td>
 </tr>
 <tr>
 <td>FDPS_0</td>
@@ -4862,7 +4862,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.914</td>
 <td>-67.782</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/FDPS_0">=></a></td>
+<td><a href="/riboeuk/_mds/FDPS_0">=></a></td>
 </tr>
 <tr>
 <td>FDPS_1</td>
@@ -4874,7 +4874,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.931</td>
 <td>-62.177</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/FDPS_1">=></a></td>
+<td><a href="/riboeuk/_mds/FDPS_1">=></a></td>
 </tr>
 <tr>
 <td>FGF14</td>
@@ -4886,7 +4886,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.961</td>
 <td>-25.837</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/FGF14">=></a></td>
+<td><a href="/riboeuk/_mds/FGF14">=></a></td>
 </tr>
 <tr>
 <td>FGF6</td>
@@ -4898,7 +4898,7 @@ $(document).ready(function(){
 <td>16</td>
 <td>0.979</td>
 <td>-31.070</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/FGF6">=></a></td>
+<td><a href="/riboeuk/_mds/FGF6">=></a></td>
 </tr>
 <tr>
 <td>FGGY</td>
@@ -4910,7 +4910,7 @@ $(document).ready(function(){
 <td>14</td>
 <td>0.929</td>
 <td>-61.245</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/FGGY">=></a></td>
+<td><a href="/riboeuk/_mds/FGGY">=></a></td>
 </tr>
 <tr>
 <td>FGGY_0</td>
@@ -4922,7 +4922,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.968</td>
 <td>-29.315</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/FGGY_0">=></a></td>
+<td><a href="/riboeuk/_mds/FGGY_0">=></a></td>
 </tr>
 <tr>
 <td>FGGY_1</td>
@@ -4934,7 +4934,7 @@ $(document).ready(function(){
 <td>10</td>
 <td>0.947</td>
 <td>-36.060</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/FGGY_1">=></a></td>
+<td><a href="/riboeuk/_mds/FGGY_1">=></a></td>
 </tr>
 <tr>
 <td>FKBP15</td>
@@ -4946,7 +4946,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.921</td>
 <td>-55.182</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/FKBP15">=></a></td>
+<td><a href="/riboeuk/_mds/FKBP15">=></a></td>
 </tr>
 <tr>
 <td>FKBP15_0</td>
@@ -4958,7 +4958,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.937</td>
 <td>-55.182</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/FKBP15_0">=></a></td>
+<td><a href="/riboeuk/_mds/FKBP15_0">=></a></td>
 </tr>
 <tr>
 <td>FOXB1</td>
@@ -4970,7 +4970,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.979</td>
 <td>-9.489</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/FOXB1">=></a></td>
+<td><a href="/riboeuk/_mds/FOXB1">=></a></td>
 </tr>
 <tr>
 <td>FOXP1</td>
@@ -4982,7 +4982,7 @@ $(document).ready(function(){
 <td>10</td>
 <td>0.930</td>
 <td>-34.892</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/FOXP1">=></a></td>
+<td><a href="/riboeuk/_mds/FOXP1">=></a></td>
 </tr>
 <tr>
 <td>FRMD1</td>
@@ -4994,7 +4994,7 @@ $(document).ready(function(){
 <td>2</td>
 <td>0.973</td>
 <td>-30.666</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/FRMD1">=></a></td>
+<td><a href="/riboeuk/_mds/FRMD1">=></a></td>
 </tr>
 <tr>
 <td>FSCN2</td>
@@ -5006,7 +5006,7 @@ $(document).ready(function(){
 <td>13</td>
 <td>0.976</td>
 <td>-6.652</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/FSCN2">=></a></td>
+<td><a href="/riboeuk/_mds/FSCN2">=></a></td>
 </tr>
 <tr>
 <td>FTO</td>
@@ -5018,7 +5018,7 @@ $(document).ready(function(){
 <td>10</td>
 <td>0.966</td>
 <td>-36.125</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/FTO">=></a></td>
+<td><a href="/riboeuk/_mds/FTO">=></a></td>
 </tr>
 <tr>
 <td>FTSJ1</td>
@@ -5030,7 +5030,7 @@ $(document).ready(function(){
 <td>19</td>
 <td>0.974</td>
 <td>-17.594</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/FTSJ1">=></a></td>
+<td><a href="/riboeuk/_mds/FTSJ1">=></a></td>
 </tr>
 <tr>
 <td>FUCA1</td>
@@ -5042,7 +5042,7 @@ $(document).ready(function(){
 <td>11</td>
 <td>0.968</td>
 <td>-29.020</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/FUCA1">=></a></td>
+<td><a href="/riboeuk/_mds/FUCA1">=></a></td>
 </tr>
 <tr>
 <td>FYN</td>
@@ -5054,7 +5054,7 @@ $(document).ready(function(){
 <td>2</td>
 <td>0.961</td>
 <td>-23.699</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/FYN">=></a></td>
+<td><a href="/riboeuk/_mds/FYN">=></a></td>
 </tr>
 <tr>
 <td>FYN_0</td>
@@ -5066,7 +5066,7 @@ $(document).ready(function(){
 <td>10</td>
 <td>0.977</td>
 <td>-16.617</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/FYN_0">=></a></td>
+<td><a href="/riboeuk/_mds/FYN_0">=></a></td>
 </tr>
 <tr>
 <td>GABRA2</td>
@@ -5078,7 +5078,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.920</td>
 <td>-43.779</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/GABRA2">=></a></td>
+<td><a href="/riboeuk/_mds/GABRA2">=></a></td>
 </tr>
 <tr>
 <td>GABRA2_0</td>
@@ -5090,7 +5090,7 @@ $(document).ready(function(){
 <td>7</td>
 <td>0.926</td>
 <td>-36.845</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/GABRA2_0">=></a></td>
+<td><a href="/riboeuk/_mds/GABRA2_0">=></a></td>
 </tr>
 <tr>
 <td>GALNT1</td>
@@ -5102,7 +5102,7 @@ $(document).ready(function(){
 <td>18</td>
 <td>0.941</td>
 <td>-20.962</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/GALNT1">=></a></td>
+<td><a href="/riboeuk/_mds/GALNT1">=></a></td>
 </tr>
 <tr>
 <td>GALNT1_0</td>
@@ -5114,7 +5114,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.962</td>
 <td>-19.429</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/GALNT1_0">=></a></td>
+<td><a href="/riboeuk/_mds/GALNT1_0">=></a></td>
 </tr>
 <tr>
 <td>GALNT3</td>
@@ -5126,7 +5126,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.943</td>
 <td>-18.257</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/GALNT3">=></a></td>
+<td><a href="/riboeuk/_mds/GALNT3">=></a></td>
 </tr>
 <tr>
 <td>GALNT3_0</td>
@@ -5138,7 +5138,7 @@ $(document).ready(function(){
 <td>2</td>
 <td>0.973</td>
 <td>-1.870</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/GALNT3_0">=></a></td>
+<td><a href="/riboeuk/_mds/GALNT3_0">=></a></td>
 </tr>
 <tr>
 <td>GAPDHS</td>
@@ -5150,7 +5150,7 @@ $(document).ready(function(){
 <td>11</td>
 <td>0.946</td>
 <td>-48.459</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/GAPDHS">=></a></td>
+<td><a href="/riboeuk/_mds/GAPDHS">=></a></td>
 </tr>
 <tr>
 <td>GART</td>
@@ -5162,7 +5162,7 @@ $(document).ready(function(){
 <td>19</td>
 <td>0.956</td>
 <td>-28.495</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/GART">=></a></td>
+<td><a href="/riboeuk/_mds/GART">=></a></td>
 </tr>
 <tr>
 <td>GAS2</td>
@@ -5174,7 +5174,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.943</td>
 <td>-83.683</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/GAS2">=></a></td>
+<td><a href="/riboeuk/_mds/GAS2">=></a></td>
 </tr>
 <tr>
 <td>GATAD1</td>
@@ -5186,7 +5186,7 @@ $(document).ready(function(){
 <td>2</td>
 <td>0.905</td>
 <td>-44.426</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/GATAD1">=></a></td>
+<td><a href="/riboeuk/_mds/GATAD1">=></a></td>
 </tr>
 <tr>
 <td>GATAD2A</td>
@@ -5198,7 +5198,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.876</td>
 <td>-95.782</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/GATAD2A">=></a></td>
+<td><a href="/riboeuk/_mds/GATAD2A">=></a></td>
 </tr>
 <tr>
 <td>GDI2</td>
@@ -5210,7 +5210,7 @@ $(document).ready(function(){
 <td>11</td>
 <td>0.935</td>
 <td>-34.351</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/GDI2">=></a></td>
+<td><a href="/riboeuk/_mds/GDI2">=></a></td>
 </tr>
 <tr>
 <td>GDNF</td>
@@ -5222,7 +5222,7 @@ $(document).ready(function(){
 <td>17</td>
 <td>0.939</td>
 <td>-43.853</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/GDNF">=></a></td>
+<td><a href="/riboeuk/_mds/GDNF">=></a></td>
 </tr>
 <tr>
 <td>GEM</td>
@@ -5234,7 +5234,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.929</td>
 <td>-55.416</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/GEM">=></a></td>
+<td><a href="/riboeuk/_mds/GEM">=></a></td>
 </tr>
 <tr>
 <td>GEM_0</td>
@@ -5246,7 +5246,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.914</td>
 <td>-65.712</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/GEM_0">=></a></td>
+<td><a href="/riboeuk/_mds/GEM_0">=></a></td>
 </tr>
 <tr>
 <td>GEMIN4</td>
@@ -5258,7 +5258,7 @@ $(document).ready(function(){
 <td>2</td>
 <td>0.901</td>
 <td>-60.110</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/GEMIN4">=></a></td>
+<td><a href="/riboeuk/_mds/GEMIN4">=></a></td>
 </tr>
 <tr>
 <td>GGPS1</td>
@@ -5270,7 +5270,7 @@ $(document).ready(function(){
 <td>19</td>
 <td>0.960</td>
 <td>-29.960</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/GGPS1">=></a></td>
+<td><a href="/riboeuk/_mds/GGPS1">=></a></td>
 </tr>
 <tr>
 <td>GHITM</td>
@@ -5282,7 +5282,7 @@ $(document).ready(function(){
 <td>19</td>
 <td>0.931</td>
 <td>-67.110</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/GHITM">=></a></td>
+<td><a href="/riboeuk/_mds/GHITM">=></a></td>
 </tr>
 <tr>
 <td>GHITM_0</td>
@@ -5294,7 +5294,7 @@ $(document).ready(function(){
 <td>18</td>
 <td>0.950</td>
 <td>-42.054</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/GHITM_0">=></a></td>
+<td><a href="/riboeuk/_mds/GHITM_0">=></a></td>
 </tr>
 <tr>
 <td>GHITM_1</td>
@@ -5306,7 +5306,7 @@ $(document).ready(function(){
 <td>12</td>
 <td>0.935</td>
 <td>-48.197</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/GHITM_1">=></a></td>
+<td><a href="/riboeuk/_mds/GHITM_1">=></a></td>
 </tr>
 <tr>
 <td>GHRH</td>
@@ -5318,7 +5318,7 @@ $(document).ready(function(){
 <td>3</td>
 <td>0.982</td>
 <td>-19.521</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/GHRH">=></a></td>
+<td><a href="/riboeuk/_mds/GHRH">=></a></td>
 </tr>
 <tr>
 <td>GIMAP4</td>
@@ -5330,7 +5330,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.942</td>
 <td>-35.544</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/GIMAP4">=></a></td>
+<td><a href="/riboeuk/_mds/GIMAP4">=></a></td>
 </tr>
 <tr>
 <td>GIN1</td>
@@ -5342,7 +5342,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.969</td>
 <td>-23.498</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/GIN1">=></a></td>
+<td><a href="/riboeuk/_mds/GIN1">=></a></td>
 </tr>
 <tr>
 <td>GIN1_0</td>
@@ -5354,7 +5354,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.960</td>
 <td>-27.270</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/GIN1_0">=></a></td>
+<td><a href="/riboeuk/_mds/GIN1_0">=></a></td>
 </tr>
 <tr>
 <td>GLA</td>
@@ -5366,7 +5366,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.943</td>
 <td>-36.018</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/GLA">=></a></td>
+<td><a href="/riboeuk/_mds/GLA">=></a></td>
 </tr>
 <tr>
 <td>GLA_0</td>
@@ -5378,7 +5378,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.890</td>
 <td>-71.240</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/GLA_0">=></a></td>
+<td><a href="/riboeuk/_mds/GLA_0">=></a></td>
 </tr>
 <tr>
 <td>GLDN</td>
@@ -5390,7 +5390,7 @@ $(document).ready(function(){
 <td>17</td>
 <td>0.983</td>
 <td>-21.192</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/GLDN">=></a></td>
+<td><a href="/riboeuk/_mds/GLDN">=></a></td>
 </tr>
 <tr>
 <td>GLE1</td>
@@ -5402,7 +5402,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.961</td>
 <td>-32.395</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/GLE1">=></a></td>
+<td><a href="/riboeuk/_mds/GLE1">=></a></td>
 </tr>
 <tr>
 <td>GLG1</td>
@@ -5414,7 +5414,7 @@ $(document).ready(function(){
 <td>17</td>
 <td>0.970</td>
 <td>-27.650</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/GLG1">=></a></td>
+<td><a href="/riboeuk/_mds/GLG1">=></a></td>
 </tr>
 <tr>
 <td>GLT8D1</td>
@@ -5426,7 +5426,7 @@ $(document).ready(function(){
 <td>5</td>
 <td>0.960</td>
 <td>-45.889</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/GLT8D1">=></a></td>
+<td><a href="/riboeuk/_mds/GLT8D1">=></a></td>
 </tr>
 <tr>
 <td>GNAT2</td>
@@ -5438,7 +5438,7 @@ $(document).ready(function(){
 <td>6</td>
 <td>0.964</td>
 <td>-33.833</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/GNAT2">=></a></td>
+<td><a href="/riboeuk/_mds/GNAT2">=></a></td>
 </tr>
 <tr>
 <td>GNL2</td>
@@ -5450,7 +5450,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.968</td>
 <td>-27.331</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/GNL2">=></a></td>
+<td><a href="/riboeuk/_mds/GNL2">=></a></td>
 </tr>
 <tr>
 <td>GNL2_0</td>
@@ -5462,7 +5462,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.911</td>
 <td>-63.900</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/GNL2_0">=></a></td>
+<td><a href="/riboeuk/_mds/GNL2_0">=></a></td>
 </tr>
 <tr>
 <td>GNL3</td>
@@ -5474,7 +5474,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.947</td>
 <td>-64.821</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/GNL3">=></a></td>
+<td><a href="/riboeuk/_mds/GNL3">=></a></td>
 </tr>
 <tr>
 <td>GNL3_0</td>
@@ -5486,7 +5486,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.865</td>
 <td>-44.741</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/GNL3_0">=></a></td>
+<td><a href="/riboeuk/_mds/GNL3_0">=></a></td>
 </tr>
 <tr>
 <td>GNPDA1</td>
@@ -5498,7 +5498,7 @@ $(document).ready(function(){
 <td>17</td>
 <td>0.959</td>
 <td>-35.869</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/GNPDA1">=></a></td>
+<td><a href="/riboeuk/_mds/GNPDA1">=></a></td>
 </tr>
 <tr>
 <td>GNPDA1_0</td>
@@ -5510,7 +5510,7 @@ $(document).ready(function(){
 <td>16</td>
 <td>0.964</td>
 <td>-40.371</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/GNPDA1_0">=></a></td>
+<td><a href="/riboeuk/_mds/GNPDA1_0">=></a></td>
 </tr>
 <tr>
 <td>GOLM1</td>
@@ -5522,7 +5522,7 @@ $(document).ready(function(){
 <td>9</td>
 <td>0.935</td>
 <td>-50.923</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/GOLM1">=></a></td>
+<td><a href="/riboeuk/_mds/GOLM1">=></a></td>
 </tr>
 <tr>
 <td>GOSR1</td>
@@ -5534,7 +5534,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.983</td>
 <td>-8.198</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/GOSR1">=></a></td>
+<td><a href="/riboeuk/_mds/GOSR1">=></a></td>
 </tr>
 <tr>
 <td>GPN1</td>
@@ -5546,7 +5546,7 @@ $(document).ready(function(){
 <td>2</td>
 <td>0.985</td>
 <td>-11.537</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/GPN1">=></a></td>
+<td><a href="/riboeuk/_mds/GPN1">=></a></td>
 </tr>
 <tr>
 <td>GPN1_0</td>
@@ -5558,7 +5558,7 @@ $(document).ready(function(){
 <td>2</td>
 <td>0.985</td>
 <td>-11.537</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/GPN1_0">=></a></td>
+<td><a href="/riboeuk/_mds/GPN1_0">=></a></td>
 </tr>
 <tr>
 <td>GPN1_1</td>
@@ -5570,7 +5570,7 @@ $(document).ready(function(){
 <td>2</td>
 <td>0.985</td>
 <td>-11.537</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/GPN1_1">=></a></td>
+<td><a href="/riboeuk/_mds/GPN1_1">=></a></td>
 </tr>
 <tr>
 <td>GPN1_2</td>
@@ -5582,7 +5582,7 @@ $(document).ready(function(){
 <td>2</td>
 <td>0.985</td>
 <td>-11.537</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/GPN1_2">=></a></td>
+<td><a href="/riboeuk/_mds/GPN1_2">=></a></td>
 </tr>
 <tr>
 <td>GPR149</td>
@@ -5594,7 +5594,7 @@ $(document).ready(function(){
 <td>9</td>
 <td>0.925</td>
 <td>-22.250</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/GPR149">=></a></td>
+<td><a href="/riboeuk/_mds/GPR149">=></a></td>
 </tr>
 <tr>
 <td>GRHL1</td>
@@ -5606,7 +5606,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.939</td>
 <td>-60.447</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/GRHL1">=></a></td>
+<td><a href="/riboeuk/_mds/GRHL1">=></a></td>
 </tr>
 <tr>
 <td>GRIK2</td>
@@ -5618,7 +5618,7 @@ $(document).ready(function(){
 <td>5</td>
 <td>0.918</td>
 <td>-34.322</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/GRIK2">=></a></td>
+<td><a href="/riboeuk/_mds/GRIK2">=></a></td>
 </tr>
 <tr>
 <td>GRK5</td>
@@ -5630,7 +5630,7 @@ $(document).ready(function(){
 <td>13</td>
 <td>0.934</td>
 <td>-28.875</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/GRK5">=></a></td>
+<td><a href="/riboeuk/_mds/GRK5">=></a></td>
 </tr>
 <tr>
 <td>GSS</td>
@@ -5642,7 +5642,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.963</td>
 <td>-41.741</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/GSS">=></a></td>
+<td><a href="/riboeuk/_mds/GSS">=></a></td>
 </tr>
 <tr>
 <td>GSTM1</td>
@@ -5654,7 +5654,7 @@ $(document).ready(function(){
 <td>5</td>
 <td>0.972</td>
 <td>-24.258</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/GSTM1">=></a></td>
+<td><a href="/riboeuk/_mds/GSTM1">=></a></td>
 </tr>
 <tr>
 <td>GSTO1</td>
@@ -5666,7 +5666,7 @@ $(document).ready(function(){
 <td>18</td>
 <td>0.983</td>
 <td>-5.775</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/GSTO1">=></a></td>
+<td><a href="/riboeuk/_mds/GSTO1">=></a></td>
 </tr>
 <tr>
 <td>GTF2E2</td>
@@ -5678,7 +5678,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.944</td>
 <td>-42.901</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/GTF2E2">=></a></td>
+<td><a href="/riboeuk/_mds/GTF2E2">=></a></td>
 </tr>
 <tr>
 <td>GTF3C1</td>
@@ -5690,7 +5690,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.984</td>
 <td>-18.821</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/GTF3C1">=></a></td>
+<td><a href="/riboeuk/_mds/GTF3C1">=></a></td>
 </tr>
 <tr>
 <td>GTPBP1</td>
@@ -5702,7 +5702,7 @@ $(document).ready(function(){
 <td>5</td>
 <td>0.960</td>
 <td>-14.227</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/GTPBP1">=></a></td>
+<td><a href="/riboeuk/_mds/GTPBP1">=></a></td>
 </tr>
 <tr>
 <td>GTPBP6</td>
@@ -5714,7 +5714,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.977</td>
 <td>-29.083</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/GTPBP6">=></a></td>
+<td><a href="/riboeuk/_mds/GTPBP6">=></a></td>
 </tr>
 <tr>
 <td>GTSE1</td>
@@ -5726,7 +5726,7 @@ $(document).ready(function(){
 <td>13</td>
 <td>0.929</td>
 <td>-64.057</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/GTSE1">=></a></td>
+<td><a href="/riboeuk/_mds/GTSE1">=></a></td>
 </tr>
 <tr>
 <td>GUCA1C</td>
@@ -5738,7 +5738,7 @@ $(document).ready(function(){
 <td>16</td>
 <td>0.961</td>
 <td>-19.989</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/GUCA1C">=></a></td>
+<td><a href="/riboeuk/_mds/GUCA1C">=></a></td>
 </tr>
 <tr>
 <td>GUCY2C</td>
@@ -5750,7 +5750,7 @@ $(document).ready(function(){
 <td>3</td>
 <td>0.983</td>
 <td>-15.406</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/GUCY2C">=></a></td>
+<td><a href="/riboeuk/_mds/GUCY2C">=></a></td>
 </tr>
 <tr>
 <td>GUCY2D</td>
@@ -5762,7 +5762,7 @@ $(document).ready(function(){
 <td>19</td>
 <td>0.961</td>
 <td>-44.146</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/GUCY2D">=></a></td>
+<td><a href="/riboeuk/_mds/GUCY2D">=></a></td>
 </tr>
 <tr>
 <td>GUSB</td>
@@ -5774,7 +5774,7 @@ $(document).ready(function(){
 <td>4</td>
 <td>0.969</td>
 <td>-46.244</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/GUSB">=></a></td>
+<td><a href="/riboeuk/_mds/GUSB">=></a></td>
 </tr>
 <tr>
 <td>HAGHL</td>
@@ -5786,7 +5786,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.975</td>
 <td>-28.525</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/HAGHL">=></a></td>
+<td><a href="/riboeuk/_mds/HAGHL">=></a></td>
 </tr>
 <tr>
 <td>HAO1</td>
@@ -5798,7 +5798,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.991</td>
 <td>-9.709</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/HAO1">=></a></td>
+<td><a href="/riboeuk/_mds/HAO1">=></a></td>
 </tr>
 <tr>
 <td>HAO1_0</td>
@@ -5810,7 +5810,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.946</td>
 <td>-16.298</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/HAO1_0">=></a></td>
+<td><a href="/riboeuk/_mds/HAO1_0">=></a></td>
 </tr>
 <tr>
 <td>HAT1</td>
@@ -5822,7 +5822,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.981</td>
 <td>-25.631</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/HAT1">=></a></td>
+<td><a href="/riboeuk/_mds/HAT1">=></a></td>
 </tr>
 <tr>
 <td>HAT1_0</td>
@@ -5834,7 +5834,7 @@ $(document).ready(function(){
 <td>2</td>
 <td>0.979</td>
 <td>-32.193</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/HAT1_0">=></a></td>
+<td><a href="/riboeuk/_mds/HAT1_0">=></a></td>
 </tr>
 <tr>
 <td>HBP1</td>
@@ -5846,7 +5846,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.907</td>
 <td>-26.485</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/HBP1">=></a></td>
+<td><a href="/riboeuk/_mds/HBP1">=></a></td>
 </tr>
 <tr>
 <td>HBP1_0</td>
@@ -5858,7 +5858,7 @@ $(document).ready(function(){
 <td>18</td>
 <td>0.964</td>
 <td>-23.306</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/HBP1_0">=></a></td>
+<td><a href="/riboeuk/_mds/HBP1_0">=></a></td>
 </tr>
 <tr>
 <td>HDAC6</td>
@@ -5870,7 +5870,7 @@ $(document).ready(function(){
 <td>18</td>
 <td>0.951</td>
 <td>-46.875</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/HDAC6">=></a></td>
+<td><a href="/riboeuk/_mds/HDAC6">=></a></td>
 </tr>
 <tr>
 <td>HDAC6_0</td>
@@ -5882,7 +5882,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.936</td>
 <td>-55.894</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/HDAC6_0">=></a></td>
+<td><a href="/riboeuk/_mds/HDAC6_0">=></a></td>
 </tr>
 <tr>
 <td>HDGF</td>
@@ -5894,7 +5894,7 @@ $(document).ready(function(){
 <td>4</td>
 <td>0.971</td>
 <td>-31.385</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/HDGF">=></a></td>
+<td><a href="/riboeuk/_mds/HDGF">=></a></td>
 </tr>
 <tr>
 <td>HDX</td>
@@ -5906,7 +5906,7 @@ $(document).ready(function(){
 <td>10</td>
 <td>0.950</td>
 <td>-32.421</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/HDX">=></a></td>
+<td><a href="/riboeuk/_mds/HDX">=></a></td>
 </tr>
 <tr>
 <td>HELT</td>
@@ -5918,7 +5918,7 @@ $(document).ready(function(){
 <td>16</td>
 <td>0.958</td>
 <td>-42.247</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/HELT">=></a></td>
+<td><a href="/riboeuk/_mds/HELT">=></a></td>
 </tr>
 <tr>
 <td>HERC3</td>
@@ -5930,7 +5930,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.939</td>
 <td>-62.192</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/HERC3">=></a></td>
+<td><a href="/riboeuk/_mds/HERC3">=></a></td>
 </tr>
 <tr>
 <td>HERPUD1</td>
@@ -5942,7 +5942,7 @@ $(document).ready(function(){
 <td>17</td>
 <td>0.960</td>
 <td>-38.148</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/HERPUD1">=></a></td>
+<td><a href="/riboeuk/_mds/HERPUD1">=></a></td>
 </tr>
 <tr>
 <td>HERPUD1_0</td>
@@ -5954,7 +5954,7 @@ $(document).ready(function(){
 <td>17</td>
 <td>0.936</td>
 <td>-48.867</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/HERPUD1_0">=></a></td>
+<td><a href="/riboeuk/_mds/HERPUD1_0">=></a></td>
 </tr>
 <tr>
 <td>HEXA</td>
@@ -5966,7 +5966,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.923</td>
 <td>-99.514</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/HEXA">=></a></td>
+<td><a href="/riboeuk/_mds/HEXA">=></a></td>
 </tr>
 <tr>
 <td>HEXB</td>
@@ -5978,7 +5978,7 @@ $(document).ready(function(){
 <td>6</td>
 <td>0.933</td>
 <td>-61.503</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/HEXB">=></a></td>
+<td><a href="/riboeuk/_mds/HEXB">=></a></td>
 </tr>
 <tr>
 <td>HEYL</td>
@@ -5990,7 +5990,7 @@ $(document).ready(function(){
 <td>3</td>
 <td>0.973</td>
 <td>-25.848</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/HEYL">=></a></td>
+<td><a href="/riboeuk/_mds/HEYL">=></a></td>
 </tr>
 <tr>
 <td>HHAT</td>
@@ -6002,7 +6002,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.939</td>
 <td>-43.489</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/HHAT">=></a></td>
+<td><a href="/riboeuk/_mds/HHAT">=></a></td>
 </tr>
 <tr>
 <td>HIP1R</td>
@@ -6014,7 +6014,7 @@ $(document).ready(function(){
 <td>8</td>
 <td>0.976</td>
 <td>-28.177</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/HIP1R">=></a></td>
+<td><a href="/riboeuk/_mds/HIP1R">=></a></td>
 </tr>
 <tr>
 <td>HIPK3</td>
@@ -6026,7 +6026,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.967</td>
 <td>-23.201</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/HIPK3">=></a></td>
+<td><a href="/riboeuk/_mds/HIPK3">=></a></td>
 </tr>
 <tr>
 <td>HMBOX1</td>
@@ -6038,7 +6038,7 @@ $(document).ready(function(){
 <td>3</td>
 <td>0.911</td>
 <td>-34.831</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/HMBOX1">=></a></td>
+<td><a href="/riboeuk/_mds/HMBOX1">=></a></td>
 </tr>
 <tr>
 <td>HMGB1</td>
@@ -6050,7 +6050,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.956</td>
 <td>-43.746</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/HMGB1">=></a></td>
+<td><a href="/riboeuk/_mds/HMGB1">=></a></td>
 </tr>
 <tr>
 <td>HMGB1_0</td>
@@ -6062,7 +6062,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.899</td>
 <td>-55.963</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/HMGB1_0">=></a></td>
+<td><a href="/riboeuk/_mds/HMGB1_0">=></a></td>
 </tr>
 <tr>
 <td>HMGB1_1</td>
@@ -6074,7 +6074,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.932</td>
 <td>-51.719</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/HMGB1_1">=></a></td>
+<td><a href="/riboeuk/_mds/HMGB1_1">=></a></td>
 </tr>
 <tr>
 <td>HMGN2</td>
@@ -6086,7 +6086,7 @@ $(document).ready(function(){
 <td>8</td>
 <td>0.856</td>
 <td>-76.945</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/HMGN2">=></a></td>
+<td><a href="/riboeuk/_mds/HMGN2">=></a></td>
 </tr>
 <tr>
 <td>HMOX1</td>
@@ -6098,7 +6098,7 @@ $(document).ready(function(){
 <td>2</td>
 <td>0.969</td>
 <td>-29.122</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/HMOX1">=></a></td>
+<td><a href="/riboeuk/_mds/HMOX1">=></a></td>
 </tr>
 <tr>
 <td>HNF4G</td>
@@ -6110,7 +6110,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.990</td>
 <td>-11.829</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/HNF4G">=></a></td>
+<td><a href="/riboeuk/_mds/HNF4G">=></a></td>
 </tr>
 <tr>
 <td>HNRNPH1</td>
@@ -6122,7 +6122,7 @@ $(document).ready(function(){
 <td>9</td>
 <td>0.938</td>
 <td>-41.370</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/HNRNPH1">=></a></td>
+<td><a href="/riboeuk/_mds/HNRNPH1">=></a></td>
 </tr>
 <tr>
 <td>HNRNPH1_0</td>
@@ -6134,7 +6134,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.942</td>
 <td>-62.380</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/HNRNPH1_0">=></a></td>
+<td><a href="/riboeuk/_mds/HNRNPH1_0">=></a></td>
 </tr>
 <tr>
 <td>HNRNPH2</td>
@@ -6146,7 +6146,7 @@ $(document).ready(function(){
 <td>16</td>
 <td>0.941</td>
 <td>-51.061</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/HNRNPH2">=></a></td>
+<td><a href="/riboeuk/_mds/HNRNPH2">=></a></td>
 </tr>
 <tr>
 <td>HOMER1</td>
@@ -6158,7 +6158,7 @@ $(document).ready(function(){
 <td>3</td>
 <td>0.988</td>
 <td>-5.242</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/HOMER1">=></a></td>
+<td><a href="/riboeuk/_mds/HOMER1">=></a></td>
 </tr>
 <tr>
 <td>HOXA4</td>
@@ -6170,7 +6170,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.985</td>
 <td>-7.668</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/HOXA4">=></a></td>
+<td><a href="/riboeuk/_mds/HOXA4">=></a></td>
 </tr>
 <tr>
 <td>HOXA5</td>
@@ -6182,7 +6182,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.973</td>
 <td>-9.884</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/HOXA5">=></a></td>
+<td><a href="/riboeuk/_mds/HOXA5">=></a></td>
 </tr>
 <tr>
 <td>HOXA7</td>
@@ -6194,7 +6194,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.937</td>
 <td>-34.393</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/HOXA7">=></a></td>
+<td><a href="/riboeuk/_mds/HOXA7">=></a></td>
 </tr>
 <tr>
 <td>HOXB1</td>
@@ -6206,7 +6206,7 @@ $(document).ready(function(){
 <td>12</td>
 <td>0.981</td>
 <td>-2.535</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/HOXB1">=></a></td>
+<td><a href="/riboeuk/_mds/HOXB1">=></a></td>
 </tr>
 <tr>
 <td>HOXB5</td>
@@ -6218,7 +6218,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.975</td>
 <td>-7.999</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/HOXB5">=></a></td>
+<td><a href="/riboeuk/_mds/HOXB5">=></a></td>
 </tr>
 <tr>
 <td>HOXB7</td>
@@ -6230,7 +6230,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.944</td>
 <td>-18.796</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/HOXB7">=></a></td>
+<td><a href="/riboeuk/_mds/HOXB7">=></a></td>
 </tr>
 <tr>
 <td>HOXC11</td>
@@ -6242,7 +6242,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.982</td>
 <td>-12.087</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/HOXC11">=></a></td>
+<td><a href="/riboeuk/_mds/HOXC11">=></a></td>
 </tr>
 <tr>
 <td>HOXC9</td>
@@ -6254,7 +6254,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.964</td>
 <td>-25.617</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/HOXC9">=></a></td>
+<td><a href="/riboeuk/_mds/HOXC9">=></a></td>
 </tr>
 <tr>
 <td>HOXC9_0</td>
@@ -6266,7 +6266,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.975</td>
 <td>-21.218</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/HOXC9_0">=></a></td>
+<td><a href="/riboeuk/_mds/HOXC9_0">=></a></td>
 </tr>
 <tr>
 <td>HPD</td>
@@ -6278,7 +6278,7 @@ $(document).ready(function(){
 <td>13</td>
 <td>0.986</td>
 <td>-15.116</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/HPD">=></a></td>
+<td><a href="/riboeuk/_mds/HPD">=></a></td>
 </tr>
 <tr>
 <td>HPSE2</td>
@@ -6290,7 +6290,7 @@ $(document).ready(function(){
 <td>2</td>
 <td>0.971</td>
 <td>-17.330</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/HPSE2">=></a></td>
+<td><a href="/riboeuk/_mds/HPSE2">=></a></td>
 </tr>
 <tr>
 <td>HSBP1</td>
@@ -6302,7 +6302,7 @@ $(document).ready(function(){
 <td>8</td>
 <td>0.963</td>
 <td>-29.207</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/HSBP1">=></a></td>
+<td><a href="/riboeuk/_mds/HSBP1">=></a></td>
 </tr>
 <tr>
 <td>HSD17B7</td>
@@ -6314,7 +6314,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.959</td>
 <td>-40.631</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/HSD17B7">=></a></td>
+<td><a href="/riboeuk/_mds/HSD17B7">=></a></td>
 </tr>
 <tr>
 <td>HSD17B7_0</td>
@@ -6326,7 +6326,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.954</td>
 <td>-39.584</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/HSD17B7_0">=></a></td>
+<td><a href="/riboeuk/_mds/HSD17B7_0">=></a></td>
 </tr>
 <tr>
 <td>HSPA13</td>
@@ -6338,7 +6338,7 @@ $(document).ready(function(){
 <td>5</td>
 <td>0.964</td>
 <td>-39.678</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/HSPA13">=></a></td>
+<td><a href="/riboeuk/_mds/HSPA13">=></a></td>
 </tr>
 <tr>
 <td>HSPA4L</td>
@@ -6350,7 +6350,7 @@ $(document).ready(function(){
 <td>3</td>
 <td>0.948</td>
 <td>-27.106</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/HSPA4L">=></a></td>
+<td><a href="/riboeuk/_mds/HSPA4L">=></a></td>
 </tr>
 <tr>
 <td>HSPB11</td>
@@ -6362,7 +6362,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.969</td>
 <td>-36.829</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/HSPB11">=></a></td>
+<td><a href="/riboeuk/_mds/HSPB11">=></a></td>
 </tr>
 <tr>
 <td>HSPE1</td>
@@ -6374,7 +6374,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.949</td>
 <td>-23.511</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/HSPE1">=></a></td>
+<td><a href="/riboeuk/_mds/HSPE1">=></a></td>
 </tr>
 <tr>
 <td>HTATIP2</td>
@@ -6386,7 +6386,7 @@ $(document).ready(function(){
 <td>19</td>
 <td>0.980</td>
 <td>-43.163</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/HTATIP2">=></a></td>
+<td><a href="/riboeuk/_mds/HTATIP2">=></a></td>
 </tr>
 <tr>
 <td>HTATIP2_0</td>
@@ -6398,7 +6398,7 @@ $(document).ready(function(){
 <td>19</td>
 <td>0.945</td>
 <td>-53.429</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/HTATIP2_0">=></a></td>
+<td><a href="/riboeuk/_mds/HTATIP2_0">=></a></td>
 </tr>
 <tr>
 <td>HTATIP2_1</td>
@@ -6410,7 +6410,7 @@ $(document).ready(function(){
 <td>17</td>
 <td>0.961</td>
 <td>-49.512</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/HTATIP2_1">=></a></td>
+<td><a href="/riboeuk/_mds/HTATIP2_1">=></a></td>
 </tr>
 <tr>
 <td>HTR5A</td>
@@ -6422,7 +6422,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.959</td>
 <td>-16.032</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/HTR5A">=></a></td>
+<td><a href="/riboeuk/_mds/HTR5A">=></a></td>
 </tr>
 <tr>
 <td>HYLS1</td>
@@ -6434,7 +6434,7 @@ $(document).ready(function(){
 <td>11</td>
 <td>0.960</td>
 <td>-48.726</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/HYLS1">=></a></td>
+<td><a href="/riboeuk/_mds/HYLS1">=></a></td>
 </tr>
 <tr>
 <td>HYOU1</td>
@@ -6446,7 +6446,7 @@ $(document).ready(function(){
 <td>4</td>
 <td>0.846</td>
 <td>-51.028</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/HYOU1">=></a></td>
+<td><a href="/riboeuk/_mds/HYOU1">=></a></td>
 </tr>
 <tr>
 <td>IARS2</td>
@@ -6458,7 +6458,7 @@ $(document).ready(function(){
 <td>12</td>
 <td>0.965</td>
 <td>-22.736</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/IARS2">=></a></td>
+<td><a href="/riboeuk/_mds/IARS2">=></a></td>
 </tr>
 <tr>
 <td>ICA1</td>
@@ -6470,7 +6470,7 @@ $(document).ready(function(){
 <td>9</td>
 <td>0.909</td>
 <td>-51.923</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ICA1">=></a></td>
+<td><a href="/riboeuk/_mds/ICA1">=></a></td>
 </tr>
 <tr>
 <td>ICOS</td>
@@ -6482,7 +6482,7 @@ $(document).ready(function(){
 <td>3</td>
 <td>0.929</td>
 <td>-34.441</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ICOS">=></a></td>
+<td><a href="/riboeuk/_mds/ICOS">=></a></td>
 </tr>
 <tr>
 <td>ICOS_0</td>
@@ -6494,7 +6494,7 @@ $(document).ready(function(){
 <td>16</td>
 <td>0.960</td>
 <td>-31.635</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ICOS_0">=></a></td>
+<td><a href="/riboeuk/_mds/ICOS_0">=></a></td>
 </tr>
 <tr>
 <td>IDE</td>
@@ -6506,7 +6506,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.975</td>
 <td>-41.348</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/IDE">=></a></td>
+<td><a href="/riboeuk/_mds/IDE">=></a></td>
 </tr>
 <tr>
 <td>IDH3G</td>
@@ -6518,7 +6518,7 @@ $(document).ready(function(){
 <td>13</td>
 <td>0.906</td>
 <td>-85.853</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/IDH3G">=></a></td>
+<td><a href="/riboeuk/_mds/IDH3G">=></a></td>
 </tr>
 <tr>
 <td>IFITM2</td>
@@ -6530,7 +6530,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.937</td>
 <td>-24.408</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/IFITM2">=></a></td>
+<td><a href="/riboeuk/_mds/IFITM2">=></a></td>
 </tr>
 <tr>
 <td>IFITM3</td>
@@ -6542,7 +6542,7 @@ $(document).ready(function(){
 <td>10</td>
 <td>0.936</td>
 <td>-29.433</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/IFITM3">=></a></td>
+<td><a href="/riboeuk/_mds/IFITM3">=></a></td>
 </tr>
 <tr>
 <td>IFNK</td>
@@ -6554,7 +6554,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.983</td>
 <td>-2.637</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/IFNK">=></a></td>
+<td><a href="/riboeuk/_mds/IFNK">=></a></td>
 </tr>
 <tr>
 <td>IFT172</td>
@@ -6566,7 +6566,7 @@ $(document).ready(function(){
 <td>7</td>
 <td>0.864</td>
 <td>-64.393</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/IFT172">=></a></td>
+<td><a href="/riboeuk/_mds/IFT172">=></a></td>
 </tr>
 <tr>
 <td>IFT74</td>
@@ -6578,7 +6578,7 @@ $(document).ready(function(){
 <td>16</td>
 <td>0.864</td>
 <td>-61.982</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/IFT74">=></a></td>
+<td><a href="/riboeuk/_mds/IFT74">=></a></td>
 </tr>
 <tr>
 <td>IFT81</td>
@@ -6590,7 +6590,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.933</td>
 <td>-42.719</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/IFT81">=></a></td>
+<td><a href="/riboeuk/_mds/IFT81">=></a></td>
 </tr>
 <tr>
 <td>IFT88</td>
@@ -6602,7 +6602,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.955</td>
 <td>-26.841</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/IFT88">=></a></td>
+<td><a href="/riboeuk/_mds/IFT88">=></a></td>
 </tr>
 <tr>
 <td>IGF2BP2</td>
@@ -6614,7 +6614,7 @@ $(document).ready(function(){
 <td>12</td>
 <td>0.975</td>
 <td>-22.246</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/IGF2BP2">=></a></td>
+<td><a href="/riboeuk/_mds/IGF2BP2">=></a></td>
 </tr>
 <tr>
 <td>IGF2BP2_0</td>
@@ -6626,7 +6626,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.972</td>
 <td>-17.724</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/IGF2BP2_0">=></a></td>
+<td><a href="/riboeuk/_mds/IGF2BP2_0">=></a></td>
 </tr>
 <tr>
 <td>IGSF5</td>
@@ -6638,7 +6638,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.951</td>
 <td>-23.761</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/IGSF5">=></a></td>
+<td><a href="/riboeuk/_mds/IGSF5">=></a></td>
 </tr>
 <tr>
 <td>IK</td>
@@ -6650,7 +6650,7 @@ $(document).ready(function(){
 <td>7</td>
 <td>0.949</td>
 <td>-41.591</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/IK">=></a></td>
+<td><a href="/riboeuk/_mds/IK">=></a></td>
 </tr>
 <tr>
 <td>IK_0</td>
@@ -6662,7 +6662,7 @@ $(document).ready(function(){
 <td>16</td>
 <td>0.946</td>
 <td>-47.425</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/IK_0">=></a></td>
+<td><a href="/riboeuk/_mds/IK_0">=></a></td>
 </tr>
 <tr>
 <td>IL10RA</td>
@@ -6674,7 +6674,7 @@ $(document).ready(function(){
 <td>16</td>
 <td>0.948</td>
 <td>-32.619</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/IL10RA">=></a></td>
+<td><a href="/riboeuk/_mds/IL10RA">=></a></td>
 </tr>
 <tr>
 <td>IL13RA2</td>
@@ -6686,7 +6686,7 @@ $(document).ready(function(){
 <td>17</td>
 <td>0.946</td>
 <td>-38.330</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/IL13RA2">=></a></td>
+<td><a href="/riboeuk/_mds/IL13RA2">=></a></td>
 </tr>
 <tr>
 <td>IL33</td>
@@ -6698,7 +6698,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.970</td>
 <td>-12.070</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/IL33">=></a></td>
+<td><a href="/riboeuk/_mds/IL33">=></a></td>
 </tr>
 <tr>
 <td>IL33_0</td>
@@ -6710,7 +6710,7 @@ $(document).ready(function(){
 <td>17</td>
 <td>0.976</td>
 <td>-14.199</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/IL33_0">=></a></td>
+<td><a href="/riboeuk/_mds/IL33_0">=></a></td>
 </tr>
 <tr>
 <td>INTS1</td>
@@ -6722,7 +6722,7 @@ $(document).ready(function(){
 <td>8</td>
 <td>0.950</td>
 <td>-68.072</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/INTS1">=></a></td>
+<td><a href="/riboeuk/_mds/INTS1">=></a></td>
 </tr>
 <tr>
 <td>INTS9</td>
@@ -6734,7 +6734,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.966</td>
 <td>-27.354</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/INTS9">=></a></td>
+<td><a href="/riboeuk/_mds/INTS9">=></a></td>
 </tr>
 <tr>
 <td>INTU</td>
@@ -6746,7 +6746,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.968</td>
 <td>-33.847</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/INTU">=></a></td>
+<td><a href="/riboeuk/_mds/INTU">=></a></td>
 </tr>
 <tr>
 <td>IPO11</td>
@@ -6758,7 +6758,7 @@ $(document).ready(function(){
 <td>16</td>
 <td>0.938</td>
 <td>-39.727</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/IPO11">=></a></td>
+<td><a href="/riboeuk/_mds/IPO11">=></a></td>
 </tr>
 <tr>
 <td>IPP</td>
@@ -6770,7 +6770,7 @@ $(document).ready(function(){
 <td>17</td>
 <td>0.982</td>
 <td>-18.866</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/IPP">=></a></td>
+<td><a href="/riboeuk/_mds/IPP">=></a></td>
 </tr>
 <tr>
 <td>IQCF2</td>
@@ -6782,7 +6782,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.980</td>
 <td>-11.050</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/IQCF2">=></a></td>
+<td><a href="/riboeuk/_mds/IQCF2">=></a></td>
 </tr>
 <tr>
 <td>IQCG</td>
@@ -6794,7 +6794,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.913</td>
 <td>-37.427</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/IQCG">=></a></td>
+<td><a href="/riboeuk/_mds/IQCG">=></a></td>
 </tr>
 <tr>
 <td>IQUB</td>
@@ -6806,7 +6806,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.935</td>
 <td>-28.813</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/IQUB">=></a></td>
+<td><a href="/riboeuk/_mds/IQUB">=></a></td>
 </tr>
 <tr>
 <td>ISYNA1</td>
@@ -6818,7 +6818,7 @@ $(document).ready(function(){
 <td>14</td>
 <td>0.972</td>
 <td>-24.281</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ISYNA1">=></a></td>
+<td><a href="/riboeuk/_mds/ISYNA1">=></a></td>
 </tr>
 <tr>
 <td>ITCH</td>
@@ -6830,7 +6830,7 @@ $(document).ready(function(){
 <td>2</td>
 <td>0.936</td>
 <td>-90.530</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ITCH">=></a></td>
+<td><a href="/riboeuk/_mds/ITCH">=></a></td>
 </tr>
 <tr>
 <td>ITGB6</td>
@@ -6842,7 +6842,7 @@ $(document).ready(function(){
 <td>14</td>
 <td>0.976</td>
 <td>-2.695</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ITGB6">=></a></td>
+<td><a href="/riboeuk/_mds/ITGB6">=></a></td>
 </tr>
 <tr>
 <td>ITGB6_0</td>
@@ -6854,7 +6854,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.883</td>
 <td>-43.748</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ITGB6_0">=></a></td>
+<td><a href="/riboeuk/_mds/ITGB6_0">=></a></td>
 </tr>
 <tr>
 <td>ITPKC</td>
@@ -6866,7 +6866,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.971</td>
 <td>-24.914</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ITPKC">=></a></td>
+<td><a href="/riboeuk/_mds/ITPKC">=></a></td>
 </tr>
 <tr>
 <td>JAM3</td>
@@ -6878,7 +6878,7 @@ $(document).ready(function(){
 <td>5</td>
 <td>0.976</td>
 <td>-9.095</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/JAM3">=></a></td>
+<td><a href="/riboeuk/_mds/JAM3">=></a></td>
 </tr>
 <tr>
 <td>JAZF1</td>
@@ -6890,7 +6890,7 @@ $(document).ready(function(){
 <td>18</td>
 <td>0.982</td>
 <td>-19.984</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/JAZF1">=></a></td>
+<td><a href="/riboeuk/_mds/JAZF1">=></a></td>
 </tr>
 <tr>
 <td>JAZF1_0</td>
@@ -6902,7 +6902,7 @@ $(document).ready(function(){
 <td>16</td>
 <td>0.984</td>
 <td>-14.895</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/JAZF1_0">=></a></td>
+<td><a href="/riboeuk/_mds/JAZF1_0">=></a></td>
 </tr>
 <tr>
 <td>JMJD8</td>
@@ -6914,7 +6914,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.979</td>
 <td>-38.477</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/JMJD8">=></a></td>
+<td><a href="/riboeuk/_mds/JMJD8">=></a></td>
 </tr>
 <tr>
 <td>KBTBD8</td>
@@ -6926,7 +6926,7 @@ $(document).ready(function(){
 <td>3</td>
 <td>0.980</td>
 <td>-19.826</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/KBTBD8">=></a></td>
+<td><a href="/riboeuk/_mds/KBTBD8">=></a></td>
 </tr>
 <tr>
 <td>KBTBD8_0</td>
@@ -6938,7 +6938,7 @@ $(document).ready(function(){
 <td>3</td>
 <td>0.980</td>
 <td>-19.826</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/KBTBD8_0">=></a></td>
+<td><a href="/riboeuk/_mds/KBTBD8_0">=></a></td>
 </tr>
 <tr>
 <td>KCNK3</td>
@@ -6950,7 +6950,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.937</td>
 <td>-37.388</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/KCNK3">=></a></td>
+<td><a href="/riboeuk/_mds/KCNK3">=></a></td>
 </tr>
 <tr>
 <td>KCNU1</td>
@@ -6962,7 +6962,7 @@ $(document).ready(function(){
 <td>2</td>
 <td>0.967</td>
 <td>-22.635</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/KCNU1">=></a></td>
+<td><a href="/riboeuk/_mds/KCNU1">=></a></td>
 </tr>
 <tr>
 <td>KCNU1_0</td>
@@ -6974,7 +6974,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.974</td>
 <td>-8.415</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/KCNU1_0">=></a></td>
+<td><a href="/riboeuk/_mds/KCNU1_0">=></a></td>
 </tr>
 <tr>
 <td>KCTD9</td>
@@ -6986,7 +6986,7 @@ $(document).ready(function(){
 <td>10</td>
 <td>0.955</td>
 <td>-30.392</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/KCTD9">=></a></td>
+<td><a href="/riboeuk/_mds/KCTD9">=></a></td>
 </tr>
 <tr>
 <td>KDELR3</td>
@@ -6998,7 +6998,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.922</td>
 <td>-36.613</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/KDELR3">=></a></td>
+<td><a href="/riboeuk/_mds/KDELR3">=></a></td>
 </tr>
 <tr>
 <td>KIAA0586</td>
@@ -7010,7 +7010,7 @@ $(document).ready(function(){
 <td>4</td>
 <td>0.944</td>
 <td>-53.951</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/KIAA0586">=></a></td>
+<td><a href="/riboeuk/_mds/KIAA0586">=></a></td>
 </tr>
 <tr>
 <td>KIAA1143</td>
@@ -7022,7 +7022,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.967</td>
 <td>-28.296</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/KIAA1143">=></a></td>
+<td><a href="/riboeuk/_mds/KIAA1143">=></a></td>
 </tr>
 <tr>
 <td>KIAA1143_0</td>
@@ -7034,7 +7034,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.978</td>
 <td>-4.282</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/KIAA1143_0">=></a></td>
+<td><a href="/riboeuk/_mds/KIAA1143_0">=></a></td>
 </tr>
 <tr>
 <td>KIF15</td>
@@ -7046,7 +7046,7 @@ $(document).ready(function(){
 <td>18</td>
 <td>0.930</td>
 <td>-64.137</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/KIF15">=></a></td>
+<td><a href="/riboeuk/_mds/KIF15">=></a></td>
 </tr>
 <tr>
 <td>KIF18A</td>
@@ -7058,7 +7058,7 @@ $(document).ready(function(){
 <td>19</td>
 <td>0.932</td>
 <td>-43.973</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/KIF18A">=></a></td>
+<td><a href="/riboeuk/_mds/KIF18A">=></a></td>
 </tr>
 <tr>
 <td>KIF18A_0</td>
@@ -7070,7 +7070,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.920</td>
 <td>-27.705</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/KIF18A_0">=></a></td>
+<td><a href="/riboeuk/_mds/KIF18A_0">=></a></td>
 </tr>
 <tr>
 <td>KIF18A_1</td>
@@ -7082,7 +7082,7 @@ $(document).ready(function(){
 <td>12</td>
 <td>0.938</td>
 <td>-25.734</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/KIF18A_1">=></a></td>
+<td><a href="/riboeuk/_mds/KIF18A_1">=></a></td>
 </tr>
 <tr>
 <td>KIF20B</td>
@@ -7094,7 +7094,7 @@ $(document).ready(function(){
 <td>7</td>
 <td>0.972</td>
 <td>-16.901</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/KIF20B">=></a></td>
+<td><a href="/riboeuk/_mds/KIF20B">=></a></td>
 </tr>
 <tr>
 <td>KIF2C</td>
@@ -7106,7 +7106,7 @@ $(document).ready(function(){
 <td>11</td>
 <td>0.951</td>
 <td>-39.530</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/KIF2C">=></a></td>
+<td><a href="/riboeuk/_mds/KIF2C">=></a></td>
 </tr>
 <tr>
 <td>KIFAP3</td>
@@ -7118,7 +7118,7 @@ $(document).ready(function(){
 <td>18</td>
 <td>0.940</td>
 <td>-28.887</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/KIFAP3">=></a></td>
+<td><a href="/riboeuk/_mds/KIFAP3">=></a></td>
 </tr>
 <tr>
 <td>KIRREL3</td>
@@ -7130,7 +7130,7 @@ $(document).ready(function(){
 <td>2</td>
 <td>0.950</td>
 <td>-24.316</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/KIRREL3">=></a></td>
+<td><a href="/riboeuk/_mds/KIRREL3">=></a></td>
 </tr>
 <tr>
 <td>KITLG</td>
@@ -7142,7 +7142,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.975</td>
 <td>-3.127</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/KITLG">=></a></td>
+<td><a href="/riboeuk/_mds/KITLG">=></a></td>
 </tr>
 <tr>
 <td>KLHL13</td>
@@ -7154,7 +7154,7 @@ $(document).ready(function(){
 <td>3</td>
 <td>0.969</td>
 <td>-14.036</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/KLHL13">=></a></td>
+<td><a href="/riboeuk/_mds/KLHL13">=></a></td>
 </tr>
 <tr>
 <td>KLHL24</td>
@@ -7166,7 +7166,7 @@ $(document).ready(function(){
 <td>3</td>
 <td>0.922</td>
 <td>-86.213</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/KLHL24">=></a></td>
+<td><a href="/riboeuk/_mds/KLHL24">=></a></td>
 </tr>
 <tr>
 <td>KLHL24_0</td>
@@ -7178,7 +7178,7 @@ $(document).ready(function(){
 <td>3</td>
 <td>0.922</td>
 <td>-86.213</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/KLHL24_0">=></a></td>
+<td><a href="/riboeuk/_mds/KLHL24_0">=></a></td>
 </tr>
 <tr>
 <td>KLHL24_1</td>
@@ -7190,7 +7190,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.964</td>
 <td>-9.768</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/KLHL24_1">=></a></td>
+<td><a href="/riboeuk/_mds/KLHL24_1">=></a></td>
 </tr>
 <tr>
 <td>KLRC1</td>
@@ -7202,7 +7202,7 @@ $(document).ready(function(){
 <td>9</td>
 <td>0.920</td>
 <td>-26.032</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/KLRC1">=></a></td>
+<td><a href="/riboeuk/_mds/KLRC1">=></a></td>
 </tr>
 <tr>
 <td>KRIT1</td>
@@ -7214,7 +7214,7 @@ $(document).ready(function(){
 <td>9</td>
 <td>0.940</td>
 <td>-37.517</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/KRIT1">=></a></td>
+<td><a href="/riboeuk/_mds/KRIT1">=></a></td>
 </tr>
 <tr>
 <td>KRTCAP2</td>
@@ -7226,7 +7226,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.988</td>
 <td>-14.992</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/KRTCAP2">=></a></td>
+<td><a href="/riboeuk/_mds/KRTCAP2">=></a></td>
 </tr>
 <tr>
 <td>L1CAM</td>
@@ -7238,7 +7238,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.990</td>
 <td>-20.506</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/L1CAM">=></a></td>
+<td><a href="/riboeuk/_mds/L1CAM">=></a></td>
 </tr>
 <tr>
 <td>L3MBTL4</td>
@@ -7250,7 +7250,7 @@ $(document).ready(function(){
 <td>13</td>
 <td>0.921</td>
 <td>-72.177</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/L3MBTL4">=></a></td>
+<td><a href="/riboeuk/_mds/L3MBTL4">=></a></td>
 </tr>
 <tr>
 <td>LARP7</td>
@@ -7262,7 +7262,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.940</td>
 <td>-30.747</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/LARP7">=></a></td>
+<td><a href="/riboeuk/_mds/LARP7">=></a></td>
 </tr>
 <tr>
 <td>LARP7_0</td>
@@ -7274,7 +7274,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.969</td>
 <td>-24.168</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/LARP7_0">=></a></td>
+<td><a href="/riboeuk/_mds/LARP7_0">=></a></td>
 </tr>
 <tr>
 <td>LARP7_1</td>
@@ -7286,7 +7286,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.961</td>
 <td>-22.579</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/LARP7_1">=></a></td>
+<td><a href="/riboeuk/_mds/LARP7_1">=></a></td>
 </tr>
 <tr>
 <td>LARP7_2</td>
@@ -7298,7 +7298,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.972</td>
 <td>-16.554</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/LARP7_2">=></a></td>
+<td><a href="/riboeuk/_mds/LARP7_2">=></a></td>
 </tr>
 <tr>
 <td>LBR</td>
@@ -7310,7 +7310,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.940</td>
 <td>-65.994</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/LBR">=></a></td>
+<td><a href="/riboeuk/_mds/LBR">=></a></td>
 </tr>
 <tr>
 <td>LBR_0</td>
@@ -7322,7 +7322,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.908</td>
 <td>-35.886</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/LBR_0">=></a></td>
+<td><a href="/riboeuk/_mds/LBR_0">=></a></td>
 </tr>
 <tr>
 <td>LBR_1</td>
@@ -7334,7 +7334,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.945</td>
 <td>-85.429</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/LBR_1">=></a></td>
+<td><a href="/riboeuk/_mds/LBR_1">=></a></td>
 </tr>
 <tr>
 <td>LCOR</td>
@@ -7346,7 +7346,7 @@ $(document).ready(function(){
 <td>8</td>
 <td>0.976</td>
 <td>-15.773</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/LCOR">=></a></td>
+<td><a href="/riboeuk/_mds/LCOR">=></a></td>
 </tr>
 <tr>
 <td>LDHB</td>
@@ -7358,7 +7358,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.983</td>
 <td>-7.670</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/LDHB">=></a></td>
+<td><a href="/riboeuk/_mds/LDHB">=></a></td>
 </tr>
 <tr>
 <td>LDHC</td>
@@ -7370,7 +7370,7 @@ $(document).ready(function(){
 <td>18</td>
 <td>0.945</td>
 <td>-38.987</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/LDHC">=></a></td>
+<td><a href="/riboeuk/_mds/LDHC">=></a></td>
 </tr>
 <tr>
 <td>LDLRAD1</td>
@@ -7382,7 +7382,7 @@ $(document).ready(function(){
 <td>4</td>
 <td>0.984</td>
 <td>-9.496</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/LDLRAD1">=></a></td>
+<td><a href="/riboeuk/_mds/LDLRAD1">=></a></td>
 </tr>
 <tr>
 <td>LELP1</td>
@@ -7394,7 +7394,7 @@ $(document).ready(function(){
 <td>12</td>
 <td>0.954</td>
 <td>-25.830</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/LELP1">=></a></td>
+<td><a href="/riboeuk/_mds/LELP1">=></a></td>
 </tr>
 <tr>
 <td>LEO1</td>
@@ -7406,7 +7406,7 @@ $(document).ready(function(){
 <td>2</td>
 <td>0.984</td>
 <td>-5.441</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/LEO1">=></a></td>
+<td><a href="/riboeuk/_mds/LEO1">=></a></td>
 </tr>
 <tr>
 <td>LGALS2</td>
@@ -7418,7 +7418,7 @@ $(document).ready(function(){
 <td>13</td>
 <td>0.941</td>
 <td>-37.789</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/LGALS2">=></a></td>
+<td><a href="/riboeuk/_mds/LGALS2">=></a></td>
 </tr>
 <tr>
 <td>LGALS8</td>
@@ -7430,7 +7430,7 @@ $(document).ready(function(){
 <td>13</td>
 <td>0.945</td>
 <td>-25.339</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/LGALS8">=></a></td>
+<td><a href="/riboeuk/_mds/LGALS8">=></a></td>
 </tr>
 <tr>
 <td>LGMN</td>
@@ -7442,7 +7442,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.900</td>
 <td>-90.141</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/LGMN">=></a></td>
+<td><a href="/riboeuk/_mds/LGMN">=></a></td>
 </tr>
 <tr>
 <td>LGMN_0</td>
@@ -7454,7 +7454,7 @@ $(document).ready(function(){
 <td>5</td>
 <td>0.924</td>
 <td>-101.503</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/LGMN_0">=></a></td>
+<td><a href="/riboeuk/_mds/LGMN_0">=></a></td>
 </tr>
 <tr>
 <td>LGMN_1</td>
@@ -7466,7 +7466,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.918</td>
 <td>-53.405</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/LGMN_1">=></a></td>
+<td><a href="/riboeuk/_mds/LGMN_1">=></a></td>
 </tr>
 <tr>
 <td>LGSN</td>
@@ -7478,7 +7478,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.985</td>
 <td>-12.710</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/LGSN">=></a></td>
+<td><a href="/riboeuk/_mds/LGSN">=></a></td>
 </tr>
 <tr>
 <td>LHX3</td>
@@ -7490,7 +7490,7 @@ $(document).ready(function(){
 <td>8</td>
 <td>0.959</td>
 <td>-53.890</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/LHX3">=></a></td>
+<td><a href="/riboeuk/_mds/LHX3">=></a></td>
 </tr>
 <tr>
 <td>LIAS</td>
@@ -7502,7 +7502,7 @@ $(document).ready(function(){
 <td>9</td>
 <td>0.975</td>
 <td>-26.171</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/LIAS">=></a></td>
+<td><a href="/riboeuk/_mds/LIAS">=></a></td>
 </tr>
 <tr>
 <td>LIAS_0</td>
@@ -7514,7 +7514,7 @@ $(document).ready(function(){
 <td>2</td>
 <td>0.956</td>
 <td>-40.783</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/LIAS_0">=></a></td>
+<td><a href="/riboeuk/_mds/LIAS_0">=></a></td>
 </tr>
 <tr>
 <td>LIG3</td>
@@ -7526,7 +7526,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.950</td>
 <td>-44.964</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/LIG3">=></a></td>
+<td><a href="/riboeuk/_mds/LIG3">=></a></td>
 </tr>
 <tr>
 <td>LIG3_0</td>
@@ -7538,7 +7538,7 @@ $(document).ready(function(){
 <td>5</td>
 <td>0.962</td>
 <td>-31.638</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/LIG3_0">=></a></td>
+<td><a href="/riboeuk/_mds/LIG3_0">=></a></td>
 </tr>
 <tr>
 <td>LINGO1</td>
@@ -7550,7 +7550,7 @@ $(document).ready(function(){
 <td>2</td>
 <td>0.968</td>
 <td>-21.856</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/LINGO1">=></a></td>
+<td><a href="/riboeuk/_mds/LINGO1">=></a></td>
 </tr>
 <tr>
 <td>LINGO2</td>
@@ -7562,7 +7562,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.964</td>
 <td>-22.394</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/LINGO2">=></a></td>
+<td><a href="/riboeuk/_mds/LINGO2">=></a></td>
 </tr>
 <tr>
 <td>LITAF</td>
@@ -7574,7 +7574,7 @@ $(document).ready(function(){
 <td>3</td>
 <td>0.983</td>
 <td>-13.629</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/LITAF">=></a></td>
+<td><a href="/riboeuk/_mds/LITAF">=></a></td>
 </tr>
 <tr>
 <td>LLPH</td>
@@ -7586,7 +7586,7 @@ $(document).ready(function(){
 <td>18</td>
 <td>0.970</td>
 <td>-17.548</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/LLPH">=></a></td>
+<td><a href="/riboeuk/_mds/LLPH">=></a></td>
 </tr>
 <tr>
 <td>LLPH_0</td>
@@ -7598,7 +7598,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.960</td>
 <td>-42.894</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/LLPH_0">=></a></td>
+<td><a href="/riboeuk/_mds/LLPH_0">=></a></td>
 </tr>
 <tr>
 <td>LMLN</td>
@@ -7610,7 +7610,7 @@ $(document).ready(function(){
 <td>17</td>
 <td>0.981</td>
 <td>-10.588</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/LMLN">=></a></td>
+<td><a href="/riboeuk/_mds/LMLN">=></a></td>
 </tr>
 <tr>
 <td>LMLN_0</td>
@@ -7622,7 +7622,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.987</td>
 <td>-10.299</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/LMLN_0">=></a></td>
+<td><a href="/riboeuk/_mds/LMLN_0">=></a></td>
 </tr>
 <tr>
 <td>LMX1B</td>
@@ -7634,7 +7634,7 @@ $(document).ready(function(){
 <td>6</td>
 <td>0.981</td>
 <td>-20.876</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/LMX1B">=></a></td>
+<td><a href="/riboeuk/_mds/LMX1B">=></a></td>
 </tr>
 <tr>
 <td>LRGUK</td>
@@ -7646,7 +7646,7 @@ $(document).ready(function(){
 <td>16</td>
 <td>0.982</td>
 <td>-8.990</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/LRGUK">=></a></td>
+<td><a href="/riboeuk/_mds/LRGUK">=></a></td>
 </tr>
 <tr>
 <td>LRRC42</td>
@@ -7658,7 +7658,7 @@ $(document).ready(function(){
 <td>11</td>
 <td>0.964</td>
 <td>-24.442</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/LRRC42">=></a></td>
+<td><a href="/riboeuk/_mds/LRRC42">=></a></td>
 </tr>
 <tr>
 <td>LRRC43</td>
@@ -7670,7 +7670,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.987</td>
 <td>-19.171</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/LRRC43">=></a></td>
+<td><a href="/riboeuk/_mds/LRRC43">=></a></td>
 </tr>
 <tr>
 <td>LRRCC1</td>
@@ -7682,7 +7682,7 @@ $(document).ready(function(){
 <td>9</td>
 <td>0.936</td>
 <td>-37.420</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/LRRCC1">=></a></td>
+<td><a href="/riboeuk/_mds/LRRCC1">=></a></td>
 </tr>
 <tr>
 <td>LRSAM1</td>
@@ -7694,7 +7694,7 @@ $(document).ready(function(){
 <td>9</td>
 <td>0.967</td>
 <td>-26.895</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/LRSAM1">=></a></td>
+<td><a href="/riboeuk/_mds/LRSAM1">=></a></td>
 </tr>
 <tr>
 <td>LSM3</td>
@@ -7706,7 +7706,7 @@ $(document).ready(function(){
 <td>12</td>
 <td>0.974</td>
 <td>-7.892</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/LSM3">=></a></td>
+<td><a href="/riboeuk/_mds/LSM3">=></a></td>
 </tr>
 <tr>
 <td>LSM5</td>
@@ -7718,7 +7718,7 @@ $(document).ready(function(){
 <td>11</td>
 <td>0.973</td>
 <td>-25.470</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/LSM5">=></a></td>
+<td><a href="/riboeuk/_mds/LSM5">=></a></td>
 </tr>
 <tr>
 <td>LSM8</td>
@@ -7730,7 +7730,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.972</td>
 <td>-28.081</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/LSM8">=></a></td>
+<td><a href="/riboeuk/_mds/LSM8">=></a></td>
 </tr>
 <tr>
 <td>LTK</td>
@@ -7742,7 +7742,7 @@ $(document).ready(function(){
 <td>16</td>
 <td>0.961</td>
 <td>-45.075</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/LTK">=></a></td>
+<td><a href="/riboeuk/_mds/LTK">=></a></td>
 </tr>
 <tr>
 <td>LUC7L</td>
@@ -7754,7 +7754,7 @@ $(document).ready(function(){
 <td>19</td>
 <td>0.944</td>
 <td>-41.133</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/LUC7L">=></a></td>
+<td><a href="/riboeuk/_mds/LUC7L">=></a></td>
 </tr>
 <tr>
 <td>LYPLAL1</td>
@@ -7766,7 +7766,7 @@ $(document).ready(function(){
 <td>17</td>
 <td>0.975</td>
 <td>-28.309</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/LYPLAL1">=></a></td>
+<td><a href="/riboeuk/_mds/LYPLAL1">=></a></td>
 </tr>
 <tr>
 <td>LYPLAL1_0</td>
@@ -7778,7 +7778,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.970</td>
 <td>-28.309</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/LYPLAL1_0">=></a></td>
+<td><a href="/riboeuk/_mds/LYPLAL1_0">=></a></td>
 </tr>
 <tr>
 <td>LYPLAL1_1</td>
@@ -7790,7 +7790,7 @@ $(document).ready(function(){
 <td>16</td>
 <td>0.975</td>
 <td>-23.982</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/LYPLAL1_1">=></a></td>
+<td><a href="/riboeuk/_mds/LYPLAL1_1">=></a></td>
 </tr>
 <tr>
 <td>LYSMD4</td>
@@ -7802,7 +7802,7 @@ $(document).ready(function(){
 <td>14</td>
 <td>0.946</td>
 <td>-76.860</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/LYSMD4">=></a></td>
+<td><a href="/riboeuk/_mds/LYSMD4">=></a></td>
 </tr>
 <tr>
 <td>MAD2L1BP</td>
@@ -7814,7 +7814,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.982</td>
 <td>-22.376</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MAD2L1BP">=></a></td>
+<td><a href="/riboeuk/_mds/MAD2L1BP">=></a></td>
 </tr>
 <tr>
 <td>MAD2L2</td>
@@ -7826,7 +7826,7 @@ $(document).ready(function(){
 <td>3</td>
 <td>0.944</td>
 <td>-36.576</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MAD2L2">=></a></td>
+<td><a href="/riboeuk/_mds/MAD2L2">=></a></td>
 </tr>
 <tr>
 <td>MAD2L2_0</td>
@@ -7838,7 +7838,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.964</td>
 <td>-49.399</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MAD2L2_0">=></a></td>
+<td><a href="/riboeuk/_mds/MAD2L2_0">=></a></td>
 </tr>
 <tr>
 <td>MAGOHB</td>
@@ -7850,7 +7850,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.951</td>
 <td>-34.595</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MAGOHB">=></a></td>
+<td><a href="/riboeuk/_mds/MAGOHB">=></a></td>
 </tr>
 <tr>
 <td>MAK16</td>
@@ -7862,7 +7862,7 @@ $(document).ready(function(){
 <td>17</td>
 <td>0.984</td>
 <td>-18.398</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MAK16">=></a></td>
+<td><a href="/riboeuk/_mds/MAK16">=></a></td>
 </tr>
 <tr>
 <td>MAN1A1</td>
@@ -7874,7 +7874,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.976</td>
 <td>-23.418</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MAN1A1">=></a></td>
+<td><a href="/riboeuk/_mds/MAN1A1">=></a></td>
 </tr>
 <tr>
 <td>MAP1S</td>
@@ -7886,7 +7886,7 @@ $(document).ready(function(){
 <td>6</td>
 <td>0.984</td>
 <td>-7.249</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MAP1S">=></a></td>
+<td><a href="/riboeuk/_mds/MAP1S">=></a></td>
 </tr>
 <tr>
 <td>MAP2K1</td>
@@ -7898,7 +7898,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.971</td>
 <td>-23.836</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MAP2K1">=></a></td>
+<td><a href="/riboeuk/_mds/MAP2K1">=></a></td>
 </tr>
 <tr>
 <td>MAP2K4</td>
@@ -7910,7 +7910,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.977</td>
 <td>-20.567</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MAP2K4">=></a></td>
+<td><a href="/riboeuk/_mds/MAP2K4">=></a></td>
 </tr>
 <tr>
 <td>MAP3K3</td>
@@ -7922,7 +7922,7 @@ $(document).ready(function(){
 <td>19</td>
 <td>0.974</td>
 <td>-24.980</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MAP3K3">=></a></td>
+<td><a href="/riboeuk/_mds/MAP3K3">=></a></td>
 </tr>
 <tr>
 <td>MAP7D3</td>
@@ -7934,7 +7934,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.950</td>
 <td>-35.641</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MAP7D3">=></a></td>
+<td><a href="/riboeuk/_mds/MAP7D3">=></a></td>
 </tr>
 <tr>
 <td>MAPK10</td>
@@ -7946,7 +7946,7 @@ $(document).ready(function(){
 <td>4</td>
 <td>0.968</td>
 <td>-14.478</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MAPK10">=></a></td>
+<td><a href="/riboeuk/_mds/MAPK10">=></a></td>
 </tr>
 <tr>
 <td>MAPK15</td>
@@ -7958,7 +7958,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.978</td>
 <td>-18.077</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MAPK15">=></a></td>
+<td><a href="/riboeuk/_mds/MAPK15">=></a></td>
 </tr>
 <tr>
 <td>MAPK15_0</td>
@@ -7970,7 +7970,7 @@ $(document).ready(function(){
 <td>2</td>
 <td>0.951</td>
 <td>-74.524</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MAPK15_0">=></a></td>
+<td><a href="/riboeuk/_mds/MAPK15_0">=></a></td>
 </tr>
 <tr>
 <td>MAPRE1</td>
@@ -7982,7 +7982,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.918</td>
 <td>-55.496</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MAPRE1">=></a></td>
+<td><a href="/riboeuk/_mds/MAPRE1">=></a></td>
 </tr>
 <tr>
 <td>MAPRE1_0</td>
@@ -7994,7 +7994,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.883</td>
 <td>-58.246</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MAPRE1_0">=></a></td>
+<td><a href="/riboeuk/_mds/MAPRE1_0">=></a></td>
 </tr>
 <tr>
 <td>MAPRE1_1</td>
@@ -8006,7 +8006,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.980</td>
 <td>-23.760</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MAPRE1_1">=></a></td>
+<td><a href="/riboeuk/_mds/MAPRE1_1">=></a></td>
 </tr>
 <tr>
 <td>MAPRE1_2</td>
@@ -8018,7 +8018,7 @@ $(document).ready(function(){
 <td>14</td>
 <td>0.956</td>
 <td>-42.151</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MAPRE1_2">=></a></td>
+<td><a href="/riboeuk/_mds/MAPRE1_2">=></a></td>
 </tr>
 <tr>
 <td>MARK1</td>
@@ -8030,7 +8030,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.977</td>
 <td>-12.858</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MARK1">=></a></td>
+<td><a href="/riboeuk/_mds/MARK1">=></a></td>
 </tr>
 <tr>
 <td>MAT2A</td>
@@ -8042,7 +8042,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.938</td>
 <td>-38.978</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MAT2A">=></a></td>
+<td><a href="/riboeuk/_mds/MAT2A">=></a></td>
 </tr>
 <tr>
 <td>MBD2</td>
@@ -8054,7 +8054,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.902</td>
 <td>-14.386</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MBD2">=></a></td>
+<td><a href="/riboeuk/_mds/MBD2">=></a></td>
 </tr>
 <tr>
 <td>MBIP</td>
@@ -8066,7 +8066,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.981</td>
 <td>-24.301</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MBIP">=></a></td>
+<td><a href="/riboeuk/_mds/MBIP">=></a></td>
 </tr>
 <tr>
 <td>MBIP_0</td>
@@ -8078,7 +8078,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.966</td>
 <td>-36.049</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MBIP_0">=></a></td>
+<td><a href="/riboeuk/_mds/MBIP_0">=></a></td>
 </tr>
 <tr>
 <td>MBOAT1</td>
@@ -8090,7 +8090,7 @@ $(document).ready(function(){
 <td>14</td>
 <td>0.974</td>
 <td>-21.972</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MBOAT1">=></a></td>
+<td><a href="/riboeuk/_mds/MBOAT1">=></a></td>
 </tr>
 <tr>
 <td>MBTD1</td>
@@ -8102,7 +8102,7 @@ $(document).ready(function(){
 <td>6</td>
 <td>0.938</td>
 <td>-20.265</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MBTD1">=></a></td>
+<td><a href="/riboeuk/_mds/MBTD1">=></a></td>
 </tr>
 <tr>
 <td>MCAT</td>
@@ -8114,7 +8114,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.981</td>
 <td>-29.600</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MCAT">=></a></td>
+<td><a href="/riboeuk/_mds/MCAT">=></a></td>
 </tr>
 <tr>
 <td>MCAT_0</td>
@@ -8126,7 +8126,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.971</td>
 <td>-29.600</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MCAT_0">=></a></td>
+<td><a href="/riboeuk/_mds/MCAT_0">=></a></td>
 </tr>
 <tr>
 <td>MCAT_1</td>
@@ -8138,7 +8138,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.985</td>
 <td>-8.999</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MCAT_1">=></a></td>
+<td><a href="/riboeuk/_mds/MCAT_1">=></a></td>
 </tr>
 <tr>
 <td>MCHR2</td>
@@ -8150,7 +8150,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.962</td>
 <td>-25.119</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MCHR2">=></a></td>
+<td><a href="/riboeuk/_mds/MCHR2">=></a></td>
 </tr>
 <tr>
 <td>MCM2</td>
@@ -8162,7 +8162,7 @@ $(document).ready(function(){
 <td>7</td>
 <td>0.976</td>
 <td>-21.093</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MCM2">=></a></td>
+<td><a href="/riboeuk/_mds/MCM2">=></a></td>
 </tr>
 <tr>
 <td>MCM3</td>
@@ -8174,7 +8174,7 @@ $(document).ready(function(){
 <td>6</td>
 <td>0.959</td>
 <td>-50.214</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MCM3">=></a></td>
+<td><a href="/riboeuk/_mds/MCM3">=></a></td>
 </tr>
 <tr>
 <td>MCM3AP</td>
@@ -8186,7 +8186,7 @@ $(document).ready(function(){
 <td>16</td>
 <td>0.976</td>
 <td>-3.166</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MCM3AP">=></a></td>
+<td><a href="/riboeuk/_mds/MCM3AP">=></a></td>
 </tr>
 <tr>
 <td>MCM4</td>
@@ -8198,7 +8198,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.971</td>
 <td>-36.987</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MCM4">=></a></td>
+<td><a href="/riboeuk/_mds/MCM4">=></a></td>
 </tr>
 <tr>
 <td>MCM4_0</td>
@@ -8210,7 +8210,7 @@ $(document).ready(function(){
 <td>14</td>
 <td>0.932</td>
 <td>-65.397</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MCM4_0">=></a></td>
+<td><a href="/riboeuk/_mds/MCM4_0">=></a></td>
 </tr>
 <tr>
 <td>MDH1B</td>
@@ -8222,7 +8222,7 @@ $(document).ready(function(){
 <td>12</td>
 <td>0.978</td>
 <td>-23.023</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MDH1B">=></a></td>
+<td><a href="/riboeuk/_mds/MDH1B">=></a></td>
 </tr>
 <tr>
 <td>MED19</td>
@@ -8234,7 +8234,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.985</td>
 <td>-7.592</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MED19">=></a></td>
+<td><a href="/riboeuk/_mds/MED19">=></a></td>
 </tr>
 <tr>
 <td>MED24</td>
@@ -8246,7 +8246,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.952</td>
 <td>-28.787</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MED24">=></a></td>
+<td><a href="/riboeuk/_mds/MED24">=></a></td>
 </tr>
 <tr>
 <td>MED24_0</td>
@@ -8258,7 +8258,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.954</td>
 <td>-38.622</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MED24_0">=></a></td>
+<td><a href="/riboeuk/_mds/MED24_0">=></a></td>
 </tr>
 <tr>
 <td>MED24_1</td>
@@ -8270,7 +8270,7 @@ $(document).ready(function(){
 <td>2</td>
 <td>0.957</td>
 <td>-27.037</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MED24_1">=></a></td>
+<td><a href="/riboeuk/_mds/MED24_1">=></a></td>
 </tr>
 <tr>
 <td>MED24_2</td>
@@ -8282,7 +8282,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.963</td>
 <td>-37.132</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MED24_2">=></a></td>
+<td><a href="/riboeuk/_mds/MED24_2">=></a></td>
 </tr>
 <tr>
 <td>MED24_3</td>
@@ -8294,7 +8294,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.941</td>
 <td>-43.169</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MED24_3">=></a></td>
+<td><a href="/riboeuk/_mds/MED24_3">=></a></td>
 </tr>
 <tr>
 <td>MED24_4</td>
@@ -8306,7 +8306,7 @@ $(document).ready(function(){
 <td>12</td>
 <td>0.962</td>
 <td>-39.705</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MED24_4">=></a></td>
+<td><a href="/riboeuk/_mds/MED24_4">=></a></td>
 </tr>
 <tr>
 <td>MED24_5</td>
@@ -8318,7 +8318,7 @@ $(document).ready(function(){
 <td>13</td>
 <td>0.948</td>
 <td>-39.986</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MED24_5">=></a></td>
+<td><a href="/riboeuk/_mds/MED24_5">=></a></td>
 </tr>
 <tr>
 <td>MED24_6</td>
@@ -8330,7 +8330,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.964</td>
 <td>-23.183</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MED24_6">=></a></td>
+<td><a href="/riboeuk/_mds/MED24_6">=></a></td>
 </tr>
 <tr>
 <td>MED24_7</td>
@@ -8342,7 +8342,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.941</td>
 <td>-47.234</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MED24_7">=></a></td>
+<td><a href="/riboeuk/_mds/MED24_7">=></a></td>
 </tr>
 <tr>
 <td>MED25</td>
@@ -8354,7 +8354,7 @@ $(document).ready(function(){
 <td>19</td>
 <td>0.959</td>
 <td>-37.125</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MED25">=></a></td>
+<td><a href="/riboeuk/_mds/MED25">=></a></td>
 </tr>
 <tr>
 <td>MED29</td>
@@ -8366,7 +8366,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.978</td>
 <td>-7.427</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MED29">=></a></td>
+<td><a href="/riboeuk/_mds/MED29">=></a></td>
 </tr>
 <tr>
 <td>MED6</td>
@@ -8378,7 +8378,7 @@ $(document).ready(function(){
 <td>12</td>
 <td>0.983</td>
 <td>-11.695</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MED6">=></a></td>
+<td><a href="/riboeuk/_mds/MED6">=></a></td>
 </tr>
 <tr>
 <td>MED6_0</td>
@@ -8390,7 +8390,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.974</td>
 <td>-17.562</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MED6_0">=></a></td>
+<td><a href="/riboeuk/_mds/MED6_0">=></a></td>
 </tr>
 <tr>
 <td>MED8</td>
@@ -8402,7 +8402,7 @@ $(document).ready(function(){
 <td>18</td>
 <td>0.973</td>
 <td>-30.303</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MED8">=></a></td>
+<td><a href="/riboeuk/_mds/MED8">=></a></td>
 </tr>
 <tr>
 <td>MED8_0</td>
@@ -8414,7 +8414,7 @@ $(document).ready(function(){
 <td>19</td>
 <td>0.969</td>
 <td>-26.959</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MED8_0">=></a></td>
+<td><a href="/riboeuk/_mds/MED8_0">=></a></td>
 </tr>
 <tr>
 <td>MEIG1</td>
@@ -8426,7 +8426,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.947</td>
 <td>-47.516</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MEIG1">=></a></td>
+<td><a href="/riboeuk/_mds/MEIG1">=></a></td>
 </tr>
 <tr>
 <td>MEMO1</td>
@@ -8438,7 +8438,7 @@ $(document).ready(function(){
 <td>19</td>
 <td>0.970</td>
 <td>-33.630</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MEMO1">=></a></td>
+<td><a href="/riboeuk/_mds/MEMO1">=></a></td>
 </tr>
 <tr>
 <td>MEPCE</td>
@@ -8450,7 +8450,7 @@ $(document).ready(function(){
 <td>5</td>
 <td>0.919</td>
 <td>-48.883</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MEPCE">=></a></td>
+<td><a href="/riboeuk/_mds/MEPCE">=></a></td>
 </tr>
 <tr>
 <td>METTL5</td>
@@ -8462,7 +8462,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.955</td>
 <td>-46.697</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/METTL5">=></a></td>
+<td><a href="/riboeuk/_mds/METTL5">=></a></td>
 </tr>
 <tr>
 <td>METTL7A</td>
@@ -8474,7 +8474,7 @@ $(document).ready(function(){
 <td>11</td>
 <td>0.941</td>
 <td>-22.727</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/METTL7A">=></a></td>
+<td><a href="/riboeuk/_mds/METTL7A">=></a></td>
 </tr>
 <tr>
 <td>MGAT2</td>
@@ -8486,7 +8486,7 @@ $(document).ready(function(){
 <td>19</td>
 <td>0.930</td>
 <td>-80.851</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MGAT2">=></a></td>
+<td><a href="/riboeuk/_mds/MGAT2">=></a></td>
 </tr>
 <tr>
 <td>MGST3</td>
@@ -8498,7 +8498,7 @@ $(document).ready(function(){
 <td>6</td>
 <td>0.970</td>
 <td>-12.725</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MGST3">=></a></td>
+<td><a href="/riboeuk/_mds/MGST3">=></a></td>
 </tr>
 <tr>
 <td>MGST3_0</td>
@@ -8510,7 +8510,7 @@ $(document).ready(function(){
 <td>10</td>
 <td>0.984</td>
 <td>-10.575</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MGST3_0">=></a></td>
+<td><a href="/riboeuk/_mds/MGST3_0">=></a></td>
 </tr>
 <tr>
 <td>MIOS</td>
@@ -8522,7 +8522,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.971</td>
 <td>-14.171</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MIOS">=></a></td>
+<td><a href="/riboeuk/_mds/MIOS">=></a></td>
 </tr>
 <tr>
 <td>MLF1</td>
@@ -8534,7 +8534,7 @@ $(document).ready(function(){
 <td>12</td>
 <td>0.933</td>
 <td>-68.332</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MLF1">=></a></td>
+<td><a href="/riboeuk/_mds/MLF1">=></a></td>
 </tr>
 <tr>
 <td>MLH1</td>
@@ -8546,7 +8546,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.914</td>
 <td>-45.678</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MLH1">=></a></td>
+<td><a href="/riboeuk/_mds/MLH1">=></a></td>
 </tr>
 <tr>
 <td>MLLT10</td>
@@ -8558,7 +8558,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.938</td>
 <td>-41.762</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MLLT10">=></a></td>
+<td><a href="/riboeuk/_mds/MLLT10">=></a></td>
 </tr>
 <tr>
 <td>MLPH</td>
@@ -8570,7 +8570,7 @@ $(document).ready(function(){
 <td>2</td>
 <td>0.939</td>
 <td>-18.039</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MLPH">=></a></td>
+<td><a href="/riboeuk/_mds/MLPH">=></a></td>
 </tr>
 <tr>
 <td>MMACHC</td>
@@ -8582,7 +8582,7 @@ $(document).ready(function(){
 <td>10</td>
 <td>0.932</td>
 <td>-53.656</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MMACHC">=></a></td>
+<td><a href="/riboeuk/_mds/MMACHC">=></a></td>
 </tr>
 <tr>
 <td>MMADHC</td>
@@ -8594,7 +8594,7 @@ $(document).ready(function(){
 <td>14</td>
 <td>0.937</td>
 <td>-44.406</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MMADHC">=></a></td>
+<td><a href="/riboeuk/_mds/MMADHC">=></a></td>
 </tr>
 <tr>
 <td>MMP7</td>
@@ -8606,7 +8606,7 @@ $(document).ready(function(){
 <td>2</td>
 <td>0.977</td>
 <td>-15.993</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MMP7">=></a></td>
+<td><a href="/riboeuk/_mds/MMP7">=></a></td>
 </tr>
 <tr>
 <td>MMP7_0</td>
@@ -8618,7 +8618,7 @@ $(document).ready(function(){
 <td>2</td>
 <td>0.982</td>
 <td>-15.993</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MMP7_0">=></a></td>
+<td><a href="/riboeuk/_mds/MMP7_0">=></a></td>
 </tr>
 <tr>
 <td>MORC1</td>
@@ -8630,7 +8630,7 @@ $(document).ready(function(){
 <td>5</td>
 <td>0.972</td>
 <td>-34.429</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MORC1">=></a></td>
+<td><a href="/riboeuk/_mds/MORC1">=></a></td>
 </tr>
 <tr>
 <td>MOSPD2</td>
@@ -8642,7 +8642,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.913</td>
 <td>-35.038</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MOSPD2">=></a></td>
+<td><a href="/riboeuk/_mds/MOSPD2">=></a></td>
 </tr>
 <tr>
 <td>MOSPD2_0</td>
@@ -8654,7 +8654,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.929</td>
 <td>-41.761</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MOSPD2_0">=></a></td>
+<td><a href="/riboeuk/_mds/MOSPD2_0">=></a></td>
 </tr>
 <tr>
 <td>MPHOSPH9</td>
@@ -8666,7 +8666,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.929</td>
 <td>-30.442</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MPHOSPH9">=></a></td>
+<td><a href="/riboeuk/_mds/MPHOSPH9">=></a></td>
 </tr>
 <tr>
 <td>MPI</td>
@@ -8678,7 +8678,7 @@ $(document).ready(function(){
 <td>4</td>
 <td>0.968</td>
 <td>-34.491</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MPI">=></a></td>
+<td><a href="/riboeuk/_mds/MPI">=></a></td>
 </tr>
 <tr>
 <td>MPI_0</td>
@@ -8690,7 +8690,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.976</td>
 <td>-29.504</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MPI_0">=></a></td>
+<td><a href="/riboeuk/_mds/MPI_0">=></a></td>
 </tr>
 <tr>
 <td>MPI_1</td>
@@ -8702,7 +8702,7 @@ $(document).ready(function(){
 <td>3</td>
 <td>0.973</td>
 <td>-30.091</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MPI_1">=></a></td>
+<td><a href="/riboeuk/_mds/MPI_1">=></a></td>
 </tr>
 <tr>
 <td>MPI_2</td>
@@ -8714,7 +8714,7 @@ $(document).ready(function(){
 <td>4</td>
 <td>0.964</td>
 <td>-32.341</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MPI_2">=></a></td>
+<td><a href="/riboeuk/_mds/MPI_2">=></a></td>
 </tr>
 <tr>
 <td>MRPL21</td>
@@ -8726,7 +8726,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.983</td>
 <td>-17.292</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MRPL21">=></a></td>
+<td><a href="/riboeuk/_mds/MRPL21">=></a></td>
 </tr>
 <tr>
 <td>MRPL22</td>
@@ -8738,7 +8738,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.984</td>
 <td>-12.538</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MRPL22">=></a></td>
+<td><a href="/riboeuk/_mds/MRPL22">=></a></td>
 </tr>
 <tr>
 <td>MRPL22_0</td>
@@ -8750,7 +8750,7 @@ $(document).ready(function(){
 <td>14</td>
 <td>0.934</td>
 <td>-48.328</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MRPL22_0">=></a></td>
+<td><a href="/riboeuk/_mds/MRPL22_0">=></a></td>
 </tr>
 <tr>
 <td>MRPL22_1</td>
@@ -8762,7 +8762,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.916</td>
 <td>-39.225</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MRPL22_1">=></a></td>
+<td><a href="/riboeuk/_mds/MRPL22_1">=></a></td>
 </tr>
 <tr>
 <td>MRPL28</td>
@@ -8774,7 +8774,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.967</td>
 <td>-17.708</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MRPL28">=></a></td>
+<td><a href="/riboeuk/_mds/MRPL28">=></a></td>
 </tr>
 <tr>
 <td>MRPL28_0</td>
@@ -8786,7 +8786,7 @@ $(document).ready(function(){
 <td>10</td>
 <td>0.983</td>
 <td>-16.079</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MRPL28_0">=></a></td>
+<td><a href="/riboeuk/_mds/MRPL28_0">=></a></td>
 </tr>
 <tr>
 <td>MRPL36</td>
@@ -8798,7 +8798,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.966</td>
 <td>-25.410</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MRPL36">=></a></td>
+<td><a href="/riboeuk/_mds/MRPL36">=></a></td>
 </tr>
 <tr>
 <td>MRPL36_0</td>
@@ -8810,7 +8810,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.966</td>
 <td>-38.313</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MRPL36_0">=></a></td>
+<td><a href="/riboeuk/_mds/MRPL36_0">=></a></td>
 </tr>
 <tr>
 <td>MRPL45</td>
@@ -8822,7 +8822,7 @@ $(document).ready(function(){
 <td>5</td>
 <td>0.950</td>
 <td>-19.645</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MRPL45">=></a></td>
+<td><a href="/riboeuk/_mds/MRPL45">=></a></td>
 </tr>
 <tr>
 <td>MRPL48</td>
@@ -8834,7 +8834,7 @@ $(document).ready(function(){
 <td>13</td>
 <td>0.962</td>
 <td>-46.142</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MRPL48">=></a></td>
+<td><a href="/riboeuk/_mds/MRPL48">=></a></td>
 </tr>
 <tr>
 <td>MRPL54</td>
@@ -8846,7 +8846,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.980</td>
 <td>-12.451</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MRPL54">=></a></td>
+<td><a href="/riboeuk/_mds/MRPL54">=></a></td>
 </tr>
 <tr>
 <td>MRPS10</td>
@@ -8858,7 +8858,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.982</td>
 <td>-29.151</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MRPS10">=></a></td>
+<td><a href="/riboeuk/_mds/MRPS10">=></a></td>
 </tr>
 <tr>
 <td>MRPS10_0</td>
@@ -8870,7 +8870,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.970</td>
 <td>-32.942</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MRPS10_0">=></a></td>
+<td><a href="/riboeuk/_mds/MRPS10_0">=></a></td>
 </tr>
 <tr>
 <td>MRPS15</td>
@@ -8882,7 +8882,7 @@ $(document).ready(function(){
 <td>16</td>
 <td>0.941</td>
 <td>-77.194</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MRPS15">=></a></td>
+<td><a href="/riboeuk/_mds/MRPS15">=></a></td>
 </tr>
 <tr>
 <td>MRPS17</td>
@@ -8894,7 +8894,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.984</td>
 <td>-4.080</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MRPS17">=></a></td>
+<td><a href="/riboeuk/_mds/MRPS17">=></a></td>
 </tr>
 <tr>
 <td>MRPS17_0</td>
@@ -8906,7 +8906,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.981</td>
 <td>-14.188</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MRPS17_0">=></a></td>
+<td><a href="/riboeuk/_mds/MRPS17_0">=></a></td>
 </tr>
 <tr>
 <td>MRPS18B</td>
@@ -8918,7 +8918,7 @@ $(document).ready(function(){
 <td>17</td>
 <td>0.984</td>
 <td>-11.772</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MRPS18B">=></a></td>
+<td><a href="/riboeuk/_mds/MRPS18B">=></a></td>
 </tr>
 <tr>
 <td>MRPS21</td>
@@ -8930,7 +8930,7 @@ $(document).ready(function(){
 <td>12</td>
 <td>0.957</td>
 <td>-20.666</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MRPS21">=></a></td>
+<td><a href="/riboeuk/_mds/MRPS21">=></a></td>
 </tr>
 <tr>
 <td>MRPS27</td>
@@ -8942,7 +8942,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.983</td>
 <td>-12.344</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MRPS27">=></a></td>
+<td><a href="/riboeuk/_mds/MRPS27">=></a></td>
 </tr>
 <tr>
 <td>MSH4</td>
@@ -8954,7 +8954,7 @@ $(document).ready(function(){
 <td>2</td>
 <td>0.981</td>
 <td>-17.396</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MSH4">=></a></td>
+<td><a href="/riboeuk/_mds/MSH4">=></a></td>
 </tr>
 <tr>
 <td>MSN</td>
@@ -8966,7 +8966,7 @@ $(document).ready(function(){
 <td>3</td>
 <td>0.894</td>
 <td>-38.353</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MSN">=></a></td>
+<td><a href="/riboeuk/_mds/MSN">=></a></td>
 </tr>
 <tr>
 <td>MTBP</td>
@@ -8978,7 +8978,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.978</td>
 <td>-16.559</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MTBP">=></a></td>
+<td><a href="/riboeuk/_mds/MTBP">=></a></td>
 </tr>
 <tr>
 <td>MTBP_0</td>
@@ -8990,7 +8990,7 @@ $(document).ready(function(){
 <td>4</td>
 <td>0.966</td>
 <td>-25.276</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MTBP_0">=></a></td>
+<td><a href="/riboeuk/_mds/MTBP_0">=></a></td>
 </tr>
 <tr>
 <td>MTHFD1</td>
@@ -9002,7 +9002,7 @@ $(document).ready(function(){
 <td>3</td>
 <td>0.981</td>
 <td>-20.448</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MTHFD1">=></a></td>
+<td><a href="/riboeuk/_mds/MTHFD1">=></a></td>
 </tr>
 <tr>
 <td>MTHFR</td>
@@ -9014,7 +9014,7 @@ $(document).ready(function(){
 <td>17</td>
 <td>0.957</td>
 <td>-28.322</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MTHFR">=></a></td>
+<td><a href="/riboeuk/_mds/MTHFR">=></a></td>
 </tr>
 <tr>
 <td>MTHFSD</td>
@@ -9026,7 +9026,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.921</td>
 <td>-87.946</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MTHFSD">=></a></td>
+<td><a href="/riboeuk/_mds/MTHFSD">=></a></td>
 </tr>
 <tr>
 <td>MTNR1A</td>
@@ -9038,7 +9038,7 @@ $(document).ready(function(){
 <td>7</td>
 <td>0.894</td>
 <td>-52.878</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MTNR1A">=></a></td>
+<td><a href="/riboeuk/_mds/MTNR1A">=></a></td>
 </tr>
 <tr>
 <td>MTRF1L</td>
@@ -9050,7 +9050,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.935</td>
 <td>-60.448</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MTRF1L">=></a></td>
+<td><a href="/riboeuk/_mds/MTRF1L">=></a></td>
 </tr>
 <tr>
 <td>MTRR</td>
@@ -9062,7 +9062,7 @@ $(document).ready(function(){
 <td>10</td>
 <td>0.986</td>
 <td>-13.082</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MTRR">=></a></td>
+<td><a href="/riboeuk/_mds/MTRR">=></a></td>
 </tr>
 <tr>
 <td>MVD</td>
@@ -9074,7 +9074,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.967</td>
 <td>-20.756</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MVD">=></a></td>
+<td><a href="/riboeuk/_mds/MVD">=></a></td>
 </tr>
 <tr>
 <td>MYCT1</td>
@@ -9086,7 +9086,7 @@ $(document).ready(function(){
 <td>17</td>
 <td>0.976</td>
 <td>-10.148</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MYCT1">=></a></td>
+<td><a href="/riboeuk/_mds/MYCT1">=></a></td>
 </tr>
 <tr>
 <td>MYL12A</td>
@@ -9098,7 +9098,7 @@ $(document).ready(function(){
 <td>10</td>
 <td>0.943</td>
 <td>-32.817</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MYL12A">=></a></td>
+<td><a href="/riboeuk/_mds/MYL12A">=></a></td>
 </tr>
 <tr>
 <td>MYL12B</td>
@@ -9110,7 +9110,7 @@ $(document).ready(function(){
 <td>19</td>
 <td>0.952</td>
 <td>-22.440</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MYL12B">=></a></td>
+<td><a href="/riboeuk/_mds/MYL12B">=></a></td>
 </tr>
 <tr>
 <td>MYL6</td>
@@ -9122,7 +9122,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.961</td>
 <td>-26.646</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MYL6">=></a></td>
+<td><a href="/riboeuk/_mds/MYL6">=></a></td>
 </tr>
 <tr>
 <td>MYO18A</td>
@@ -9134,7 +9134,7 @@ $(document).ready(function(){
 <td>11</td>
 <td>0.936</td>
 <td>-69.827</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MYO18A">=></a></td>
+<td><a href="/riboeuk/_mds/MYO18A">=></a></td>
 </tr>
 <tr>
 <td>MYO9A</td>
@@ -9146,7 +9146,7 @@ $(document).ready(function(){
 <td>6</td>
 <td>0.966</td>
 <td>-12.976</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/MYO9A">=></a></td>
+<td><a href="/riboeuk/_mds/MYO9A">=></a></td>
 </tr>
 <tr>
 <td>NAGPA</td>
@@ -9158,7 +9158,7 @@ $(document).ready(function(){
 <td>10</td>
 <td>0.986</td>
 <td>-17.338</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/NAGPA">=></a></td>
+<td><a href="/riboeuk/_mds/NAGPA">=></a></td>
 </tr>
 <tr>
 <td>NAGPA_0</td>
@@ -9170,7 +9170,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.986</td>
 <td>-19.359</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/NAGPA_0">=></a></td>
+<td><a href="/riboeuk/_mds/NAGPA_0">=></a></td>
 </tr>
 <tr>
 <td>NAP1L4</td>
@@ -9182,7 +9182,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.965</td>
 <td>-30.912</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/NAP1L4">=></a></td>
+<td><a href="/riboeuk/_mds/NAP1L4">=></a></td>
 </tr>
 <tr>
 <td>NAP1L4_0</td>
@@ -9194,7 +9194,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.964</td>
 <td>-23.843</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/NAP1L4_0">=></a></td>
+<td><a href="/riboeuk/_mds/NAP1L4_0">=></a></td>
 </tr>
 <tr>
 <td>NAT9</td>
@@ -9206,7 +9206,7 @@ $(document).ready(function(){
 <td>16</td>
 <td>0.969</td>
 <td>-43.082</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/NAT9">=></a></td>
+<td><a href="/riboeuk/_mds/NAT9">=></a></td>
 </tr>
 <tr>
 <td>NAT9_0</td>
@@ -9218,7 +9218,7 @@ $(document).ready(function(){
 <td>8</td>
 <td>0.934</td>
 <td>-56.726</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/NAT9_0">=></a></td>
+<td><a href="/riboeuk/_mds/NAT9_0">=></a></td>
 </tr>
 <tr>
 <td>NBN</td>
@@ -9230,7 +9230,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.948</td>
 <td>-50.645</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/NBN">=></a></td>
+<td><a href="/riboeuk/_mds/NBN">=></a></td>
 </tr>
 <tr>
 <td>NCAPG2</td>
@@ -9242,7 +9242,7 @@ $(document).ready(function(){
 <td>18</td>
 <td>0.935</td>
 <td>-58.240</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/NCAPG2">=></a></td>
+<td><a href="/riboeuk/_mds/NCAPG2">=></a></td>
 </tr>
 <tr>
 <td>NCAPG2_0</td>
@@ -9254,7 +9254,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.923</td>
 <td>-58.767</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/NCAPG2_0">=></a></td>
+<td><a href="/riboeuk/_mds/NCAPG2_0">=></a></td>
 </tr>
 <tr>
 <td>NCAPH</td>
@@ -9266,7 +9266,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.969</td>
 <td>-29.442</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/NCAPH">=></a></td>
+<td><a href="/riboeuk/_mds/NCAPH">=></a></td>
 </tr>
 <tr>
 <td>NCAPH_0</td>
@@ -9278,7 +9278,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.950</td>
 <td>-31.538</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/NCAPH_0">=></a></td>
+<td><a href="/riboeuk/_mds/NCAPH_0">=></a></td>
 </tr>
 <tr>
 <td>NCDN</td>
@@ -9290,7 +9290,7 @@ $(document).ready(function(){
 <td>12</td>
 <td>0.901</td>
 <td>-77.686</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/NCDN">=></a></td>
+<td><a href="/riboeuk/_mds/NCDN">=></a></td>
 </tr>
 <tr>
 <td>NCOA3</td>
@@ -9302,7 +9302,7 @@ $(document).ready(function(){
 <td>14</td>
 <td>0.956</td>
 <td>-40.585</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/NCOA3">=></a></td>
+<td><a href="/riboeuk/_mds/NCOA3">=></a></td>
 </tr>
 <tr>
 <td>NDC80</td>
@@ -9314,7 +9314,7 @@ $(document).ready(function(){
 <td>14</td>
 <td>0.925</td>
 <td>-62.478</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/NDC80">=></a></td>
+<td><a href="/riboeuk/_mds/NDC80">=></a></td>
 </tr>
 <tr>
 <td>NDOR1</td>
@@ -9326,7 +9326,7 @@ $(document).ready(function(){
 <td>8</td>
 <td>0.951</td>
 <td>-47.526</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/NDOR1">=></a></td>
+<td><a href="/riboeuk/_mds/NDOR1">=></a></td>
 </tr>
 <tr>
 <td>NDUFA2</td>
@@ -9338,7 +9338,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.962</td>
 <td>-26.732</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/NDUFA2">=></a></td>
+<td><a href="/riboeuk/_mds/NDUFA2">=></a></td>
 </tr>
 <tr>
 <td>NDUFA5</td>
@@ -9350,7 +9350,7 @@ $(document).ready(function(){
 <td>12</td>
 <td>0.959</td>
 <td>-19.200</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/NDUFA5">=></a></td>
+<td><a href="/riboeuk/_mds/NDUFA5">=></a></td>
 </tr>
 <tr>
 <td>NDUFA7</td>
@@ -9362,7 +9362,7 @@ $(document).ready(function(){
 <td>18</td>
 <td>0.969</td>
 <td>-18.182</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/NDUFA7">=></a></td>
+<td><a href="/riboeuk/_mds/NDUFA7">=></a></td>
 </tr>
 <tr>
 <td>NDUFA8</td>
@@ -9374,7 +9374,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.989</td>
 <td>-8.986</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/NDUFA8">=></a></td>
+<td><a href="/riboeuk/_mds/NDUFA8">=></a></td>
 </tr>
 <tr>
 <td>NDUFA9</td>
@@ -9386,7 +9386,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.959</td>
 <td>-21.314</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/NDUFA9">=></a></td>
+<td><a href="/riboeuk/_mds/NDUFA9">=></a></td>
 </tr>
 <tr>
 <td>NDUFAF4</td>
@@ -9398,7 +9398,7 @@ $(document).ready(function(){
 <td>9</td>
 <td>0.959</td>
 <td>-40.932</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/NDUFAF4">=></a></td>
+<td><a href="/riboeuk/_mds/NDUFAF4">=></a></td>
 </tr>
 <tr>
 <td>NDUFAF4_0</td>
@@ -9410,7 +9410,7 @@ $(document).ready(function(){
 <td>4</td>
 <td>0.922</td>
 <td>-40.932</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/NDUFAF4_0">=></a></td>
+<td><a href="/riboeuk/_mds/NDUFAF4_0">=></a></td>
 </tr>
 <tr>
 <td>NDUFB6</td>
@@ -9422,7 +9422,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.924</td>
 <td>-56.526</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/NDUFB6">=></a></td>
+<td><a href="/riboeuk/_mds/NDUFB6">=></a></td>
 </tr>
 <tr>
 <td>NDUFB7</td>
@@ -9434,7 +9434,7 @@ $(document).ready(function(){
 <td>16</td>
 <td>0.971</td>
 <td>-50.596</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/NDUFB7">=></a></td>
+<td><a href="/riboeuk/_mds/NDUFB7">=></a></td>
 </tr>
 <tr>
 <td>NDUFB8</td>
@@ -9446,7 +9446,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.975</td>
 <td>-37.495</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/NDUFB8">=></a></td>
+<td><a href="/riboeuk/_mds/NDUFB8">=></a></td>
 </tr>
 <tr>
 <td>NDUFS1</td>
@@ -9458,7 +9458,7 @@ $(document).ready(function(){
 <td>2</td>
 <td>0.927</td>
 <td>-60.199</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/NDUFS1">=></a></td>
+<td><a href="/riboeuk/_mds/NDUFS1">=></a></td>
 </tr>
 <tr>
 <td>NDUFS1_0</td>
@@ -9470,7 +9470,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.937</td>
 <td>-42.039</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/NDUFS1_0">=></a></td>
+<td><a href="/riboeuk/_mds/NDUFS1_0">=></a></td>
 </tr>
 <tr>
 <td>NDUFV2</td>
@@ -9482,7 +9482,7 @@ $(document).ready(function(){
 <td>5</td>
 <td>0.943</td>
 <td>-31.748</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/NDUFV2">=></a></td>
+<td><a href="/riboeuk/_mds/NDUFV2">=></a></td>
 </tr>
 <tr>
 <td>NECAP1</td>
@@ -9494,7 +9494,7 @@ $(document).ready(function(){
 <td>4</td>
 <td>0.969</td>
 <td>-34.811</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/NECAP1">=></a></td>
+<td><a href="/riboeuk/_mds/NECAP1">=></a></td>
 </tr>
 <tr>
 <td>NECAP1_0</td>
@@ -9506,7 +9506,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.972</td>
 <td>-13.367</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/NECAP1_0">=></a></td>
+<td><a href="/riboeuk/_mds/NECAP1_0">=></a></td>
 </tr>
 <tr>
 <td>NECAP1_1</td>
@@ -9518,7 +9518,7 @@ $(document).ready(function(){
 <td>16</td>
 <td>0.981</td>
 <td>-11.781</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/NECAP1_1">=></a></td>
+<td><a href="/riboeuk/_mds/NECAP1_1">=></a></td>
 </tr>
 <tr>
 <td>NEDD9</td>
@@ -9530,7 +9530,7 @@ $(document).ready(function(){
 <td>18</td>
 <td>0.936</td>
 <td>-50.784</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/NEDD9">=></a></td>
+<td><a href="/riboeuk/_mds/NEDD9">=></a></td>
 </tr>
 <tr>
 <td>NEURL1B</td>
@@ -9542,7 +9542,7 @@ $(document).ready(function(){
 <td>9</td>
 <td>0.944</td>
 <td>-67.390</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/NEURL1B">=></a></td>
+<td><a href="/riboeuk/_mds/NEURL1B">=></a></td>
 </tr>
 <tr>
 <td>NKAIN2</td>
@@ -9554,7 +9554,7 @@ $(document).ready(function(){
 <td>6</td>
 <td>0.959</td>
 <td>-17.410</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/NKAIN2">=></a></td>
+<td><a href="/riboeuk/_mds/NKAIN2">=></a></td>
 </tr>
 <tr>
 <td>NMD3</td>
@@ -9566,7 +9566,7 @@ $(document).ready(function(){
 <td>3</td>
 <td>0.962</td>
 <td>-32.340</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/NMD3">=></a></td>
+<td><a href="/riboeuk/_mds/NMD3">=></a></td>
 </tr>
 <tr>
 <td>NOC3L</td>
@@ -9578,7 +9578,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.962</td>
 <td>-26.587</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/NOC3L">=></a></td>
+<td><a href="/riboeuk/_mds/NOC3L">=></a></td>
 </tr>
 <tr>
 <td>NOLC1</td>
@@ -9590,7 +9590,7 @@ $(document).ready(function(){
 <td>16</td>
 <td>0.986</td>
 <td>-19.022</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/NOLC1">=></a></td>
+<td><a href="/riboeuk/_mds/NOLC1">=></a></td>
 </tr>
 <tr>
 <td>NONO</td>
@@ -9602,7 +9602,7 @@ $(document).ready(function(){
 <td>16</td>
 <td>0.897</td>
 <td>-58.314</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/NONO">=></a></td>
+<td><a href="/riboeuk/_mds/NONO">=></a></td>
 </tr>
 <tr>
 <td>NONO_0</td>
@@ -9614,7 +9614,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.949</td>
 <td>-60.476</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/NONO_0">=></a></td>
+<td><a href="/riboeuk/_mds/NONO_0">=></a></td>
 </tr>
 <tr>
 <td>NOP10</td>
@@ -9626,7 +9626,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.955</td>
 <td>-33.879</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/NOP10">=></a></td>
+<td><a href="/riboeuk/_mds/NOP10">=></a></td>
 </tr>
 <tr>
 <td>NOP2</td>
@@ -9638,7 +9638,7 @@ $(document).ready(function(){
 <td>19</td>
 <td>0.929</td>
 <td>-46.138</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/NOP2">=></a></td>
+<td><a href="/riboeuk/_mds/NOP2">=></a></td>
 </tr>
 <tr>
 <td>NOSIP</td>
@@ -9650,7 +9650,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.975</td>
 <td>-22.204</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/NOSIP">=></a></td>
+<td><a href="/riboeuk/_mds/NOSIP">=></a></td>
 </tr>
 <tr>
 <td>NOSIP_0</td>
@@ -9662,7 +9662,7 @@ $(document).ready(function(){
 <td>11</td>
 <td>0.932</td>
 <td>-26.906</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/NOSIP_0">=></a></td>
+<td><a href="/riboeuk/_mds/NOSIP_0">=></a></td>
 </tr>
 <tr>
 <td>NPHP1</td>
@@ -9674,7 +9674,7 @@ $(document).ready(function(){
 <td>2</td>
 <td>0.966</td>
 <td>-55.867</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/NPHP1">=></a></td>
+<td><a href="/riboeuk/_mds/NPHP1">=></a></td>
 </tr>
 <tr>
 <td>NPHP3</td>
@@ -9686,7 +9686,7 @@ $(document).ready(function(){
 <td>5</td>
 <td>0.971</td>
 <td>-37.189</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/NPHP3">=></a></td>
+<td><a href="/riboeuk/_mds/NPHP3">=></a></td>
 </tr>
 <tr>
 <td>NPHP3_0</td>
@@ -9698,7 +9698,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.967</td>
 <td>-34.370</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/NPHP3_0">=></a></td>
+<td><a href="/riboeuk/_mds/NPHP3_0">=></a></td>
 </tr>
 <tr>
 <td>NR1H2</td>
@@ -9710,7 +9710,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.957</td>
 <td>-28.051</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/NR1H2">=></a></td>
+<td><a href="/riboeuk/_mds/NR1H2">=></a></td>
 </tr>
 <tr>
 <td>NSUN6</td>
@@ -9722,7 +9722,7 @@ $(document).ready(function(){
 <td>3</td>
 <td>0.919</td>
 <td>-40.068</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/NSUN6">=></a></td>
+<td><a href="/riboeuk/_mds/NSUN6">=></a></td>
 </tr>
 <tr>
 <td>NUB1</td>
@@ -9734,7 +9734,7 @@ $(document).ready(function(){
 <td>16</td>
 <td>0.971</td>
 <td>-36.589</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/NUB1">=></a></td>
+<td><a href="/riboeuk/_mds/NUB1">=></a></td>
 </tr>
 <tr>
 <td>NUBP1</td>
@@ -9746,7 +9746,7 @@ $(document).ready(function(){
 <td>17</td>
 <td>0.984</td>
 <td>-11.625</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/NUBP1">=></a></td>
+<td><a href="/riboeuk/_mds/NUBP1">=></a></td>
 </tr>
 <tr>
 <td>NUBP1_0</td>
@@ -9758,7 +9758,7 @@ $(document).ready(function(){
 <td>19</td>
 <td>0.968</td>
 <td>-24.841</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/NUBP1_0">=></a></td>
+<td><a href="/riboeuk/_mds/NUBP1_0">=></a></td>
 </tr>
 <tr>
 <td>NUDT7</td>
@@ -9770,7 +9770,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.970</td>
 <td>-26.053</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/NUDT7">=></a></td>
+<td><a href="/riboeuk/_mds/NUDT7">=></a></td>
 </tr>
 <tr>
 <td>NUDT7_0</td>
@@ -9782,7 +9782,7 @@ $(document).ready(function(){
 <td>13</td>
 <td>0.947</td>
 <td>-38.113</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/NUDT7_0">=></a></td>
+<td><a href="/riboeuk/_mds/NUDT7_0">=></a></td>
 </tr>
 <tr>
 <td>NUDT7_1</td>
@@ -9794,7 +9794,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.939</td>
 <td>-20.444</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/NUDT7_1">=></a></td>
+<td><a href="/riboeuk/_mds/NUDT7_1">=></a></td>
 </tr>
 <tr>
 <td>NUP205</td>
@@ -9806,7 +9806,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.979</td>
 <td>-5.681</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/NUP205">=></a></td>
+<td><a href="/riboeuk/_mds/NUP205">=></a></td>
 </tr>
 <tr>
 <td>NUP35</td>
@@ -9818,7 +9818,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.938</td>
 <td>-41.255</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/NUP35">=></a></td>
+<td><a href="/riboeuk/_mds/NUP35">=></a></td>
 </tr>
 <tr>
 <td>NUP88</td>
@@ -9830,7 +9830,7 @@ $(document).ready(function(){
 <td>5</td>
 <td>0.954</td>
 <td>-14.223</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/NUP88">=></a></td>
+<td><a href="/riboeuk/_mds/NUP88">=></a></td>
 </tr>
 <tr>
 <td>NUSAP1</td>
@@ -9842,7 +9842,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.957</td>
 <td>-30.570</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/NUSAP1">=></a></td>
+<td><a href="/riboeuk/_mds/NUSAP1">=></a></td>
 </tr>
 <tr>
 <td>NVL</td>
@@ -9854,7 +9854,7 @@ $(document).ready(function(){
 <td>5</td>
 <td>0.911</td>
 <td>-48.484</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/NVL">=></a></td>
+<td><a href="/riboeuk/_mds/NVL">=></a></td>
 </tr>
 <tr>
 <td>NXT2</td>
@@ -9866,7 +9866,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.963</td>
 <td>-25.522</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/NXT2">=></a></td>
+<td><a href="/riboeuk/_mds/NXT2">=></a></td>
 </tr>
 <tr>
 <td>NXT2_0</td>
@@ -9878,7 +9878,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.888</td>
 <td>-60.409</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/NXT2_0">=></a></td>
+<td><a href="/riboeuk/_mds/NXT2_0">=></a></td>
 </tr>
 <tr>
 <td>OCEL1</td>
@@ -9890,7 +9890,7 @@ $(document).ready(function(){
 <td>12</td>
 <td>0.990</td>
 <td>-6.476</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/OCEL1">=></a></td>
+<td><a href="/riboeuk/_mds/OCEL1">=></a></td>
 </tr>
 <tr>
 <td>OCEL1_0</td>
@@ -9902,7 +9902,7 @@ $(document).ready(function(){
 <td>14</td>
 <td>0.975</td>
 <td>-23.718</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/OCEL1_0">=></a></td>
+<td><a href="/riboeuk/_mds/OCEL1_0">=></a></td>
 </tr>
 <tr>
 <td>OCEL1_1</td>
@@ -9914,7 +9914,7 @@ $(document).ready(function(){
 <td>3</td>
 <td>0.986</td>
 <td>-11.100</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/OCEL1_1">=></a></td>
+<td><a href="/riboeuk/_mds/OCEL1_1">=></a></td>
 </tr>
 <tr>
 <td>ODAM</td>
@@ -9926,7 +9926,7 @@ $(document).ready(function(){
 <td>18</td>
 <td>0.977</td>
 <td>-2.449</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ODAM">=></a></td>
+<td><a href="/riboeuk/_mds/ODAM">=></a></td>
 </tr>
 <tr>
 <td>ODAM_0</td>
@@ -9938,7 +9938,7 @@ $(document).ready(function(){
 <td>19</td>
 <td>0.986</td>
 <td>-2.449</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ODAM_0">=></a></td>
+<td><a href="/riboeuk/_mds/ODAM_0">=></a></td>
 </tr>
 <tr>
 <td>OFD1</td>
@@ -9950,7 +9950,7 @@ $(document).ready(function(){
 <td>3</td>
 <td>0.967</td>
 <td>-7.110</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/OFD1">=></a></td>
+<td><a href="/riboeuk/_mds/OFD1">=></a></td>
 </tr>
 <tr>
 <td>OGDHL</td>
@@ -9962,7 +9962,7 @@ $(document).ready(function(){
 <td>5</td>
 <td>0.979</td>
 <td>-18.817</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/OGDHL">=></a></td>
+<td><a href="/riboeuk/_mds/OGDHL">=></a></td>
 </tr>
 <tr>
 <td>OMA1</td>
@@ -9974,7 +9974,7 @@ $(document).ready(function(){
 <td>12</td>
 <td>0.963</td>
 <td>-35.848</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/OMA1">=></a></td>
+<td><a href="/riboeuk/_mds/OMA1">=></a></td>
 </tr>
 <tr>
 <td>OMA1_0</td>
@@ -9986,7 +9986,7 @@ $(document).ready(function(){
 <td>17</td>
 <td>0.956</td>
 <td>-50.566</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/OMA1_0">=></a></td>
+<td><a href="/riboeuk/_mds/OMA1_0">=></a></td>
 </tr>
 <tr>
 <td>OMA1_1</td>
@@ -9998,7 +9998,7 @@ $(document).ready(function(){
 <td>14</td>
 <td>0.960</td>
 <td>-33.997</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/OMA1_1">=></a></td>
+<td><a href="/riboeuk/_mds/OMA1_1">=></a></td>
 </tr>
 <tr>
 <td>OMA1_2</td>
@@ -10010,7 +10010,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.950</td>
 <td>-15.422</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/OMA1_2">=></a></td>
+<td><a href="/riboeuk/_mds/OMA1_2">=></a></td>
 </tr>
 <tr>
 <td>OPCML</td>
@@ -10022,7 +10022,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.975</td>
 <td>-8.642</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/OPCML">=></a></td>
+<td><a href="/riboeuk/_mds/OPCML">=></a></td>
 </tr>
 <tr>
 <td>OPTN</td>
@@ -10034,7 +10034,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.940</td>
 <td>-50.127</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/OPTN">=></a></td>
+<td><a href="/riboeuk/_mds/OPTN">=></a></td>
 </tr>
 <tr>
 <td>ORMDL1</td>
@@ -10046,7 +10046,7 @@ $(document).ready(function(){
 <td>12</td>
 <td>0.974</td>
 <td>-27.238</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ORMDL1">=></a></td>
+<td><a href="/riboeuk/_mds/ORMDL1">=></a></td>
 </tr>
 <tr>
 <td>OS9</td>
@@ -10058,7 +10058,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.972</td>
 <td>-30.979</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/OS9">=></a></td>
+<td><a href="/riboeuk/_mds/OS9">=></a></td>
 </tr>
 <tr>
 <td>OSBPL2</td>
@@ -10070,7 +10070,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.974</td>
 <td>-11.592</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/OSBPL2">=></a></td>
+<td><a href="/riboeuk/_mds/OSBPL2">=></a></td>
 </tr>
 <tr>
 <td>OSBPL3</td>
@@ -10082,7 +10082,7 @@ $(document).ready(function(){
 <td>3</td>
 <td>0.981</td>
 <td>-8.407</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/OSBPL3">=></a></td>
+<td><a href="/riboeuk/_mds/OSBPL3">=></a></td>
 </tr>
 <tr>
 <td>OSBPL9</td>
@@ -10094,7 +10094,7 @@ $(document).ready(function(){
 <td>18</td>
 <td>0.984</td>
 <td>-1.942</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/OSBPL9">=></a></td>
+<td><a href="/riboeuk/_mds/OSBPL9">=></a></td>
 </tr>
 <tr>
 <td>OSGEPL1</td>
@@ -10106,7 +10106,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.921</td>
 <td>-22.662</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/OSGEPL1">=></a></td>
+<td><a href="/riboeuk/_mds/OSGEPL1">=></a></td>
 </tr>
 <tr>
 <td>OTP</td>
@@ -10118,7 +10118,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.916</td>
 <td>-36.703</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/OTP">=></a></td>
+<td><a href="/riboeuk/_mds/OTP">=></a></td>
 </tr>
 <tr>
 <td>OXSM</td>
@@ -10130,7 +10130,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.946</td>
 <td>-26.571</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/OXSM">=></a></td>
+<td><a href="/riboeuk/_mds/OXSM">=></a></td>
 </tr>
 <tr>
 <td>OXSM_0</td>
@@ -10142,7 +10142,7 @@ $(document).ready(function(){
 <td>14</td>
 <td>0.953</td>
 <td>-31.358</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/OXSM_0">=></a></td>
+<td><a href="/riboeuk/_mds/OXSM_0">=></a></td>
 </tr>
 <tr>
 <td>PA2G4</td>
@@ -10154,7 +10154,7 @@ $(document).ready(function(){
 <td>13</td>
 <td>0.938</td>
 <td>-62.789</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PA2G4">=></a></td>
+<td><a href="/riboeuk/_mds/PA2G4">=></a></td>
 </tr>
 <tr>
 <td>PACRGL</td>
@@ -10166,7 +10166,7 @@ $(document).ready(function(){
 <td>2</td>
 <td>0.937</td>
 <td>-79.219</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PACRGL">=></a></td>
+<td><a href="/riboeuk/_mds/PACRGL">=></a></td>
 </tr>
 <tr>
 <td>PADI4</td>
@@ -10178,7 +10178,7 @@ $(document).ready(function(){
 <td>16</td>
 <td>0.988</td>
 <td>-11.504</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PADI4">=></a></td>
+<td><a href="/riboeuk/_mds/PADI4">=></a></td>
 </tr>
 <tr>
 <td>PADI4_0</td>
@@ -10190,7 +10190,7 @@ $(document).ready(function(){
 <td>7</td>
 <td>0.985</td>
 <td>-11.504</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PADI4_0">=></a></td>
+<td><a href="/riboeuk/_mds/PADI4_0">=></a></td>
 </tr>
 <tr>
 <td>PAFAH1B2</td>
@@ -10202,7 +10202,7 @@ $(document).ready(function(){
 <td>19</td>
 <td>0.909</td>
 <td>-45.155</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PAFAH1B2">=></a></td>
+<td><a href="/riboeuk/_mds/PAFAH1B2">=></a></td>
 </tr>
 <tr>
 <td>PAGE4</td>
@@ -10214,7 +10214,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.970</td>
 <td>-21.391</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PAGE4">=></a></td>
+<td><a href="/riboeuk/_mds/PAGE4">=></a></td>
 </tr>
 <tr>
 <td>PAK3</td>
@@ -10226,7 +10226,7 @@ $(document).ready(function(){
 <td>7</td>
 <td>0.987</td>
 <td>-5.699</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PAK3">=></a></td>
+<td><a href="/riboeuk/_mds/PAK3">=></a></td>
 </tr>
 <tr>
 <td>PAM</td>
@@ -10238,7 +10238,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.928</td>
 <td>-25.702</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PAM">=></a></td>
+<td><a href="/riboeuk/_mds/PAM">=></a></td>
 </tr>
 <tr>
 <td>PAM_0</td>
@@ -10250,7 +10250,7 @@ $(document).ready(function(){
 <td>9</td>
 <td>0.972</td>
 <td>-22.759</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PAM_0">=></a></td>
+<td><a href="/riboeuk/_mds/PAM_0">=></a></td>
 </tr>
 <tr>
 <td>PARP15</td>
@@ -10262,7 +10262,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.984</td>
 <td>-8.890</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PARP15">=></a></td>
+<td><a href="/riboeuk/_mds/PARP15">=></a></td>
 </tr>
 <tr>
 <td>PARP2</td>
@@ -10274,7 +10274,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.969</td>
 <td>-27.772</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PARP2">=></a></td>
+<td><a href="/riboeuk/_mds/PARP2">=></a></td>
 </tr>
 <tr>
 <td>PAX1</td>
@@ -10286,7 +10286,7 @@ $(document).ready(function(){
 <td>4</td>
 <td>0.978</td>
 <td>-22.227</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PAX1">=></a></td>
+<td><a href="/riboeuk/_mds/PAX1">=></a></td>
 </tr>
 <tr>
 <td>PAX3</td>
@@ -10298,7 +10298,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.957</td>
 <td>-24.120</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PAX3">=></a></td>
+<td><a href="/riboeuk/_mds/PAX3">=></a></td>
 </tr>
 <tr>
 <td>PBLD</td>
@@ -10310,7 +10310,7 @@ $(document).ready(function(){
 <td>12</td>
 <td>0.934</td>
 <td>-34.832</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PBLD">=></a></td>
+<td><a href="/riboeuk/_mds/PBLD">=></a></td>
 </tr>
 <tr>
 <td>PCBP3</td>
@@ -10322,7 +10322,7 @@ $(document).ready(function(){
 <td>8</td>
 <td>0.932</td>
 <td>-33.020</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PCBP3">=></a></td>
+<td><a href="/riboeuk/_mds/PCBP3">=></a></td>
 </tr>
 <tr>
 <td>PCCB</td>
@@ -10334,7 +10334,7 @@ $(document).ready(function(){
 <td>2</td>
 <td>0.973</td>
 <td>-32.756</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PCCB">=></a></td>
+<td><a href="/riboeuk/_mds/PCCB">=></a></td>
 </tr>
 <tr>
 <td>PCDH18</td>
@@ -10346,7 +10346,7 @@ $(document).ready(function(){
 <td>2</td>
 <td>0.937</td>
 <td>-36.834</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PCDH18">=></a></td>
+<td><a href="/riboeuk/_mds/PCDH18">=></a></td>
 </tr>
 <tr>
 <td>PCF11</td>
@@ -10358,7 +10358,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.978</td>
 <td>-11.449</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PCF11">=></a></td>
+<td><a href="/riboeuk/_mds/PCF11">=></a></td>
 </tr>
 <tr>
 <td>PDAP1</td>
@@ -10370,7 +10370,7 @@ $(document).ready(function(){
 <td>14</td>
 <td>0.939</td>
 <td>-67.370</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PDAP1">=></a></td>
+<td><a href="/riboeuk/_mds/PDAP1">=></a></td>
 </tr>
 <tr>
 <td>PDE4B</td>
@@ -10382,7 +10382,7 @@ $(document).ready(function(){
 <td>7</td>
 <td>0.932</td>
 <td>-59.848</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PDE4B">=></a></td>
+<td><a href="/riboeuk/_mds/PDE4B">=></a></td>
 </tr>
 <tr>
 <td>PDE6B</td>
@@ -10394,7 +10394,7 @@ $(document).ready(function(){
 <td>13</td>
 <td>0.955</td>
 <td>-40.706</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PDE6B">=></a></td>
+<td><a href="/riboeuk/_mds/PDE6B">=></a></td>
 </tr>
 <tr>
 <td>PDE6H</td>
@@ -10406,7 +10406,7 @@ $(document).ready(function(){
 <td>17</td>
 <td>0.951</td>
 <td>-35.956</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PDE6H">=></a></td>
+<td><a href="/riboeuk/_mds/PDE6H">=></a></td>
 </tr>
 <tr>
 <td>PDE9A</td>
@@ -10418,7 +10418,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.974</td>
 <td>-33.316</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PDE9A">=></a></td>
+<td><a href="/riboeuk/_mds/PDE9A">=></a></td>
 </tr>
 <tr>
 <td>PDK2</td>
@@ -10430,7 +10430,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.946</td>
 <td>-51.650</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PDK2">=></a></td>
+<td><a href="/riboeuk/_mds/PDK2">=></a></td>
 </tr>
 <tr>
 <td>PDK2_0</td>
@@ -10442,7 +10442,7 @@ $(document).ready(function(){
 <td>12</td>
 <td>0.981</td>
 <td>-15.494</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PDK2_0">=></a></td>
+<td><a href="/riboeuk/_mds/PDK2_0">=></a></td>
 </tr>
 <tr>
 <td>PDK2_1</td>
@@ -10454,7 +10454,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.918</td>
 <td>-76.397</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PDK2_1">=></a></td>
+<td><a href="/riboeuk/_mds/PDK2_1">=></a></td>
 </tr>
 <tr>
 <td>PDP2</td>
@@ -10466,7 +10466,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.944</td>
 <td>-46.090</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PDP2">=></a></td>
+<td><a href="/riboeuk/_mds/PDP2">=></a></td>
 </tr>
 <tr>
 <td>PDRG1</td>
@@ -10478,7 +10478,7 @@ $(document).ready(function(){
 <td>11</td>
 <td>0.953</td>
 <td>-58.557</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PDRG1">=></a></td>
+<td><a href="/riboeuk/_mds/PDRG1">=></a></td>
 </tr>
 <tr>
 <td>PDRG1_0</td>
@@ -10490,7 +10490,7 @@ $(document).ready(function(){
 <td>13</td>
 <td>0.909</td>
 <td>-58.557</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PDRG1_0">=></a></td>
+<td><a href="/riboeuk/_mds/PDRG1_0">=></a></td>
 </tr>
 <tr>
 <td>PDS5A</td>
@@ -10502,7 +10502,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.837</td>
 <td>-98.299</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PDS5A">=></a></td>
+<td><a href="/riboeuk/_mds/PDS5A">=></a></td>
 </tr>
 <tr>
 <td>PEMT</td>
@@ -10514,7 +10514,7 @@ $(document).ready(function(){
 <td>4</td>
 <td>0.977</td>
 <td>-23.455</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PEMT">=></a></td>
+<td><a href="/riboeuk/_mds/PEMT">=></a></td>
 </tr>
 <tr>
 <td>PEX1</td>
@@ -10526,7 +10526,7 @@ $(document).ready(function(){
 <td>19</td>
 <td>0.966</td>
 <td>-55.748</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PEX1">=></a></td>
+<td><a href="/riboeuk/_mds/PEX1">=></a></td>
 </tr>
 <tr>
 <td>PEX11A</td>
@@ -10538,7 +10538,7 @@ $(document).ready(function(){
 <td>3</td>
 <td>0.949</td>
 <td>-40.928</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PEX11A">=></a></td>
+<td><a href="/riboeuk/_mds/PEX11A">=></a></td>
 </tr>
 <tr>
 <td>PEX11B</td>
@@ -10550,7 +10550,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.957</td>
 <td>-38.267</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PEX11B">=></a></td>
+<td><a href="/riboeuk/_mds/PEX11B">=></a></td>
 </tr>
 <tr>
 <td>PEX19</td>
@@ -10562,7 +10562,7 @@ $(document).ready(function(){
 <td>4</td>
 <td>0.987</td>
 <td>-16.229</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PEX19">=></a></td>
+<td><a href="/riboeuk/_mds/PEX19">=></a></td>
 </tr>
 <tr>
 <td>PFDN2</td>
@@ -10574,7 +10574,7 @@ $(document).ready(function(){
 <td>6</td>
 <td>0.964</td>
 <td>-45.965</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PFDN2">=></a></td>
+<td><a href="/riboeuk/_mds/PFDN2">=></a></td>
 </tr>
 <tr>
 <td>PHF19</td>
@@ -10586,7 +10586,7 @@ $(document).ready(function(){
 <td>3</td>
 <td>0.948</td>
 <td>-39.256</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PHF19">=></a></td>
+<td><a href="/riboeuk/_mds/PHF19">=></a></td>
 </tr>
 <tr>
 <td>PHF19_0</td>
@@ -10598,7 +10598,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.966</td>
 <td>-27.899</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PHF19_0">=></a></td>
+<td><a href="/riboeuk/_mds/PHF19_0">=></a></td>
 </tr>
 <tr>
 <td>PHF20</td>
@@ -10610,7 +10610,7 @@ $(document).ready(function(){
 <td>12</td>
 <td>0.924</td>
 <td>-27.879</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PHF20">=></a></td>
+<td><a href="/riboeuk/_mds/PHF20">=></a></td>
 </tr>
 <tr>
 <td>PHF5A</td>
@@ -10622,7 +10622,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.973</td>
 <td>-26.294</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PHF5A">=></a></td>
+<td><a href="/riboeuk/_mds/PHF5A">=></a></td>
 </tr>
 <tr>
 <td>PHLDA2</td>
@@ -10634,7 +10634,7 @@ $(document).ready(function(){
 <td>14</td>
 <td>0.972</td>
 <td>-21.715</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PHLDA2">=></a></td>
+<td><a href="/riboeuk/_mds/PHLDA2">=></a></td>
 </tr>
 <tr>
 <td>PICALM</td>
@@ -10646,7 +10646,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.942</td>
 <td>-47.452</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PICALM">=></a></td>
+<td><a href="/riboeuk/_mds/PICALM">=></a></td>
 </tr>
 <tr>
 <td>PIGA</td>
@@ -10658,7 +10658,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.947</td>
 <td>-38.462</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PIGA">=></a></td>
+<td><a href="/riboeuk/_mds/PIGA">=></a></td>
 </tr>
 <tr>
 <td>PIGF</td>
@@ -10670,7 +10670,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.977</td>
 <td>-9.686</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PIGF">=></a></td>
+<td><a href="/riboeuk/_mds/PIGF">=></a></td>
 </tr>
 <tr>
 <td>PIGF_0</td>
@@ -10682,7 +10682,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.950</td>
 <td>-38.068</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PIGF_0">=></a></td>
+<td><a href="/riboeuk/_mds/PIGF_0">=></a></td>
 </tr>
 <tr>
 <td>PIGO</td>
@@ -10694,7 +10694,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.976</td>
 <td>-21.030</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PIGO">=></a></td>
+<td><a href="/riboeuk/_mds/PIGO">=></a></td>
 </tr>
 <tr>
 <td>PIGW</td>
@@ -10706,7 +10706,7 @@ $(document).ready(function(){
 <td>10</td>
 <td>0.978</td>
 <td>-20.437</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PIGW">=></a></td>
+<td><a href="/riboeuk/_mds/PIGW">=></a></td>
 </tr>
 <tr>
 <td>PIK3C3</td>
@@ -10718,7 +10718,7 @@ $(document).ready(function(){
 <td>8</td>
 <td>0.986</td>
 <td>-17.563</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PIK3C3">=></a></td>
+<td><a href="/riboeuk/_mds/PIK3C3">=></a></td>
 </tr>
 <tr>
 <td>PITPNB</td>
@@ -10730,7 +10730,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.952</td>
 <td>-32.032</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PITPNB">=></a></td>
+<td><a href="/riboeuk/_mds/PITPNB">=></a></td>
 </tr>
 <tr>
 <td>PKD2L2</td>
@@ -10742,7 +10742,7 @@ $(document).ready(function(){
 <td>16</td>
 <td>0.974</td>
 <td>-33.113</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PKD2L2">=></a></td>
+<td><a href="/riboeuk/_mds/PKD2L2">=></a></td>
 </tr>
 <tr>
 <td>PKN2</td>
@@ -10754,7 +10754,7 @@ $(document).ready(function(){
 <td>6</td>
 <td>0.956</td>
 <td>-19.871</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PKN2">=></a></td>
+<td><a href="/riboeuk/_mds/PKN2">=></a></td>
 </tr>
 <tr>
 <td>PKP3</td>
@@ -10766,7 +10766,7 @@ $(document).ready(function(){
 <td>3</td>
 <td>0.973</td>
 <td>-38.941</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PKP3">=></a></td>
+<td><a href="/riboeuk/_mds/PKP3">=></a></td>
 </tr>
 <tr>
 <td>PLCB4</td>
@@ -10778,7 +10778,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.963</td>
 <td>-37.295</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PLCB4">=></a></td>
+<td><a href="/riboeuk/_mds/PLCB4">=></a></td>
 </tr>
 <tr>
 <td>PLCE1</td>
@@ -10790,7 +10790,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.974</td>
 <td>-22.608</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PLCE1">=></a></td>
+<td><a href="/riboeuk/_mds/PLCE1">=></a></td>
 </tr>
 <tr>
 <td>PLEKHA2</td>
@@ -10802,7 +10802,7 @@ $(document).ready(function(){
 <td>16</td>
 <td>0.953</td>
 <td>-37.504</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PLEKHA2">=></a></td>
+<td><a href="/riboeuk/_mds/PLEKHA2">=></a></td>
 </tr>
 <tr>
 <td>PLRG1</td>
@@ -10814,7 +10814,7 @@ $(document).ready(function(){
 <td>17</td>
 <td>0.965</td>
 <td>-19.007</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PLRG1">=></a></td>
+<td><a href="/riboeuk/_mds/PLRG1">=></a></td>
 </tr>
 <tr>
 <td>PLXNC1</td>
@@ -10826,7 +10826,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.970</td>
 <td>-36.100</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PLXNC1">=></a></td>
+<td><a href="/riboeuk/_mds/PLXNC1">=></a></td>
 </tr>
 <tr>
 <td>PMEPA1</td>
@@ -10838,7 +10838,7 @@ $(document).ready(function(){
 <td>7</td>
 <td>0.942</td>
 <td>-72.330</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PMEPA1">=></a></td>
+<td><a href="/riboeuk/_mds/PMEPA1">=></a></td>
 </tr>
 <tr>
 <td>PMF1</td>
@@ -10850,7 +10850,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.990</td>
 <td>-11.178</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PMF1">=></a></td>
+<td><a href="/riboeuk/_mds/PMF1">=></a></td>
 </tr>
 <tr>
 <td>PMF1_0</td>
@@ -10862,7 +10862,7 @@ $(document).ready(function(){
 <td>19</td>
 <td>0.985</td>
 <td>-11.178</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PMF1_0">=></a></td>
+<td><a href="/riboeuk/_mds/PMF1_0">=></a></td>
 </tr>
 <tr>
 <td>PMF1_1</td>
@@ -10874,7 +10874,7 @@ $(document).ready(function(){
 <td>14</td>
 <td>0.984</td>
 <td>-5.366</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PMF1_1">=></a></td>
+<td><a href="/riboeuk/_mds/PMF1_1">=></a></td>
 </tr>
 <tr>
 <td>PMPCA</td>
@@ -10886,7 +10886,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.980</td>
 <td>-2.514</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PMPCA">=></a></td>
+<td><a href="/riboeuk/_mds/PMPCA">=></a></td>
 </tr>
 <tr>
 <td>PMPCA_0</td>
@@ -10898,7 +10898,7 @@ $(document).ready(function(){
 <td>10</td>
 <td>0.949</td>
 <td>-28.518</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PMPCA_0">=></a></td>
+<td><a href="/riboeuk/_mds/PMPCA_0">=></a></td>
 </tr>
 <tr>
 <td>PNLIPRP1</td>
@@ -10910,7 +10910,7 @@ $(document).ready(function(){
 <td>19</td>
 <td>0.964</td>
 <td>-28.418</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PNLIPRP1">=></a></td>
+<td><a href="/riboeuk/_mds/PNLIPRP1">=></a></td>
 </tr>
 <tr>
 <td>PNPLA4</td>
@@ -10922,7 +10922,7 @@ $(document).ready(function(){
 <td>17</td>
 <td>0.933</td>
 <td>-29.756</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PNPLA4">=></a></td>
+<td><a href="/riboeuk/_mds/PNPLA4">=></a></td>
 </tr>
 <tr>
 <td>PNPLA5</td>
@@ -10934,7 +10934,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.951</td>
 <td>-49.167</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PNPLA5">=></a></td>
+<td><a href="/riboeuk/_mds/PNPLA5">=></a></td>
 </tr>
 <tr>
 <td>PNPLA6</td>
@@ -10946,7 +10946,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.933</td>
 <td>-31.521</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PNPLA6">=></a></td>
+<td><a href="/riboeuk/_mds/PNPLA6">=></a></td>
 </tr>
 <tr>
 <td>PNPO</td>
@@ -10958,7 +10958,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.973</td>
 <td>-35.372</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PNPO">=></a></td>
+<td><a href="/riboeuk/_mds/PNPO">=></a></td>
 </tr>
 <tr>
 <td>PNPT1</td>
@@ -10970,7 +10970,7 @@ $(document).ready(function(){
 <td>9</td>
 <td>0.959</td>
 <td>-41.103</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PNPT1">=></a></td>
+<td><a href="/riboeuk/_mds/PNPT1">=></a></td>
 </tr>
 <tr>
 <td>POLA1</td>
@@ -10982,7 +10982,7 @@ $(document).ready(function(){
 <td>18</td>
 <td>0.985</td>
 <td>-8.657</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/POLA1">=></a></td>
+<td><a href="/riboeuk/_mds/POLA1">=></a></td>
 </tr>
 <tr>
 <td>POLE2</td>
@@ -10994,7 +10994,7 @@ $(document).ready(function(){
 <td>19</td>
 <td>0.954</td>
 <td>-22.941</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/POLE2">=></a></td>
+<td><a href="/riboeuk/_mds/POLE2">=></a></td>
 </tr>
 <tr>
 <td>POLK</td>
@@ -11006,7 +11006,7 @@ $(document).ready(function(){
 <td>5</td>
 <td>0.954</td>
 <td>-35.197</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/POLK">=></a></td>
+<td><a href="/riboeuk/_mds/POLK">=></a></td>
 </tr>
 <tr>
 <td>POLK_0</td>
@@ -11018,7 +11018,7 @@ $(document).ready(function(){
 <td>4</td>
 <td>0.986</td>
 <td>-7.637</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/POLK_0">=></a></td>
+<td><a href="/riboeuk/_mds/POLK_0">=></a></td>
 </tr>
 <tr>
 <td>POLK_1</td>
@@ -11030,7 +11030,7 @@ $(document).ready(function(){
 <td>12</td>
 <td>0.922</td>
 <td>-37.666</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/POLK_1">=></a></td>
+<td><a href="/riboeuk/_mds/POLK_1">=></a></td>
 </tr>
 <tr>
 <td>POLR2B</td>
@@ -11042,7 +11042,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.980</td>
 <td>-16.098</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/POLR2B">=></a></td>
+<td><a href="/riboeuk/_mds/POLR2B">=></a></td>
 </tr>
 <tr>
 <td>POLR2C</td>
@@ -11054,7 +11054,7 @@ $(document).ready(function(){
 <td>5</td>
 <td>0.915</td>
 <td>-70.911</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/POLR2C">=></a></td>
+<td><a href="/riboeuk/_mds/POLR2C">=></a></td>
 </tr>
 <tr>
 <td>POLR3D</td>
@@ -11066,7 +11066,7 @@ $(document).ready(function(){
 <td>13</td>
 <td>0.974</td>
 <td>-34.489</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/POLR3D">=></a></td>
+<td><a href="/riboeuk/_mds/POLR3D">=></a></td>
 </tr>
 <tr>
 <td>POP4</td>
@@ -11078,7 +11078,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.962</td>
 <td>-25.957</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/POP4">=></a></td>
+<td><a href="/riboeuk/_mds/POP4">=></a></td>
 </tr>
 <tr>
 <td>POP7</td>
@@ -11090,7 +11090,7 @@ $(document).ready(function(){
 <td>14</td>
 <td>0.971</td>
 <td>-24.326</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/POP7">=></a></td>
+<td><a href="/riboeuk/_mds/POP7">=></a></td>
 </tr>
 <tr>
 <td>PPARG</td>
@@ -11102,7 +11102,7 @@ $(document).ready(function(){
 <td>18</td>
 <td>0.940</td>
 <td>-18.126</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PPARG">=></a></td>
+<td><a href="/riboeuk/_mds/PPARG">=></a></td>
 </tr>
 <tr>
 <td>PPFIA1</td>
@@ -11114,7 +11114,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.949</td>
 <td>-49.407</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PPFIA1">=></a></td>
+<td><a href="/riboeuk/_mds/PPFIA1">=></a></td>
 </tr>
 <tr>
 <td>PPHLN1</td>
@@ -11126,7 +11126,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.940</td>
 <td>-40.381</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PPHLN1">=></a></td>
+<td><a href="/riboeuk/_mds/PPHLN1">=></a></td>
 </tr>
 <tr>
 <td>PPIA</td>
@@ -11138,7 +11138,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.968</td>
 <td>-31.876</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PPIA">=></a></td>
+<td><a href="/riboeuk/_mds/PPIA">=></a></td>
 </tr>
 <tr>
 <td>PPIA_0</td>
@@ -11150,7 +11150,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.946</td>
 <td>-63.792</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PPIA_0">=></a></td>
+<td><a href="/riboeuk/_mds/PPIA_0">=></a></td>
 </tr>
 <tr>
 <td>PPIA_1</td>
@@ -11162,7 +11162,7 @@ $(document).ready(function(){
 <td>17</td>
 <td>0.932</td>
 <td>-31.933</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PPIA_1">=></a></td>
+<td><a href="/riboeuk/_mds/PPIA_1">=></a></td>
 </tr>
 <tr>
 <td>PPIA_2</td>
@@ -11174,7 +11174,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.979</td>
 <td>-14.839</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PPIA_2">=></a></td>
+<td><a href="/riboeuk/_mds/PPIA_2">=></a></td>
 </tr>
 <tr>
 <td>PPIC</td>
@@ -11186,7 +11186,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.942</td>
 <td>-17.196</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PPIC">=></a></td>
+<td><a href="/riboeuk/_mds/PPIC">=></a></td>
 </tr>
 <tr>
 <td>PPIH</td>
@@ -11198,7 +11198,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.969</td>
 <td>-36.141</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PPIH">=></a></td>
+<td><a href="/riboeuk/_mds/PPIH">=></a></td>
 </tr>
 <tr>
 <td>PPM1B</td>
@@ -11210,7 +11210,7 @@ $(document).ready(function(){
 <td>12</td>
 <td>0.982</td>
 <td>-5.795</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PPM1B">=></a></td>
+<td><a href="/riboeuk/_mds/PPM1B">=></a></td>
 </tr>
 <tr>
 <td>PPME1</td>
@@ -11222,7 +11222,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.917</td>
 <td>-45.708</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PPME1">=></a></td>
+<td><a href="/riboeuk/_mds/PPME1">=></a></td>
 </tr>
 <tr>
 <td>PPP1CC</td>
@@ -11234,7 +11234,7 @@ $(document).ready(function(){
 <td>2</td>
 <td>0.854</td>
 <td>-75.182</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PPP1CC">=></a></td>
+<td><a href="/riboeuk/_mds/PPP1CC">=></a></td>
 </tr>
 <tr>
 <td>PPP1R3F</td>
@@ -11246,7 +11246,7 @@ $(document).ready(function(){
 <td>19</td>
 <td>0.986</td>
 <td>-4.121</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PPP1R3F">=></a></td>
+<td><a href="/riboeuk/_mds/PPP1R3F">=></a></td>
 </tr>
 <tr>
 <td>PPP2R5D</td>
@@ -11258,7 +11258,7 @@ $(document).ready(function(){
 <td>16</td>
 <td>0.951</td>
 <td>-43.479</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PPP2R5D">=></a></td>
+<td><a href="/riboeuk/_mds/PPP2R5D">=></a></td>
 </tr>
 <tr>
 <td>PPWD1</td>
@@ -11270,7 +11270,7 @@ $(document).ready(function(){
 <td>17</td>
 <td>0.970</td>
 <td>-20.747</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PPWD1">=></a></td>
+<td><a href="/riboeuk/_mds/PPWD1">=></a></td>
 </tr>
 <tr>
 <td>PPWD1_0</td>
@@ -11282,7 +11282,7 @@ $(document).ready(function(){
 <td>5</td>
 <td>0.931</td>
 <td>-37.015</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PPWD1_0">=></a></td>
+<td><a href="/riboeuk/_mds/PPWD1_0">=></a></td>
 </tr>
 <tr>
 <td>PPWD1_1</td>
@@ -11294,7 +11294,7 @@ $(document).ready(function(){
 <td>16</td>
 <td>0.961</td>
 <td>-18.529</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PPWD1_1">=></a></td>
+<td><a href="/riboeuk/_mds/PPWD1_1">=></a></td>
 </tr>
 <tr>
 <td>PRAF2</td>
@@ -11306,7 +11306,7 @@ $(document).ready(function(){
 <td>9</td>
 <td>0.981</td>
 <td>-13.145</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PRAF2">=></a></td>
+<td><a href="/riboeuk/_mds/PRAF2">=></a></td>
 </tr>
 <tr>
 <td>PRDX3</td>
@@ -11318,7 +11318,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.935</td>
 <td>-33.473</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PRDX3">=></a></td>
+<td><a href="/riboeuk/_mds/PRDX3">=></a></td>
 </tr>
 <tr>
 <td>PRG4</td>
@@ -11330,7 +11330,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.977</td>
 <td>-14.722</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PRG4">=></a></td>
+<td><a href="/riboeuk/_mds/PRG4">=></a></td>
 </tr>
 <tr>
 <td>PRIM1</td>
@@ -11342,7 +11342,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.972</td>
 <td>-20.675</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PRIM1">=></a></td>
+<td><a href="/riboeuk/_mds/PRIM1">=></a></td>
 </tr>
 <tr>
 <td>PRIM1_0</td>
@@ -11354,7 +11354,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.985</td>
 <td>-13.844</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PRIM1_0">=></a></td>
+<td><a href="/riboeuk/_mds/PRIM1_0">=></a></td>
 </tr>
 <tr>
 <td>PRIM1_1</td>
@@ -11366,7 +11366,7 @@ $(document).ready(function(){
 <td>19</td>
 <td>0.953</td>
 <td>-36.619</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PRIM1_1">=></a></td>
+<td><a href="/riboeuk/_mds/PRIM1_1">=></a></td>
 </tr>
 <tr>
 <td>PRKAR2B</td>
@@ -11378,7 +11378,7 @@ $(document).ready(function(){
 <td>12</td>
 <td>0.985</td>
 <td>-16.381</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PRKAR2B">=></a></td>
+<td><a href="/riboeuk/_mds/PRKAR2B">=></a></td>
 </tr>
 <tr>
 <td>PRKAR2B_0</td>
@@ -11390,7 +11390,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.982</td>
 <td>-14.645</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PRKAR2B_0">=></a></td>
+<td><a href="/riboeuk/_mds/PRKAR2B_0">=></a></td>
 </tr>
 <tr>
 <td>PRKCZ</td>
@@ -11402,7 +11402,7 @@ $(document).ready(function(){
 <td>14</td>
 <td>0.916</td>
 <td>-66.383</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PRKCZ">=></a></td>
+<td><a href="/riboeuk/_mds/PRKCZ">=></a></td>
 </tr>
 <tr>
 <td>PRMT1</td>
@@ -11414,7 +11414,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.931</td>
 <td>-56.139</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PRMT1">=></a></td>
+<td><a href="/riboeuk/_mds/PRMT1">=></a></td>
 </tr>
 <tr>
 <td>PROCA1</td>
@@ -11426,7 +11426,7 @@ $(document).ready(function(){
 <td>6</td>
 <td>0.982</td>
 <td>-12.145</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PROCA1">=></a></td>
+<td><a href="/riboeuk/_mds/PROCA1">=></a></td>
 </tr>
 <tr>
 <td>PRRT1</td>
@@ -11438,7 +11438,7 @@ $(document).ready(function(){
 <td>11</td>
 <td>0.965</td>
 <td>-49.571</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PRRT1">=></a></td>
+<td><a href="/riboeuk/_mds/PRRT1">=></a></td>
 </tr>
 <tr>
 <td>PRRX1</td>
@@ -11450,7 +11450,7 @@ $(document).ready(function(){
 <td>7</td>
 <td>0.979</td>
 <td>-23.577</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PRRX1">=></a></td>
+<td><a href="/riboeuk/_mds/PRRX1">=></a></td>
 </tr>
 <tr>
 <td>PRSS27</td>
@@ -11462,7 +11462,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.974</td>
 <td>-14.802</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PRSS27">=></a></td>
+<td><a href="/riboeuk/_mds/PRSS27">=></a></td>
 </tr>
 <tr>
 <td>PRSS27_0</td>
@@ -11474,7 +11474,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.974</td>
 <td>-14.802</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PRSS27_0">=></a></td>
+<td><a href="/riboeuk/_mds/PRSS27_0">=></a></td>
 </tr>
 <tr>
 <td>PSMA3</td>
@@ -11486,7 +11486,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.977</td>
 <td>-18.040</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PSMA3">=></a></td>
+<td><a href="/riboeuk/_mds/PSMA3">=></a></td>
 </tr>
 <tr>
 <td>PSMB1</td>
@@ -11498,7 +11498,7 @@ $(document).ready(function(){
 <td>8</td>
 <td>0.943</td>
 <td>-32.712</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PSMB1">=></a></td>
+<td><a href="/riboeuk/_mds/PSMB1">=></a></td>
 </tr>
 <tr>
 <td>PSMB1_0</td>
@@ -11510,7 +11510,7 @@ $(document).ready(function(){
 <td>14</td>
 <td>0.956</td>
 <td>-35.491</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PSMB1_0">=></a></td>
+<td><a href="/riboeuk/_mds/PSMB1_0">=></a></td>
 </tr>
 <tr>
 <td>PSMB3</td>
@@ -11522,7 +11522,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.950</td>
 <td>-30.643</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PSMB3">=></a></td>
+<td><a href="/riboeuk/_mds/PSMB3">=></a></td>
 </tr>
 <tr>
 <td>PSMB3_0</td>
@@ -11534,7 +11534,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.970</td>
 <td>-20.663</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PSMB3_0">=></a></td>
+<td><a href="/riboeuk/_mds/PSMB3_0">=></a></td>
 </tr>
 <tr>
 <td>PSMB3_1</td>
@@ -11546,7 +11546,7 @@ $(document).ready(function(){
 <td>16</td>
 <td>0.949</td>
 <td>-34.263</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PSMB3_1">=></a></td>
+<td><a href="/riboeuk/_mds/PSMB3_1">=></a></td>
 </tr>
 <tr>
 <td>PSMB4</td>
@@ -11558,7 +11558,7 @@ $(document).ready(function(){
 <td>19</td>
 <td>0.989</td>
 <td>-16.685</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PSMB4">=></a></td>
+<td><a href="/riboeuk/_mds/PSMB4">=></a></td>
 </tr>
 <tr>
 <td>PSMC2</td>
@@ -11570,7 +11570,7 @@ $(document).ready(function(){
 <td>19</td>
 <td>0.971</td>
 <td>-22.631</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PSMC2">=></a></td>
+<td><a href="/riboeuk/_mds/PSMC2">=></a></td>
 </tr>
 <tr>
 <td>PSMC2_0</td>
@@ -11582,7 +11582,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.873</td>
 <td>-77.690</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PSMC2_0">=></a></td>
+<td><a href="/riboeuk/_mds/PSMC2_0">=></a></td>
 </tr>
 <tr>
 <td>PSMC2_1</td>
@@ -11594,7 +11594,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.912</td>
 <td>-67.008</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PSMC2_1">=></a></td>
+<td><a href="/riboeuk/_mds/PSMC2_1">=></a></td>
 </tr>
 <tr>
 <td>PSMC2_2</td>
@@ -11606,7 +11606,7 @@ $(document).ready(function(){
 <td>8</td>
 <td>0.908</td>
 <td>-33.164</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PSMC2_2">=></a></td>
+<td><a href="/riboeuk/_mds/PSMC2_2">=></a></td>
 </tr>
 <tr>
 <td>PSMC2_3</td>
@@ -11618,7 +11618,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.915</td>
 <td>-85.300</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PSMC2_3">=></a></td>
+<td><a href="/riboeuk/_mds/PSMC2_3">=></a></td>
 </tr>
 <tr>
 <td>PSMC2_4</td>
@@ -11630,7 +11630,7 @@ $(document).ready(function(){
 <td>18</td>
 <td>0.907</td>
 <td>-94.525</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PSMC2_4">=></a></td>
+<td><a href="/riboeuk/_mds/PSMC2_4">=></a></td>
 </tr>
 <tr>
 <td>PSMC2_5</td>
@@ -11642,7 +11642,7 @@ $(document).ready(function(){
 <td>11</td>
 <td>0.926</td>
 <td>-85.261</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PSMC2_5">=></a></td>
+<td><a href="/riboeuk/_mds/PSMC2_5">=></a></td>
 </tr>
 <tr>
 <td>PSMC3IP</td>
@@ -11654,7 +11654,7 @@ $(document).ready(function(){
 <td>2</td>
 <td>0.981</td>
 <td>-13.567</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PSMC3IP">=></a></td>
+<td><a href="/riboeuk/_mds/PSMC3IP">=></a></td>
 </tr>
 <tr>
 <td>PSMC3IP_0</td>
@@ -11666,7 +11666,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.934</td>
 <td>-63.545</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PSMC3IP_0">=></a></td>
+<td><a href="/riboeuk/_mds/PSMC3IP_0">=></a></td>
 </tr>
 <tr>
 <td>PSMD10</td>
@@ -11678,7 +11678,7 @@ $(document).ready(function(){
 <td>2</td>
 <td>0.957</td>
 <td>-40.075</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PSMD10">=></a></td>
+<td><a href="/riboeuk/_mds/PSMD10">=></a></td>
 </tr>
 <tr>
 <td>PSMD10_0</td>
@@ -11690,7 +11690,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.949</td>
 <td>-45.049</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PSMD10_0">=></a></td>
+<td><a href="/riboeuk/_mds/PSMD10_0">=></a></td>
 </tr>
 <tr>
 <td>PSMD4</td>
@@ -11702,7 +11702,7 @@ $(document).ready(function(){
 <td>16</td>
 <td>0.962</td>
 <td>-31.021</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PSMD4">=></a></td>
+<td><a href="/riboeuk/_mds/PSMD4">=></a></td>
 </tr>
 <tr>
 <td>PSMD6</td>
@@ -11714,7 +11714,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.988</td>
 <td>-11.672</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PSMD6">=></a></td>
+<td><a href="/riboeuk/_mds/PSMD6">=></a></td>
 </tr>
 <tr>
 <td>PSMD6_0</td>
@@ -11726,7 +11726,7 @@ $(document).ready(function(){
 <td>2</td>
 <td>0.968</td>
 <td>-12.737</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PSMD6_0">=></a></td>
+<td><a href="/riboeuk/_mds/PSMD6_0">=></a></td>
 </tr>
 <tr>
 <td>PSMD6_1</td>
@@ -11738,7 +11738,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.984</td>
 <td>-16.518</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PSMD6_1">=></a></td>
+<td><a href="/riboeuk/_mds/PSMD6_1">=></a></td>
 </tr>
 <tr>
 <td>PSMD6_2</td>
@@ -11750,7 +11750,7 @@ $(document).ready(function(){
 <td>14</td>
 <td>0.981</td>
 <td>-12.501</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PSMD6_2">=></a></td>
+<td><a href="/riboeuk/_mds/PSMD6_2">=></a></td>
 </tr>
 <tr>
 <td>PSMD7</td>
@@ -11762,7 +11762,7 @@ $(document).ready(function(){
 <td>4</td>
 <td>0.947</td>
 <td>-64.679</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PSMD7">=></a></td>
+<td><a href="/riboeuk/_mds/PSMD7">=></a></td>
 </tr>
 <tr>
 <td>PSMD8</td>
@@ -11774,7 +11774,7 @@ $(document).ready(function(){
 <td>14</td>
 <td>0.974</td>
 <td>-28.996</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PSMD8">=></a></td>
+<td><a href="/riboeuk/_mds/PSMD8">=></a></td>
 </tr>
 <tr>
 <td>PSMD9</td>
@@ -11786,7 +11786,7 @@ $(document).ready(function(){
 <td>19</td>
 <td>0.971</td>
 <td>-40.637</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PSMD9">=></a></td>
+<td><a href="/riboeuk/_mds/PSMD9">=></a></td>
 </tr>
 <tr>
 <td>PTAR1</td>
@@ -11798,7 +11798,7 @@ $(document).ready(function(){
 <td>12</td>
 <td>0.984</td>
 <td>-15.702</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PTAR1">=></a></td>
+<td><a href="/riboeuk/_mds/PTAR1">=></a></td>
 </tr>
 <tr>
 <td>PTCH1</td>
@@ -11810,7 +11810,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.935</td>
 <td>-60.857</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PTCH1">=></a></td>
+<td><a href="/riboeuk/_mds/PTCH1">=></a></td>
 </tr>
 <tr>
 <td>PTK2</td>
@@ -11822,7 +11822,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.954</td>
 <td>-19.504</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PTK2">=></a></td>
+<td><a href="/riboeuk/_mds/PTK2">=></a></td>
 </tr>
 <tr>
 <td>PTMA</td>
@@ -11834,7 +11834,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.966</td>
 <td>-41.214</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PTMA">=></a></td>
+<td><a href="/riboeuk/_mds/PTMA">=></a></td>
 </tr>
 <tr>
 <td>PTPN13</td>
@@ -11846,7 +11846,7 @@ $(document).ready(function(){
 <td>14</td>
 <td>0.954</td>
 <td>-34.331</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PTPN13">=></a></td>
+<td><a href="/riboeuk/_mds/PTPN13">=></a></td>
 </tr>
 <tr>
 <td>PTPN3</td>
@@ -11858,7 +11858,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.993</td>
 <td>-4.259</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PTPN3">=></a></td>
+<td><a href="/riboeuk/_mds/PTPN3">=></a></td>
 </tr>
 <tr>
 <td>PTPN3_0</td>
@@ -11870,7 +11870,7 @@ $(document).ready(function(){
 <td>7</td>
 <td>0.946</td>
 <td>-15.730</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PTPN3_0">=></a></td>
+<td><a href="/riboeuk/_mds/PTPN3_0">=></a></td>
 </tr>
 <tr>
 <td>PTPN3_1</td>
@@ -11882,7 +11882,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.950</td>
 <td>-59.669</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PTPN3_1">=></a></td>
+<td><a href="/riboeuk/_mds/PTPN3_1">=></a></td>
 </tr>
 <tr>
 <td>PTPRQ</td>
@@ -11894,7 +11894,7 @@ $(document).ready(function(){
 <td>5</td>
 <td>0.962</td>
 <td>-16.356</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PTPRQ">=></a></td>
+<td><a href="/riboeuk/_mds/PTPRQ">=></a></td>
 </tr>
 <tr>
 <td>PTRH2</td>
@@ -11906,7 +11906,7 @@ $(document).ready(function(){
 <td>14</td>
 <td>0.932</td>
 <td>-42.850</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PTRH2">=></a></td>
+<td><a href="/riboeuk/_mds/PTRH2">=></a></td>
 </tr>
 <tr>
 <td>PTS</td>
@@ -11918,7 +11918,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.952</td>
 <td>-43.484</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PTS">=></a></td>
+<td><a href="/riboeuk/_mds/PTS">=></a></td>
 </tr>
 <tr>
 <td>PUS10</td>
@@ -11930,7 +11930,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.968</td>
 <td>-27.130</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PUS10">=></a></td>
+<td><a href="/riboeuk/_mds/PUS10">=></a></td>
 </tr>
 <tr>
 <td>PUS10_0</td>
@@ -11942,7 +11942,7 @@ $(document).ready(function(){
 <td>7</td>
 <td>0.966</td>
 <td>-13.826</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PUS10_0">=></a></td>
+<td><a href="/riboeuk/_mds/PUS10_0">=></a></td>
 </tr>
 <tr>
 <td>PUS10_1</td>
@@ -11954,7 +11954,7 @@ $(document).ready(function(){
 <td>18</td>
 <td>0.982</td>
 <td>-9.788</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PUS10_1">=></a></td>
+<td><a href="/riboeuk/_mds/PUS10_1">=></a></td>
 </tr>
 <tr>
 <td>PUS7L</td>
@@ -11966,7 +11966,7 @@ $(document).ready(function(){
 <td>19</td>
 <td>0.964</td>
 <td>-22.783</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PUS7L">=></a></td>
+<td><a href="/riboeuk/_mds/PUS7L">=></a></td>
 </tr>
 <tr>
 <td>PUS7L_0</td>
@@ -11978,7 +11978,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.926</td>
 <td>-32.528</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PUS7L_0">=></a></td>
+<td><a href="/riboeuk/_mds/PUS7L_0">=></a></td>
 </tr>
 <tr>
 <td>PUS7L_1</td>
@@ -11990,7 +11990,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.971</td>
 <td>-15.122</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PUS7L_1">=></a></td>
+<td><a href="/riboeuk/_mds/PUS7L_1">=></a></td>
 </tr>
 <tr>
 <td>PUS7L_2</td>
@@ -12002,7 +12002,7 @@ $(document).ready(function(){
 <td>17</td>
 <td>0.965</td>
 <td>-26.019</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PUS7L_2">=></a></td>
+<td><a href="/riboeuk/_mds/PUS7L_2">=></a></td>
 </tr>
 <tr>
 <td>PUS7L_3</td>
@@ -12014,7 +12014,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.886</td>
 <td>-57.728</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PUS7L_3">=></a></td>
+<td><a href="/riboeuk/_mds/PUS7L_3">=></a></td>
 </tr>
 <tr>
 <td>PYROXD1</td>
@@ -12026,7 +12026,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.979</td>
 <td>-24.757</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/PYROXD1">=></a></td>
+<td><a href="/riboeuk/_mds/PYROXD1">=></a></td>
 </tr>
 <tr>
 <td>QRICH1</td>
@@ -12038,7 +12038,7 @@ $(document).ready(function(){
 <td>9</td>
 <td>0.967</td>
 <td>-11.554</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/QRICH1">=></a></td>
+<td><a href="/riboeuk/_mds/QRICH1">=></a></td>
 </tr>
 <tr>
 <td>QRICH1_0</td>
@@ -12050,7 +12050,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.947</td>
 <td>-26.819</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/QRICH1_0">=></a></td>
+<td><a href="/riboeuk/_mds/QRICH1_0">=></a></td>
 </tr>
 <tr>
 <td>QSOX1</td>
@@ -12062,7 +12062,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.965</td>
 <td>-46.619</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/QSOX1">=></a></td>
+<td><a href="/riboeuk/_mds/QSOX1">=></a></td>
 </tr>
 <tr>
 <td>RAB11B</td>
@@ -12074,7 +12074,7 @@ $(document).ready(function(){
 <td>10</td>
 <td>0.940</td>
 <td>-60.357</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RAB11B">=></a></td>
+<td><a href="/riboeuk/_mds/RAB11B">=></a></td>
 </tr>
 <tr>
 <td>RAB14</td>
@@ -12086,7 +12086,7 @@ $(document).ready(function(){
 <td>19</td>
 <td>0.978</td>
 <td>-7.925</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RAB14">=></a></td>
+<td><a href="/riboeuk/_mds/RAB14">=></a></td>
 </tr>
 <tr>
 <td>RAB27A</td>
@@ -12098,7 +12098,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.947</td>
 <td>-18.231</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RAB27A">=></a></td>
+<td><a href="/riboeuk/_mds/RAB27A">=></a></td>
 </tr>
 <tr>
 <td>RAB27B</td>
@@ -12110,7 +12110,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.950</td>
 <td>-35.579</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RAB27B">=></a></td>
+<td><a href="/riboeuk/_mds/RAB27B">=></a></td>
 </tr>
 <tr>
 <td>RAB35</td>
@@ -12122,7 +12122,7 @@ $(document).ready(function(){
 <td>3</td>
 <td>0.931</td>
 <td>-74.152</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RAB35">=></a></td>
+<td><a href="/riboeuk/_mds/RAB35">=></a></td>
 </tr>
 <tr>
 <td>RAB35_0</td>
@@ -12134,7 +12134,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.907</td>
 <td>-75.625</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RAB35_0">=></a></td>
+<td><a href="/riboeuk/_mds/RAB35_0">=></a></td>
 </tr>
 <tr>
 <td>RAB35_1</td>
@@ -12146,7 +12146,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.924</td>
 <td>-68.520</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RAB35_1">=></a></td>
+<td><a href="/riboeuk/_mds/RAB35_1">=></a></td>
 </tr>
 <tr>
 <td>RAB38</td>
@@ -12158,7 +12158,7 @@ $(document).ready(function(){
 <td>3</td>
 <td>0.933</td>
 <td>-30.518</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RAB38">=></a></td>
+<td><a href="/riboeuk/_mds/RAB38">=></a></td>
 </tr>
 <tr>
 <td>RAB3A</td>
@@ -12170,7 +12170,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.922</td>
 <td>-71.154</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RAB3A">=></a></td>
+<td><a href="/riboeuk/_mds/RAB3A">=></a></td>
 </tr>
 <tr>
 <td>RAB3GAP1</td>
@@ -12182,7 +12182,7 @@ $(document).ready(function(){
 <td>3</td>
 <td>0.978</td>
 <td>-10.455</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RAB3GAP1">=></a></td>
+<td><a href="/riboeuk/_mds/RAB3GAP1">=></a></td>
 </tr>
 <tr>
 <td>RAB3GAP1_0</td>
@@ -12194,7 +12194,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.942</td>
 <td>-38.052</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RAB3GAP1_0">=></a></td>
+<td><a href="/riboeuk/_mds/RAB3GAP1_0">=></a></td>
 </tr>
 <tr>
 <td>RAB41</td>
@@ -12206,7 +12206,7 @@ $(document).ready(function(){
 <td>7</td>
 <td>0.979</td>
 <td>-20.503</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RAB41">=></a></td>
+<td><a href="/riboeuk/_mds/RAB41">=></a></td>
 </tr>
 <tr>
 <td>RABGGTA</td>
@@ -12218,7 +12218,7 @@ $(document).ready(function(){
 <td>9</td>
 <td>0.973</td>
 <td>-30.860</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RABGGTA">=></a></td>
+<td><a href="/riboeuk/_mds/RABGGTA">=></a></td>
 </tr>
 <tr>
 <td>RABGGTA_0</td>
@@ -12230,7 +12230,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.977</td>
 <td>-31.731</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RABGGTA_0">=></a></td>
+<td><a href="/riboeuk/_mds/RABGGTA_0">=></a></td>
 </tr>
 <tr>
 <td>RACGAP1</td>
@@ -12242,7 +12242,7 @@ $(document).ready(function(){
 <td>10</td>
 <td>0.949</td>
 <td>-31.996</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RACGAP1">=></a></td>
+<td><a href="/riboeuk/_mds/RACGAP1">=></a></td>
 </tr>
 <tr>
 <td>RACGAP1_0</td>
@@ -12254,7 +12254,7 @@ $(document).ready(function(){
 <td>4</td>
 <td>0.877</td>
 <td>-55.840</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RACGAP1_0">=></a></td>
+<td><a href="/riboeuk/_mds/RACGAP1_0">=></a></td>
 </tr>
 <tr>
 <td>RAD17</td>
@@ -12266,7 +12266,7 @@ $(document).ready(function(){
 <td>18</td>
 <td>0.976</td>
 <td>-10.380</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RAD17">=></a></td>
+<td><a href="/riboeuk/_mds/RAD17">=></a></td>
 </tr>
 <tr>
 <td>RAD51</td>
@@ -12278,7 +12278,7 @@ $(document).ready(function(){
 <td>17</td>
 <td>0.948</td>
 <td>-23.067</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RAD51">=></a></td>
+<td><a href="/riboeuk/_mds/RAD51">=></a></td>
 </tr>
 <tr>
 <td>RAD51AP1</td>
@@ -12290,7 +12290,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.918</td>
 <td>-49.914</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RAD51AP1">=></a></td>
+<td><a href="/riboeuk/_mds/RAD51AP1">=></a></td>
 </tr>
 <tr>
 <td>RAD9B</td>
@@ -12302,7 +12302,7 @@ $(document).ready(function(){
 <td>4</td>
 <td>0.911</td>
 <td>-48.135</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RAD9B">=></a></td>
+<td><a href="/riboeuk/_mds/RAD9B">=></a></td>
 </tr>
 <tr>
 <td>RAD9B_0</td>
@@ -12314,7 +12314,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.930</td>
 <td>-39.053</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RAD9B_0">=></a></td>
+<td><a href="/riboeuk/_mds/RAD9B_0">=></a></td>
 </tr>
 <tr>
 <td>RAP1A</td>
@@ -12326,7 +12326,7 @@ $(document).ready(function(){
 <td>12</td>
 <td>0.948</td>
 <td>-32.940</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RAP1A">=></a></td>
+<td><a href="/riboeuk/_mds/RAP1A">=></a></td>
 </tr>
 <tr>
 <td>RARB</td>
@@ -12338,7 +12338,7 @@ $(document).ready(function(){
 <td>14</td>
 <td>0.981</td>
 <td>-16.481</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RARB">=></a></td>
+<td><a href="/riboeuk/_mds/RARB">=></a></td>
 </tr>
 <tr>
 <td>RARRES1</td>
@@ -12350,7 +12350,7 @@ $(document).ready(function(){
 <td>12</td>
 <td>0.972</td>
 <td>-35.124</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RARRES1">=></a></td>
+<td><a href="/riboeuk/_mds/RARRES1">=></a></td>
 </tr>
 <tr>
 <td>RASGRF1</td>
@@ -12362,7 +12362,7 @@ $(document).ready(function(){
 <td>14</td>
 <td>0.984</td>
 <td>-10.050</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RASGRF1">=></a></td>
+<td><a href="/riboeuk/_mds/RASGRF1">=></a></td>
 </tr>
 <tr>
 <td>RBBP5</td>
@@ -12374,7 +12374,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.972</td>
 <td>-19.134</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RBBP5">=></a></td>
+<td><a href="/riboeuk/_mds/RBBP5">=></a></td>
 </tr>
 <tr>
 <td>RBM14</td>
@@ -12386,7 +12386,7 @@ $(document).ready(function(){
 <td>17</td>
 <td>0.962</td>
 <td>-37.682</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RBM14">=></a></td>
+<td><a href="/riboeuk/_mds/RBM14">=></a></td>
 </tr>
 <tr>
 <td>RBM18</td>
@@ -12398,7 +12398,7 @@ $(document).ready(function(){
 <td>18</td>
 <td>0.949</td>
 <td>-45.668</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RBM18">=></a></td>
+<td><a href="/riboeuk/_mds/RBM18">=></a></td>
 </tr>
 <tr>
 <td>RBM19</td>
@@ -12410,7 +12410,7 @@ $(document).ready(function(){
 <td>17</td>
 <td>0.960</td>
 <td>-32.169</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RBM19">=></a></td>
+<td><a href="/riboeuk/_mds/RBM19">=></a></td>
 </tr>
 <tr>
 <td>RBM19_0</td>
@@ -12422,7 +12422,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.939</td>
 <td>-54.069</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RBM19_0">=></a></td>
+<td><a href="/riboeuk/_mds/RBM19_0">=></a></td>
 </tr>
 <tr>
 <td>RBM26</td>
@@ -12434,7 +12434,7 @@ $(document).ready(function(){
 <td>18</td>
 <td>0.959</td>
 <td>-5.801</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RBM26">=></a></td>
+<td><a href="/riboeuk/_mds/RBM26">=></a></td>
 </tr>
 <tr>
 <td>RBM46</td>
@@ -12446,7 +12446,7 @@ $(document).ready(function(){
 <td>3</td>
 <td>0.874</td>
 <td>-64.693</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RBM46">=></a></td>
+<td><a href="/riboeuk/_mds/RBM46">=></a></td>
 </tr>
 <tr>
 <td>RBM46_0</td>
@@ -12458,7 +12458,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.933</td>
 <td>-54.597</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RBM46_0">=></a></td>
+<td><a href="/riboeuk/_mds/RBM46_0">=></a></td>
 </tr>
 <tr>
 <td>RBM5</td>
@@ -12470,7 +12470,7 @@ $(document).ready(function(){
 <td>4</td>
 <td>0.936</td>
 <td>-59.264</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RBM5">=></a></td>
+<td><a href="/riboeuk/_mds/RBM5">=></a></td>
 </tr>
 <tr>
 <td>RBM7</td>
@@ -12482,7 +12482,7 @@ $(document).ready(function(){
 <td>6</td>
 <td>0.978</td>
 <td>-7.992</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RBM7">=></a></td>
+<td><a href="/riboeuk/_mds/RBM7">=></a></td>
 </tr>
 <tr>
 <td>RBM8A</td>
@@ -12494,7 +12494,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.982</td>
 <td>-14.582</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RBM8A">=></a></td>
+<td><a href="/riboeuk/_mds/RBM8A">=></a></td>
 </tr>
 <tr>
 <td>RBM8A_0</td>
@@ -12506,7 +12506,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.923</td>
 <td>-37.902</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RBM8A_0">=></a></td>
+<td><a href="/riboeuk/_mds/RBM8A_0">=></a></td>
 </tr>
 <tr>
 <td>RBM8A_1</td>
@@ -12518,7 +12518,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.941</td>
 <td>-44.876</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RBM8A_1">=></a></td>
+<td><a href="/riboeuk/_mds/RBM8A_1">=></a></td>
 </tr>
 <tr>
 <td>RBMX</td>
@@ -12530,7 +12530,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.943</td>
 <td>-53.942</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RBMX">=></a></td>
+<td><a href="/riboeuk/_mds/RBMX">=></a></td>
 </tr>
 <tr>
 <td>RBMX2</td>
@@ -12542,7 +12542,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.953</td>
 <td>-26.240</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RBMX2">=></a></td>
+<td><a href="/riboeuk/_mds/RBMX2">=></a></td>
 </tr>
 <tr>
 <td>RBP1</td>
@@ -12554,7 +12554,7 @@ $(document).ready(function(){
 <td>10</td>
 <td>0.952</td>
 <td>-36.329</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RBP1">=></a></td>
+<td><a href="/riboeuk/_mds/RBP1">=></a></td>
 </tr>
 <tr>
 <td>RBP7</td>
@@ -12566,7 +12566,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.982</td>
 <td>-31.478</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RBP7">=></a></td>
+<td><a href="/riboeuk/_mds/RBP7">=></a></td>
 </tr>
 <tr>
 <td>RCL1</td>
@@ -12578,7 +12578,7 @@ $(document).ready(function(){
 <td>19</td>
 <td>0.970</td>
 <td>-38.058</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RCL1">=></a></td>
+<td><a href="/riboeuk/_mds/RCL1">=></a></td>
 </tr>
 <tr>
 <td>RDX</td>
@@ -12590,7 +12590,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.950</td>
 <td>-9.800</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RDX">=></a></td>
+<td><a href="/riboeuk/_mds/RDX">=></a></td>
 </tr>
 <tr>
 <td>RELL1</td>
@@ -12602,7 +12602,7 @@ $(document).ready(function(){
 <td>19</td>
 <td>0.980</td>
 <td>-13.119</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RELL1">=></a></td>
+<td><a href="/riboeuk/_mds/RELL1">=></a></td>
 </tr>
 <tr>
 <td>RFC3</td>
@@ -12614,7 +12614,7 @@ $(document).ready(function(){
 <td>2</td>
 <td>0.944</td>
 <td>-48.798</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RFC3">=></a></td>
+<td><a href="/riboeuk/_mds/RFC3">=></a></td>
 </tr>
 <tr>
 <td>RFFL</td>
@@ -12626,7 +12626,7 @@ $(document).ready(function(){
 <td>3</td>
 <td>0.956</td>
 <td>-4.485</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RFFL">=></a></td>
+<td><a href="/riboeuk/_mds/RFFL">=></a></td>
 </tr>
 <tr>
 <td>RFX2</td>
@@ -12638,7 +12638,7 @@ $(document).ready(function(){
 <td>4</td>
 <td>0.931</td>
 <td>-20.093</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RFX2">=></a></td>
+<td><a href="/riboeuk/_mds/RFX2">=></a></td>
 </tr>
 <tr>
 <td>RGP1</td>
@@ -12650,7 +12650,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.948</td>
 <td>-66.180</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RGP1">=></a></td>
+<td><a href="/riboeuk/_mds/RGP1">=></a></td>
 </tr>
 <tr>
 <td>RGS16</td>
@@ -12662,7 +12662,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.970</td>
 <td>-17.148</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RGS16">=></a></td>
+<td><a href="/riboeuk/_mds/RGS16">=></a></td>
 </tr>
 <tr>
 <td>RGS20</td>
@@ -12674,7 +12674,7 @@ $(document).ready(function(){
 <td>12</td>
 <td>0.932</td>
 <td>-46.917</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RGS20">=></a></td>
+<td><a href="/riboeuk/_mds/RGS20">=></a></td>
 </tr>
 <tr>
 <td>RHBDD1</td>
@@ -12686,7 +12686,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.939</td>
 <td>-39.382</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RHBDD1">=></a></td>
+<td><a href="/riboeuk/_mds/RHBDD1">=></a></td>
 </tr>
 <tr>
 <td>RHBDD2</td>
@@ -12698,7 +12698,7 @@ $(document).ready(function(){
 <td>12</td>
 <td>0.938</td>
 <td>-41.048</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RHBDD2">=></a></td>
+<td><a href="/riboeuk/_mds/RHBDD2">=></a></td>
 </tr>
 <tr>
 <td>RICTOR</td>
@@ -12710,7 +12710,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.982</td>
 <td>-17.899</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RICTOR">=></a></td>
+<td><a href="/riboeuk/_mds/RICTOR">=></a></td>
 </tr>
 <tr>
 <td>RICTOR_0</td>
@@ -12722,7 +12722,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.983</td>
 <td>-19.704</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RICTOR_0">=></a></td>
+<td><a href="/riboeuk/_mds/RICTOR_0">=></a></td>
 </tr>
 <tr>
 <td>RIMKLB</td>
@@ -12734,7 +12734,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.963</td>
 <td>-28.084</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RIMKLB">=></a></td>
+<td><a href="/riboeuk/_mds/RIMKLB">=></a></td>
 </tr>
 <tr>
 <td>RIPK4</td>
@@ -12746,7 +12746,7 @@ $(document).ready(function(){
 <td>19</td>
 <td>0.982</td>
 <td>-26.592</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RIPK4">=></a></td>
+<td><a href="/riboeuk/_mds/RIPK4">=></a></td>
 </tr>
 <tr>
 <td>RMND5A</td>
@@ -12758,7 +12758,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.940</td>
 <td>-31.586</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RMND5A">=></a></td>
+<td><a href="/riboeuk/_mds/RMND5A">=></a></td>
 </tr>
 <tr>
 <td>RNF125</td>
@@ -12770,7 +12770,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.940</td>
 <td>-60.433</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RNF125">=></a></td>
+<td><a href="/riboeuk/_mds/RNF125">=></a></td>
 </tr>
 <tr>
 <td>RNF14</td>
@@ -12782,7 +12782,7 @@ $(document).ready(function(){
 <td>8</td>
 <td>0.975</td>
 <td>-23.886</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RNF14">=></a></td>
+<td><a href="/riboeuk/_mds/RNF14">=></a></td>
 </tr>
 <tr>
 <td>RNF141</td>
@@ -12794,7 +12794,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.936</td>
 <td>-69.332</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RNF141">=></a></td>
+<td><a href="/riboeuk/_mds/RNF141">=></a></td>
 </tr>
 <tr>
 <td>RNF170</td>
@@ -12806,7 +12806,7 @@ $(document).ready(function(){
 <td>19</td>
 <td>0.972</td>
 <td>-16.853</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RNF170">=></a></td>
+<td><a href="/riboeuk/_mds/RNF170">=></a></td>
 </tr>
 <tr>
 <td>RNF181</td>
@@ -12818,7 +12818,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.971</td>
 <td>-25.767</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RNF181">=></a></td>
+<td><a href="/riboeuk/_mds/RNF181">=></a></td>
 </tr>
 <tr>
 <td>RNF185</td>
@@ -12830,7 +12830,7 @@ $(document).ready(function(){
 <td>8</td>
 <td>0.929</td>
 <td>-67.366</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RNF185">=></a></td>
+<td><a href="/riboeuk/_mds/RNF185">=></a></td>
 </tr>
 <tr>
 <td>RNF32</td>
@@ -12842,7 +12842,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.948</td>
 <td>-38.710</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RNF32">=></a></td>
+<td><a href="/riboeuk/_mds/RNF32">=></a></td>
 </tr>
 <tr>
 <td>RNF32_0</td>
@@ -12854,7 +12854,7 @@ $(document).ready(function(){
 <td>18</td>
 <td>0.911</td>
 <td>-31.363</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RNF32_0">=></a></td>
+<td><a href="/riboeuk/_mds/RNF32_0">=></a></td>
 </tr>
 <tr>
 <td>RNF32_1</td>
@@ -12866,7 +12866,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.954</td>
 <td>-25.005</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RNF32_1">=></a></td>
+<td><a href="/riboeuk/_mds/RNF32_1">=></a></td>
 </tr>
 <tr>
 <td>RNF5</td>
@@ -12878,7 +12878,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.925</td>
 <td>-42.387</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RNF5">=></a></td>
+<td><a href="/riboeuk/_mds/RNF5">=></a></td>
 </tr>
 <tr>
 <td>RNF5_0</td>
@@ -12890,7 +12890,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.952</td>
 <td>-53.810</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RNF5_0">=></a></td>
+<td><a href="/riboeuk/_mds/RNF5_0">=></a></td>
 </tr>
 <tr>
 <td>RNF5_1</td>
@@ -12902,7 +12902,7 @@ $(document).ready(function(){
 <td>16</td>
 <td>0.978</td>
 <td>-20.176</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RNF5_1">=></a></td>
+<td><a href="/riboeuk/_mds/RNF5_1">=></a></td>
 </tr>
 <tr>
 <td>RNGTT</td>
@@ -12914,7 +12914,7 @@ $(document).ready(function(){
 <td>10</td>
 <td>0.972</td>
 <td>-25.391</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RNGTT">=></a></td>
+<td><a href="/riboeuk/_mds/RNGTT">=></a></td>
 </tr>
 <tr>
 <td>RNH1</td>
@@ -12926,7 +12926,7 @@ $(document).ready(function(){
 <td>14</td>
 <td>0.885</td>
 <td>-77.722</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RNH1">=></a></td>
+<td><a href="/riboeuk/_mds/RNH1">=></a></td>
 </tr>
 <tr>
 <td>RNH1_0</td>
@@ -12938,7 +12938,7 @@ $(document).ready(function(){
 <td>14</td>
 <td>0.872</td>
 <td>-77.722</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RNH1_0">=></a></td>
+<td><a href="/riboeuk/_mds/RNH1_0">=></a></td>
 </tr>
 <tr>
 <td>RNH1_1</td>
@@ -12950,7 +12950,7 @@ $(document).ready(function(){
 <td>14</td>
 <td>0.872</td>
 <td>-77.722</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RNH1_1">=></a></td>
+<td><a href="/riboeuk/_mds/RNH1_1">=></a></td>
 </tr>
 <tr>
 <td>RNH1_2</td>
@@ -12962,7 +12962,7 @@ $(document).ready(function(){
 <td>14</td>
 <td>0.872</td>
 <td>-77.722</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RNH1_2">=></a></td>
+<td><a href="/riboeuk/_mds/RNH1_2">=></a></td>
 </tr>
 <tr>
 <td>RNMT</td>
@@ -12974,7 +12974,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.923</td>
 <td>-35.479</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RNMT">=></a></td>
+<td><a href="/riboeuk/_mds/RNMT">=></a></td>
 </tr>
 <tr>
 <td>ROCK2</td>
@@ -12986,7 +12986,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.924</td>
 <td>-31.794</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ROCK2">=></a></td>
+<td><a href="/riboeuk/_mds/ROCK2">=></a></td>
 </tr>
 <tr>
 <td>RORA</td>
@@ -12998,7 +12998,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.970</td>
 <td>-16.708</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RORA">=></a></td>
+<td><a href="/riboeuk/_mds/RORA">=></a></td>
 </tr>
 <tr>
 <td>RORB</td>
@@ -13010,7 +13010,7 @@ $(document).ready(function(){
 <td>16</td>
 <td>0.978</td>
 <td>-14.135</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RORB">=></a></td>
+<td><a href="/riboeuk/_mds/RORB">=></a></td>
 </tr>
 <tr>
 <td>RPAP3</td>
@@ -13022,7 +13022,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.979</td>
 <td>-17.518</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RPAP3">=></a></td>
+<td><a href="/riboeuk/_mds/RPAP3">=></a></td>
 </tr>
 <tr>
 <td>RPL10</td>
@@ -13034,7 +13034,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.982</td>
 <td>-20.629</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RPL10">=></a></td>
+<td><a href="/riboeuk/_mds/RPL10">=></a></td>
 </tr>
 <tr>
 <td>RPL10_0</td>
@@ -13046,7 +13046,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.983</td>
 <td>-19.729</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RPL10_0">=></a></td>
+<td><a href="/riboeuk/_mds/RPL10_0">=></a></td>
 </tr>
 <tr>
 <td>RPL12</td>
@@ -13058,7 +13058,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.957</td>
 <td>-43.195</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RPL12">=></a></td>
+<td><a href="/riboeuk/_mds/RPL12">=></a></td>
 </tr>
 <tr>
 <td>RPL12_0</td>
@@ -13070,7 +13070,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.933</td>
 <td>-49.330</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RPL12_0">=></a></td>
+<td><a href="/riboeuk/_mds/RPL12_0">=></a></td>
 </tr>
 <tr>
 <td>RPL13A</td>
@@ -13082,7 +13082,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.987</td>
 <td>-6.395</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RPL13A">=></a></td>
+<td><a href="/riboeuk/_mds/RPL13A">=></a></td>
 </tr>
 <tr>
 <td>RPL13A_0</td>
@@ -13094,7 +13094,7 @@ $(document).ready(function(){
 <td>12</td>
 <td>0.959</td>
 <td>-18.750</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RPL13A_0">=></a></td>
+<td><a href="/riboeuk/_mds/RPL13A_0">=></a></td>
 </tr>
 <tr>
 <td>RPL17</td>
@@ -13106,7 +13106,7 @@ $(document).ready(function(){
 <td>12</td>
 <td>0.956</td>
 <td>-21.657</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RPL17">=></a></td>
+<td><a href="/riboeuk/_mds/RPL17">=></a></td>
 </tr>
 <tr>
 <td>RPL17_0</td>
@@ -13118,7 +13118,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.932</td>
 <td>-27.175</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RPL17_0">=></a></td>
+<td><a href="/riboeuk/_mds/RPL17_0">=></a></td>
 </tr>
 <tr>
 <td>RPL18A</td>
@@ -13130,7 +13130,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.981</td>
 <td>-18.230</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RPL18A">=></a></td>
+<td><a href="/riboeuk/_mds/RPL18A">=></a></td>
 </tr>
 <tr>
 <td>RPL18A_0</td>
@@ -13142,7 +13142,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.985</td>
 <td>-12.531</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RPL18A_0">=></a></td>
+<td><a href="/riboeuk/_mds/RPL18A_0">=></a></td>
 </tr>
 <tr>
 <td>RPL21</td>
@@ -13154,7 +13154,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.976</td>
 <td>-10.586</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RPL21">=></a></td>
+<td><a href="/riboeuk/_mds/RPL21">=></a></td>
 </tr>
 <tr>
 <td>RPL21_0</td>
@@ -13166,7 +13166,7 @@ $(document).ready(function(){
 <td>19</td>
 <td>0.950</td>
 <td>-28.300</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RPL21_0">=></a></td>
+<td><a href="/riboeuk/_mds/RPL21_0">=></a></td>
 </tr>
 <tr>
 <td>RPL22L1</td>
@@ -13178,7 +13178,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.966</td>
 <td>-33.393</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RPL22L1">=></a></td>
+<td><a href="/riboeuk/_mds/RPL22L1">=></a></td>
 </tr>
 <tr>
 <td>RPL23</td>
@@ -13190,7 +13190,7 @@ $(document).ready(function(){
 <td>2</td>
 <td>0.954</td>
 <td>-32.125</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RPL23">=></a></td>
+<td><a href="/riboeuk/_mds/RPL23">=></a></td>
 </tr>
 <tr>
 <td>RPL26</td>
@@ -13202,7 +13202,7 @@ $(document).ready(function(){
 <td>19</td>
 <td>0.953</td>
 <td>-27.699</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RPL26">=></a></td>
+<td><a href="/riboeuk/_mds/RPL26">=></a></td>
 </tr>
 <tr>
 <td>RPL26L1</td>
@@ -13214,7 +13214,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.970</td>
 <td>-22.166</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RPL26L1">=></a></td>
+<td><a href="/riboeuk/_mds/RPL26L1">=></a></td>
 </tr>
 <tr>
 <td>RPL26L1_0</td>
@@ -13226,7 +13226,7 @@ $(document).ready(function(){
 <td>10</td>
 <td>0.956</td>
 <td>-32.382</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RPL26L1_0">=></a></td>
+<td><a href="/riboeuk/_mds/RPL26L1_0">=></a></td>
 </tr>
 <tr>
 <td>RPL26L1_1</td>
@@ -13238,7 +13238,7 @@ $(document).ready(function(){
 <td>19</td>
 <td>0.973</td>
 <td>-23.866</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RPL26L1_1">=></a></td>
+<td><a href="/riboeuk/_mds/RPL26L1_1">=></a></td>
 </tr>
 <tr>
 <td>RPL29</td>
@@ -13250,7 +13250,7 @@ $(document).ready(function(){
 <td>6</td>
 <td>0.944</td>
 <td>-57.947</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RPL29">=></a></td>
+<td><a href="/riboeuk/_mds/RPL29">=></a></td>
 </tr>
 <tr>
 <td>RPL29_0</td>
@@ -13262,7 +13262,7 @@ $(document).ready(function(){
 <td>16</td>
 <td>0.970</td>
 <td>-35.322</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RPL29_0">=></a></td>
+<td><a href="/riboeuk/_mds/RPL29_0">=></a></td>
 </tr>
 <tr>
 <td>RPL36A</td>
@@ -13274,7 +13274,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.967</td>
 <td>-26.149</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RPL36A">=></a></td>
+<td><a href="/riboeuk/_mds/RPL36A">=></a></td>
 </tr>
 <tr>
 <td>RPL36AL</td>
@@ -13286,7 +13286,7 @@ $(document).ready(function(){
 <td>14</td>
 <td>0.959</td>
 <td>-33.167</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RPL36AL">=></a></td>
+<td><a href="/riboeuk/_mds/RPL36AL">=></a></td>
 </tr>
 <tr>
 <td>RPL9</td>
@@ -13298,7 +13298,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.976</td>
 <td>-19.430</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RPL9">=></a></td>
+<td><a href="/riboeuk/_mds/RPL9">=></a></td>
 </tr>
 <tr>
 <td>RPS10</td>
@@ -13310,7 +13310,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.968</td>
 <td>-23.063</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RPS10">=></a></td>
+<td><a href="/riboeuk/_mds/RPS10">=></a></td>
 </tr>
 <tr>
 <td>RPS12</td>
@@ -13322,7 +13322,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.961</td>
 <td>-37.185</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RPS12">=></a></td>
+<td><a href="/riboeuk/_mds/RPS12">=></a></td>
 </tr>
 <tr>
 <td>RPS14</td>
@@ -13334,7 +13334,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.941</td>
 <td>-17.490</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RPS14">=></a></td>
+<td><a href="/riboeuk/_mds/RPS14">=></a></td>
 </tr>
 <tr>
 <td>RPS15</td>
@@ -13346,7 +13346,7 @@ $(document).ready(function(){
 <td>3</td>
 <td>0.972</td>
 <td>-25.647</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RPS15">=></a></td>
+<td><a href="/riboeuk/_mds/RPS15">=></a></td>
 </tr>
 <tr>
 <td>RPS2</td>
@@ -13358,7 +13358,7 @@ $(document).ready(function(){
 <td>11</td>
 <td>0.973</td>
 <td>-12.479</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RPS2">=></a></td>
+<td><a href="/riboeuk/_mds/RPS2">=></a></td>
 </tr>
 <tr>
 <td>RPS20</td>
@@ -13370,7 +13370,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.948</td>
 <td>-49.002</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RPS20">=></a></td>
+<td><a href="/riboeuk/_mds/RPS20">=></a></td>
 </tr>
 <tr>
 <td>RPS24</td>
@@ -13382,7 +13382,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.971</td>
 <td>-22.420</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RPS24">=></a></td>
+<td><a href="/riboeuk/_mds/RPS24">=></a></td>
 </tr>
 <tr>
 <td>RPS24_0</td>
@@ -13394,7 +13394,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.951</td>
 <td>-31.809</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RPS24_0">=></a></td>
+<td><a href="/riboeuk/_mds/RPS24_0">=></a></td>
 </tr>
 <tr>
 <td>RPS25</td>
@@ -13406,7 +13406,7 @@ $(document).ready(function(){
 <td>16</td>
 <td>0.975</td>
 <td>-24.946</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RPS25">=></a></td>
+<td><a href="/riboeuk/_mds/RPS25">=></a></td>
 </tr>
 <tr>
 <td>RPS27</td>
@@ -13418,7 +13418,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.982</td>
 <td>-13.381</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RPS27">=></a></td>
+<td><a href="/riboeuk/_mds/RPS27">=></a></td>
 </tr>
 <tr>
 <td>RPS27A</td>
@@ -13430,7 +13430,7 @@ $(document).ready(function(){
 <td>11</td>
 <td>0.957</td>
 <td>-22.084</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RPS27A">=></a></td>
+<td><a href="/riboeuk/_mds/RPS27A">=></a></td>
 </tr>
 <tr>
 <td>RPS4Y1</td>
@@ -13442,7 +13442,7 @@ $(document).ready(function(){
 <td>6</td>
 <td>0.913</td>
 <td>-25.737</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RPS4Y1">=></a></td>
+<td><a href="/riboeuk/_mds/RPS4Y1">=></a></td>
 </tr>
 <tr>
 <td>RPS4Y2</td>
@@ -13454,7 +13454,7 @@ $(document).ready(function(){
 <td>19</td>
 <td>0.962</td>
 <td>-29.760</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RPS4Y2">=></a></td>
+<td><a href="/riboeuk/_mds/RPS4Y2">=></a></td>
 </tr>
 <tr>
 <td>RPS8</td>
@@ -13466,7 +13466,7 @@ $(document).ready(function(){
 <td>7</td>
 <td>0.943</td>
 <td>-62.671</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RPS8">=></a></td>
+<td><a href="/riboeuk/_mds/RPS8">=></a></td>
 </tr>
 <tr>
 <td>RPSA</td>
@@ -13478,7 +13478,7 @@ $(document).ready(function(){
 <td>2</td>
 <td>0.966</td>
 <td>-29.154</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RPSA">=></a></td>
+<td><a href="/riboeuk/_mds/RPSA">=></a></td>
 </tr>
 <tr>
 <td>RPSA_0</td>
@@ -13490,7 +13490,7 @@ $(document).ready(function(){
 <td>19</td>
 <td>0.947</td>
 <td>-36.501</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RPSA_0">=></a></td>
+<td><a href="/riboeuk/_mds/RPSA_0">=></a></td>
 </tr>
 <tr>
 <td>RPSA_1</td>
@@ -13502,7 +13502,7 @@ $(document).ready(function(){
 <td>13</td>
 <td>0.975</td>
 <td>-8.808</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RPSA_1">=></a></td>
+<td><a href="/riboeuk/_mds/RPSA_1">=></a></td>
 </tr>
 <tr>
 <td>RPUSD3</td>
@@ -13514,7 +13514,7 @@ $(document).ready(function(){
 <td>16</td>
 <td>0.972</td>
 <td>-2.515</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RPUSD3">=></a></td>
+<td><a href="/riboeuk/_mds/RPUSD3">=></a></td>
 </tr>
 <tr>
 <td>RRH</td>
@@ -13526,7 +13526,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.965</td>
 <td>-8.482</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RRH">=></a></td>
+<td><a href="/riboeuk/_mds/RRH">=></a></td>
 </tr>
 <tr>
 <td>RS1</td>
@@ -13538,7 +13538,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.981</td>
 <td>-6.284</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RS1">=></a></td>
+<td><a href="/riboeuk/_mds/RS1">=></a></td>
 </tr>
 <tr>
 <td>RSBN1L</td>
@@ -13550,7 +13550,7 @@ $(document).ready(function(){
 <td>16</td>
 <td>0.970</td>
 <td>-17.161</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RSBN1L">=></a></td>
+<td><a href="/riboeuk/_mds/RSBN1L">=></a></td>
 </tr>
 <tr>
 <td>RSBN1L_0</td>
@@ -13562,7 +13562,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.957</td>
 <td>-7.225</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RSBN1L_0">=></a></td>
+<td><a href="/riboeuk/_mds/RSBN1L_0">=></a></td>
 </tr>
 <tr>
 <td>RSL24D1</td>
@@ -13574,7 +13574,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.921</td>
 <td>-51.111</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RSL24D1">=></a></td>
+<td><a href="/riboeuk/_mds/RSL24D1">=></a></td>
 </tr>
 <tr>
 <td>RSL24D1_0</td>
@@ -13586,7 +13586,7 @@ $(document).ready(function(){
 <td>19</td>
 <td>0.935</td>
 <td>-67.616</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RSL24D1_0">=></a></td>
+<td><a href="/riboeuk/_mds/RSL24D1_0">=></a></td>
 </tr>
 <tr>
 <td>RSRC1</td>
@@ -13598,7 +13598,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.951</td>
 <td>-48.390</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RSRC1">=></a></td>
+<td><a href="/riboeuk/_mds/RSRC1">=></a></td>
 </tr>
 <tr>
 <td>RSRC1_0</td>
@@ -13610,7 +13610,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.947</td>
 <td>-63.298</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RSRC1_0">=></a></td>
+<td><a href="/riboeuk/_mds/RSRC1_0">=></a></td>
 </tr>
 <tr>
 <td>RSRC1_1</td>
@@ -13622,7 +13622,7 @@ $(document).ready(function(){
 <td>8</td>
 <td>0.921</td>
 <td>-61.963</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RSRC1_1">=></a></td>
+<td><a href="/riboeuk/_mds/RSRC1_1">=></a></td>
 </tr>
 <tr>
 <td>RSRC1_2</td>
@@ -13634,7 +13634,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.958</td>
 <td>-35.154</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RSRC1_2">=></a></td>
+<td><a href="/riboeuk/_mds/RSRC1_2">=></a></td>
 </tr>
 <tr>
 <td>RTBDN</td>
@@ -13646,7 +13646,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.980</td>
 <td>-26.635</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RTBDN">=></a></td>
+<td><a href="/riboeuk/_mds/RTBDN">=></a></td>
 </tr>
 <tr>
 <td>RUVBL2</td>
@@ -13658,7 +13658,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.984</td>
 <td>-6.849</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RUVBL2">=></a></td>
+<td><a href="/riboeuk/_mds/RUVBL2">=></a></td>
 </tr>
 <tr>
 <td>RUVBL2_0</td>
@@ -13670,7 +13670,7 @@ $(document).ready(function(){
 <td>19</td>
 <td>0.977</td>
 <td>-7.384</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RUVBL2_0">=></a></td>
+<td><a href="/riboeuk/_mds/RUVBL2_0">=></a></td>
 </tr>
 <tr>
 <td>RUVBL2_1</td>
@@ -13682,7 +13682,7 @@ $(document).ready(function(){
 <td>16</td>
 <td>0.960</td>
 <td>-7.384</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RUVBL2_1">=></a></td>
+<td><a href="/riboeuk/_mds/RUVBL2_1">=></a></td>
 </tr>
 <tr>
 <td>RXFP2</td>
@@ -13694,7 +13694,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.974</td>
 <td>-11.260</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RXFP2">=></a></td>
+<td><a href="/riboeuk/_mds/RXFP2">=></a></td>
 </tr>
 <tr>
 <td>RXRB</td>
@@ -13706,7 +13706,7 @@ $(document).ready(function(){
 <td>3</td>
 <td>0.979</td>
 <td>-19.076</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/RXRB">=></a></td>
+<td><a href="/riboeuk/_mds/RXRB">=></a></td>
 </tr>
 <tr>
 <td>SAAL1</td>
@@ -13718,7 +13718,7 @@ $(document).ready(function(){
 <td>6</td>
 <td>0.974</td>
 <td>-23.054</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SAAL1">=></a></td>
+<td><a href="/riboeuk/_mds/SAAL1">=></a></td>
 </tr>
 <tr>
 <td>SAAL1_0</td>
@@ -13730,7 +13730,7 @@ $(document).ready(function(){
 <td>18</td>
 <td>0.980</td>
 <td>-5.171</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SAAL1_0">=></a></td>
+<td><a href="/riboeuk/_mds/SAAL1_0">=></a></td>
 </tr>
 <tr>
 <td>SAFB2</td>
@@ -13742,7 +13742,7 @@ $(document).ready(function(){
 <td>3</td>
 <td>0.961</td>
 <td>-50.602</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SAFB2">=></a></td>
+<td><a href="/riboeuk/_mds/SAFB2">=></a></td>
 </tr>
 <tr>
 <td>SALL4</td>
@@ -13754,7 +13754,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.962</td>
 <td>-43.658</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SALL4">=></a></td>
+<td><a href="/riboeuk/_mds/SALL4">=></a></td>
 </tr>
 <tr>
 <td>SAMD11</td>
@@ -13766,7 +13766,7 @@ $(document).ready(function(){
 <td>16</td>
 <td>0.959</td>
 <td>-35.393</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SAMD11">=></a></td>
+<td><a href="/riboeuk/_mds/SAMD11">=></a></td>
 </tr>
 <tr>
 <td>SAMD13</td>
@@ -13778,7 +13778,7 @@ $(document).ready(function(){
 <td>19</td>
 <td>0.954</td>
 <td>-24.134</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SAMD13">=></a></td>
+<td><a href="/riboeuk/_mds/SAMD13">=></a></td>
 </tr>
 <tr>
 <td>SAMD4A</td>
@@ -13790,7 +13790,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.985</td>
 <td>-4.566</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SAMD4A">=></a></td>
+<td><a href="/riboeuk/_mds/SAMD4A">=></a></td>
 </tr>
 <tr>
 <td>SAMD8</td>
@@ -13802,7 +13802,7 @@ $(document).ready(function(){
 <td>11</td>
 <td>0.944</td>
 <td>-65.169</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SAMD8">=></a></td>
+<td><a href="/riboeuk/_mds/SAMD8">=></a></td>
 </tr>
 <tr>
 <td>SAR1A</td>
@@ -13814,7 +13814,7 @@ $(document).ready(function(){
 <td>19</td>
 <td>0.935</td>
 <td>-31.280</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SAR1A">=></a></td>
+<td><a href="/riboeuk/_mds/SAR1A">=></a></td>
 </tr>
 <tr>
 <td>SAR1A_0</td>
@@ -13826,7 +13826,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.977</td>
 <td>-24.235</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SAR1A_0">=></a></td>
+<td><a href="/riboeuk/_mds/SAR1A_0">=></a></td>
 </tr>
 <tr>
 <td>SAT1</td>
@@ -13838,7 +13838,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.939</td>
 <td>-54.493</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SAT1">=></a></td>
+<td><a href="/riboeuk/_mds/SAT1">=></a></td>
 </tr>
 <tr>
 <td>SAT1_0</td>
@@ -13850,7 +13850,7 @@ $(document).ready(function(){
 <td>9</td>
 <td>0.929</td>
 <td>-36.489</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SAT1_0">=></a></td>
+<td><a href="/riboeuk/_mds/SAT1_0">=></a></td>
 </tr>
 <tr>
 <td>SATL1</td>
@@ -13862,7 +13862,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.983</td>
 <td>-9.969</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SATL1">=></a></td>
+<td><a href="/riboeuk/_mds/SATL1">=></a></td>
 </tr>
 <tr>
 <td>SCFD1</td>
@@ -13874,7 +13874,7 @@ $(document).ready(function(){
 <td>19</td>
 <td>0.936</td>
 <td>-40.891</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SCFD1">=></a></td>
+<td><a href="/riboeuk/_mds/SCFD1">=></a></td>
 </tr>
 <tr>
 <td>SCHIP1</td>
@@ -13886,7 +13886,7 @@ $(document).ready(function(){
 <td>3</td>
 <td>0.976</td>
 <td>-19.799</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SCHIP1">=></a></td>
+<td><a href="/riboeuk/_mds/SCHIP1">=></a></td>
 </tr>
 <tr>
 <td>SCIN</td>
@@ -13898,7 +13898,7 @@ $(document).ready(function(){
 <td>9</td>
 <td>0.972</td>
 <td>-33.278</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SCIN">=></a></td>
+<td><a href="/riboeuk/_mds/SCIN">=></a></td>
 </tr>
 <tr>
 <td>SCO1</td>
@@ -13910,7 +13910,7 @@ $(document).ready(function(){
 <td>16</td>
 <td>0.978</td>
 <td>-30.235</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SCO1">=></a></td>
+<td><a href="/riboeuk/_mds/SCO1">=></a></td>
 </tr>
 <tr>
 <td>SCOC</td>
@@ -13922,7 +13922,7 @@ $(document).ready(function(){
 <td>16</td>
 <td>0.983</td>
 <td>-10.542</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SCOC">=></a></td>
+<td><a href="/riboeuk/_mds/SCOC">=></a></td>
 </tr>
 <tr>
 <td>SCRN1</td>
@@ -13934,7 +13934,7 @@ $(document).ready(function(){
 <td>4</td>
 <td>0.927</td>
 <td>-45.750</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SCRN1">=></a></td>
+<td><a href="/riboeuk/_mds/SCRN1">=></a></td>
 </tr>
 <tr>
 <td>SCUBE2</td>
@@ -13946,7 +13946,7 @@ $(document).ready(function(){
 <td>5</td>
 <td>0.954</td>
 <td>-37.082</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SCUBE2">=></a></td>
+<td><a href="/riboeuk/_mds/SCUBE2">=></a></td>
 </tr>
 <tr>
 <td>SCUBE2_0</td>
@@ -13958,7 +13958,7 @@ $(document).ready(function(){
 <td>6</td>
 <td>0.967</td>
 <td>-29.027</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SCUBE2_0">=></a></td>
+<td><a href="/riboeuk/_mds/SCUBE2_0">=></a></td>
 </tr>
 <tr>
 <td>SCYL2</td>
@@ -13970,7 +13970,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.978</td>
 <td>-16.357</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SCYL2">=></a></td>
+<td><a href="/riboeuk/_mds/SCYL2">=></a></td>
 </tr>
 <tr>
 <td>SDAD1</td>
@@ -13982,7 +13982,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.946</td>
 <td>-43.265</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SDAD1">=></a></td>
+<td><a href="/riboeuk/_mds/SDAD1">=></a></td>
 </tr>
 <tr>
 <td>SEC14L2</td>
@@ -13994,7 +13994,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.972</td>
 <td>-30.287</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SEC14L2">=></a></td>
+<td><a href="/riboeuk/_mds/SEC14L2">=></a></td>
 </tr>
 <tr>
 <td>SEC14L2_0</td>
@@ -14006,7 +14006,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.972</td>
 <td>-30.287</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SEC14L2_0">=></a></td>
+<td><a href="/riboeuk/_mds/SEC14L2_0">=></a></td>
 </tr>
 <tr>
 <td>SEC16A</td>
@@ -14018,7 +14018,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.970</td>
 <td>-22.464</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SEC16A">=></a></td>
+<td><a href="/riboeuk/_mds/SEC16A">=></a></td>
 </tr>
 <tr>
 <td>SEC23IP</td>
@@ -14030,7 +14030,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.972</td>
 <td>-37.556</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SEC23IP">=></a></td>
+<td><a href="/riboeuk/_mds/SEC23IP">=></a></td>
 </tr>
 <tr>
 <td>SEC23IP_0</td>
@@ -14042,7 +14042,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.971</td>
 <td>-38.812</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SEC23IP_0">=></a></td>
+<td><a href="/riboeuk/_mds/SEC23IP_0">=></a></td>
 </tr>
 <tr>
 <td>SEC24C</td>
@@ -14054,7 +14054,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.919</td>
 <td>-32.285</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SEC24C">=></a></td>
+<td><a href="/riboeuk/_mds/SEC24C">=></a></td>
 </tr>
 <tr>
 <td>SEC24C_0</td>
@@ -14066,7 +14066,7 @@ $(document).ready(function(){
 <td>14</td>
 <td>0.948</td>
 <td>-44.335</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SEC24C_0">=></a></td>
+<td><a href="/riboeuk/_mds/SEC24C_0">=></a></td>
 </tr>
 <tr>
 <td>SEC24C_1</td>
@@ -14078,7 +14078,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.962</td>
 <td>-32.285</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SEC24C_1">=></a></td>
+<td><a href="/riboeuk/_mds/SEC24C_1">=></a></td>
 </tr>
 <tr>
 <td>SEC24D</td>
@@ -14090,7 +14090,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.949</td>
 <td>-29.797</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SEC24D">=></a></td>
+<td><a href="/riboeuk/_mds/SEC24D">=></a></td>
 </tr>
 <tr>
 <td>SEL1L</td>
@@ -14102,7 +14102,7 @@ $(document).ready(function(){
 <td>16</td>
 <td>0.972</td>
 <td>-28.797</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SEL1L">=></a></td>
+<td><a href="/riboeuk/_mds/SEL1L">=></a></td>
 </tr>
 <tr>
 <td>SENP2</td>
@@ -14114,7 +14114,7 @@ $(document).ready(function(){
 <td>8</td>
 <td>0.980</td>
 <td>-28.555</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SENP2">=></a></td>
+<td><a href="/riboeuk/_mds/SENP2">=></a></td>
 </tr>
 <tr>
 <td>SENP2_0</td>
@@ -14126,7 +14126,7 @@ $(document).ready(function(){
 <td>3</td>
 <td>0.974</td>
 <td>-16.335</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SENP2_0">=></a></td>
+<td><a href="/riboeuk/_mds/SENP2_0">=></a></td>
 </tr>
 <tr>
 <td>SERF2</td>
@@ -14138,7 +14138,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.938</td>
 <td>-40.358</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SERF2">=></a></td>
+<td><a href="/riboeuk/_mds/SERF2">=></a></td>
 </tr>
 <tr>
 <td>SERINC4</td>
@@ -14150,7 +14150,7 @@ $(document).ready(function(){
 <td>2</td>
 <td>0.925</td>
 <td>-62.701</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SERINC4">=></a></td>
+<td><a href="/riboeuk/_mds/SERINC4">=></a></td>
 </tr>
 <tr>
 <td>SERPINB13</td>
@@ -14162,7 +14162,7 @@ $(document).ready(function(){
 <td>3</td>
 <td>0.987</td>
 <td>-8.250</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SERPINB13">=></a></td>
+<td><a href="/riboeuk/_mds/SERPINB13">=></a></td>
 </tr>
 <tr>
 <td>SERPINB6</td>
@@ -14174,7 +14174,7 @@ $(document).ready(function(){
 <td>16</td>
 <td>0.960</td>
 <td>-35.778</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SERPINB6">=></a></td>
+<td><a href="/riboeuk/_mds/SERPINB6">=></a></td>
 </tr>
 <tr>
 <td>SERTAD2</td>
@@ -14186,7 +14186,7 @@ $(document).ready(function(){
 <td>18</td>
 <td>0.988</td>
 <td>-9.669</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SERTAD2">=></a></td>
+<td><a href="/riboeuk/_mds/SERTAD2">=></a></td>
 </tr>
 <tr>
 <td>SETD3</td>
@@ -14198,7 +14198,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.940</td>
 <td>-43.699</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SETD3">=></a></td>
+<td><a href="/riboeuk/_mds/SETD3">=></a></td>
 </tr>
 <tr>
 <td>SETDB1</td>
@@ -14210,7 +14210,7 @@ $(document).ready(function(){
 <td>2</td>
 <td>0.925</td>
 <td>-45.188</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SETDB1">=></a></td>
+<td><a href="/riboeuk/_mds/SETDB1">=></a></td>
 </tr>
 <tr>
 <td>SGCE</td>
@@ -14222,7 +14222,7 @@ $(document).ready(function(){
 <td>13</td>
 <td>0.938</td>
 <td>-35.212</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SGCE">=></a></td>
+<td><a href="/riboeuk/_mds/SGCE">=></a></td>
 </tr>
 <tr>
 <td>SGCE_0</td>
@@ -14234,7 +14234,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.962</td>
 <td>-27.636</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SGCE_0">=></a></td>
+<td><a href="/riboeuk/_mds/SGCE_0">=></a></td>
 </tr>
 <tr>
 <td>SGTA</td>
@@ -14246,7 +14246,7 @@ $(document).ready(function(){
 <td>12</td>
 <td>0.887</td>
 <td>-74.971</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SGTA">=></a></td>
+<td><a href="/riboeuk/_mds/SGTA">=></a></td>
 </tr>
 <tr>
 <td>SGTA_0</td>
@@ -14258,7 +14258,7 @@ $(document).ready(function(){
 <td>17</td>
 <td>0.869</td>
 <td>-89.471</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SGTA_0">=></a></td>
+<td><a href="/riboeuk/_mds/SGTA_0">=></a></td>
 </tr>
 <tr>
 <td>SGTA_1</td>
@@ -14270,7 +14270,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.913</td>
 <td>-79.771</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SGTA_1">=></a></td>
+<td><a href="/riboeuk/_mds/SGTA_1">=></a></td>
 </tr>
 <tr>
 <td>SHCBP1</td>
@@ -14282,7 +14282,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.979</td>
 <td>-20.729</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SHCBP1">=></a></td>
+<td><a href="/riboeuk/_mds/SHCBP1">=></a></td>
 </tr>
 <tr>
 <td>SHOX2</td>
@@ -14294,7 +14294,7 @@ $(document).ready(function(){
 <td>2</td>
 <td>0.961</td>
 <td>-36.421</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SHOX2">=></a></td>
+<td><a href="/riboeuk/_mds/SHOX2">=></a></td>
 </tr>
 <tr>
 <td>SIM2</td>
@@ -14306,7 +14306,7 @@ $(document).ready(function(){
 <td>2</td>
 <td>0.973</td>
 <td>-31.676</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SIM2">=></a></td>
+<td><a href="/riboeuk/_mds/SIM2">=></a></td>
 </tr>
 <tr>
 <td>SIRT5</td>
@@ -14318,7 +14318,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.934</td>
 <td>-28.759</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SIRT5">=></a></td>
+<td><a href="/riboeuk/_mds/SIRT5">=></a></td>
 </tr>
 <tr>
 <td>SIRT6</td>
@@ -14330,7 +14330,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.973</td>
 <td>-28.749</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SIRT6">=></a></td>
+<td><a href="/riboeuk/_mds/SIRT6">=></a></td>
 </tr>
 <tr>
 <td>SIRT6_0</td>
@@ -14342,7 +14342,7 @@ $(document).ready(function(){
 <td>13</td>
 <td>0.971</td>
 <td>-34.200</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SIRT6_0">=></a></td>
+<td><a href="/riboeuk/_mds/SIRT6_0">=></a></td>
 </tr>
 <tr>
 <td>SLC10A4</td>
@@ -14354,7 +14354,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.938</td>
 <td>-68.182</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SLC10A4">=></a></td>
+<td><a href="/riboeuk/_mds/SLC10A4">=></a></td>
 </tr>
 <tr>
 <td>SLC16A9</td>
@@ -14366,7 +14366,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.947</td>
 <td>-35.543</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SLC16A9">=></a></td>
+<td><a href="/riboeuk/_mds/SLC16A9">=></a></td>
 </tr>
 <tr>
 <td>SLC17A1</td>
@@ -14378,7 +14378,7 @@ $(document).ready(function(){
 <td>2</td>
 <td>0.934</td>
 <td>-29.997</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SLC17A1">=></a></td>
+<td><a href="/riboeuk/_mds/SLC17A1">=></a></td>
 </tr>
 <tr>
 <td>SLC22A5</td>
@@ -14390,7 +14390,7 @@ $(document).ready(function(){
 <td>2</td>
 <td>0.973</td>
 <td>-7.720</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SLC22A5">=></a></td>
+<td><a href="/riboeuk/_mds/SLC22A5">=></a></td>
 </tr>
 <tr>
 <td>SLC23A3</td>
@@ -14402,7 +14402,7 @@ $(document).ready(function(){
 <td>2</td>
 <td>0.962</td>
 <td>-13.022</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SLC23A3">=></a></td>
+<td><a href="/riboeuk/_mds/SLC23A3">=></a></td>
 </tr>
 <tr>
 <td>SLC23A3_0</td>
@@ -14414,7 +14414,7 @@ $(document).ready(function(){
 <td>12</td>
 <td>0.987</td>
 <td>-6.438</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SLC23A3_0">=></a></td>
+<td><a href="/riboeuk/_mds/SLC23A3_0">=></a></td>
 </tr>
 <tr>
 <td>SLC25A3</td>
@@ -14426,7 +14426,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.952</td>
 <td>-55.845</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SLC25A3">=></a></td>
+<td><a href="/riboeuk/_mds/SLC25A3">=></a></td>
 </tr>
 <tr>
 <td>SLC25A3_0</td>
@@ -14438,7 +14438,7 @@ $(document).ready(function(){
 <td>5</td>
 <td>0.909</td>
 <td>-69.890</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SLC25A3_0">=></a></td>
+<td><a href="/riboeuk/_mds/SLC25A3_0">=></a></td>
 </tr>
 <tr>
 <td>SLC25A3_1</td>
@@ -14450,7 +14450,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.946</td>
 <td>-41.502</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SLC25A3_1">=></a></td>
+<td><a href="/riboeuk/_mds/SLC25A3_1">=></a></td>
 </tr>
 <tr>
 <td>SLC25A3_2</td>
@@ -14462,7 +14462,7 @@ $(document).ready(function(){
 <td>4</td>
 <td>0.981</td>
 <td>-25.905</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SLC25A3_2">=></a></td>
+<td><a href="/riboeuk/_mds/SLC25A3_2">=></a></td>
 </tr>
 <tr>
 <td>SLC25A32</td>
@@ -14474,7 +14474,7 @@ $(document).ready(function(){
 <td>12</td>
 <td>0.950</td>
 <td>-72.207</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SLC25A32">=></a></td>
+<td><a href="/riboeuk/_mds/SLC25A32">=></a></td>
 </tr>
 <tr>
 <td>SLC27A3</td>
@@ -14486,7 +14486,7 @@ $(document).ready(function(){
 <td>3</td>
 <td>0.967</td>
 <td>-31.989</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SLC27A3">=></a></td>
+<td><a href="/riboeuk/_mds/SLC27A3">=></a></td>
 </tr>
 <tr>
 <td>SLC2A8</td>
@@ -14498,7 +14498,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.975</td>
 <td>-27.536</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SLC2A8">=></a></td>
+<td><a href="/riboeuk/_mds/SLC2A8">=></a></td>
 </tr>
 <tr>
 <td>SLC35A2</td>
@@ -14510,7 +14510,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.938</td>
 <td>-23.755</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SLC35A2">=></a></td>
+<td><a href="/riboeuk/_mds/SLC35A2">=></a></td>
 </tr>
 <tr>
 <td>SLC35A5</td>
@@ -14522,7 +14522,7 @@ $(document).ready(function(){
 <td>13</td>
 <td>0.937</td>
 <td>-56.469</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SLC35A5">=></a></td>
+<td><a href="/riboeuk/_mds/SLC35A5">=></a></td>
 </tr>
 <tr>
 <td>SLC37A2</td>
@@ -14534,7 +14534,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.979</td>
 <td>-14.808</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SLC37A2">=></a></td>
+<td><a href="/riboeuk/_mds/SLC37A2">=></a></td>
 </tr>
 <tr>
 <td>SLC39A10</td>
@@ -14546,7 +14546,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.938</td>
 <td>-51.257</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SLC39A10">=></a></td>
+<td><a href="/riboeuk/_mds/SLC39A10">=></a></td>
 </tr>
 <tr>
 <td>SLC3A1</td>
@@ -14558,7 +14558,7 @@ $(document).ready(function(){
 <td>7</td>
 <td>0.971</td>
 <td>-11.080</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SLC3A1">=></a></td>
+<td><a href="/riboeuk/_mds/SLC3A1">=></a></td>
 </tr>
 <tr>
 <td>SLC46A1</td>
@@ -14570,7 +14570,7 @@ $(document).ready(function(){
 <td>9</td>
 <td>0.870</td>
 <td>-71.552</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SLC46A1">=></a></td>
+<td><a href="/riboeuk/_mds/SLC46A1">=></a></td>
 </tr>
 <tr>
 <td>SLC6A3</td>
@@ -14582,7 +14582,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.984</td>
 <td>-9.915</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SLC6A3">=></a></td>
+<td><a href="/riboeuk/_mds/SLC6A3">=></a></td>
 </tr>
 <tr>
 <td>SLC6A6</td>
@@ -14594,7 +14594,7 @@ $(document).ready(function(){
 <td>4</td>
 <td>0.934</td>
 <td>-31.400</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SLC6A6">=></a></td>
+<td><a href="/riboeuk/_mds/SLC6A6">=></a></td>
 </tr>
 <tr>
 <td>SLC9A6</td>
@@ -14606,7 +14606,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.964</td>
 <td>-41.325</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SLC9A6">=></a></td>
+<td><a href="/riboeuk/_mds/SLC9A6">=></a></td>
 </tr>
 <tr>
 <td>SLCO1B1</td>
@@ -14618,7 +14618,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.946</td>
 <td>-20.892</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SLCO1B1">=></a></td>
+<td><a href="/riboeuk/_mds/SLCO1B1">=></a></td>
 </tr>
 <tr>
 <td>SLCO1B3</td>
@@ -14630,7 +14630,7 @@ $(document).ready(function(){
 <td>14</td>
 <td>0.927</td>
 <td>-23.861</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SLCO1B3">=></a></td>
+<td><a href="/riboeuk/_mds/SLCO1B3">=></a></td>
 </tr>
 <tr>
 <td>SLITRK3</td>
@@ -14642,7 +14642,7 @@ $(document).ready(function(){
 <td>13</td>
 <td>0.952</td>
 <td>-21.801</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SLITRK3">=></a></td>
+<td><a href="/riboeuk/_mds/SLITRK3">=></a></td>
 </tr>
 <tr>
 <td>SLITRK5</td>
@@ -14654,7 +14654,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.964</td>
 <td>-24.796</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SLITRK5">=></a></td>
+<td><a href="/riboeuk/_mds/SLITRK5">=></a></td>
 </tr>
 <tr>
 <td>SMC4</td>
@@ -14666,7 +14666,7 @@ $(document).ready(function(){
 <td>16</td>
 <td>0.950</td>
 <td>-39.325</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SMC4">=></a></td>
+<td><a href="/riboeuk/_mds/SMC4">=></a></td>
 </tr>
 <tr>
 <td>SMC4_0</td>
@@ -14678,7 +14678,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.970</td>
 <td>-24.416</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SMC4_0">=></a></td>
+<td><a href="/riboeuk/_mds/SMC4_0">=></a></td>
 </tr>
 <tr>
 <td>SMC4_1</td>
@@ -14690,7 +14690,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.949</td>
 <td>-28.195</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SMC4_1">=></a></td>
+<td><a href="/riboeuk/_mds/SMC4_1">=></a></td>
 </tr>
 <tr>
 <td>SMC4_2</td>
@@ -14702,7 +14702,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.978</td>
 <td>-22.587</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SMC4_2">=></a></td>
+<td><a href="/riboeuk/_mds/SMC4_2">=></a></td>
 </tr>
 <tr>
 <td>SMR3A</td>
@@ -14714,7 +14714,7 @@ $(document).ready(function(){
 <td>13</td>
 <td>0.961</td>
 <td>-21.635</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SMR3A">=></a></td>
+<td><a href="/riboeuk/_mds/SMR3A">=></a></td>
 </tr>
 <tr>
 <td>SMTNL2</td>
@@ -14726,7 +14726,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.936</td>
 <td>-54.000</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SMTNL2">=></a></td>
+<td><a href="/riboeuk/_mds/SMTNL2">=></a></td>
 </tr>
 <tr>
 <td>SMU1</td>
@@ -14738,7 +14738,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.941</td>
 <td>-41.608</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SMU1">=></a></td>
+<td><a href="/riboeuk/_mds/SMU1">=></a></td>
 </tr>
 <tr>
 <td>SMU1_0</td>
@@ -14750,7 +14750,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.909</td>
 <td>-42.756</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SMU1_0">=></a></td>
+<td><a href="/riboeuk/_mds/SMU1_0">=></a></td>
 </tr>
 <tr>
 <td>SMYD5</td>
@@ -14762,7 +14762,7 @@ $(document).ready(function(){
 <td>13</td>
 <td>0.976</td>
 <td>-23.027</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SMYD5">=></a></td>
+<td><a href="/riboeuk/_mds/SMYD5">=></a></td>
 </tr>
 <tr>
 <td>SNAP23</td>
@@ -14774,7 +14774,7 @@ $(document).ready(function(){
 <td>16</td>
 <td>0.961</td>
 <td>-37.655</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SNAP23">=></a></td>
+<td><a href="/riboeuk/_mds/SNAP23">=></a></td>
 </tr>
 <tr>
 <td>SNAP91</td>
@@ -14786,7 +14786,7 @@ $(document).ready(function(){
 <td>13</td>
 <td>0.952</td>
 <td>-35.057</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SNAP91">=></a></td>
+<td><a href="/riboeuk/_mds/SNAP91">=></a></td>
 </tr>
 <tr>
 <td>SNCA</td>
@@ -14798,7 +14798,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.967</td>
 <td>-30.679</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SNCA">=></a></td>
+<td><a href="/riboeuk/_mds/SNCA">=></a></td>
 </tr>
 <tr>
 <td>SNCAIP</td>
@@ -14810,7 +14810,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.945</td>
 <td>-23.097</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SNCAIP">=></a></td>
+<td><a href="/riboeuk/_mds/SNCAIP">=></a></td>
 </tr>
 <tr>
 <td>SNCAIP_0</td>
@@ -14822,7 +14822,7 @@ $(document).ready(function(){
 <td>12</td>
 <td>0.928</td>
 <td>-33.815</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SNCAIP_0">=></a></td>
+<td><a href="/riboeuk/_mds/SNCAIP_0">=></a></td>
 </tr>
 <tr>
 <td>SNCAIP_1</td>
@@ -14834,7 +14834,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.955</td>
 <td>-32.204</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SNCAIP_1">=></a></td>
+<td><a href="/riboeuk/_mds/SNCAIP_1">=></a></td>
 </tr>
 <tr>
 <td>SNCAIP_2</td>
@@ -14846,7 +14846,7 @@ $(document).ready(function(){
 <td>16</td>
 <td>0.943</td>
 <td>-28.369</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SNCAIP_2">=></a></td>
+<td><a href="/riboeuk/_mds/SNCAIP_2">=></a></td>
 </tr>
 <tr>
 <td>SNRPG</td>
@@ -14858,7 +14858,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.933</td>
 <td>-35.188</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SNRPG">=></a></td>
+<td><a href="/riboeuk/_mds/SNRPG">=></a></td>
 </tr>
 <tr>
 <td>SNX13</td>
@@ -14870,7 +14870,7 @@ $(document).ready(function(){
 <td>2</td>
 <td>0.913</td>
 <td>-77.853</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SNX13">=></a></td>
+<td><a href="/riboeuk/_mds/SNX13">=></a></td>
 </tr>
 <tr>
 <td>SNX14</td>
@@ -14882,7 +14882,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.951</td>
 <td>-32.854</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SNX14">=></a></td>
+<td><a href="/riboeuk/_mds/SNX14">=></a></td>
 </tr>
 <tr>
 <td>SNX2</td>
@@ -14894,7 +14894,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.983</td>
 <td>-26.305</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SNX2">=></a></td>
+<td><a href="/riboeuk/_mds/SNX2">=></a></td>
 </tr>
 <tr>
 <td>SNX24</td>
@@ -14906,7 +14906,7 @@ $(document).ready(function(){
 <td>18</td>
 <td>0.892</td>
 <td>-36.151</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SNX24">=></a></td>
+<td><a href="/riboeuk/_mds/SNX24">=></a></td>
 </tr>
 <tr>
 <td>SOD1</td>
@@ -14918,7 +14918,7 @@ $(document).ready(function(){
 <td>3</td>
 <td>0.935</td>
 <td>-49.147</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SOD1">=></a></td>
+<td><a href="/riboeuk/_mds/SOD1">=></a></td>
 </tr>
 <tr>
 <td>SORD</td>
@@ -14930,7 +14930,7 @@ $(document).ready(function(){
 <td>13</td>
 <td>0.961</td>
 <td>-31.242</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SORD">=></a></td>
+<td><a href="/riboeuk/_mds/SORD">=></a></td>
 </tr>
 <tr>
 <td>SP8</td>
@@ -14942,7 +14942,7 @@ $(document).ready(function(){
 <td>3</td>
 <td>0.948</td>
 <td>-23.276</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SP8">=></a></td>
+<td><a href="/riboeuk/_mds/SP8">=></a></td>
 </tr>
 <tr>
 <td>SP8_0</td>
@@ -14954,7 +14954,7 @@ $(document).ready(function(){
 <td>2</td>
 <td>0.962</td>
 <td>-23.276</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SP8_0">=></a></td>
+<td><a href="/riboeuk/_mds/SP8_0">=></a></td>
 </tr>
 <tr>
 <td>SPA17</td>
@@ -14966,7 +14966,7 @@ $(document).ready(function(){
 <td>2</td>
 <td>0.932</td>
 <td>-34.144</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SPA17">=></a></td>
+<td><a href="/riboeuk/_mds/SPA17">=></a></td>
 </tr>
 <tr>
 <td>SPAG11B</td>
@@ -14978,7 +14978,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.980</td>
 <td>-24.070</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SPAG11B">=></a></td>
+<td><a href="/riboeuk/_mds/SPAG11B">=></a></td>
 </tr>
 <tr>
 <td>SPANXA1</td>
@@ -14990,7 +14990,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.981</td>
 <td>-14.200</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SPANXA1">=></a></td>
+<td><a href="/riboeuk/_mds/SPANXA1">=></a></td>
 </tr>
 <tr>
 <td>SPANXA2</td>
@@ -15002,7 +15002,7 @@ $(document).ready(function(){
 <td>16</td>
 <td>0.974</td>
 <td>-14.873</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SPANXA2">=></a></td>
+<td><a href="/riboeuk/_mds/SPANXA2">=></a></td>
 </tr>
 <tr>
 <td>SPANXC</td>
@@ -15014,7 +15014,7 @@ $(document).ready(function(){
 <td>16</td>
 <td>0.965</td>
 <td>-9.629</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SPANXC">=></a></td>
+<td><a href="/riboeuk/_mds/SPANXC">=></a></td>
 </tr>
 <tr>
 <td>SPATA17</td>
@@ -15026,7 +15026,7 @@ $(document).ready(function(){
 <td>7</td>
 <td>0.966</td>
 <td>-19.891</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SPATA17">=></a></td>
+<td><a href="/riboeuk/_mds/SPATA17">=></a></td>
 </tr>
 <tr>
 <td>SPATA19</td>
@@ -15038,7 +15038,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.976</td>
 <td>-10.885</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SPATA19">=></a></td>
+<td><a href="/riboeuk/_mds/SPATA19">=></a></td>
 </tr>
 <tr>
 <td>SPCS3</td>
@@ -15050,7 +15050,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.953</td>
 <td>-52.788</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SPCS3">=></a></td>
+<td><a href="/riboeuk/_mds/SPCS3">=></a></td>
 </tr>
 <tr>
 <td>SPDYA</td>
@@ -15062,7 +15062,7 @@ $(document).ready(function(){
 <td>12</td>
 <td>0.940</td>
 <td>-78.421</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SPDYA">=></a></td>
+<td><a href="/riboeuk/_mds/SPDYA">=></a></td>
 </tr>
 <tr>
 <td>SPDYA_0</td>
@@ -15074,7 +15074,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.939</td>
 <td>-58.254</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SPDYA_0">=></a></td>
+<td><a href="/riboeuk/_mds/SPDYA_0">=></a></td>
 </tr>
 <tr>
 <td>SPG11</td>
@@ -15086,7 +15086,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.983</td>
 <td>-15.250</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SPG11">=></a></td>
+<td><a href="/riboeuk/_mds/SPG11">=></a></td>
 </tr>
 <tr>
 <td>SPIC</td>
@@ -15098,7 +15098,7 @@ $(document).ready(function(){
 <td>2</td>
 <td>0.968</td>
 <td>-5.525</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SPIC">=></a></td>
+<td><a href="/riboeuk/_mds/SPIC">=></a></td>
 </tr>
 <tr>
 <td>SPIRE1</td>
@@ -15110,7 +15110,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.964</td>
 <td>-22.133</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SPIRE1">=></a></td>
+<td><a href="/riboeuk/_mds/SPIRE1">=></a></td>
 </tr>
 <tr>
 <td>SPIRE1_0</td>
@@ -15122,7 +15122,7 @@ $(document).ready(function(){
 <td>3</td>
 <td>0.965</td>
 <td>-48.044</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SPIRE1_0">=></a></td>
+<td><a href="/riboeuk/_mds/SPIRE1_0">=></a></td>
 </tr>
 <tr>
 <td>SPRR2A</td>
@@ -15134,7 +15134,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.967</td>
 <td>-24.654</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SPRR2A">=></a></td>
+<td><a href="/riboeuk/_mds/SPRR2A">=></a></td>
 </tr>
 <tr>
 <td>SRC</td>
@@ -15146,7 +15146,7 @@ $(document).ready(function(){
 <td>19</td>
 <td>0.986</td>
 <td>-18.016</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SRC">=></a></td>
+<td><a href="/riboeuk/_mds/SRC">=></a></td>
 </tr>
 <tr>
 <td>SRGAP1</td>
@@ -15158,7 +15158,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.956</td>
 <td>-10.719</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SRGAP1">=></a></td>
+<td><a href="/riboeuk/_mds/SRGAP1">=></a></td>
 </tr>
 <tr>
 <td>SRGAP3</td>
@@ -15170,7 +15170,7 @@ $(document).ready(function(){
 <td>3</td>
 <td>0.979</td>
 <td>-8.838</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SRGAP3">=></a></td>
+<td><a href="/riboeuk/_mds/SRGAP3">=></a></td>
 </tr>
 <tr>
 <td>SRXN1</td>
@@ -15182,7 +15182,7 @@ $(document).ready(function(){
 <td>2</td>
 <td>0.975</td>
 <td>-11.935</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SRXN1">=></a></td>
+<td><a href="/riboeuk/_mds/SRXN1">=></a></td>
 </tr>
 <tr>
 <td>SS18</td>
@@ -15194,7 +15194,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.958</td>
 <td>-37.873</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SS18">=></a></td>
+<td><a href="/riboeuk/_mds/SS18">=></a></td>
 </tr>
 <tr>
 <td>SS18L2</td>
@@ -15206,7 +15206,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.960</td>
 <td>-41.354</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SS18L2">=></a></td>
+<td><a href="/riboeuk/_mds/SS18L2">=></a></td>
 </tr>
 <tr>
 <td>ST14</td>
@@ -15218,7 +15218,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.982</td>
 <td>-10.358</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ST14">=></a></td>
+<td><a href="/riboeuk/_mds/ST14">=></a></td>
 </tr>
 <tr>
 <td>ST6GAL2</td>
@@ -15230,7 +15230,7 @@ $(document).ready(function(){
 <td>12</td>
 <td>0.945</td>
 <td>-42.317</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ST6GAL2">=></a></td>
+<td><a href="/riboeuk/_mds/ST6GAL2">=></a></td>
 </tr>
 <tr>
 <td>STAB2</td>
@@ -15242,7 +15242,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.855</td>
 <td>-45.778</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/STAB2">=></a></td>
+<td><a href="/riboeuk/_mds/STAB2">=></a></td>
 </tr>
 <tr>
 <td>STAC</td>
@@ -15254,7 +15254,7 @@ $(document).ready(function(){
 <td>2</td>
 <td>0.984</td>
 <td>-19.306</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/STAC">=></a></td>
+<td><a href="/riboeuk/_mds/STAC">=></a></td>
 </tr>
 <tr>
 <td>STAG2</td>
@@ -15266,7 +15266,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.862</td>
 <td>-38.996</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/STAG2">=></a></td>
+<td><a href="/riboeuk/_mds/STAG2">=></a></td>
 </tr>
 <tr>
 <td>STARD5</td>
@@ -15278,7 +15278,7 @@ $(document).ready(function(){
 <td>8</td>
 <td>0.977</td>
 <td>-17.370</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/STARD5">=></a></td>
+<td><a href="/riboeuk/_mds/STARD5">=></a></td>
 </tr>
 <tr>
 <td>STK11IP</td>
@@ -15290,7 +15290,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.966</td>
 <td>-21.285</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/STK11IP">=></a></td>
+<td><a href="/riboeuk/_mds/STK11IP">=></a></td>
 </tr>
 <tr>
 <td>STK19</td>
@@ -15302,7 +15302,7 @@ $(document).ready(function(){
 <td>16</td>
 <td>0.984</td>
 <td>-6.313</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/STK19">=></a></td>
+<td><a href="/riboeuk/_mds/STK19">=></a></td>
 </tr>
 <tr>
 <td>STK31</td>
@@ -15314,7 +15314,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.964</td>
 <td>-32.453</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/STK31">=></a></td>
+<td><a href="/riboeuk/_mds/STK31">=></a></td>
 </tr>
 <tr>
 <td>STK32B</td>
@@ -15326,7 +15326,7 @@ $(document).ready(function(){
 <td>2</td>
 <td>0.921</td>
 <td>-54.857</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/STK32B">=></a></td>
+<td><a href="/riboeuk/_mds/STK32B">=></a></td>
 </tr>
 <tr>
 <td>STRN3</td>
@@ -15338,7 +15338,7 @@ $(document).ready(function(){
 <td>9</td>
 <td>0.926</td>
 <td>-27.492</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/STRN3">=></a></td>
+<td><a href="/riboeuk/_mds/STRN3">=></a></td>
 </tr>
 <tr>
 <td>STX18</td>
@@ -15350,7 +15350,7 @@ $(document).ready(function(){
 <td>4</td>
 <td>0.949</td>
 <td>-49.306</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/STX18">=></a></td>
+<td><a href="/riboeuk/_mds/STX18">=></a></td>
 </tr>
 <tr>
 <td>STX4</td>
@@ -15362,7 +15362,7 @@ $(document).ready(function(){
 <td>11</td>
 <td>0.884</td>
 <td>-116.612</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/STX4">=></a></td>
+<td><a href="/riboeuk/_mds/STX4">=></a></td>
 </tr>
 <tr>
 <td>STYXL1</td>
@@ -15374,7 +15374,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.961</td>
 <td>-31.588</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/STYXL1">=></a></td>
+<td><a href="/riboeuk/_mds/STYXL1">=></a></td>
 </tr>
 <tr>
 <td>SUB1</td>
@@ -15386,7 +15386,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.968</td>
 <td>-16.884</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SUB1">=></a></td>
+<td><a href="/riboeuk/_mds/SUB1">=></a></td>
 </tr>
 <tr>
 <td>SUMF1</td>
@@ -15398,7 +15398,7 @@ $(document).ready(function(){
 <td>18</td>
 <td>0.983</td>
 <td>-25.423</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SUMF1">=></a></td>
+<td><a href="/riboeuk/_mds/SUMF1">=></a></td>
 </tr>
 <tr>
 <td>SUMO1</td>
@@ -15410,7 +15410,7 @@ $(document).ready(function(){
 <td>3</td>
 <td>0.893</td>
 <td>-59.009</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SUMO1">=></a></td>
+<td><a href="/riboeuk/_mds/SUMO1">=></a></td>
 </tr>
 <tr>
 <td>SUPT5H</td>
@@ -15422,7 +15422,7 @@ $(document).ready(function(){
 <td>11</td>
 <td>0.952</td>
 <td>-40.106</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SUPT5H">=></a></td>
+<td><a href="/riboeuk/_mds/SUPT5H">=></a></td>
 </tr>
 <tr>
 <td>SUPT5H_0</td>
@@ -15434,7 +15434,7 @@ $(document).ready(function(){
 <td>16</td>
 <td>0.953</td>
 <td>-36.906</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SUPT5H_0">=></a></td>
+<td><a href="/riboeuk/_mds/SUPT5H_0">=></a></td>
 </tr>
 <tr>
 <td>SUPT5H_1</td>
@@ -15446,7 +15446,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.956</td>
 <td>-33.773</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SUPT5H_1">=></a></td>
+<td><a href="/riboeuk/_mds/SUPT5H_1">=></a></td>
 </tr>
 <tr>
 <td>SURF1</td>
@@ -15458,7 +15458,7 @@ $(document).ready(function(){
 <td>5</td>
 <td>0.982</td>
 <td>-15.825</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SURF1">=></a></td>
+<td><a href="/riboeuk/_mds/SURF1">=></a></td>
 </tr>
 <tr>
 <td>SUV39H1</td>
@@ -15470,7 +15470,7 @@ $(document).ready(function(){
 <td>8</td>
 <td>0.976</td>
 <td>-19.146</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SUV39H1">=></a></td>
+<td><a href="/riboeuk/_mds/SUV39H1">=></a></td>
 </tr>
 <tr>
 <td>SYCP3</td>
@@ -15482,7 +15482,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.936</td>
 <td>-48.535</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SYCP3">=></a></td>
+<td><a href="/riboeuk/_mds/SYCP3">=></a></td>
 </tr>
 <tr>
 <td>SYDE2</td>
@@ -15494,7 +15494,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.913</td>
 <td>-47.655</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SYDE2">=></a></td>
+<td><a href="/riboeuk/_mds/SYDE2">=></a></td>
 </tr>
 <tr>
 <td>SYNGR1</td>
@@ -15506,7 +15506,7 @@ $(document).ready(function(){
 <td>17</td>
 <td>0.961</td>
 <td>-35.086</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SYNGR1">=></a></td>
+<td><a href="/riboeuk/_mds/SYNGR1">=></a></td>
 </tr>
 <tr>
 <td>SYNJ2BP</td>
@@ -15518,7 +15518,7 @@ $(document).ready(function(){
 <td>2</td>
 <td>0.932</td>
 <td>-44.577</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SYNJ2BP">=></a></td>
+<td><a href="/riboeuk/_mds/SYNJ2BP">=></a></td>
 </tr>
 <tr>
 <td>SYPL1</td>
@@ -15530,7 +15530,7 @@ $(document).ready(function(){
 <td>16</td>
 <td>0.963</td>
 <td>-44.579</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/SYPL1">=></a></td>
+<td><a href="/riboeuk/_mds/SYPL1">=></a></td>
 </tr>
 <tr>
 <td>TANK</td>
@@ -15542,7 +15542,7 @@ $(document).ready(function(){
 <td>18</td>
 <td>0.975</td>
 <td>-20.678</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TANK">=></a></td>
+<td><a href="/riboeuk/_mds/TANK">=></a></td>
 </tr>
 <tr>
 <td>TANK_0</td>
@@ -15554,7 +15554,7 @@ $(document).ready(function(){
 <td>10</td>
 <td>0.984</td>
 <td>-2.725</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TANK_0">=></a></td>
+<td><a href="/riboeuk/_mds/TANK_0">=></a></td>
 </tr>
 <tr>
 <td>TARDBP</td>
@@ -15566,7 +15566,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.954</td>
 <td>-37.495</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TARDBP">=></a></td>
+<td><a href="/riboeuk/_mds/TARDBP">=></a></td>
 </tr>
 <tr>
 <td>TBC1D16</td>
@@ -15578,7 +15578,7 @@ $(document).ready(function(){
 <td>12</td>
 <td>0.948</td>
 <td>-79.676</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TBC1D16">=></a></td>
+<td><a href="/riboeuk/_mds/TBC1D16">=></a></td>
 </tr>
 <tr>
 <td>TBC1D8B</td>
@@ -15590,7 +15590,7 @@ $(document).ready(function(){
 <td>8</td>
 <td>0.960</td>
 <td>-24.023</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TBC1D8B">=></a></td>
+<td><a href="/riboeuk/_mds/TBC1D8B">=></a></td>
 </tr>
 <tr>
 <td>TBCCD1</td>
@@ -15602,7 +15602,7 @@ $(document).ready(function(){
 <td>6</td>
 <td>0.883</td>
 <td>-59.207</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TBCCD1">=></a></td>
+<td><a href="/riboeuk/_mds/TBCCD1">=></a></td>
 </tr>
 <tr>
 <td>TBCCD1_0</td>
@@ -15614,7 +15614,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.985</td>
 <td>-4.026</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TBCCD1_0">=></a></td>
+<td><a href="/riboeuk/_mds/TBCCD1_0">=></a></td>
 </tr>
 <tr>
 <td>TBK1</td>
@@ -15626,7 +15626,7 @@ $(document).ready(function(){
 <td>16</td>
 <td>0.952</td>
 <td>-26.745</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TBK1">=></a></td>
+<td><a href="/riboeuk/_mds/TBK1">=></a></td>
 </tr>
 <tr>
 <td>TBR1</td>
@@ -15638,7 +15638,7 @@ $(document).ready(function(){
 <td>2</td>
 <td>0.928</td>
 <td>-39.326</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TBR1">=></a></td>
+<td><a href="/riboeuk/_mds/TBR1">=></a></td>
 </tr>
 <tr>
 <td>TBRG4</td>
@@ -15650,7 +15650,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.961</td>
 <td>-7.848</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TBRG4">=></a></td>
+<td><a href="/riboeuk/_mds/TBRG4">=></a></td>
 </tr>
 <tr>
 <td>TCEAL1</td>
@@ -15662,7 +15662,7 @@ $(document).ready(function(){
 <td>3</td>
 <td>0.943</td>
 <td>-47.154</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TCEAL1">=></a></td>
+<td><a href="/riboeuk/_mds/TCEAL1">=></a></td>
 </tr>
 <tr>
 <td>TCEAL1_0</td>
@@ -15674,7 +15674,7 @@ $(document).ready(function(){
 <td>11</td>
 <td>0.934</td>
 <td>-44.452</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TCEAL1_0">=></a></td>
+<td><a href="/riboeuk/_mds/TCEAL1_0">=></a></td>
 </tr>
 <tr>
 <td>TCP11</td>
@@ -15686,7 +15686,7 @@ $(document).ready(function(){
 <td>13</td>
 <td>0.945</td>
 <td>-51.144</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TCP11">=></a></td>
+<td><a href="/riboeuk/_mds/TCP11">=></a></td>
 </tr>
 <tr>
 <td>TDP1</td>
@@ -15698,7 +15698,7 @@ $(document).ready(function(){
 <td>16</td>
 <td>0.969</td>
 <td>-38.014</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TDP1">=></a></td>
+<td><a href="/riboeuk/_mds/TDP1">=></a></td>
 </tr>
 <tr>
 <td>TDP1_0</td>
@@ -15710,7 +15710,7 @@ $(document).ready(function(){
 <td>16</td>
 <td>0.963</td>
 <td>-40.207</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TDP1_0">=></a></td>
+<td><a href="/riboeuk/_mds/TDP1_0">=></a></td>
 </tr>
 <tr>
 <td>TECPR2</td>
@@ -15722,7 +15722,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.926</td>
 <td>-56.482</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TECPR2">=></a></td>
+<td><a href="/riboeuk/_mds/TECPR2">=></a></td>
 </tr>
 <tr>
 <td>TEX12</td>
@@ -15734,7 +15734,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.960</td>
 <td>-21.231</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TEX12">=></a></td>
+<td><a href="/riboeuk/_mds/TEX12">=></a></td>
 </tr>
 <tr>
 <td>TGIF2</td>
@@ -15746,7 +15746,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.957</td>
 <td>-44.618</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TGIF2">=></a></td>
+<td><a href="/riboeuk/_mds/TGIF2">=></a></td>
 </tr>
 <tr>
 <td>TGIF2LX</td>
@@ -15758,7 +15758,7 @@ $(document).ready(function(){
 <td>14</td>
 <td>0.980</td>
 <td>-19.449</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TGIF2LX">=></a></td>
+<td><a href="/riboeuk/_mds/TGIF2LX">=></a></td>
 </tr>
 <tr>
 <td>TGIF2LY</td>
@@ -15770,7 +15770,7 @@ $(document).ready(function(){
 <td>3</td>
 <td>0.969</td>
 <td>-21.343</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TGIF2LY">=></a></td>
+<td><a href="/riboeuk/_mds/TGIF2LY">=></a></td>
 </tr>
 <tr>
 <td>THADA</td>
@@ -15782,7 +15782,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.882</td>
 <td>-48.782</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/THADA">=></a></td>
+<td><a href="/riboeuk/_mds/THADA">=></a></td>
 </tr>
 <tr>
 <td>THAP10</td>
@@ -15794,7 +15794,7 @@ $(document).ready(function(){
 <td>11</td>
 <td>0.941</td>
 <td>-71.013</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/THAP10">=></a></td>
+<td><a href="/riboeuk/_mds/THAP10">=></a></td>
 </tr>
 <tr>
 <td>THAP6</td>
@@ -15806,7 +15806,7 @@ $(document).ready(function(){
 <td>8</td>
 <td>0.957</td>
 <td>-35.089</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/THAP6">=></a></td>
+<td><a href="/riboeuk/_mds/THAP6">=></a></td>
 </tr>
 <tr>
 <td>THAP6_0</td>
@@ -15818,7 +15818,7 @@ $(document).ready(function(){
 <td>16</td>
 <td>0.957</td>
 <td>-38.739</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/THAP6_0">=></a></td>
+<td><a href="/riboeuk/_mds/THAP6_0">=></a></td>
 </tr>
 <tr>
 <td>THAP6_1</td>
@@ -15830,7 +15830,7 @@ $(document).ready(function(){
 <td>13</td>
 <td>0.958</td>
 <td>-39.740</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/THAP6_1">=></a></td>
+<td><a href="/riboeuk/_mds/THAP6_1">=></a></td>
 </tr>
 <tr>
 <td>THAP6_2</td>
@@ -15842,7 +15842,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.928</td>
 <td>-48.260</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/THAP6_2">=></a></td>
+<td><a href="/riboeuk/_mds/THAP6_2">=></a></td>
 </tr>
 <tr>
 <td>THAP9</td>
@@ -15854,7 +15854,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.949</td>
 <td>-46.446</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/THAP9">=></a></td>
+<td><a href="/riboeuk/_mds/THAP9">=></a></td>
 </tr>
 <tr>
 <td>THAP9_0</td>
@@ -15866,7 +15866,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.925</td>
 <td>-42.216</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/THAP9_0">=></a></td>
+<td><a href="/riboeuk/_mds/THAP9_0">=></a></td>
 </tr>
 <tr>
 <td>THAP9_1</td>
@@ -15878,7 +15878,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.886</td>
 <td>-59.286</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/THAP9_1">=></a></td>
+<td><a href="/riboeuk/_mds/THAP9_1">=></a></td>
 </tr>
 <tr>
 <td>THBD</td>
@@ -15890,7 +15890,7 @@ $(document).ready(function(){
 <td>14</td>
 <td>0.974</td>
 <td>-17.500</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/THBD">=></a></td>
+<td><a href="/riboeuk/_mds/THBD">=></a></td>
 </tr>
 <tr>
 <td>THRSP</td>
@@ -15902,7 +15902,7 @@ $(document).ready(function(){
 <td>12</td>
 <td>0.986</td>
 <td>-8.643</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/THRSP">=></a></td>
+<td><a href="/riboeuk/_mds/THRSP">=></a></td>
 </tr>
 <tr>
 <td>TIGIT</td>
@@ -15914,7 +15914,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.976</td>
 <td>-26.043</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TIGIT">=></a></td>
+<td><a href="/riboeuk/_mds/TIGIT">=></a></td>
 </tr>
 <tr>
 <td>TIMD4</td>
@@ -15926,7 +15926,7 @@ $(document).ready(function(){
 <td>12</td>
 <td>0.967</td>
 <td>-24.292</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TIMD4">=></a></td>
+<td><a href="/riboeuk/_mds/TIMD4">=></a></td>
 </tr>
 <tr>
 <td>TINAG</td>
@@ -15938,7 +15938,7 @@ $(document).ready(function(){
 <td>14</td>
 <td>0.909</td>
 <td>-28.908</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TINAG">=></a></td>
+<td><a href="/riboeuk/_mds/TINAG">=></a></td>
 </tr>
 <tr>
 <td>TM4SF20</td>
@@ -15950,7 +15950,7 @@ $(document).ready(function(){
 <td>4</td>
 <td>0.982</td>
 <td>-10.181</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TM4SF20">=></a></td>
+<td><a href="/riboeuk/_mds/TM4SF20">=></a></td>
 </tr>
 <tr>
 <td>TM9SF4</td>
@@ -15962,7 +15962,7 @@ $(document).ready(function(){
 <td>4</td>
 <td>0.983</td>
 <td>-10.225</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TM9SF4">=></a></td>
+<td><a href="/riboeuk/_mds/TM9SF4">=></a></td>
 </tr>
 <tr>
 <td>TMBIM4</td>
@@ -15974,7 +15974,7 @@ $(document).ready(function(){
 <td>3</td>
 <td>0.948</td>
 <td>-51.335</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TMBIM4">=></a></td>
+<td><a href="/riboeuk/_mds/TMBIM4">=></a></td>
 </tr>
 <tr>
 <td>TMEM101</td>
@@ -15986,7 +15986,7 @@ $(document).ready(function(){
 <td>4</td>
 <td>0.974</td>
 <td>-10.123</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TMEM101">=></a></td>
+<td><a href="/riboeuk/_mds/TMEM101">=></a></td>
 </tr>
 <tr>
 <td>TMEM117</td>
@@ -15998,7 +15998,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.965</td>
 <td>-22.223</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TMEM117">=></a></td>
+<td><a href="/riboeuk/_mds/TMEM117">=></a></td>
 </tr>
 <tr>
 <td>TMEM139</td>
@@ -16010,7 +16010,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.953</td>
 <td>-32.139</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TMEM139">=></a></td>
+<td><a href="/riboeuk/_mds/TMEM139">=></a></td>
 </tr>
 <tr>
 <td>TMEM196</td>
@@ -16022,7 +16022,7 @@ $(document).ready(function(){
 <td>5</td>
 <td>0.966</td>
 <td>-19.280</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TMEM196">=></a></td>
+<td><a href="/riboeuk/_mds/TMEM196">=></a></td>
 </tr>
 <tr>
 <td>TMEM200A</td>
@@ -16034,7 +16034,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.952</td>
 <td>-19.362</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TMEM200A">=></a></td>
+<td><a href="/riboeuk/_mds/TMEM200A">=></a></td>
 </tr>
 <tr>
 <td>TMEM205</td>
@@ -16046,7 +16046,7 @@ $(document).ready(function(){
 <td>17</td>
 <td>0.966</td>
 <td>-34.554</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TMEM205">=></a></td>
+<td><a href="/riboeuk/_mds/TMEM205">=></a></td>
 </tr>
 <tr>
 <td>TMEM205_0</td>
@@ -16058,7 +16058,7 @@ $(document).ready(function(){
 <td>14</td>
 <td>0.930</td>
 <td>-64.273</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TMEM205_0">=></a></td>
+<td><a href="/riboeuk/_mds/TMEM205_0">=></a></td>
 </tr>
 <tr>
 <td>TMEM205_1</td>
@@ -16070,7 +16070,7 @@ $(document).ready(function(){
 <td>17</td>
 <td>0.925</td>
 <td>-86.062</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TMEM205_1">=></a></td>
+<td><a href="/riboeuk/_mds/TMEM205_1">=></a></td>
 </tr>
 <tr>
 <td>TMEM208</td>
@@ -16082,7 +16082,7 @@ $(document).ready(function(){
 <td>5</td>
 <td>0.955</td>
 <td>-48.429</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TMEM208">=></a></td>
+<td><a href="/riboeuk/_mds/TMEM208">=></a></td>
 </tr>
 <tr>
 <td>TMEM50B</td>
@@ -16094,7 +16094,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.959</td>
 <td>-18.002</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TMEM50B">=></a></td>
+<td><a href="/riboeuk/_mds/TMEM50B">=></a></td>
 </tr>
 <tr>
 <td>TMEM80</td>
@@ -16106,7 +16106,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.943</td>
 <td>-62.102</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TMEM80">=></a></td>
+<td><a href="/riboeuk/_mds/TMEM80">=></a></td>
 </tr>
 <tr>
 <td>TMEM80_0</td>
@@ -16118,7 +16118,7 @@ $(document).ready(function(){
 <td>10</td>
 <td>0.878</td>
 <td>-105.307</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TMEM80_0">=></a></td>
+<td><a href="/riboeuk/_mds/TMEM80_0">=></a></td>
 </tr>
 <tr>
 <td>TMEM86A</td>
@@ -16130,7 +16130,7 @@ $(document).ready(function(){
 <td>5</td>
 <td>0.942</td>
 <td>-50.844</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TMEM86A">=></a></td>
+<td><a href="/riboeuk/_mds/TMEM86A">=></a></td>
 </tr>
 <tr>
 <td>TMEM87A</td>
@@ -16142,7 +16142,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.926</td>
 <td>-52.422</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TMEM87A">=></a></td>
+<td><a href="/riboeuk/_mds/TMEM87A">=></a></td>
 </tr>
 <tr>
 <td>TMPRSS11B</td>
@@ -16154,7 +16154,7 @@ $(document).ready(function(){
 <td>8</td>
 <td>0.934</td>
 <td>-19.022</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TMPRSS11B">=></a></td>
+<td><a href="/riboeuk/_mds/TMPRSS11B">=></a></td>
 </tr>
 <tr>
 <td>TMPRSS11B_0</td>
@@ -16166,7 +16166,7 @@ $(document).ready(function(){
 <td>5</td>
 <td>0.923</td>
 <td>-24.943</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TMPRSS11B_0">=></a></td>
+<td><a href="/riboeuk/_mds/TMPRSS11B_0">=></a></td>
 </tr>
 <tr>
 <td>TMPRSS11D</td>
@@ -16178,7 +16178,7 @@ $(document).ready(function(){
 <td>16</td>
 <td>0.955</td>
 <td>-10.215</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TMPRSS11D">=></a></td>
+<td><a href="/riboeuk/_mds/TMPRSS11D">=></a></td>
 </tr>
 <tr>
 <td>TMPRSS11D_0</td>
@@ -16190,7 +16190,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.951</td>
 <td>-15.833</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TMPRSS11D_0">=></a></td>
+<td><a href="/riboeuk/_mds/TMPRSS11D_0">=></a></td>
 </tr>
 <tr>
 <td>TMTC3</td>
@@ -16202,7 +16202,7 @@ $(document).ready(function(){
 <td>18</td>
 <td>0.949</td>
 <td>-35.784</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TMTC3">=></a></td>
+<td><a href="/riboeuk/_mds/TMTC3">=></a></td>
 </tr>
 <tr>
 <td>TMX2</td>
@@ -16214,7 +16214,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.978</td>
 <td>-24.482</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TMX2">=></a></td>
+<td><a href="/riboeuk/_mds/TMX2">=></a></td>
 </tr>
 <tr>
 <td>TMX2_0</td>
@@ -16226,7 +16226,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.939</td>
 <td>-35.832</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TMX2_0">=></a></td>
+<td><a href="/riboeuk/_mds/TMX2_0">=></a></td>
 </tr>
 <tr>
 <td>TNFAIP6</td>
@@ -16238,7 +16238,7 @@ $(document).ready(function(){
 <td>18</td>
 <td>0.984</td>
 <td>-4.781</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TNFAIP6">=></a></td>
+<td><a href="/riboeuk/_mds/TNFAIP6">=></a></td>
 </tr>
 <tr>
 <td>TNFRSF10D</td>
@@ -16250,7 +16250,7 @@ $(document).ready(function(){
 <td>4</td>
 <td>0.942</td>
 <td>-36.939</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TNFRSF10D">=></a></td>
+<td><a href="/riboeuk/_mds/TNFRSF10D">=></a></td>
 </tr>
 <tr>
 <td>TNFRSF13B</td>
@@ -16262,7 +16262,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.976</td>
 <td>-12.838</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TNFRSF13B">=></a></td>
+<td><a href="/riboeuk/_mds/TNFRSF13B">=></a></td>
 </tr>
 <tr>
 <td>TNFRSF13B_0</td>
@@ -16274,7 +16274,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.973</td>
 <td>-12.838</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TNFRSF13B_0">=></a></td>
+<td><a href="/riboeuk/_mds/TNFRSF13B_0">=></a></td>
 </tr>
 <tr>
 <td>TNNI3K</td>
@@ -16286,7 +16286,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.977</td>
 <td>-7.003</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TNNI3K">=></a></td>
+<td><a href="/riboeuk/_mds/TNNI3K">=></a></td>
 </tr>
 <tr>
 <td>TNNI3K_0</td>
@@ -16298,7 +16298,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.983</td>
 <td>-5.137</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TNNI3K_0">=></a></td>
+<td><a href="/riboeuk/_mds/TNNI3K_0">=></a></td>
 </tr>
 <tr>
 <td>TOM1</td>
@@ -16310,7 +16310,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.975</td>
 <td>-34.520</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TOM1">=></a></td>
+<td><a href="/riboeuk/_mds/TOM1">=></a></td>
 </tr>
 <tr>
 <td>TOP3B</td>
@@ -16322,7 +16322,7 @@ $(document).ready(function(){
 <td>3</td>
 <td>0.948</td>
 <td>-59.164</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TOP3B">=></a></td>
+<td><a href="/riboeuk/_mds/TOP3B">=></a></td>
 </tr>
 <tr>
 <td>TOR1A</td>
@@ -16334,7 +16334,7 @@ $(document).ready(function(){
 <td>2</td>
 <td>0.970</td>
 <td>-46.768</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TOR1A">=></a></td>
+<td><a href="/riboeuk/_mds/TOR1A">=></a></td>
 </tr>
 <tr>
 <td>TP63</td>
@@ -16346,7 +16346,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.948</td>
 <td>-18.700</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TP63">=></a></td>
+<td><a href="/riboeuk/_mds/TP63">=></a></td>
 </tr>
 <tr>
 <td>TPK1</td>
@@ -16358,7 +16358,7 @@ $(document).ready(function(){
 <td>16</td>
 <td>0.967</td>
 <td>-26.869</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TPK1">=></a></td>
+<td><a href="/riboeuk/_mds/TPK1">=></a></td>
 </tr>
 <tr>
 <td>TPM3</td>
@@ -16370,7 +16370,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.897</td>
 <td>-52.687</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TPM3">=></a></td>
+<td><a href="/riboeuk/_mds/TPM3">=></a></td>
 </tr>
 <tr>
 <td>TPM3_0</td>
@@ -16382,7 +16382,7 @@ $(document).ready(function(){
 <td>8</td>
 <td>0.956</td>
 <td>-27.936</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TPM3_0">=></a></td>
+<td><a href="/riboeuk/_mds/TPM3_0">=></a></td>
 </tr>
 <tr>
 <td>TPM3_1</td>
@@ -16394,7 +16394,7 @@ $(document).ready(function(){
 <td>6</td>
 <td>0.948</td>
 <td>-35.364</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TPM3_1">=></a></td>
+<td><a href="/riboeuk/_mds/TPM3_1">=></a></td>
 </tr>
 <tr>
 <td>TPM3_2</td>
@@ -16406,7 +16406,7 @@ $(document).ready(function(){
 <td>4</td>
 <td>0.944</td>
 <td>-35.364</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TPM3_2">=></a></td>
+<td><a href="/riboeuk/_mds/TPM3_2">=></a></td>
 </tr>
 <tr>
 <td>TPRG1L</td>
@@ -16418,7 +16418,7 @@ $(document).ready(function(){
 <td>19</td>
 <td>0.965</td>
 <td>-48.812</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TPRG1L">=></a></td>
+<td><a href="/riboeuk/_mds/TPRG1L">=></a></td>
 </tr>
 <tr>
 <td>TPRG1L_0</td>
@@ -16430,7 +16430,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.968</td>
 <td>-27.481</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TPRG1L_0">=></a></td>
+<td><a href="/riboeuk/_mds/TPRG1L_0">=></a></td>
 </tr>
 <tr>
 <td>TRAF5</td>
@@ -16442,7 +16442,7 @@ $(document).ready(function(){
 <td>18</td>
 <td>0.977</td>
 <td>-12.554</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TRAF5">=></a></td>
+<td><a href="/riboeuk/_mds/TRAF5">=></a></td>
 </tr>
 <tr>
 <td>TRAPPC1</td>
@@ -16454,7 +16454,7 @@ $(document).ready(function(){
 <td>11</td>
 <td>0.987</td>
 <td>-12.075</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TRAPPC1">=></a></td>
+<td><a href="/riboeuk/_mds/TRAPPC1">=></a></td>
 </tr>
 <tr>
 <td>TRAPPC2L</td>
@@ -16466,7 +16466,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.977</td>
 <td>-30.925</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TRAPPC2L">=></a></td>
+<td><a href="/riboeuk/_mds/TRAPPC2L">=></a></td>
 </tr>
 <tr>
 <td>TRIP12</td>
@@ -16478,7 +16478,7 @@ $(document).ready(function(){
 <td>13</td>
 <td>0.950</td>
 <td>-40.455</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TRIP12">=></a></td>
+<td><a href="/riboeuk/_mds/TRIP12">=></a></td>
 </tr>
 <tr>
 <td>TRIT1</td>
@@ -16490,7 +16490,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.963</td>
 <td>-5.942</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TRIT1">=></a></td>
+<td><a href="/riboeuk/_mds/TRIT1">=></a></td>
 </tr>
 <tr>
 <td>TRMT5</td>
@@ -16502,7 +16502,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.961</td>
 <td>-36.722</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TRMT5">=></a></td>
+<td><a href="/riboeuk/_mds/TRMT5">=></a></td>
 </tr>
 <tr>
 <td>TRMT61B</td>
@@ -16514,7 +16514,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.981</td>
 <td>-22.351</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TRMT61B">=></a></td>
+<td><a href="/riboeuk/_mds/TRMT61B">=></a></td>
 </tr>
 <tr>
 <td>TRPC3</td>
@@ -16526,7 +16526,7 @@ $(document).ready(function(){
 <td>2</td>
 <td>0.976</td>
 <td>-36.479</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TRPC3">=></a></td>
+<td><a href="/riboeuk/_mds/TRPC3">=></a></td>
 </tr>
 <tr>
 <td>TRPM6</td>
@@ -16538,7 +16538,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.974</td>
 <td>-16.220</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TRPM6">=></a></td>
+<td><a href="/riboeuk/_mds/TRPM6">=></a></td>
 </tr>
 <tr>
 <td>TRPV6</td>
@@ -16550,7 +16550,7 @@ $(document).ready(function(){
 <td>6</td>
 <td>0.970</td>
 <td>-19.966</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TRPV6">=></a></td>
+<td><a href="/riboeuk/_mds/TRPV6">=></a></td>
 </tr>
 <tr>
 <td>TSPAN19</td>
@@ -16562,7 +16562,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.953</td>
 <td>-18.255</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TSPAN19">=></a></td>
+<td><a href="/riboeuk/_mds/TSPAN19">=></a></td>
 </tr>
 <tr>
 <td>TSPAN5</td>
@@ -16574,7 +16574,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.976</td>
 <td>-11.862</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TSPAN5">=></a></td>
+<td><a href="/riboeuk/_mds/TSPAN5">=></a></td>
 </tr>
 <tr>
 <td>TSPY1</td>
@@ -16586,7 +16586,7 @@ $(document).ready(function(){
 <td>8</td>
 <td>0.971</td>
 <td>-29.047</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TSPY1">=></a></td>
+<td><a href="/riboeuk/_mds/TSPY1">=></a></td>
 </tr>
 <tr>
 <td>TTC13</td>
@@ -16598,7 +16598,7 @@ $(document).ready(function(){
 <td>16</td>
 <td>0.978</td>
 <td>-14.567</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TTC13">=></a></td>
+<td><a href="/riboeuk/_mds/TTC13">=></a></td>
 </tr>
 <tr>
 <td>TTC16</td>
@@ -16610,7 +16610,7 @@ $(document).ready(function(){
 <td>2</td>
 <td>0.964</td>
 <td>-35.059</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TTC16">=></a></td>
+<td><a href="/riboeuk/_mds/TTC16">=></a></td>
 </tr>
 <tr>
 <td>TTC23</td>
@@ -16622,7 +16622,7 @@ $(document).ready(function(){
 <td>8</td>
 <td>0.965</td>
 <td>-26.666</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TTC23">=></a></td>
+<td><a href="/riboeuk/_mds/TTC23">=></a></td>
 </tr>
 <tr>
 <td>TTC23_0</td>
@@ -16634,7 +16634,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.936</td>
 <td>-32.852</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TTC23_0">=></a></td>
+<td><a href="/riboeuk/_mds/TTC23_0">=></a></td>
 </tr>
 <tr>
 <td>TTC26</td>
@@ -16646,7 +16646,7 @@ $(document).ready(function(){
 <td>18</td>
 <td>0.948</td>
 <td>-28.881</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TTC26">=></a></td>
+<td><a href="/riboeuk/_mds/TTC26">=></a></td>
 </tr>
 <tr>
 <td>TTC26_0</td>
@@ -16658,7 +16658,7 @@ $(document).ready(function(){
 <td>8</td>
 <td>0.948</td>
 <td>-41.895</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TTC26_0">=></a></td>
+<td><a href="/riboeuk/_mds/TTC26_0">=></a></td>
 </tr>
 <tr>
 <td>TTC30A</td>
@@ -16670,7 +16670,7 @@ $(document).ready(function(){
 <td>10</td>
 <td>0.983</td>
 <td>-15.884</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TTC30A">=></a></td>
+<td><a href="/riboeuk/_mds/TTC30A">=></a></td>
 </tr>
 <tr>
 <td>TTF1</td>
@@ -16682,7 +16682,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.961</td>
 <td>-17.781</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TTF1">=></a></td>
+<td><a href="/riboeuk/_mds/TTF1">=></a></td>
 </tr>
 <tr>
 <td>TTK</td>
@@ -16694,7 +16694,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.937</td>
 <td>-56.649</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TTK">=></a></td>
+<td><a href="/riboeuk/_mds/TTK">=></a></td>
 </tr>
 <tr>
 <td>TTPAL</td>
@@ -16706,7 +16706,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.967</td>
 <td>-60.727</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TTPAL">=></a></td>
+<td><a href="/riboeuk/_mds/TTPAL">=></a></td>
 </tr>
 <tr>
 <td>TTPAL_0</td>
@@ -16718,7 +16718,7 @@ $(document).ready(function(){
 <td>2</td>
 <td>0.929</td>
 <td>-80.648</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TTPAL_0">=></a></td>
+<td><a href="/riboeuk/_mds/TTPAL_0">=></a></td>
 </tr>
 <tr>
 <td>TTPAL_1</td>
@@ -16730,7 +16730,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.916</td>
 <td>-65.273</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TTPAL_1">=></a></td>
+<td><a href="/riboeuk/_mds/TTPAL_1">=></a></td>
 </tr>
 <tr>
 <td>TTPAL_2</td>
@@ -16742,7 +16742,7 @@ $(document).ready(function(){
 <td>17</td>
 <td>0.954</td>
 <td>-73.332</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TTPAL_2">=></a></td>
+<td><a href="/riboeuk/_mds/TTPAL_2">=></a></td>
 </tr>
 <tr>
 <td>TTPAL_3</td>
@@ -16754,7 +16754,7 @@ $(document).ready(function(){
 <td>4</td>
 <td>0.911</td>
 <td>-70.635</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TTPAL_3">=></a></td>
+<td><a href="/riboeuk/_mds/TTPAL_3">=></a></td>
 </tr>
 <tr>
 <td>TTYH2</td>
@@ -16766,7 +16766,7 @@ $(document).ready(function(){
 <td>3</td>
 <td>0.986</td>
 <td>-9.450</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TTYH2">=></a></td>
+<td><a href="/riboeuk/_mds/TTYH2">=></a></td>
 </tr>
 <tr>
 <td>TUBA1B</td>
@@ -16778,7 +16778,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.962</td>
 <td>-32.125</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TUBA1B">=></a></td>
+<td><a href="/riboeuk/_mds/TUBA1B">=></a></td>
 </tr>
 <tr>
 <td>TUBB2B</td>
@@ -16790,7 +16790,7 @@ $(document).ready(function(){
 <td>11</td>
 <td>0.959</td>
 <td>-38.524</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TUBB2B">=></a></td>
+<td><a href="/riboeuk/_mds/TUBB2B">=></a></td>
 </tr>
 <tr>
 <td>TUBB2B_0</td>
@@ -16802,7 +16802,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.964</td>
 <td>-36.574</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TUBB2B_0">=></a></td>
+<td><a href="/riboeuk/_mds/TUBB2B_0">=></a></td>
 </tr>
 <tr>
 <td>TUBG1</td>
@@ -16814,7 +16814,7 @@ $(document).ready(function(){
 <td>16</td>
 <td>0.975</td>
 <td>-37.062</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TUBG1">=></a></td>
+<td><a href="/riboeuk/_mds/TUBG1">=></a></td>
 </tr>
 <tr>
 <td>TULP1</td>
@@ -16826,7 +16826,7 @@ $(document).ready(function(){
 <td>5</td>
 <td>0.980</td>
 <td>-16.792</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TULP1">=></a></td>
+<td><a href="/riboeuk/_mds/TULP1">=></a></td>
 </tr>
 <tr>
 <td>TUT1</td>
@@ -16838,7 +16838,7 @@ $(document).ready(function(){
 <td>18</td>
 <td>0.979</td>
 <td>-13.538</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TUT1">=></a></td>
+<td><a href="/riboeuk/_mds/TUT1">=></a></td>
 </tr>
 <tr>
 <td>TXK</td>
@@ -16850,7 +16850,7 @@ $(document).ready(function(){
 <td>14</td>
 <td>0.909</td>
 <td>-24.126</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TXK">=></a></td>
+<td><a href="/riboeuk/_mds/TXK">=></a></td>
 </tr>
 <tr>
 <td>TXLNA</td>
@@ -16862,7 +16862,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.960</td>
 <td>-19.855</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TXLNA">=></a></td>
+<td><a href="/riboeuk/_mds/TXLNA">=></a></td>
 </tr>
 <tr>
 <td>TXNDC8</td>
@@ -16874,7 +16874,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.986</td>
 <td>-12.866</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TXNDC8">=></a></td>
+<td><a href="/riboeuk/_mds/TXNDC8">=></a></td>
 </tr>
 <tr>
 <td>TXNDC8_0</td>
@@ -16886,7 +16886,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.965</td>
 <td>-12.866</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TXNDC8_0">=></a></td>
+<td><a href="/riboeuk/_mds/TXNDC8_0">=></a></td>
 </tr>
 <tr>
 <td>TYW1</td>
@@ -16898,7 +16898,7 @@ $(document).ready(function(){
 <td>17</td>
 <td>0.933</td>
 <td>-79.742</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/TYW1">=></a></td>
+<td><a href="/riboeuk/_mds/TYW1">=></a></td>
 </tr>
 <tr>
 <td>U2AF1L4</td>
@@ -16910,7 +16910,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.984</td>
 <td>-15.270</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/U2AF1L4">=></a></td>
+<td><a href="/riboeuk/_mds/U2AF1L4">=></a></td>
 </tr>
 <tr>
 <td>UBA52</td>
@@ -16922,7 +16922,7 @@ $(document).ready(function(){
 <td>2</td>
 <td>0.956</td>
 <td>-29.493</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/UBA52">=></a></td>
+<td><a href="/riboeuk/_mds/UBA52">=></a></td>
 </tr>
 <tr>
 <td>UBAP2</td>
@@ -16934,7 +16934,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.928</td>
 <td>-37.659</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/UBAP2">=></a></td>
+<td><a href="/riboeuk/_mds/UBAP2">=></a></td>
 </tr>
 <tr>
 <td>UBAP2L</td>
@@ -16946,7 +16946,7 @@ $(document).ready(function(){
 <td>19</td>
 <td>0.917</td>
 <td>-43.564</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/UBAP2L">=></a></td>
+<td><a href="/riboeuk/_mds/UBAP2L">=></a></td>
 </tr>
 <tr>
 <td>UBAP2L_0</td>
@@ -16958,7 +16958,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.964</td>
 <td>-29.104</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/UBAP2L_0">=></a></td>
+<td><a href="/riboeuk/_mds/UBAP2L_0">=></a></td>
 </tr>
 <tr>
 <td>UBAP2L_1</td>
@@ -16970,7 +16970,7 @@ $(document).ready(function(){
 <td>16</td>
 <td>0.936</td>
 <td>-40.100</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/UBAP2L_1">=></a></td>
+<td><a href="/riboeuk/_mds/UBAP2L_1">=></a></td>
 </tr>
 <tr>
 <td>UBAP2L_2</td>
@@ -16982,7 +16982,7 @@ $(document).ready(function(){
 <td>14</td>
 <td>0.934</td>
 <td>-62.800</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/UBAP2L_2">=></a></td>
+<td><a href="/riboeuk/_mds/UBAP2L_2">=></a></td>
 </tr>
 <tr>
 <td>UBAP2L_3</td>
@@ -16994,7 +16994,7 @@ $(document).ready(function(){
 <td>16</td>
 <td>0.938</td>
 <td>-45.315</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/UBAP2L_3">=></a></td>
+<td><a href="/riboeuk/_mds/UBAP2L_3">=></a></td>
 </tr>
 <tr>
 <td>UBAP2L_4</td>
@@ -17006,7 +17006,7 @@ $(document).ready(function(){
 <td>19</td>
 <td>0.940</td>
 <td>-40.934</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/UBAP2L_4">=></a></td>
+<td><a href="/riboeuk/_mds/UBAP2L_4">=></a></td>
 </tr>
 <tr>
 <td>UBAP2L_5</td>
@@ -17018,7 +17018,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.915</td>
 <td>-59.314</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/UBAP2L_5">=></a></td>
+<td><a href="/riboeuk/_mds/UBAP2L_5">=></a></td>
 </tr>
 <tr>
 <td>UBAP2L_6</td>
@@ -17030,7 +17030,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.936</td>
 <td>-56.926</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/UBAP2L_6">=></a></td>
+<td><a href="/riboeuk/_mds/UBAP2L_6">=></a></td>
 </tr>
 <tr>
 <td>UBE2C</td>
@@ -17042,7 +17042,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.963</td>
 <td>-34.478</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/UBE2C">=></a></td>
+<td><a href="/riboeuk/_mds/UBE2C">=></a></td>
 </tr>
 <tr>
 <td>UBE2F</td>
@@ -17054,7 +17054,7 @@ $(document).ready(function(){
 <td>2</td>
 <td>0.963</td>
 <td>-43.063</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/UBE2F">=></a></td>
+<td><a href="/riboeuk/_mds/UBE2F">=></a></td>
 </tr>
 <tr>
 <td>UBE2F_0</td>
@@ -17066,7 +17066,7 @@ $(document).ready(function(){
 <td>18</td>
 <td>0.933</td>
 <td>-34.132</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/UBE2F_0">=></a></td>
+<td><a href="/riboeuk/_mds/UBE2F_0">=></a></td>
 </tr>
 <tr>
 <td>UBE3A</td>
@@ -17078,7 +17078,7 @@ $(document).ready(function(){
 <td>2</td>
 <td>0.981</td>
 <td>-16.142</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/UBE3A">=></a></td>
+<td><a href="/riboeuk/_mds/UBE3A">=></a></td>
 </tr>
 <tr>
 <td>UBL5</td>
@@ -17090,7 +17090,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.960</td>
 <td>-49.906</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/UBL5">=></a></td>
+<td><a href="/riboeuk/_mds/UBL5">=></a></td>
 </tr>
 <tr>
 <td>UCHL1</td>
@@ -17102,7 +17102,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.973</td>
 <td>-34.768</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/UCHL1">=></a></td>
+<td><a href="/riboeuk/_mds/UCHL1">=></a></td>
 </tr>
 <tr>
 <td>UCHL1_0</td>
@@ -17114,7 +17114,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.978</td>
 <td>-13.017</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/UCHL1_0">=></a></td>
+<td><a href="/riboeuk/_mds/UCHL1_0">=></a></td>
 </tr>
 <tr>
 <td>UNC5D</td>
@@ -17126,7 +17126,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.980</td>
 <td>-14.491</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/UNC5D">=></a></td>
+<td><a href="/riboeuk/_mds/UNC5D">=></a></td>
 </tr>
 <tr>
 <td>UQCRC2</td>
@@ -17138,7 +17138,7 @@ $(document).ready(function(){
 <td>13</td>
 <td>0.947</td>
 <td>-52.107</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/UQCRC2">=></a></td>
+<td><a href="/riboeuk/_mds/UQCRC2">=></a></td>
 </tr>
 <tr>
 <td>UQCRH</td>
@@ -17150,7 +17150,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.974</td>
 <td>-25.255</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/UQCRH">=></a></td>
+<td><a href="/riboeuk/_mds/UQCRH">=></a></td>
 </tr>
 <tr>
 <td>UQCRH_0</td>
@@ -17162,7 +17162,7 @@ $(document).ready(function(){
 <td>17</td>
 <td>0.941</td>
 <td>-55.113</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/UQCRH_0">=></a></td>
+<td><a href="/riboeuk/_mds/UQCRH_0">=></a></td>
 </tr>
 <tr>
 <td>UQCRQ</td>
@@ -17174,7 +17174,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.969</td>
 <td>-34.119</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/UQCRQ">=></a></td>
+<td><a href="/riboeuk/_mds/UQCRQ">=></a></td>
 </tr>
 <tr>
 <td>UROS</td>
@@ -17186,7 +17186,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.968</td>
 <td>-17.707</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/UROS">=></a></td>
+<td><a href="/riboeuk/_mds/UROS">=></a></td>
 </tr>
 <tr>
 <td>USP30</td>
@@ -17198,7 +17198,7 @@ $(document).ready(function(){
 <td>2</td>
 <td>0.945</td>
 <td>-56.630</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/USP30">=></a></td>
+<td><a href="/riboeuk/_mds/USP30">=></a></td>
 </tr>
 <tr>
 <td>USP30_0</td>
@@ -17210,7 +17210,7 @@ $(document).ready(function(){
 <td>8</td>
 <td>0.961</td>
 <td>-50.397</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/USP30_0">=></a></td>
+<td><a href="/riboeuk/_mds/USP30_0">=></a></td>
 </tr>
 <tr>
 <td>USP45</td>
@@ -17222,7 +17222,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.939</td>
 <td>-54.312</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/USP45">=></a></td>
+<td><a href="/riboeuk/_mds/USP45">=></a></td>
 </tr>
 <tr>
 <td>USP6NL</td>
@@ -17234,7 +17234,7 @@ $(document).ready(function(){
 <td>3</td>
 <td>0.984</td>
 <td>-7.916</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/USP6NL">=></a></td>
+<td><a href="/riboeuk/_mds/USP6NL">=></a></td>
 </tr>
 <tr>
 <td>UTP15</td>
@@ -17246,7 +17246,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.894</td>
 <td>-86.771</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/UTP15">=></a></td>
+<td><a href="/riboeuk/_mds/UTP15">=></a></td>
 </tr>
 <tr>
 <td>UTP15_0</td>
@@ -17258,7 +17258,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.934</td>
 <td>-40.149</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/UTP15_0">=></a></td>
+<td><a href="/riboeuk/_mds/UTP15_0">=></a></td>
 </tr>
 <tr>
 <td>UTP18</td>
@@ -17270,7 +17270,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.971</td>
 <td>-23.459</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/UTP18">=></a></td>
+<td><a href="/riboeuk/_mds/UTP18">=></a></td>
 </tr>
 <tr>
 <td>UTP23</td>
@@ -17282,7 +17282,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.946</td>
 <td>-50.331</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/UTP23">=></a></td>
+<td><a href="/riboeuk/_mds/UTP23">=></a></td>
 </tr>
 <tr>
 <td>UTP6</td>
@@ -17294,7 +17294,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.964</td>
 <td>-34.440</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/UTP6">=></a></td>
+<td><a href="/riboeuk/_mds/UTP6">=></a></td>
 </tr>
 <tr>
 <td>VAMP4</td>
@@ -17306,7 +17306,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.979</td>
 <td>-14.299</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/VAMP4">=></a></td>
+<td><a href="/riboeuk/_mds/VAMP4">=></a></td>
 </tr>
 <tr>
 <td>VAT1</td>
@@ -17318,7 +17318,7 @@ $(document).ready(function(){
 <td>8</td>
 <td>0.972</td>
 <td>-14.552</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/VAT1">=></a></td>
+<td><a href="/riboeuk/_mds/VAT1">=></a></td>
 </tr>
 <tr>
 <td>VDAC1</td>
@@ -17330,7 +17330,7 @@ $(document).ready(function(){
 <td>2</td>
 <td>0.943</td>
 <td>-33.798</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/VDAC1">=></a></td>
+<td><a href="/riboeuk/_mds/VDAC1">=></a></td>
 </tr>
 <tr>
 <td>VPS25</td>
@@ -17342,7 +17342,7 @@ $(document).ready(function(){
 <td>18</td>
 <td>0.985</td>
 <td>-23.255</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/VPS25">=></a></td>
+<td><a href="/riboeuk/_mds/VPS25">=></a></td>
 </tr>
 <tr>
 <td>VPS33A</td>
@@ -17354,7 +17354,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.947</td>
 <td>-66.275</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/VPS33A">=></a></td>
+<td><a href="/riboeuk/_mds/VPS33A">=></a></td>
 </tr>
 <tr>
 <td>VRK1</td>
@@ -17366,7 +17366,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.913</td>
 <td>-49.818</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/VRK1">=></a></td>
+<td><a href="/riboeuk/_mds/VRK1">=></a></td>
 </tr>
 <tr>
 <td>VRK1_0</td>
@@ -17378,7 +17378,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.948</td>
 <td>-66.859</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/VRK1_0">=></a></td>
+<td><a href="/riboeuk/_mds/VRK1_0">=></a></td>
 </tr>
 <tr>
 <td>WBP11</td>
@@ -17390,7 +17390,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.927</td>
 <td>-31.378</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/WBP11">=></a></td>
+<td><a href="/riboeuk/_mds/WBP11">=></a></td>
 </tr>
 <tr>
 <td>WDR20</td>
@@ -17402,7 +17402,7 @@ $(document).ready(function(){
 <td>4</td>
 <td>0.961</td>
 <td>-26.404</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/WDR20">=></a></td>
+<td><a href="/riboeuk/_mds/WDR20">=></a></td>
 </tr>
 <tr>
 <td>WDR35</td>
@@ -17414,7 +17414,7 @@ $(document).ready(function(){
 <td>11</td>
 <td>0.955</td>
 <td>-46.053</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/WDR35">=></a></td>
+<td><a href="/riboeuk/_mds/WDR35">=></a></td>
 </tr>
 <tr>
 <td>WDR35_0</td>
@@ -17426,7 +17426,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.955</td>
 <td>-51.727</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/WDR35_0">=></a></td>
+<td><a href="/riboeuk/_mds/WDR35_0">=></a></td>
 </tr>
 <tr>
 <td>WDR45</td>
@@ -17438,7 +17438,7 @@ $(document).ready(function(){
 <td>13</td>
 <td>0.863</td>
 <td>-76.938</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/WDR45">=></a></td>
+<td><a href="/riboeuk/_mds/WDR45">=></a></td>
 </tr>
 <tr>
 <td>WDR45_0</td>
@@ -17450,7 +17450,7 @@ $(document).ready(function(){
 <td>19</td>
 <td>0.892</td>
 <td>-78.688</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/WDR45_0">=></a></td>
+<td><a href="/riboeuk/_mds/WDR45_0">=></a></td>
 </tr>
 <tr>
 <td>WDR45_1</td>
@@ -17462,7 +17462,7 @@ $(document).ready(function(){
 <td>12</td>
 <td>0.889</td>
 <td>-78.747</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/WDR45_1">=></a></td>
+<td><a href="/riboeuk/_mds/WDR45_1">=></a></td>
 </tr>
 <tr>
 <td>WDR47</td>
@@ -17474,7 +17474,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.982</td>
 <td>-11.323</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/WDR47">=></a></td>
+<td><a href="/riboeuk/_mds/WDR47">=></a></td>
 </tr>
 <tr>
 <td>WDR59</td>
@@ -17486,7 +17486,7 @@ $(document).ready(function(){
 <td>2</td>
 <td>0.932</td>
 <td>-34.356</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/WDR59">=></a></td>
+<td><a href="/riboeuk/_mds/WDR59">=></a></td>
 </tr>
 <tr>
 <td>WDR61</td>
@@ -17498,7 +17498,7 @@ $(document).ready(function(){
 <td>16</td>
 <td>0.978</td>
 <td>-32.419</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/WDR61">=></a></td>
+<td><a href="/riboeuk/_mds/WDR61">=></a></td>
 </tr>
 <tr>
 <td>WDR93</td>
@@ -17510,7 +17510,7 @@ $(document).ready(function(){
 <td>11</td>
 <td>0.934</td>
 <td>-38.771</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/WDR93">=></a></td>
+<td><a href="/riboeuk/_mds/WDR93">=></a></td>
 </tr>
 <tr>
 <td>WDTC1</td>
@@ -17522,7 +17522,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.940</td>
 <td>-36.112</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/WDTC1">=></a></td>
+<td><a href="/riboeuk/_mds/WDTC1">=></a></td>
 </tr>
 <tr>
 <td>WHAMM</td>
@@ -17534,7 +17534,7 @@ $(document).ready(function(){
 <td>7</td>
 <td>0.915</td>
 <td>-47.089</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/WHAMM">=></a></td>
+<td><a href="/riboeuk/_mds/WHAMM">=></a></td>
 </tr>
 <tr>
 <td>WIPF2</td>
@@ -17546,7 +17546,7 @@ $(document).ready(function(){
 <td>18</td>
 <td>0.916</td>
 <td>-40.917</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/WIPF2">=></a></td>
+<td><a href="/riboeuk/_mds/WIPF2">=></a></td>
 </tr>
 <tr>
 <td>WTAP</td>
@@ -17558,7 +17558,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.940</td>
 <td>-39.420</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/WTAP">=></a></td>
+<td><a href="/riboeuk/_mds/WTAP">=></a></td>
 </tr>
 <tr>
 <td>WWC3</td>
@@ -17570,7 +17570,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.887</td>
 <td>-62.806</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/WWC3">=></a></td>
+<td><a href="/riboeuk/_mds/WWC3">=></a></td>
 </tr>
 <tr>
 <td>XAF1</td>
@@ -17582,7 +17582,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.975</td>
 <td>-12.201</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/XAF1">=></a></td>
+<td><a href="/riboeuk/_mds/XAF1">=></a></td>
 </tr>
 <tr>
 <td>XPNPEP1</td>
@@ -17594,7 +17594,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.940</td>
 <td>-32.085</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/XPNPEP1">=></a></td>
+<td><a href="/riboeuk/_mds/XPNPEP1">=></a></td>
 </tr>
 <tr>
 <td>XPNPEP1_0</td>
@@ -17606,7 +17606,7 @@ $(document).ready(function(){
 <td>14</td>
 <td>0.911</td>
 <td>-39.952</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/XPNPEP1_0">=></a></td>
+<td><a href="/riboeuk/_mds/XPNPEP1_0">=></a></td>
 </tr>
 <tr>
 <td>XRCC4</td>
@@ -17618,7 +17618,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.932</td>
 <td>-34.424</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/XRCC4">=></a></td>
+<td><a href="/riboeuk/_mds/XRCC4">=></a></td>
 </tr>
 <tr>
 <td>XRCC4_0</td>
@@ -17630,7 +17630,7 @@ $(document).ready(function(){
 <td>19</td>
 <td>0.941</td>
 <td>-47.103</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/XRCC4_0">=></a></td>
+<td><a href="/riboeuk/_mds/XRCC4_0">=></a></td>
 </tr>
 <tr>
 <td>XRCC4_1</td>
@@ -17642,7 +17642,7 @@ $(document).ready(function(){
 <td>18</td>
 <td>0.936</td>
 <td>-75.763</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/XRCC4_1">=></a></td>
+<td><a href="/riboeuk/_mds/XRCC4_1">=></a></td>
 </tr>
 <tr>
 <td>XRCC4_2</td>
@@ -17654,7 +17654,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.940</td>
 <td>-20.599</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/XRCC4_2">=></a></td>
+<td><a href="/riboeuk/_mds/XRCC4_2">=></a></td>
 </tr>
 <tr>
 <td>XRCC5</td>
@@ -17666,7 +17666,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.922</td>
 <td>-52.787</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/XRCC5">=></a></td>
+<td><a href="/riboeuk/_mds/XRCC5">=></a></td>
 </tr>
 <tr>
 <td>XRCC5_0</td>
@@ -17678,7 +17678,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.962</td>
 <td>-24.591</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/XRCC5_0">=></a></td>
+<td><a href="/riboeuk/_mds/XRCC5_0">=></a></td>
 </tr>
 <tr>
 <td>XRCC6</td>
@@ -17690,7 +17690,7 @@ $(document).ready(function(){
 <td>5</td>
 <td>0.984</td>
 <td>-31.257</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/XRCC6">=></a></td>
+<td><a href="/riboeuk/_mds/XRCC6">=></a></td>
 </tr>
 <tr>
 <td>YIF1B</td>
@@ -17702,7 +17702,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.985</td>
 <td>-22.341</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/YIF1B">=></a></td>
+<td><a href="/riboeuk/_mds/YIF1B">=></a></td>
 </tr>
 <tr>
 <td>YIPF1</td>
@@ -17714,7 +17714,7 @@ $(document).ready(function(){
 <td>2</td>
 <td>0.931</td>
 <td>-76.294</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/YIPF1">=></a></td>
+<td><a href="/riboeuk/_mds/YIPF1">=></a></td>
 </tr>
 <tr>
 <td>YIPF2</td>
@@ -17726,7 +17726,7 @@ $(document).ready(function(){
 <td>3</td>
 <td>0.930</td>
 <td>-68.557</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/YIPF2">=></a></td>
+<td><a href="/riboeuk/_mds/YIPF2">=></a></td>
 </tr>
 <tr>
 <td>YIPF2_0</td>
@@ -17738,7 +17738,7 @@ $(document).ready(function(){
 <td>16</td>
 <td>0.934</td>
 <td>-81.412</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/YIPF2_0">=></a></td>
+<td><a href="/riboeuk/_mds/YIPF2_0">=></a></td>
 </tr>
 <tr>
 <td>YLPM1</td>
@@ -17750,7 +17750,7 @@ $(document).ready(function(){
 <td>17</td>
 <td>0.942</td>
 <td>-62.348</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/YLPM1">=></a></td>
+<td><a href="/riboeuk/_mds/YLPM1">=></a></td>
 </tr>
 <tr>
 <td>YOD1</td>
@@ -17762,7 +17762,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.979</td>
 <td>-14.756</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/YOD1">=></a></td>
+<td><a href="/riboeuk/_mds/YOD1">=></a></td>
 </tr>
 <tr>
 <td>YPEL5</td>
@@ -17774,7 +17774,7 @@ $(document).ready(function(){
 <td>7</td>
 <td>0.973</td>
 <td>-32.488</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/YPEL5">=></a></td>
+<td><a href="/riboeuk/_mds/YPEL5">=></a></td>
 </tr>
 <tr>
 <td>YWHAB</td>
@@ -17786,7 +17786,7 @@ $(document).ready(function(){
 <td>12</td>
 <td>0.941</td>
 <td>-46.391</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/YWHAB">=></a></td>
+<td><a href="/riboeuk/_mds/YWHAB">=></a></td>
 </tr>
 <tr>
 <td>YWHAE</td>
@@ -17798,7 +17798,7 @@ $(document).ready(function(){
 <td>3</td>
 <td>0.961</td>
 <td>-31.297</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/YWHAE">=></a></td>
+<td><a href="/riboeuk/_mds/YWHAE">=></a></td>
 </tr>
 <tr>
 <td>ZBED3</td>
@@ -17810,7 +17810,7 @@ $(document).ready(function(){
 <td>3</td>
 <td>0.957</td>
 <td>-48.759</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ZBED3">=></a></td>
+<td><a href="/riboeuk/_mds/ZBED3">=></a></td>
 </tr>
 <tr>
 <td>ZBTB24</td>
@@ -17822,7 +17822,7 @@ $(document).ready(function(){
 <td>5</td>
 <td>0.944</td>
 <td>-24.852</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ZBTB24">=></a></td>
+<td><a href="/riboeuk/_mds/ZBTB24">=></a></td>
 </tr>
 <tr>
 <td>ZBTB39</td>
@@ -17834,7 +17834,7 @@ $(document).ready(function(){
 <td>18</td>
 <td>0.967</td>
 <td>-29.607</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ZBTB39">=></a></td>
+<td><a href="/riboeuk/_mds/ZBTB39">=></a></td>
 </tr>
 <tr>
 <td>ZBTB46</td>
@@ -17846,7 +17846,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.970</td>
 <td>-10.627</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ZBTB46">=></a></td>
+<td><a href="/riboeuk/_mds/ZBTB46">=></a></td>
 </tr>
 <tr>
 <td>ZBTB8OS</td>
@@ -17858,7 +17858,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.988</td>
 <td>-11.660</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ZBTB8OS">=></a></td>
+<td><a href="/riboeuk/_mds/ZBTB8OS">=></a></td>
 </tr>
 <tr>
 <td>ZC3H13</td>
@@ -17870,7 +17870,7 @@ $(document).ready(function(){
 <td>4</td>
 <td>0.969</td>
 <td>-25.837</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ZC3H13">=></a></td>
+<td><a href="/riboeuk/_mds/ZC3H13">=></a></td>
 </tr>
 <tr>
 <td>ZC3H7A</td>
@@ -17882,7 +17882,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.974</td>
 <td>-8.867</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ZC3H7A">=></a></td>
+<td><a href="/riboeuk/_mds/ZC3H7A">=></a></td>
 </tr>
 <tr>
 <td>ZCCHC9</td>
@@ -17894,7 +17894,7 @@ $(document).ready(function(){
 <td>14</td>
 <td>0.925</td>
 <td>-58.900</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ZCCHC9">=></a></td>
+<td><a href="/riboeuk/_mds/ZCCHC9">=></a></td>
 </tr>
 <tr>
 <td>ZCCHC9_0</td>
@@ -17906,7 +17906,7 @@ $(document).ready(function(){
 <td>10</td>
 <td>0.956</td>
 <td>-47.473</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ZCCHC9_0">=></a></td>
+<td><a href="/riboeuk/_mds/ZCCHC9_0">=></a></td>
 </tr>
 <tr>
 <td>ZDHHC20</td>
@@ -17918,7 +17918,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.956</td>
 <td>-24.779</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ZDHHC20">=></a></td>
+<td><a href="/riboeuk/_mds/ZDHHC20">=></a></td>
 </tr>
 <tr>
 <td>ZDHHC6</td>
@@ -17930,7 +17930,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.976</td>
 <td>-21.817</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ZDHHC6">=></a></td>
+<td><a href="/riboeuk/_mds/ZDHHC6">=></a></td>
 </tr>
 <tr>
 <td>ZFAND6</td>
@@ -17942,7 +17942,7 @@ $(document).ready(function(){
 <td>18</td>
 <td>0.907</td>
 <td>-24.041</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ZFAND6">=></a></td>
+<td><a href="/riboeuk/_mds/ZFAND6">=></a></td>
 </tr>
 <tr>
 <td>ZFPL1</td>
@@ -17954,7 +17954,7 @@ $(document).ready(function(){
 <td>12</td>
 <td>0.903</td>
 <td>-65.603</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ZFPL1">=></a></td>
+<td><a href="/riboeuk/_mds/ZFPL1">=></a></td>
 </tr>
 <tr>
 <td>ZFPM2</td>
@@ -17966,7 +17966,7 @@ $(document).ready(function(){
 <td>4</td>
 <td>0.976</td>
 <td>-19.247</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ZFPM2">=></a></td>
+<td><a href="/riboeuk/_mds/ZFPM2">=></a></td>
 </tr>
 <tr>
 <td>ZFR2</td>
@@ -17978,7 +17978,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.940</td>
 <td>-9.935</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ZFR2">=></a></td>
+<td><a href="/riboeuk/_mds/ZFR2">=></a></td>
 </tr>
 <tr>
 <td>ZFYVE16</td>
@@ -17990,7 +17990,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.931</td>
 <td>-38.972</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ZFYVE16">=></a></td>
+<td><a href="/riboeuk/_mds/ZFYVE16">=></a></td>
 </tr>
 <tr>
 <td>ZFYVE19</td>
@@ -18002,7 +18002,7 @@ $(document).ready(function(){
 <td>19</td>
 <td>0.973</td>
 <td>-22.522</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ZFYVE19">=></a></td>
+<td><a href="/riboeuk/_mds/ZFYVE19">=></a></td>
 </tr>
 <tr>
 <td>ZMAT4</td>
@@ -18014,7 +18014,7 @@ $(document).ready(function(){
 <td>8</td>
 <td>0.967</td>
 <td>-18.888</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ZMAT4">=></a></td>
+<td><a href="/riboeuk/_mds/ZMAT4">=></a></td>
 </tr>
 <tr>
 <td>ZMYND11</td>
@@ -18026,7 +18026,7 @@ $(document).ready(function(){
 <td>17</td>
 <td>0.944</td>
 <td>-28.015</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ZMYND11">=></a></td>
+<td><a href="/riboeuk/_mds/ZMYND11">=></a></td>
 </tr>
 <tr>
 <td>ZNF185</td>
@@ -18038,7 +18038,7 @@ $(document).ready(function(){
 <td>2</td>
 <td>0.982</td>
 <td>-13.948</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ZNF185">=></a></td>
+<td><a href="/riboeuk/_mds/ZNF185">=></a></td>
 </tr>
 <tr>
 <td>ZNF211</td>
@@ -18050,7 +18050,7 @@ $(document).ready(function(){
 <td>18</td>
 <td>0.934</td>
 <td>-65.123</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ZNF211">=></a></td>
+<td><a href="/riboeuk/_mds/ZNF211">=></a></td>
 </tr>
 <tr>
 <td>ZNF236</td>
@@ -18062,7 +18062,7 @@ $(document).ready(function(){
 <td>17</td>
 <td>0.908</td>
 <td>-60.109</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ZNF236">=></a></td>
+<td><a href="/riboeuk/_mds/ZNF236">=></a></td>
 </tr>
 <tr>
 <td>ZNF281</td>
@@ -18074,7 +18074,7 @@ $(document).ready(function(){
 <td>3</td>
 <td>0.962</td>
 <td>-46.456</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ZNF281">=></a></td>
+<td><a href="/riboeuk/_mds/ZNF281">=></a></td>
 </tr>
 <tr>
 <td>ZNF292</td>
@@ -18086,7 +18086,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.977</td>
 <td>-17.321</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ZNF292">=></a></td>
+<td><a href="/riboeuk/_mds/ZNF292">=></a></td>
 </tr>
 <tr>
 <td>ZNF292_0</td>
@@ -18098,7 +18098,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.959</td>
 <td>-19.491</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ZNF292_0">=></a></td>
+<td><a href="/riboeuk/_mds/ZNF292_0">=></a></td>
 </tr>
 <tr>
 <td>ZNF345</td>
@@ -18110,7 +18110,7 @@ $(document).ready(function(){
 <td>18</td>
 <td>0.960</td>
 <td>-11.561</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ZNF345">=></a></td>
+<td><a href="/riboeuk/_mds/ZNF345">=></a></td>
 </tr>
 <tr>
 <td>ZNF346</td>
@@ -18122,7 +18122,7 @@ $(document).ready(function(){
 <td>19</td>
 <td>0.983</td>
 <td>-26.051</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ZNF346">=></a></td>
+<td><a href="/riboeuk/_mds/ZNF346">=></a></td>
 </tr>
 <tr>
 <td>ZNF346_0</td>
@@ -18134,7 +18134,7 @@ $(document).ready(function(){
 <td>17</td>
 <td>0.979</td>
 <td>-27.605</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ZNF346_0">=></a></td>
+<td><a href="/riboeuk/_mds/ZNF346_0">=></a></td>
 </tr>
 <tr>
 <td>ZNF407</td>
@@ -18146,7 +18146,7 @@ $(document).ready(function(){
 <td>10</td>
 <td>0.972</td>
 <td>-10.081</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ZNF407">=></a></td>
+<td><a href="/riboeuk/_mds/ZNF407">=></a></td>
 </tr>
 <tr>
 <td>ZNF415</td>
@@ -18158,7 +18158,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.950</td>
 <td>-34.935</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ZNF415">=></a></td>
+<td><a href="/riboeuk/_mds/ZNF415">=></a></td>
 </tr>
 <tr>
 <td>ZNF480</td>
@@ -18170,7 +18170,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.971</td>
 <td>-26.273</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ZNF480">=></a></td>
+<td><a href="/riboeuk/_mds/ZNF480">=></a></td>
 </tr>
 <tr>
 <td>ZNF480_0</td>
@@ -18182,7 +18182,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.978</td>
 <td>-28.578</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ZNF480_0">=></a></td>
+<td><a href="/riboeuk/_mds/ZNF480_0">=></a></td>
 </tr>
 <tr>
 <td>ZNF480_1</td>
@@ -18194,7 +18194,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.978</td>
 <td>-28.578</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ZNF480_1">=></a></td>
+<td><a href="/riboeuk/_mds/ZNF480_1">=></a></td>
 </tr>
 <tr>
 <td>ZNF484</td>
@@ -18206,7 +18206,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.956</td>
 <td>-32.743</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ZNF484">=></a></td>
+<td><a href="/riboeuk/_mds/ZNF484">=></a></td>
 </tr>
 <tr>
 <td>ZNF585B</td>
@@ -18218,7 +18218,7 @@ $(document).ready(function(){
 <td>11</td>
 <td>0.946</td>
 <td>-29.249</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ZNF585B">=></a></td>
+<td><a href="/riboeuk/_mds/ZNF585B">=></a></td>
 </tr>
 <tr>
 <td>ZNF594</td>
@@ -18230,7 +18230,7 @@ $(document).ready(function(){
 <td>2</td>
 <td>0.871</td>
 <td>-66.421</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ZNF594">=></a></td>
+<td><a href="/riboeuk/_mds/ZNF594">=></a></td>
 </tr>
 <tr>
 <td>ZNF611</td>
@@ -18242,7 +18242,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.963</td>
 <td>-21.191</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ZNF611">=></a></td>
+<td><a href="/riboeuk/_mds/ZNF611">=></a></td>
 </tr>
 <tr>
 <td>ZNF611_0</td>
@@ -18254,7 +18254,7 @@ $(document).ready(function(){
 <td>19</td>
 <td>0.938</td>
 <td>-54.150</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ZNF611_0">=></a></td>
+<td><a href="/riboeuk/_mds/ZNF611_0">=></a></td>
 </tr>
 <tr>
 <td>ZNF615</td>
@@ -18266,7 +18266,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.942</td>
 <td>-38.078</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ZNF615">=></a></td>
+<td><a href="/riboeuk/_mds/ZNF615">=></a></td>
 </tr>
 <tr>
 <td>ZNF615_0</td>
@@ -18278,7 +18278,7 @@ $(document).ready(function(){
 <td>17</td>
 <td>0.968</td>
 <td>-23.592</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ZNF615_0">=></a></td>
+<td><a href="/riboeuk/_mds/ZNF615_0">=></a></td>
 </tr>
 <tr>
 <td>ZNF644</td>
@@ -18290,7 +18290,7 @@ $(document).ready(function(){
 <td>11</td>
 <td>0.917</td>
 <td>-60.689</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ZNF644">=></a></td>
+<td><a href="/riboeuk/_mds/ZNF644">=></a></td>
 </tr>
 <tr>
 <td>ZNF687</td>
@@ -18302,7 +18302,7 @@ $(document).ready(function(){
 <td>1</td>
 <td>0.925</td>
 <td>-66.348</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ZNF687">=></a></td>
+<td><a href="/riboeuk/_mds/ZNF687">=></a></td>
 </tr>
 <tr>
 <td>ZNF687_0</td>
@@ -18314,7 +18314,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.977</td>
 <td>-10.979</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ZNF687_0">=></a></td>
+<td><a href="/riboeuk/_mds/ZNF687_0">=></a></td>
 </tr>
 <tr>
 <td>ZNF688</td>
@@ -18326,7 +18326,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.940</td>
 <td>-55.459</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ZNF688">=></a></td>
+<td><a href="/riboeuk/_mds/ZNF688">=></a></td>
 </tr>
 <tr>
 <td>ZNF75D</td>
@@ -18338,7 +18338,7 @@ $(document).ready(function(){
 <td>16</td>
 <td>0.950</td>
 <td>-42.991</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ZNF75D">=></a></td>
+<td><a href="/riboeuk/_mds/ZNF75D">=></a></td>
 </tr>
 <tr>
 <td>ZNF780A</td>
@@ -18350,7 +18350,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.972</td>
 <td>-23.334</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ZNF780A">=></a></td>
+<td><a href="/riboeuk/_mds/ZNF780A">=></a></td>
 </tr>
 <tr>
 <td>ZNF780A_0</td>
@@ -18362,7 +18362,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.972</td>
 <td>-23.334</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ZNF780A_0">=></a></td>
+<td><a href="/riboeuk/_mds/ZNF780A_0">=></a></td>
 </tr>
 <tr>
 <td>ZNF808</td>
@@ -18374,7 +18374,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.951</td>
 <td>-27.422</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ZNF808">=></a></td>
+<td><a href="/riboeuk/_mds/ZNF808">=></a></td>
 </tr>
 <tr>
 <td>ZNF808_0</td>
@@ -18386,7 +18386,7 @@ $(document).ready(function(){
 <td>20</td>
 <td>0.939</td>
 <td>-27.083</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ZNF808_0">=></a></td>
+<td><a href="/riboeuk/_mds/ZNF808_0">=></a></td>
 </tr>
 <tr>
 <td>ZNF821</td>
@@ -18398,7 +18398,7 @@ $(document).ready(function(){
 <td>19</td>
 <td>0.921</td>
 <td>-33.040</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ZNF821">=></a></td>
+<td><a href="/riboeuk/_mds/ZNF821">=></a></td>
 </tr>
 <tr>
 <td>ZRANB3</td>
@@ -18410,7 +18410,7 @@ $(document).ready(function(){
 <td>15</td>
 <td>0.875</td>
 <td>-64.308</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ZRANB3">=></a></td>
+<td><a href="/riboeuk/_mds/ZRANB3">=></a></td>
 </tr>
 <tr>
 <td>ZRANB3_0</td>
@@ -18422,7 +18422,7 @@ $(document).ready(function(){
 <td>12</td>
 <td>0.979</td>
 <td>-20.499</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ZRANB3_0">=></a></td>
+<td><a href="/riboeuk/_mds/ZRANB3_0">=></a></td>
 </tr>
 <tr>
 <td>ZZZ3</td>
@@ -18434,6 +18434,6 @@ $(document).ready(function(){
 <td>2</td>
 <td>0.967</td>
 <td>-14.846</td>
-<td><a href="/human_riboswitch_hits_gallery/_mds/ZZZ3">=></a></td>
+<td><a href="/riboeuk/_mds/ZZZ3">=></a></td>
 </tr>
 </tbody></table>

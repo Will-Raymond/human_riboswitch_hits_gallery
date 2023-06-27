@@ -23,18 +23,19 @@ email: wsraymon@rams.colostate.edu
 description: >- # this means to ignore newlines until "baseurl:"
   This site provides visualization for computationally discovered potential human 5'UTR riboswitches
   
-baseurl: "/human_riboswitch_hits_gallery" # the subpath of your site, e.g. /blog
+baseurl: "/riboeuk" # the subpath of your site, e.g. /blog
 url: "https://will-raymond.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: focowilbur
 github_username:  william-raymond
 markdown: kramdown
 
 # Build settings
-#remote_theme: jekyll/minima
-theme: minima
+remote_theme: jekyll/minima
+#theme: minima
 plugins:
   - jekyll-relative-links
   - jekyll-seo-tag
+  
 include: ['_mds']
 
 header_pages:
