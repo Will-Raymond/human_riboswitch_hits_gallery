@@ -1,47 +1,46 @@
+---
+layout: page
+title: "Ensemble of 20"
+permalink: /display_436/
+datatable: true
+---
 
-        ---
-        layout: page
-        title: "UTR visualization"
-        permalink: /display/
-        datatable: true
-        ---
-        
-        
-        <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/dt/jq-3.6.0/dt-1.11.3/datatables.min.css"/>
-         
-        <script type="text/javascript" src="https://cdn.datatables.net/v/dt/jq-3.6.0/dt-1.11.3/datatables.min.js"></script>
-        
-        
-        
-        <script>
-        $(document).ready(function(){
-            $('table.display').DataTable( {
-                paging: true,
-                stateSave: true,
-                searching: true
-            }
-                );
-        });
-        </script>
-        
-        
-        <table id="maintable" class="display">
-        <thead>
-        <tr>
-        <th>Gene</th>
-        <th>5'UTR mRNA</th>
-        <th>UTRdb link</th>
-        <th>Closest RS</th>
-        <th>RS link</th>
-        <th>Ensemble Norm</th>
-        <th>Ensemble Count</th>
-        <th>Similarity</th>
-        <th>MFE</th>
-        <th>Visualization</th>
-        </tr>
-        </thead>
-        <tbody>
-        <tr>
+<link rel="stylesheet" type="text/css" href="../custom.css">
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/dt/jq-3.6.0/dt-1.11.3/datatables.min.css"/>
+    
+<script type="text/javascript" src="https://cdn.datatables.net/v/dt/jq-3.6.0/dt-1.11.3/datatables.min.js"></script>
+
+
+
+<script>
+$(document).ready(function(){
+    $('table.display').DataTable( {
+        paging: true,
+        stateSave: true,
+        searching: true
+    }
+        );
+});
+</script>
+
+
+<table id="maintable" class="display">
+<thead>
+<tr>
+<th>Gene</th>
+<th>5'UTR mRNA</th>
+<th>UTRdb link</th>
+<th>Closest RS</th>
+<th>RS link</th>
+<th>Ensemble Norm</th>
+<th>Ensemble Count</th>
+<th>Similarity</th>
+<th>MFE</th>
+<th>Visualization</th>
+</tr>
+</thead>
+<tbody>
+<tr>
 <td>AASDHPPT</td>
 <td>5HSAA000186</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA000186/1">UTR</a></td>
