@@ -15,7 +15,7 @@ exclude: true
     <a href="../../_mds/MRPS18B/"><img src="../../icons/arrow_left.png" alt="arrow left" style="width:100%"></a>
   </div>
   <div class="column_center">
-    <img src="../../alns_9.28.22/aln_5HSAA114560-2_0.927.png?raw=true" alt="UTR-RS hit comparison" style="width:100%">
+    <img src="../../alns_10.27.23/aln_5HSAA114560-2_0.927.png?raw=true" alt="UTR-RS hit comparison" style="width:100%">
   </div>
   <div class="column">
     <a href="../../_mds/TMTC3/"><img src="../../icons/arrow_right.png" alt="arrow right" style="width:100%"></a>
@@ -29,12 +29,12 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA114560-2/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS00021EDDCA/561184" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS00021EE04B/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS00021EDE12/1673631" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
-| <span title="ID within respective databases">ID</span>  | 5HSAA114560-2     | URS00021EDDCA_561184     | URS00021EE04B_12908     | URS00021EDE12_1673631     |
+| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA114560-2/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS00021EDDCA/561184" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS00021EE04B/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS00021EDFE7/74033" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="ID within respective databases">ID</span>  | 5HSAA114560-2     | URS00021EDDCA_561184     | URS00021EE04B_12908     | URS00021EDFE7_74033     |
 | <span title="Length of the sequence in question">Length</span>  | 41     |  44    | 43   |  44    |
-| <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.98 | 0.98 | 0.98 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.98 | - | - | - |
-| <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -14.57 | -14.86 | -9.55 | -16.07 |
+| <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.99 | 0.99 | 0.99 |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.99 | - | - | - |
+| <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -14.57 | -14.86 | -9.55 | -15.57 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | SAM | SAM | SAM |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | TTC13 | - | - | - |
 | <span title="Link to the sequence source">Downstream protein</span>  | <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TTC13" target="_blank" rel="noopener noreferrer"> Genecard </a>   |    -    | -  | - |
@@ -114,7 +114,7 @@ exclude: true
 
 <tr>
 <td markdown="span">RS 3 seq </td>
-<td markdown="span"> CCGUCACAACGGCUUCCUGGCGUGACGGCGUCAUCAUUGGAGCA
+<td markdown="span"> CCGUCACAACGGCUUCCUGACGUGACGGCGUCAUCAUUGGAGCA
 </td>
 </tr>
 

@@ -15,7 +15,7 @@ exclude: true
     <a href="../../_mds/AASDH/"><img src="../../icons/arrow_left.png" alt="arrow left" style="width:100%"></a>
   </div>
   <div class="column_center">
-    <img src="../../alns_9.28.22/aln_5HSAA100788_0.900.png?raw=true" alt="UTR-RS hit comparison" style="width:100%">
+    <img src="../../alns_10.27.23/aln_5HSAA100788_0.900.png?raw=true" alt="UTR-RS hit comparison" style="width:100%">
   </div>
   <div class="column">
     <a href="../../_mds/PPP2R5D/"><img src="../../icons/arrow_right.png" alt="arrow right" style="width:100%"></a>
@@ -29,13 +29,13 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA100788/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000BFEA5F/1268622" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000AB55F9/350058" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000ABCF57/596154" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
-| <span title="ID within respective databases">ID</span>  | 5HSAA100788     | URS0000BFEA5F_1268622     | URS0000AB55F9_350058     | URS0000ABCF57_596154     |
+| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA100788/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000D888A2/1214604" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000AB55F9/350058" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D7B715/1121391" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="ID within respective databases">ID</span>  | 5HSAA100788     | URS0000D888A2_1214604     | URS0000AB55F9_350058     | URS0000D7B715_1121391     |
 | <span title="Length of the sequence in question">Length</span>  | 101     |  102    | 99   |  103    |
-| <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.96 | 0.96 | 0.96 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.96 | - | - | - |
-| <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -41.32 | -33.26 | -28.08 | -37.81 |
-| <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | TPP | glycine | TPP |
+| <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.98 | 0.98 | 0.98 |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.98 | - | - | - |
+| <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -41.32 | -22.03 | -28.08 | -37.65 |
+| <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | purine | glycine | TPP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | SLC9A6 | - | - | - |
 | <span title="Link to the sequence source">Downstream protein</span>  | <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SLC9A6" target="_blank" rel="noopener noreferrer"> Genecard </a>   |    -    | -  | - |
 
@@ -44,17 +44,17 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Structural feature squared error">Struct SE</span> | - | 19 | 4 | 10 |
+| <span title="Structural feature squared error">Struct SE</span> | - | 2 | 4 | 4 |
 | <span title="Length difference squared error">Length SE</span> | - | 1 | 4 | 4 |
-| <span title="Edit distance of both dot structures">Lev Distance</span> | - | 25 | 25 | 25 |
-| <span title="Unbranched stack count">UBS</span>| 9 | 8 | 10 | 8 |
+| <span title="Edit distance of both dot structures">Lev Distance</span> | - | 27 | 25 | 26 |
+| <span title="Unbranched stack count">UBS</span>| 9 | 10 | 10 | 10 |
 | <span title="Branched stack counts">BS</span> | 0 | 0 | 0 | 0 |
-| <span title="Inner loop left count">ILL</span> | 1 | 1 | 1 | 1 |
-| <span title="Inner loop right count">ILR</span> | 2 | 3 | 3 | 2 |
+| <span title="Inner loop left count">ILL</span> | 1 | 1 | 1 | 0 |
+| <span title="Inner loop right count">ILR</span> | 2 | 3 | 3 | 3 |
 | <span title="Hairpin counts">H</span> | 2 | 2 | 2 | 2 |
-| <span title="Bulges left count">BL</span> | 5 | 1 | 4 | 2 |
-| <span title="Bulges right count">BR</span> | 4 | 3 | 3 | 4 |
-| <span title="Unpaired nucleotide %">UN</span> | 0.04 | 0.10 | 0.08 | 0.10 |
+| <span title="Bulges left count">BL</span> | 5 | 5 | 4 | 5 |
+| <span title="Bulges right count">BR</span> | 4 | 4 | 3 | 3 |
+| <span title="Unpaired nucleotide %">UN</span> | 0.04 | 0.07 | 0.08 | 0.05 |
 
 **Sequences**
 
@@ -86,14 +86,14 @@ exclude: true
 
 <tr>
 <td markdown="span">RS 1 seq </td>
-<td markdown="span"> CGGACGAAACAGGGGUGUCCCUGCCAUUGGGGCAGGCGGCUGAGAAAGACCCUCACACCCGAUCCAGAUCAUGCUGGCGUGGGAAGUUUCAGGCCUCGGUGC
+<td markdown="span"> CCAACCAAUUGAAUAAGCUCUCGUAUAAUCGUGGGGAUAUGGCCCACAAGUUUCUACCAGGCUACCGUAAAUGGCUUGACUACGAGUGAAGCACACCUCGCA
 </td>
 </tr>
 
 
 <tr>
 <td markdown="span">RS 1 dot </td>
-<td markdown="span"> .(((((.....((((((((((((((.....)))))).)))........)))))......)).))).......((((((.((((....)))).)))..)))..
+<td markdown="span"> .((((((.(((....(((.((.(((.(((.(((((.......)))))..)))..))).)))))....))).))).)))....((((((.....))).)))..
 </td>
 </tr>
 
@@ -114,14 +114,14 @@ exclude: true
 
 <tr>
 <td markdown="span">RS 3 seq </td>
-<td markdown="span"> CGGACGAAACAGGGGUGUCCCCGCCAUGUCGGCGGGCGACUGAGAAAUACCCUUCACACCCGAUCCAGGUCAUGCUGGCGUGGGGAGUUUCCAGCACCGGUGC
+<td markdown="span"> GCGAUCGCCAGGGGGCGUCCUUUCCCCGUGGAAAGGGCUGAGAAGUCACCCCUCGAACCUGAUCCAGGUCAUGCUGGCGGAGGGAUUGGCGAGCGGAUCGAGA
 </td>
 </tr>
 
 
 <tr>
 <td markdown="span">RS 3 dot </td>
-<td markdown="span"> .(((((....(((((((((((((((.....)))))).)))........))))))......)).))).......(((((.((.(((....))).)).)))))..
+<td markdown="span"> (.((((((.((((((((((((((((....)))))))))......))..))))).)....)))))).((((.((((.((.((....)).)).))))))))....
 </td>
 </tr>
 

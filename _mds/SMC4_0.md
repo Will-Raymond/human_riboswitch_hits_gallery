@@ -15,7 +15,7 @@ exclude: true
     <a href="../../_mds/HOXB5/"><img src="../../icons/arrow_left.png" alt="arrow left" style="width:100%"></a>
   </div>
   <div class="column_center">
-    <img src="../../alns_9.28.22/aln_5HSAA101353_0.990.png?raw=true" alt="UTR-RS hit comparison" style="width:100%">
+    <img src="../../alns_10.27.23/aln_5HSAA101353_0.990.png?raw=true" alt="UTR-RS hit comparison" style="width:100%">
   </div>
   <div class="column">
     <a href="../../_mds/ANAPC10_1/"><img src="../../icons/arrow_right.png" alt="arrow right" style="width:100%"></a>
@@ -32,8 +32,8 @@ exclude: true
 | <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA101353/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C3FAE3/1144300" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000D6C6DB/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D93AA5/1986704" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA101353     | URS0000C3FAE3_1144300     | URS0000D6C6DB_12908     | URS0000D93AA5_1986704     |
 | <span title="Length of the sequence in question">Length</span>  | 89     |  89    | 88   |  90    |
-| <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.97 | 0.97 | 0.97 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.97 | - | - | - |
+| <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.98 | 0.98 | 0.98 |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.98 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -24.42 | -19.97 | -40.46 | -19.43 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | TPP | GMP | TPP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | SMC4 | - | - | - |

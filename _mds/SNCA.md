@@ -15,7 +15,7 @@ exclude: true
     <a href="../../_mds/TSPAN5/"><img src="../../icons/arrow_left.png" alt="arrow left" style="width:100%"></a>
   </div>
   <div class="column_center">
-    <img src="../../alns_9.28.22/aln_5HSAA101861_0.973.png?raw=true" alt="UTR-RS hit comparison" style="width:100%">
+    <img src="../../alns_10.27.23/aln_5HSAA101861_0.973.png?raw=true" alt="UTR-RS hit comparison" style="width:100%">
   </div>
   <div class="column">
     <a href="../../_mds/ZNF415/"><img src="../../icons/arrow_right.png" alt="arrow right" style="width:100%"></a>
@@ -29,12 +29,12 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA101861/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000DAE9D3/54914" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C5F3CF/1144311" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000BA420C/1520" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
-| <span title="ID within respective databases">ID</span>  | 5HSAA101861     | URS0000DAE9D3_54914     | URS0000C5F3CF_1144311     | URS0000BA420C_1520     |
+| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA101861/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000DAE9D3/54914" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C5F3CF/1144311" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000AB80C8/290402" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="ID within respective databases">ID</span>  | 5HSAA101861     | URS0000DAE9D3_54914     | URS0000C5F3CF_1144311     | URS0000AB80C8_290402     |
 | <span title="Length of the sequence in question">Length</span>  | 121     |  121    | 121   |  118    |
-| <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.97 | 0.97 | 0.95 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.97 | - | - | - |
-| <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -30.68 | -42.02 | -41.82 | -25.82 |
+| <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.98 | 0.98 | 0.98 |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.98 | - | - | - |
+| <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -30.68 | -42.02 | -41.82 | -26.22 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | SAM | SAM | SAM |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | SNCA | - | - | - |
 | <span title="Link to the sequence source">Downstream protein</span>  | <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SNCA" target="_blank" rel="noopener noreferrer"> Genecard </a>   |    -    | -  | - |
@@ -114,7 +114,7 @@ exclude: true
 
 <tr>
 <td markdown="span">RS 3 seq </td>
-<td markdown="span"> AUCUUAUUAAGAGCGGUGGAGGGACUGGCCCUUUGAAGCCCGGCAACCUGAAAAGUUUUAUAUAUAAAUUUUUUCGUUGGUGCUAAAUCCUGCAAGAGAAUAUCUUGAAAAAUGAGAG
+<td markdown="span"> AUCUUAUUAAGAGCGGUGGAGGGACUGGCCCUUUGAAGCCCGGCAACCUGAAAGAUUUUAUAUAUAAAUUUUUUCGUUGGUGCUAAAUCCUGCAAGAGAAUAUCUUGAAAAAUGAGAG
 </td>
 </tr>
 

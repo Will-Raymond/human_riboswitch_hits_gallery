@@ -15,7 +15,7 @@ exclude: true
     <a href="../../_mds/LBR_1/"><img src="../../icons/arrow_left.png" alt="arrow left" style="width:100%"></a>
   </div>
   <div class="column_center">
-    <img src="../../alns_9.28.22/aln_5HSAA076188_0.855.png?raw=true" alt="UTR-RS hit comparison" style="width:100%">
+    <img src="../../alns_10.27.23/aln_5HSAA076188_0.855.png?raw=true" alt="UTR-RS hit comparison" style="width:100%">
   </div>
   <div class="column">
     <a href="../../_mds/SENP2/"><img src="../../icons/arrow_right.png" alt="arrow right" style="width:100%"></a>
@@ -29,12 +29,12 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA076188/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C871BE/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000BF2A85/1002672" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C4B356/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
-| <span title="ID within respective databases">ID</span>  | 5HSAA076188     | URS0000C871BE_12908     | URS0000BF2A85_1002672     | URS0000C4B356_12908     |
+| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA076188/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C871BE/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C4B356/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000BF2A85/1002672" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="ID within respective databases">ID</span>  | 5HSAA076188     | URS0000C871BE_12908     | URS0000C4B356_12908     | URS0000BF2A85_1002672     |
 | <span title="Length of the sequence in question">Length</span>  | 54     |  53    | 53   |  53    |
-| <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.99 | 0.98 | 0.98 |
+| <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.99 | 0.99 | 0.99 |
 | <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.99 | - | - | - |
-| <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -11.50 | -8.43 | -9.05 | -9.75 |
+| <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -11.50 | -8.43 | -9.75 | -9.05 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | glutamine | glutamine | glutamine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | PADI4 | - | - | - |
 | <span title="Link to the sequence source">Downstream protein</span>  | <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PADI4" target="_blank" rel="noopener noreferrer"> Genecard </a>   |    -    | -  | - |
@@ -100,7 +100,7 @@ exclude: true
 
 <tr>
 <td markdown="span">RS 2 seq </td>
-<td markdown="span"> AACGUUCAUCUUUUUUUAAAAAGACGGAAGUAGCGAAAGCGAAGGAACGCACC
+<td markdown="span"> AACGUUCAUCUUUUUUUUAAAAGACGGAAGUAGCGAAAGCGAAGGAACGCACC
 </td>
 </tr>
 
@@ -114,7 +114,7 @@ exclude: true
 
 <tr>
 <td markdown="span">RS 3 seq </td>
-<td markdown="span"> AACGUUCAUCUUUUUUUUAAAAGACGGAAGUAGCGAAAGCGAAGGAACGCACC
+<td markdown="span"> AACGUUCAUCUUUUUUUAAAAAGACGGAAGUAGCGAAAGCGAAGGAACGCACC
 </td>
 </tr>
 

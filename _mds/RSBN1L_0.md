@@ -15,7 +15,7 @@ exclude: true
     <a href="../../_mds/USP6NL/"><img src="../../icons/arrow_left.png" alt="arrow left" style="width:100%"></a>
   </div>
   <div class="column_center">
-    <img src="../../alns_9.28.22/aln_5HSAA093412_0.768.png?raw=true" alt="UTR-RS hit comparison" style="width:100%">
+    <img src="../../alns_10.27.23/aln_5HSAA093412_0.768.png?raw=true" alt="UTR-RS hit comparison" style="width:100%">
   </div>
   <div class="column">
     <a href="../../_mds/UBE2F/"><img src="../../icons/arrow_right.png" alt="arrow right" style="width:100%"></a>
@@ -32,8 +32,8 @@ exclude: true
 | <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA093412/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000ABD446/1313296" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0001A24B50/1907202" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS000080E32E/119072" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA093412     | URS0000ABD446_1313296     | URS0001A24B50_1907202     | URS000080E32E_119072     |
 | <span title="Length of the sequence in question">Length</span>  | 27     |  32    | 26   |  33    |
-| <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.96 | 0.98 | 0.94 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.96 | - | - | - |
+| <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.99 | 0.99 | 0.99 |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.99 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -7.23 | -4.72 | -10.70 | -6.10 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | preQ_1 | unknown | preQ_1 |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | RSBN1L | - | - | - |

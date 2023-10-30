@@ -15,7 +15,7 @@ exclude: true
     <a href="../../_mds/DGKA/"><img src="../../icons/arrow_left.png" alt="arrow left" style="width:100%"></a>
   </div>
   <div class="column_center">
-    <img src="../../alns_9.28.22/aln_5HSAA062271_0.909.png?raw=true" alt="UTR-RS hit comparison" style="width:100%">
+    <img src="../../alns_10.27.23/aln_5HSAA062271_0.909.png?raw=true" alt="UTR-RS hit comparison" style="width:100%">
   </div>
   <div class="column">
     <a href="../../_mds/UBAP2L_1/"><img src="../../icons/arrow_right.png" alt="arrow right" style="width:100%"></a>
@@ -32,8 +32,8 @@ exclude: true
 | <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA062271/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C0BDD2/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C16F93/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C1F70A/69370" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA062271     | URS0000C0BDD2_12908     | URS0000C16F93_12908     | URS0000C1F70A_69370     |
 | <span title="Length of the sequence in question">Length</span>  | 96     |  96    | 96   |  97    |
-| <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.97 | 0.97 | 0.97 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.97 | - | - | - |
+| <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.98 | 0.98 | 0.98 |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.98 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -23.84 | -33.69 | -33.69 | -29.36 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | zmp-ztp | zmp-ztp | glycine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | MAP2K1 | - | - | - |

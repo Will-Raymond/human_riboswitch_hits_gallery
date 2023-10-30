@@ -15,7 +15,7 @@ exclude: true
     <a href="../../_mds/AFTPH/"><img src="../../icons/arrow_left.png" alt="arrow left" style="width:100%"></a>
   </div>
   <div class="column_center">
-    <img src="../../alns_9.28.22/aln_5HSAA078841_0.792.png?raw=true" alt="UTR-RS hit comparison" style="width:100%">
+    <img src="../../alns_10.27.23/aln_5HSAA078841_0.792.png?raw=true" alt="UTR-RS hit comparison" style="width:100%">
   </div>
   <div class="column">
     <a href="../../_mds/SLC27A3/"><img src="../../icons/arrow_right.png" alt="arrow right" style="width:100%"></a>
@@ -32,7 +32,7 @@ exclude: true
 | <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA078841/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000AB2144/457429" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C1769C/1423804" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C82921/1408889" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA078841     | URS0000AB2144_457429     | URS0000C1769C_1423804     | URS0000C82921_1408889     |
 | <span title="Length of the sequence in question">Length</span>  | 92     |  93    | 90   |  89    |
-| <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.98 | 0.97 | 0.96 |
+| <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.98 | 0.98 | 0.98 |
 | <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.98 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -23.46 | -36.72 | -16.78 | -15.77 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | SAM | glycine |

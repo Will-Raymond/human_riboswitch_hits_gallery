@@ -15,7 +15,7 @@ exclude: true
     <a href="../../_mds/TNFRSF10D/"><img src="../../icons/arrow_left.png" alt="arrow left" style="width:100%"></a>
   </div>
   <div class="column_center">
-    <img src="../../alns_9.28.22/aln_5HSAA102389_0.771.png?raw=true" alt="UTR-RS hit comparison" style="width:100%">
+    <img src="../../alns_10.27.23/aln_5HSAA102389_0.771.png?raw=true" alt="UTR-RS hit comparison" style="width:100%">
   </div>
   <div class="column">
     <a href="../../_mds/FRMD1/"><img src="../../icons/arrow_right.png" alt="arrow right" style="width:100%"></a>
@@ -32,8 +32,8 @@ exclude: true
 | <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA102389/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0002325ECD/1396518" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C41A15/553198" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000AB8E05/872330" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA102389     | URS0002325ECD_1396518     | URS0000C41A15_553198     | URS0000AB8E05_872330     |
 | <span title="Length of the sequence in question">Length</span>  | 129     |  125    | 123   |  132    |
-| <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.94 | 0.89 | 0.94 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.94 | - | - | - |
+| <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.97 | 0.97 | 0.97 |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.97 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -49.15 | -62.47 | -42.85 | -60.59 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | zmp-ztp | FMN | homocysteine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | SOD1 | - | - | - |

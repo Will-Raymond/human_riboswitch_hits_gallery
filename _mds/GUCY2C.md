@@ -15,7 +15,7 @@ exclude: true
     <a href="../../_mds/MCM2/"><img src="../../icons/arrow_left.png" alt="arrow left" style="width:100%"></a>
   </div>
   <div class="column_center">
-    <img src="../../alns_9.28.22/aln_5HSAA047486_0.815.png?raw=true" alt="UTR-RS hit comparison" style="width:100%">
+    <img src="../../alns_10.27.23/aln_5HSAA047486_0.815.png?raw=true" alt="UTR-RS hit comparison" style="width:100%">
   </div>
   <div class="column">
     <a href="../../_mds/ATP6AP1L/"><img src="../../icons/arrow_right.png" alt="arrow right" style="width:100%"></a>
@@ -32,8 +32,8 @@ exclude: true
 | <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA047486/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000D7A231/1805090" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000AB5B72/338969" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000AB47FE/748280" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA047486     | URS0000D7A231_1805090     | URS0000AB5B72_338969     | URS0000AB47FE_748280     |
 | <span title="Length of the sequence in question">Length</span>  | 72     |  72    | 71   |  71    |
-| <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.98 | 0.98 | 0.98 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.98 | - | - | - |
+| <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.99 | 0.99 | 0.99 |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.99 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -15.41 | -21.15 | -24.75 | -28.19 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | homocysteine | homocysteine | homocysteine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | GUCY2C | - | - | - |

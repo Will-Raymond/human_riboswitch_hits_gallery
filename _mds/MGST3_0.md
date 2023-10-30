@@ -15,7 +15,7 @@ exclude: true
     <a href="../../_mds/NR1H2/"><img src="../../icons/arrow_left.png" alt="arrow left" style="width:100%"></a>
   </div>
   <div class="column_center">
-    <img src="../../alns_9.28.22/aln_5HSAA065735_0.885.png?raw=true" alt="UTR-RS hit comparison" style="width:100%">
+    <img src="../../alns_10.27.23/aln_5HSAA065735_0.885.png?raw=true" alt="UTR-RS hit comparison" style="width:100%">
   </div>
   <div class="column">
     <a href="../../_mds/FGF6/"><img src="../../icons/arrow_right.png" alt="arrow right" style="width:100%"></a>
@@ -29,12 +29,12 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA065735/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000D6ADE4/392499" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000E6047F/1234595" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000E5FBD5/1206458" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
-| <span title="ID within respective databases">ID</span>  | 5HSAA065735     | URS0000D6ADE4_392499     | URS0000E6047F_1234595     | URS0000E5FBD5_1206458     |
+| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA065735/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000E5FBD5/1206458" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000E6047F/1234595" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D6ADE4/392499" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="ID within respective databases">ID</span>  | 5HSAA065735     | URS0000E5FBD5_1206458     | URS0000E6047F_1234595     | URS0000D6ADE4_392499     |
 | <span title="Length of the sequence in question">Length</span>  | 53     |  54    | 54   |  54    |
-| <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.98 | 0.98 | 0.98 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.98 | - | - | - |
-| <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -10.58 | -27.13 | -29.03 | -29.03 |
+| <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.99 | 0.99 | 0.99 |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.99 | - | - | - |
+| <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -10.58 | -29.03 | -29.03 | -27.13 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | unknown | unknown | unknown |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | MGST3 | - | - | - |
 | <span title="Link to the sequence source">Downstream protein</span>  | <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MGST3" target="_blank" rel="noopener noreferrer"> Genecard </a>   |    -    | -  | - |
@@ -86,7 +86,7 @@ exclude: true
 
 <tr>
 <td markdown="span">RS 1 seq </td>
-<td markdown="span"> GUCGGACCCGGCCGUGCCGGGUGGCUCGGCCCGGCGCCUAUCCCCGGGACAACC
+<td markdown="span"> AUCGGACCCGGCCGCGCCGGGUGGCUCGGCCCGGCGCCUAUCCCCGGGACAACC
 </td>
 </tr>
 
@@ -114,7 +114,7 @@ exclude: true
 
 <tr>
 <td markdown="span">RS 3 seq </td>
-<td markdown="span"> AUCGGACCCGGCCGCGCCGGGUGGCUCGGCCCGGCGCCUAUCCCCGGGACAACC
+<td markdown="span"> GUCGGACCCGGCCGUGCCGGGUGGCUCGGCCCGGCGCCUAUCCCCGGGACAACC
 </td>
 </tr>
 

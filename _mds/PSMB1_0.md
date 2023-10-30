@@ -15,7 +15,7 @@ exclude: true
     <a href="../../_mds/ADRA1D/"><img src="../../icons/arrow_left.png" alt="arrow left" style="width:100%"></a>
   </div>
   <div class="column_center">
-    <img src="../../alns_9.28.22/aln_5HSAA085499_0.899.png?raw=true" alt="UTR-RS hit comparison" style="width:100%">
+    <img src="../../alns_10.27.23/aln_5HSAA085499_0.899.png?raw=true" alt="UTR-RS hit comparison" style="width:100%">
   </div>
   <div class="column">
     <a href="../../_mds/CORO7/"><img src="../../icons/arrow_right.png" alt="arrow right" style="width:100%"></a>
@@ -32,8 +32,8 @@ exclude: true
 | <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA085499/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000BE3845/1587522" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000BFDB44/1736457" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D669B4/384765" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA085499     | URS0000BE3845_1587522     | URS0000BFDB44_1736457     | URS0000D669B4_384765     |
 | <span title="Length of the sequence in question">Length</span>  | 124     |  125    | 120   |  123    |
-| <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.96 | 0.93 | 0.95 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.96 | - | - | - |
+| <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.97 | 0.97 | 0.97 |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.97 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -35.49 | -56.27 | -51.45 | -43.11 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | methionine | methionine | SAM |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | PSMB1 | - | - | - |

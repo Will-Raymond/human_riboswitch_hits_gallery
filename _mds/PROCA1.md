@@ -15,7 +15,7 @@ exclude: true
     <a href="../../_mds/SIM2/"><img src="../../icons/arrow_left.png" alt="arrow left" style="width:100%"></a>
   </div>
   <div class="column_center">
-    <img src="../../alns_9.28.22/aln_5HSAA084926_0.807.png?raw=true" alt="UTR-RS hit comparison" style="width:100%">
+    <img src="../../alns_10.27.23/aln_5HSAA084926_0.807.png?raw=true" alt="UTR-RS hit comparison" style="width:100%">
   </div>
   <div class="column">
     <a href="../../_mds/STK32B/"><img src="../../icons/arrow_right.png" alt="arrow right" style="width:100%"></a>
@@ -29,11 +29,11 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA084926/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS00021EDC21/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS00021EDEB0/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D99644/574375" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
-| <span title="ID within respective databases">ID</span>  | 5HSAA084926     | URS00021EDC21_12908     | URS00021EDEB0_12908     | URS0000D99644_574375     |
+| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA084926/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS00021EDEB0/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS00021EDC21/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D99644/574375" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="ID within respective databases">ID</span>  | 5HSAA084926     | URS00021EDEB0_12908     | URS00021EDC21_12908     | URS0000D99644_574375     |
 | <span title="Length of the sequence in question">Length</span>  | 47     |  45    | 45   |  48    |
-| <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.98 | 0.98 | 0.98 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.98 | - | - | - |
+| <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.99 | 0.99 | 0.99 |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.99 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -12.15 | -6.09 | -6.09 | -11.09 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | SAM | SAM | SAM |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | PROCA1 | - | - | - |
@@ -86,7 +86,7 @@ exclude: true
 
 <tr>
 <td markdown="span">RS 1 seq </td>
-<td markdown="span"> AACUUAUAACGGCUACCUGAAGUAAGUUUUUUUAUAAAUGGAGCA
+<td markdown="span"> AACUUAUAACGGCUACCUGAAGUAAGUUUUUUUAUAAACGGAGCA
 </td>
 </tr>
 
@@ -100,7 +100,7 @@ exclude: true
 
 <tr>
 <td markdown="span">RS 2 seq </td>
-<td markdown="span"> AACUUAUAACGGCUACCUGAAGUAAGUUUUUUUAUAAACGGAGCA
+<td markdown="span"> AACUUAUAACGGCUACCUGAAGUAAGUUUUUUUAUAAAUGGAGCA
 </td>
 </tr>
 

@@ -15,7 +15,7 @@ exclude: true
     <a href="../../_mds/SS18/"><img src="../../icons/arrow_left.png" alt="arrow left" style="width:100%"></a>
   </div>
   <div class="column_center">
-    <img src="../../alns_9.28.22/aln_5HSAA108965-1_0.899.png?raw=true" alt="UTR-RS hit comparison" style="width:100%">
+    <img src="../../alns_10.27.23/aln_5HSAA108965-1_0.899.png?raw=true" alt="UTR-RS hit comparison" style="width:100%">
   </div>
   <div class="column">
     <a href="../../_mds/HNRNPH2/"><img src="../../icons/arrow_right.png" alt="arrow right" style="width:100%"></a>
@@ -29,12 +29,12 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA108965-1/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C1972A/1413211" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000AB59C7/350701" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000DA0538/488446" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
-| <span title="ID within respective databases">ID</span>  | 5HSAA108965-1     | URS0000C1972A_1413211     | URS0000AB59C7_350701     | URS0000DA0538_488446     |
+| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA108965-1/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C1972A/1413211" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000AB59C7/350701" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000ABCB18/216591" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="ID within respective databases">ID</span>  | 5HSAA108965-1     | URS0000C1972A_1413211     | URS0000AB59C7_350701     | URS0000ABCB18_216591     |
 | <span title="Length of the sequence in question">Length</span>  | 133     |  131    | 134   |  132    |
-| <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.96 | 0.96 | 0.96 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.96 | - | - | - |
-| <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -38.74 | -39.33 | -57.60 | -58.10 |
+| <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.97 | 0.97 | 0.97 |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.97 | - | - | - |
+| <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -38.74 | -39.33 | -57.60 | -55.10 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | molybdenum | guanidine | guanidine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | THAP6 | - | - | - |
 | <span title="Link to the sequence source">Downstream protein</span>  | <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=THAP6" target="_blank" rel="noopener noreferrer"> Genecard </a>   |    -    | -  | - |
@@ -114,14 +114,14 @@ exclude: true
 
 <tr>
 <td markdown="span">RS 3 seq </td>
-<td markdown="span"> CUUCAGGAUCGCUAGGGUUCCGGUCGUGCGGCGUGCGCCGCGCGAUGCCUGGUCCGAGAGCAAUCCGGUCUUGCCUUCGCCUCGAUCCGAGGAAACGGCGAGGCUCCACGGAGGGAUAAAAGCCCGGGAGGU
+<td markdown="span"> CUUCAGGAUCGCUAGGGUUCCGGUCGUGCGGCAUGUGCCGUGCGAUGUCUGGUCCGAGAGCAAUCCGGUCUUGCCUUCGCCUCGAUGAGAGGAAACGGCGAGGCUCCACGGAGGGAUAAAAGCCCGGGAGGU
 </td>
 </tr>
 
 
 <tr>
 <td markdown="span">RS 3 dot </td>
-<td markdown="span"> .....((((.(((.(((..(((((((((((((....)))))))))...)))))))...))).))))..(((((((.(..(((((...)))))..).)))))))((((.(((.(.........))))))))..
+<td markdown="span"> .....((((.(((.(((..(((((((((((((....)))))))))...)))))))...))).))))..(((((((.(..((((.....))))..).)))))))((((.(((.(.........))))))))..
 </td>
 </tr>
 

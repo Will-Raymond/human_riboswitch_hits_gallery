@@ -35,7 +35,7 @@ exclude: true
     <a href="../../_mds/%s/"><img src="../../icons/arrow_left.png" alt="arrow left" style="width:100%%"></a>
   </div>
   <div class="column_center">
-    <img src="../../alns_9.28.22/%s?raw=true" alt="UTR-RS hit comparison" style="width:100%%">
+    <img src="../../alns_10.27.23/%s?raw=true" alt="UTR-RS hit comparison" style="width:100%%">
   </div>
   <div class="column">
     <a href="../../_mds/%s/"><img src="../../icons/arrow_right.png" alt="arrow right" style="width:100%%"></a>
@@ -230,9 +230,9 @@ def make_md_table(utr_list, genes, best_RSs, utr_probas, algn_scores, MFEs, norm
             '<td><a href="http://utrdb.ba.itb.cnr.it/getutr/%s/1">UTR</a></td>\n'%UTR,
             '<td>%s</td>\n'%best_RS,
             '<td><a href="https://rnacentral.org/rna/%s">RS</a></td>\n'%best_RS_url,
-            '<td>%.3f</td>\n'%utr_probability,
+            '<td>%.4f</td>\n'%utr_probability,
             '<td>%i</td>\n'%20,
-            '<td>%.3f</td>\n'%algn_score,
+            '<td>%.4f</td>\n'%algn_score,
             '<td>%.3f</td>\n'%MFE,
             '<td><a href="/human_riboswitch_hits_gallery/_mds/%s">=></a></td>\n'%gene,
             '</tr>\n',
@@ -366,7 +366,7 @@ for i in range(len(ulist)):
 
 
 
-ens20 = True
+ens20 = False
 if ens20 == True:
     ulist_keep = []
     keep_indexes = []
@@ -428,9 +428,9 @@ sort_proba = np.sort(utr_probas)[::-1]
 sort_index = np.argsort(utr_probas)[::-1].tolist()
 page_order = [used_genes[i] for i in sort_index]
 
-make_md_table(ulist2, used_genes, best_RSs, utr_probas, algn_scores_1, MFEs, norm_algn, ENS_count, table_name='display_')  
+make_md_table(ulist, used_genes, best_RSs, utr_probas, algn_scores_1, MFEs, norm_algn, ENS_count, table_name='display_')  
 
-1/0
+
 previously_used_indexes = []
 for i in range(len(ulist)):
     

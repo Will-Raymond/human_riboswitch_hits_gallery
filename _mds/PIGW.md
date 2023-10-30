@@ -15,7 +15,7 @@ exclude: true
     <a href="../../_mds/DYDC1/"><img src="../../icons/arrow_left.png" alt="arrow left" style="width:100%"></a>
   </div>
   <div class="column_center">
-    <img src="../../alns_9.28.22/aln_5HSAA080275_0.825.png?raw=true" alt="UTR-RS hit comparison" style="width:100%">
+    <img src="../../alns_10.27.23/aln_5HSAA080275_0.825.png?raw=true" alt="UTR-RS hit comparison" style="width:100%">
   </div>
   <div class="column">
     <a href="../../_mds/PPWD1_0/"><img src="../../icons/arrow_right.png" alt="arrow right" style="width:100%"></a>
@@ -29,13 +29,13 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA080275/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000BF57F5/1660103" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C2AFA1/272562" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C4841F/1385513" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
-| <span title="ID within respective databases">ID</span>  | 5HSAA080275     | URS0000BF57F5_1660103     | URS0000C2AFA1_272562     | URS0000C4841F_1385513     |
+| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA080275/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000BF57F5/1660103" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C2AFA1/272562" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D7BC72/1960125" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="ID within respective databases">ID</span>  | 5HSAA080275     | URS0000BF57F5_1660103     | URS0000C2AFA1_272562     | URS0000D7BC72_1960125     |
 | <span title="Length of the sequence in question">Length</span>  | 80     |  79    | 81   |  79    |
-| <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.98 | 0.98 | 0.98 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.98 | - | - | - |
-| <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -20.44 | -20.49 | -17 | -16.42 |
-| <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | SAM | zmp-ztp | glycine |
+| <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.99 | 0.98 | 0.98 |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.99 | - | - | - |
+| <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -20.44 | -20.49 | -17 | -17 |
+| <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | SAM | zmp-ztp | SAM |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | PIGW | - | - | - |
 | <span title="Link to the sequence source">Downstream protein</span>  | <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PIGW" target="_blank" rel="noopener noreferrer"> Genecard </a>   |    -    | -  | - |
 
@@ -44,17 +44,17 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Structural feature squared error">Struct SE</span> | - | 7 | 4 | 8 |
+| <span title="Structural feature squared error">Struct SE</span> | - | 7 | 4 | 3.01 |
 | <span title="Length difference squared error">Length SE</span> | - | 1 | 1 | 1 |
-| <span title="Edit distance of both dot structures">Lev Distance</span> | - | 17 | 19 | 19 |
-| <span title="Unbranched stack count">UBS</span>| 4 | 5 | 5 | 6 |
+| <span title="Edit distance of both dot structures">Lev Distance</span> | - | 17 | 19 | 20 |
+| <span title="Unbranched stack count">UBS</span>| 4 | 5 | 5 | 4 |
 | <span title="Branched stack counts">BS</span> | 0 | 0 | 0 | 0 |
-| <span title="Inner loop left count">ILL</span> | 2 | 0 | 1 | 3 |
+| <span title="Inner loop left count">ILL</span> | 2 | 0 | 1 | 1 |
 | <span title="Inner loop right count">ILR</span> | 2 | 2 | 2 | 1 |
 | <span title="Hairpin counts">H</span> | 2 | 2 | 2 | 2 |
-| <span title="Bulges left count">BL</span> | 0 | 1 | 1 | 1 |
+| <span title="Bulges left count">BL</span> | 0 | 1 | 1 | 0 |
 | <span title="Bulges right count">BR</span> | 0 | 1 | 1 | 1 |
-| <span title="Unpaired nucleotide %">UN</span> | 0.26 | 0.29 | 0.30 | 0.30 |
+| <span title="Unpaired nucleotide %">UN</span> | 0.26 | 0.29 | 0.30 | 0.34 |
 
 **Sequences**
 
@@ -114,14 +114,14 @@ exclude: true
 
 <tr>
 <td markdown="span">RS 3 seq </td>
-<td markdown="span"> GGAGCCAAUCCUGGAGAGAUCGCUUUUAAAGCGACGCCGAAGGGUUCAUGAUCUCAGGCAACCGGACAGGAACGAACUU
+<td markdown="span"> CUUCGGUCAGGCGCUGAUUUGUUACUUCGGCUUGCGGGCGCUUAAUAAAUACCGCUAAAGAGAUAGUGGACGUCUAUCC
 </td>
 </tr>
 
 
 <tr>
 <td markdown="span">RS 3 dot </td>
-<td markdown="span"> .(((((..((..((.(...((((((...))))))).))))..)))))..............((.....)).........
+<td markdown="span"> .....(((..(((((((.........)))))..)).)))............((((((......))))))..........
 </td>
 </tr>
 

@@ -12,10 +12,10 @@ exclude: true
 
 <div class="row" >
   <div class="column">
-    <a href="../../_mds/GPN1/"><img src="../../icons/arrow_left.png" alt="arrow left" style="width:100%"></a>
+    <a href="../../_mds/GPN1_0/"><img src="../../icons/arrow_left.png" alt="arrow left" style="width:100%"></a>
   </div>
   <div class="column_center">
-    <img src="../../alns_9.28.22/aln_5HSAA087515_0.755.png?raw=true" alt="UTR-RS hit comparison" style="width:100%">
+    <img src="../../alns_10.27.23/aln_5HSAA087515_0.755.png?raw=true" alt="UTR-RS hit comparison" style="width:100%">
   </div>
   <div class="column">
     <a href="../../_mds/ATG12/"><img src="../../icons/arrow_right.png" alt="arrow right" style="width:100%"></a>
@@ -29,12 +29,12 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA087515/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000AB9921/702450" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000ABB332/913865" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000DB4E38/1497" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
-| <span title="ID within respective databases">ID</span>  | 5HSAA087515     | URS0000AB9921_702450     | URS0000ABB332_913865     | URS0000DB4E38_1497     |
+| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA087515/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000AB9921/702450" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000DB4E38/1497" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000ABB332/913865" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="ID within respective databases">ID</span>  | 5HSAA087515     | URS0000AB9921_702450     | URS0000DB4E38_1497     | URS0000ABB332_913865     |
 | <span title="Length of the sequence in question">Length</span>  | 82     |  83    | 83   |  83    |
-| <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.98 | 0.97 | 0.97 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.98 | - | - | - |
-| <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -10.46 | -11.78 | -14.77 | -15.40 |
+| <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.99 | 0.98 | 0.98 |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.99 | - | - | - |
+| <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -10.46 | -11.78 | -15.40 | -14.77 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cyclic-di-GMP | cyclic-di-GMP | cyclic-di-GMP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | RAB3GAP1 | - | - | - |
 | <span title="Link to the sequence source">Downstream protein</span>  | <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB3GAP1" target="_blank" rel="noopener noreferrer"> Genecard </a>   |    -    | -  | - |
@@ -44,16 +44,16 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Structural feature squared error">Struct SE</span> | - | 2 | 11.01 | 2.01 |
+| <span title="Structural feature squared error">Struct SE</span> | - | 2 | 2.01 | 11.01 |
 | <span title="Length difference squared error">Length SE</span> | - | 1 | 1 | 1 |
-| <span title="Edit distance of both dot structures">Lev Distance</span> | - | 18 | 22 | 23 |
-| <span title="Unbranched stack count">UBS</span>| 2 | 3 | 4 | 3 |
+| <span title="Edit distance of both dot structures">Lev Distance</span> | - | 18 | 23 | 22 |
+| <span title="Unbranched stack count">UBS</span>| 2 | 3 | 3 | 4 |
 | <span title="Branched stack counts">BS</span> | 0 | 0 | 0 | 0 |
-| <span title="Inner loop left count">ILL</span> | 1 | 1 | 0 | 1 |
+| <span title="Inner loop left count">ILL</span> | 1 | 1 | 1 | 0 |
 | <span title="Inner loop right count">ILR</span> | 0 | 1 | 0 | 0 |
 | <span title="Hairpin counts">H</span> | 1 | 1 | 2 | 2 |
-| <span title="Bulges left count">BL</span> | 0 | 0 | 2 | 0 |
-| <span title="Bulges right count">BR</span> | 0 | 0 | 1 | 0 |
+| <span title="Bulges left count">BL</span> | 0 | 0 | 0 | 2 |
+| <span title="Bulges right count">BR</span> | 0 | 0 | 0 | 1 |
 | <span title="Unpaired nucleotide %">UN</span> | 0.27 | 0.24 | 0.35 | 0.35 |
 
 **Sequences**
@@ -100,28 +100,28 @@ exclude: true
 
 <tr>
 <td markdown="span">RS 2 seq </td>
-<td markdown="span"> UGUAAAGAGGAAAUUUUGAAGCAUGUAUCUUAUUUGGGCGCUUGAUACAUGUGGAGUAAGUAGCGCAACCGGCCUGGUUUAUA
-</td>
-</tr>
-
-
-<tr>
-<td markdown="span">RS 2 dot </td>
-<td markdown="span"> ....................(((((((((..............))))))))).....((.(((.((.....))))).))....
-</td>
-</tr>
-
-
-<tr>
-<td markdown="span">RS 3 seq </td>
 <td markdown="span"> UAAAAGGAUAGAACAGAAGAACUACAGCUAUAUUUGGACGCUUAAGCUGUAGGGAUGUAGUGGCGUAACCGGCUAACAAUGAU
 </td>
 </tr>
 
 
 <tr>
-<td markdown="span">RS 3 dot </td>
+<td markdown="span">RS 2 dot </td>
 <td markdown="span"> .....................((((((((...............))))))))...(((..((((.......))))))).....
+</td>
+</tr>
+
+
+<tr>
+<td markdown="span">RS 3 seq </td>
+<td markdown="span"> UGUAAAGAGGAAAUUUUGAAGCAUGUAUCUUAUUUGGGCGCUUGAUACAUGUGGAGUAAGUAGCGCAACCGGCCUGGUUUAUA
+</td>
+</tr>
+
+
+<tr>
+<td markdown="span">RS 3 dot </td>
+<td markdown="span"> ....................(((((((((..............))))))))).....((.(((.((.....))))).))....
 </td>
 </tr>
 
