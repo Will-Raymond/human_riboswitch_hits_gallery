@@ -231,7 +231,7 @@ def make_md_table(utr_list, genes, best_RSs, utr_probas, algn_scores, MFEs, norm
             '<td>%s</td>\n'%best_RS,
             '<td><a href="https://rnacentral.org/rna/%s">RS</a></td>\n'%best_RS_url,
             '<td>%.4f</td>\n'%utr_probability,
-            '<td>%i</td>\n'%20,
+            '<td>%i</td>\n'%classifier_count[i],
             '<td>%.4f</td>\n'%algn_score,
             '<td>%.3f</td>\n'%MFE,
             '<td><a href="/human_riboswitch_hits_gallery/_mds/%s">=></a></td>\n'%gene,
@@ -428,9 +428,9 @@ sort_proba = np.sort(utr_probas)[::-1]
 sort_index = np.argsort(utr_probas)[::-1].tolist()
 page_order = [used_genes[i] for i in sort_index]
 
-make_md_table(ulist, used_genes, best_RSs, utr_probas, algn_scores_1, MFEs, norm_algn, ENS_count, table_name='display_')  
+make_md_table(ulist, used_genes, best_RSs, utr_probas, algn_scores_1, MFEs, norm_algn, ENS_count, table_name='display_1533')  
 
-
+'''
 previously_used_indexes = []
 for i in range(len(ulist)):
     
@@ -542,3 +542,4 @@ for i in range(len(ulist)):
             master_str_tuple.append(ss)
                         
     make_md(gene, tuple(master_str_tuple))
+'''

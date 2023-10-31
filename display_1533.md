@@ -1,54 +1,53 @@
+---
+layout: page
+title: "Ensemble of 1"
+permalink: /display_1533/
+datatable: true
+---
 
-        ---
-        layout: page
-        title: "UTR visualization"
-        permalink: /display/
-        datatable: true
-        ---
-        
-        
-        <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/dt/jq-3.6.0/dt-1.11.3/datatables.min.css"/>
-         
-        <script type="text/javascript" src="https://cdn.datatables.net/v/dt/jq-3.6.0/dt-1.11.3/datatables.min.js"></script>
-        
-        
-        
-        <script>
-        $(document).ready(function(){
-            $('table.display').DataTable( {
-                paging: true,
-                stateSave: true,
-                searching: true
-            }
-                );
-        });
-        </script>
-        
-        
-        <table id="maintable" class="display">
-        <thead>
-        <tr>
-        <th>Gene</th>
-        <th>5'UTR mRNA</th>
-        <th>UTRdb link</th>
-        <th>Closest RS</th>
-        <th>RS link</th>
-        <th>Ensemble Norm</th>
-        <th>Ensemble Count</th>
-        <th>Similarity</th>
-        <th>MFE</th>
-        <th>Visualization</th>
-        </tr>
-        </thead>
-        <tbody>
-        <tr>
+<link rel="stylesheet" type="text/css" href="../custom.css">
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/dt/jq-3.6.0/dt-1.11.3/datatables.min.css"/>
+ 
+<script type="text/javascript" src="https://cdn.datatables.net/v/dt/jq-3.6.0/dt-1.11.3/datatables.min.js"></script>
+
+
+
+<script>
+$(document).ready(function(){
+	$('table.display').DataTable( {
+		paging: true,
+		stateSave: true,
+		searching: true
+	}
+		);
+});
+</script>
+
+
+<table id="maintable" class="display">
+<thead>
+<tr>
+<th>Gene</th>
+<th>5'UTR mRNA</th>
+<th>UTRdb link</th>
+<th>Closest RS</th>
+<th>RS link</th>
+<th>Ensemble Norm</th>
+<th>Ensemble Count</th>
+<th>Similarity</th>
+<th>MFE</th>
+<th>Visualization</th>
+</tr>
+</thead>
+<tbody>
+<tr>
 <td>A1CF</td>
 <td>5HSAA000011</td>
 <td><a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA000011/1">UTR</a></td>
 <td>URS0000C8051D_55969</td>
 <td><a href="https://rnacentral.org/rna/URS0000C8051D/55969">RS</a></td>
 <td>0.9181</td>
-<td>20</td>
+<td>18</td>
 <td>0.9562</td>
 <td>-29.807</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/A1CF">=></a></td>
@@ -60,7 +59,7 @@
 <td>URS0000ABB3B0_1082933</td>
 <td><a href="https://rnacentral.org/rna/URS0000ABB3B0/1082933">RS</a></td>
 <td>0.7251</td>
-<td>20</td>
+<td>3</td>
 <td>0.9742</td>
 <td>-24.949</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/A2ML1">=></a></td>
@@ -72,7 +71,7 @@
 <td>URS0000C35A9E_1736318</td>
 <td><a href="https://rnacentral.org/rna/URS0000C35A9E/1736318">RS</a></td>
 <td>0.8028</td>
-<td>20</td>
+<td>8</td>
 <td>0.9587</td>
 <td>-62.566</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/AAAS">=></a></td>
@@ -84,7 +83,7 @@
 <td>URS0000C6F302_1423776</td>
 <td><a href="https://rnacentral.org/rna/URS0000C6F302/1423776">RS</a></td>
 <td>0.9002</td>
-<td>20</td>
+<td>15</td>
 <td>0.9524</td>
 <td>-43.142</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/AASDH">=></a></td>
@@ -96,7 +95,7 @@
 <td>URS0002331F7A_1497</td>
 <td><a href="https://rnacentral.org/rna/URS0002331F7A/1497">RS</a></td>
 <td>0.8295</td>
-<td>20</td>
+<td>11</td>
 <td>0.9443</td>
 <td>-41.821</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/AASDH_0">=></a></td>
@@ -132,7 +131,7 @@
 <td>URS000232DA5A_408172</td>
 <td><a href="https://rnacentral.org/rna/URS000232DA5A/408172">RS</a></td>
 <td>0.8935</td>
-<td>20</td>
+<td>14</td>
 <td>0.9821</td>
 <td>-17.171</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ABCB1">=></a></td>
@@ -144,7 +143,7 @@
 <td>URS00021EE0A2_12908</td>
 <td><a href="https://rnacentral.org/rna/URS00021EE0A2/12908">RS</a></td>
 <td>0.7490</td>
-<td>20</td>
+<td>2</td>
 <td>0.9852</td>
 <td>-11.235</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ABCB5">=></a></td>
@@ -156,7 +155,7 @@
 <td>URS0000C675E3_582475</td>
 <td><a href="https://rnacentral.org/rna/URS0000C675E3/582475">RS</a></td>
 <td>0.8725</td>
-<td>20</td>
+<td>11</td>
 <td>0.9795</td>
 <td>-9.751</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ABCC11">=></a></td>
@@ -168,7 +167,7 @@
 <td>URS0000C327B6_558152</td>
 <td><a href="https://rnacentral.org/rna/URS0000C327B6/558152">RS</a></td>
 <td>0.7641</td>
-<td>20</td>
+<td>2</td>
 <td>0.9716</td>
 <td>-30.055</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ABCC11_0">=></a></td>
@@ -180,7 +179,7 @@
 <td>URS0000C4D38B_12908</td>
 <td><a href="https://rnacentral.org/rna/URS0000C4D38B/12908">RS</a></td>
 <td>0.8975</td>
-<td>20</td>
+<td>15</td>
 <td>0.9911</td>
 <td>-8.067</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ABCC9">=></a></td>
@@ -192,7 +191,7 @@
 <td>URS0000D6C0B5_12908</td>
 <td><a href="https://rnacentral.org/rna/URS0000D6C0B5/12908">RS</a></td>
 <td>0.6085</td>
-<td>20</td>
+<td>1</td>
 <td>0.9848</td>
 <td>-36.287</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ABCD3">=></a></td>
@@ -204,7 +203,7 @@
 <td>URS0000BEC852_768486</td>
 <td><a href="https://rnacentral.org/rna/URS0000BEC852/768486">RS</a></td>
 <td>0.8381</td>
-<td>20</td>
+<td>5</td>
 <td>0.9869</td>
 <td>-17.422</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ABCF3">=></a></td>
@@ -216,7 +215,7 @@
 <td>URS00021EDFD4_1353528</td>
 <td><a href="https://rnacentral.org/rna/URS00021EDFD4/1353528">RS</a></td>
 <td>0.8239</td>
-<td>20</td>
+<td>3</td>
 <td>0.9903</td>
 <td>-16.385</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ABCF3_0">=></a></td>
@@ -228,7 +227,7 @@
 <td>URS0000C17E92_937777</td>
 <td><a href="https://rnacentral.org/rna/URS0000C17E92/937777">RS</a></td>
 <td>0.7461</td>
-<td>20</td>
+<td>6</td>
 <td>0.9470</td>
 <td>-68.489</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ABCF3_1">=></a></td>
@@ -240,7 +239,7 @@
 <td>URS0000AB37BC_1064535</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB37BC/1064535">RS</a></td>
 <td>0.8157</td>
-<td>20</td>
+<td>2</td>
 <td>0.9696</td>
 <td>-56.200</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ACAD8">=></a></td>
@@ -252,7 +251,7 @@
 <td>URS00023181F6_359131</td>
 <td><a href="https://rnacentral.org/rna/URS00023181F6/359131">RS</a></td>
 <td>0.7318</td>
-<td>20</td>
+<td>2</td>
 <td>0.9685</td>
 <td>-45.239</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ACAP3">=></a></td>
@@ -264,7 +263,7 @@
 <td>URS0000C21E21_1236976</td>
 <td><a href="https://rnacentral.org/rna/URS0000C21E21/1236976">RS</a></td>
 <td>0.6771</td>
-<td>20</td>
+<td>4</td>
 <td>0.9891</td>
 <td>-16.232</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ACE">=></a></td>
@@ -276,7 +275,7 @@
 <td>URS0000AB3AE3_12908</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB3AE3/12908">RS</a></td>
 <td>0.7919</td>
-<td>20</td>
+<td>4</td>
 <td>0.9646</td>
 <td>-58.553</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ACP2">=></a></td>
@@ -288,7 +287,7 @@
 <td>URS0000D69992_311402</td>
 <td><a href="https://rnacentral.org/rna/URS0000D69992/311402">RS</a></td>
 <td>0.7706</td>
-<td>20</td>
+<td>4</td>
 <td>0.9874</td>
 <td>-18.586</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ACP2_0">=></a></td>
@@ -300,7 +299,7 @@
 <td>URS0000C24379_1262881</td>
 <td><a href="https://rnacentral.org/rna/URS0000C24379/1262881">RS</a></td>
 <td>0.8412</td>
-<td>20</td>
+<td>5</td>
 <td>0.9845</td>
 <td>-26.849</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ACP6">=></a></td>
@@ -324,7 +323,7 @@
 <td>URS0000DB0B67_1855297</td>
 <td><a href="https://rnacentral.org/rna/URS0000DB0B67/1855297">RS</a></td>
 <td>0.9286</td>
-<td>20</td>
+<td>16</td>
 <td>0.9904</td>
 <td>-15.892</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ACTR5">=></a></td>
@@ -348,7 +347,7 @@
 <td>URS0000AB2B4F_1263063</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB2B4F/1263063">RS</a></td>
 <td>0.8992</td>
-<td>20</td>
+<td>16</td>
 <td>0.9582</td>
 <td>-65.247</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ADAD1">=></a></td>
@@ -372,7 +371,7 @@
 <td>URS0000C76D1E_60547</td>
 <td><a href="https://rnacentral.org/rna/URS0000C76D1E/60547">RS</a></td>
 <td>0.7823</td>
-<td>20</td>
+<td>1</td>
 <td>0.9692</td>
 <td>-44.458</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ADD1">=></a></td>
@@ -384,7 +383,7 @@
 <td>URS0000C1A0A0_12908</td>
 <td><a href="https://rnacentral.org/rna/URS0000C1A0A0/12908">RS</a></td>
 <td>0.8381</td>
-<td>20</td>
+<td>12</td>
 <td>0.9875</td>
 <td>-13.842</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ADH7">=></a></td>
@@ -396,7 +395,7 @@
 <td>URS0000AB72B3_443152</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB72B3/443152">RS</a></td>
 <td>0.9224</td>
-<td>20</td>
+<td>17</td>
 <td>0.9739</td>
 <td>-36.181</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ADI1">=></a></td>
@@ -408,7 +407,7 @@
 <td>URS0000C4A30C_1886027</td>
 <td><a href="https://rnacentral.org/rna/URS0000C4A30C/1886027">RS</a></td>
 <td>0.9055</td>
-<td>20</td>
+<td>16</td>
 <td>0.9866</td>
 <td>-26.987</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ADM">=></a></td>
@@ -420,7 +419,7 @@
 <td>URS0000C6378C_1408103</td>
 <td><a href="https://rnacentral.org/rna/URS0000C6378C/1408103">RS</a></td>
 <td>0.8987</td>
-<td>20</td>
+<td>19</td>
 <td>0.9841</td>
 <td>-30.129</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ADRA1D">=></a></td>
@@ -432,7 +431,7 @@
 <td>URS0000C83AA9_12908</td>
 <td><a href="https://rnacentral.org/rna/URS0000C83AA9/12908">RS</a></td>
 <td>0.6013</td>
-<td>20</td>
+<td>1</td>
 <td>0.9935</td>
 <td>-6.342</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/AEBP2">=></a></td>
@@ -444,7 +443,7 @@
 <td>URS0000D952E5_68173</td>
 <td><a href="https://rnacentral.org/rna/URS0000D952E5/68173">RS</a></td>
 <td>0.8754</td>
-<td>20</td>
+<td>11</td>
 <td>0.9792</td>
 <td>-18.742</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/AFM">=></a></td>
@@ -456,7 +455,7 @@
 <td>URS00021EDD86_12908</td>
 <td><a href="https://rnacentral.org/rna/URS00021EDD86/12908">RS</a></td>
 <td>0.8885</td>
-<td>20</td>
+<td>12</td>
 <td>0.9867</td>
 <td>-12.601</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/AFP">=></a></td>
@@ -480,7 +479,7 @@
 <td>URS0000E5FC70_465721</td>
 <td><a href="https://rnacentral.org/rna/URS0000E5FC70/465721">RS</a></td>
 <td>0.7930</td>
-<td>20</td>
+<td>5</td>
 <td>0.9902</td>
 <td>-5.006</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/AFTPH">=></a></td>
@@ -504,7 +503,7 @@
 <td>URS000232019C_386415</td>
 <td><a href="https://rnacentral.org/rna/URS000232019C/386415">RS</a></td>
 <td>0.9037</td>
-<td>20</td>
+<td>15</td>
 <td>0.9525</td>
 <td>-66.420</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/AGTPBP1_0">=></a></td>
@@ -516,7 +515,7 @@
 <td>URS0000C804B9_1315976</td>
 <td><a href="https://rnacentral.org/rna/URS0000C804B9/1315976">RS</a></td>
 <td>0.7589</td>
-<td>20</td>
+<td>2</td>
 <td>0.9653</td>
 <td>-54.323</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/AIP">=></a></td>
@@ -528,7 +527,7 @@
 <td>URS0000D997F5_1805026</td>
 <td><a href="https://rnacentral.org/rna/URS0000D997F5/1805026">RS</a></td>
 <td>0.8796</td>
-<td>20</td>
+<td>15</td>
 <td>0.9653</td>
 <td>-50.928</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/AIP_0">=></a></td>
@@ -540,7 +539,7 @@
 <td>URS0000C68E25_1385511</td>
 <td><a href="https://rnacentral.org/rna/URS0000C68E25/1385511">RS</a></td>
 <td>0.8191</td>
-<td>20</td>
+<td>6</td>
 <td>0.9829</td>
 <td>-34.242</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/AKR1B1">=></a></td>
@@ -552,7 +551,7 @@
 <td>URS0000D96976_1797569</td>
 <td><a href="https://rnacentral.org/rna/URS0000D96976/1797569">RS</a></td>
 <td>0.9254</td>
-<td>20</td>
+<td>15</td>
 <td>0.9563</td>
 <td>-56.158</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ALDH18A1">=></a></td>
@@ -576,7 +575,7 @@
 <td>URS0000D93C97_1834191</td>
 <td><a href="https://rnacentral.org/rna/URS0000D93C97/1834191">RS</a></td>
 <td>0.9324</td>
-<td>20</td>
+<td>17</td>
 <td>0.9684</td>
 <td>-42.856</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ALDH18A1_1">=></a></td>
@@ -588,7 +587,7 @@
 <td>URS0000C8A6D4_1428626</td>
 <td><a href="https://rnacentral.org/rna/URS0000C8A6D4/1428626">RS</a></td>
 <td>0.8149</td>
-<td>20</td>
+<td>5</td>
 <td>0.9849</td>
 <td>-26.428</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ALDH8A1">=></a></td>
@@ -600,7 +599,7 @@
 <td>URS0000C735CB_12908</td>
 <td><a href="https://rnacentral.org/rna/URS0000C735CB/12908">RS</a></td>
 <td>0.9415</td>
-<td>20</td>
+<td>19</td>
 <td>0.9888</td>
 <td>-13.975</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ALG13">=></a></td>
@@ -636,7 +635,7 @@
 <td>URS0000D9C9FC_1508389</td>
 <td><a href="https://rnacentral.org/rna/URS0000D9C9FC/1508389">RS</a></td>
 <td>0.6767</td>
-<td>20</td>
+<td>2</td>
 <td>0.9881</td>
 <td>-8.200</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ALOX15">=></a></td>
@@ -648,7 +647,7 @@
 <td>URS0000AB7C8B_1423807</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB7C8B/1423807">RS</a></td>
 <td>0.8314</td>
-<td>20</td>
+<td>4</td>
 <td>0.9876</td>
 <td>-14.905</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/AMELX">=></a></td>
@@ -684,7 +683,7 @@
 <td>URS0000AB905E_12908</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB905E/12908">RS</a></td>
 <td>0.8589</td>
-<td>20</td>
+<td>11</td>
 <td>0.9791</td>
 <td>-34.889</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/AMZ2">=></a></td>
@@ -696,7 +695,7 @@
 <td>URS0000C3BB84_1609758</td>
 <td><a href="https://rnacentral.org/rna/URS0000C3BB84/1609758">RS</a></td>
 <td>0.7475</td>
-<td>20</td>
+<td>1</td>
 <td>0.9736</td>
 <td>-33.297</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/AMZ2_0">=></a></td>
@@ -720,7 +719,7 @@
 <td>URS0002272292_2823330</td>
 <td><a href="https://rnacentral.org/rna/URS0002272292/2823330">RS</a></td>
 <td>0.9473</td>
-<td>20</td>
+<td>17</td>
 <td>0.9268</td>
 <td>-64.202</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ANAPC10_0">=></a></td>
@@ -756,7 +755,7 @@
 <td>URS0000C68CCD_1423747</td>
 <td><a href="https://rnacentral.org/rna/URS0000C68CCD/1423747">RS</a></td>
 <td>0.8434</td>
-<td>20</td>
+<td>15</td>
 <td>0.9596</td>
 <td>-70.382</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ANAPC11">=></a></td>
@@ -768,7 +767,7 @@
 <td>URS0000D66F22_12908</td>
 <td><a href="https://rnacentral.org/rna/URS0000D66F22/12908">RS</a></td>
 <td>0.7107</td>
-<td>20</td>
+<td>4</td>
 <td>0.9956</td>
 <td>-7.929</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ANAPC7">=></a></td>
@@ -780,7 +779,7 @@
 <td>URS0000B3DE2A_254357</td>
 <td><a href="https://rnacentral.org/rna/URS0000B3DE2A/254357">RS</a></td>
 <td>0.5128</td>
-<td>20</td>
+<td>1</td>
 <td>0.9909</td>
 <td>-1.335</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ANKRD24">=></a></td>
@@ -792,7 +791,7 @@
 <td>URS000232E15F_446462</td>
 <td><a href="https://rnacentral.org/rna/URS000232E15F/446462">RS</a></td>
 <td>0.8369</td>
-<td>20</td>
+<td>7</td>
 <td>0.9754</td>
 <td>-40.297</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ANKRD44">=></a></td>
@@ -804,7 +803,7 @@
 <td>URS0000D6BD2F_12908</td>
 <td><a href="https://rnacentral.org/rna/URS0000D6BD2F/12908">RS</a></td>
 <td>0.8701</td>
-<td>20</td>
+<td>12</td>
 <td>0.9836</td>
 <td>-24.323</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ANKRD45">=></a></td>
@@ -816,7 +815,7 @@
 <td>URS0000B4F75F_1234679</td>
 <td><a href="https://rnacentral.org/rna/URS0000B4F75F/1234679">RS</a></td>
 <td>0.8611</td>
-<td>20</td>
+<td>8</td>
 <td>0.9499</td>
 <td>-50.484</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ANTXR2">=></a></td>
@@ -828,7 +827,7 @@
 <td>URS0000C0DC7D_1423811</td>
 <td><a href="https://rnacentral.org/rna/URS0000C0DC7D/1423811">RS</a></td>
 <td>0.8381</td>
-<td>20</td>
+<td>4</td>
 <td>0.9717</td>
 <td>-62.956</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/AP3S1">=></a></td>
@@ -852,7 +851,7 @@
 <td>URS00007C918C_1035</td>
 <td><a href="https://rnacentral.org/rna/URS00007C918C/1035">RS</a></td>
 <td>0.6448</td>
-<td>20</td>
+<td>3</td>
 <td>0.9937</td>
 <td>-24.137</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/APH1B">=></a></td>
@@ -864,7 +863,7 @@
 <td>URS0000C58095_1384484</td>
 <td><a href="https://rnacentral.org/rna/URS0000C58095/1384484">RS</a></td>
 <td>0.8934</td>
-<td>20</td>
+<td>15</td>
 <td>0.9759</td>
 <td>-38.927</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/APOLD1">=></a></td>
@@ -876,7 +875,7 @@
 <td>URS0000DA945D_1907390</td>
 <td><a href="https://rnacentral.org/rna/URS0000DA945D/1907390">RS</a></td>
 <td>0.8504</td>
-<td>20</td>
+<td>10</td>
 <td>0.9593</td>
 <td>-47.415</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ARHGAP11B">=></a></td>
@@ -900,7 +899,7 @@
 <td>URS0000C429B9_1629714</td>
 <td><a href="https://rnacentral.org/rna/URS0000C429B9/1629714">RS</a></td>
 <td>0.8977</td>
-<td>20</td>
+<td>14</td>
 <td>0.9633</td>
 <td>-59.960</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ARHGEF17">=></a></td>
@@ -912,7 +911,7 @@
 <td>URS0000C0727E_1074049</td>
 <td><a href="https://rnacentral.org/rna/URS0000C0727E/1074049">RS</a></td>
 <td>0.8904</td>
-<td>20</td>
+<td>13</td>
 <td>0.9714</td>
 <td>-64.773</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ARHGEF2">=></a></td>
@@ -948,7 +947,7 @@
 <td>URS0000C4C28B_411922</td>
 <td><a href="https://rnacentral.org/rna/URS0000C4C28B/411922">RS</a></td>
 <td>0.8614</td>
-<td>20</td>
+<td>11</td>
 <td>0.9718</td>
 <td>-45.059</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ARL2">=></a></td>
@@ -960,7 +959,7 @@
 <td>URS000231BCE6_1618857</td>
 <td><a href="https://rnacentral.org/rna/URS000231BCE6/1618857">RS</a></td>
 <td>0.9519</td>
-<td>20</td>
+<td>19</td>
 <td>0.9689</td>
 <td>-33.444</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ARL6IP5">=></a></td>
@@ -984,7 +983,7 @@
 <td>URS0000ABBA42_290402</td>
 <td><a href="https://rnacentral.org/rna/URS0000ABBA42/290402">RS</a></td>
 <td>0.9534</td>
-<td>20</td>
+<td>19</td>
 <td>0.9835</td>
 <td>-11.652</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ARPC2">=></a></td>
@@ -996,7 +995,7 @@
 <td>URS0000AB9C32_1262950</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB9C32/1262950">RS</a></td>
 <td>0.8641</td>
-<td>20</td>
+<td>15</td>
 <td>0.9780</td>
 <td>-28.395</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ARV1">=></a></td>
@@ -1008,7 +1007,7 @@
 <td>URS0000C70190_190650</td>
 <td><a href="https://rnacentral.org/rna/URS0000C70190/190650">RS</a></td>
 <td>0.8903</td>
-<td>20</td>
+<td>13</td>
 <td>0.9818</td>
 <td>-30.912</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ASAH2B">=></a></td>
@@ -1020,7 +1019,7 @@
 <td>URS0000C1A9D9_12908</td>
 <td><a href="https://rnacentral.org/rna/URS0000C1A9D9/12908">RS</a></td>
 <td>0.8973</td>
-<td>20</td>
+<td>15</td>
 <td>0.9922</td>
 <td>-9.466</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ASAP1">=></a></td>
@@ -1032,7 +1031,7 @@
 <td>URS0000C13451_1117379</td>
 <td><a href="https://rnacentral.org/rna/URS0000C13451/1117379">RS</a></td>
 <td>0.9098</td>
-<td>20</td>
+<td>17</td>
 <td>0.9862</td>
 <td>-7.132</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ASB15">=></a></td>
@@ -1044,7 +1043,7 @@
 <td>URS00021EDB19_12908</td>
 <td><a href="https://rnacentral.org/rna/URS00021EDB19/12908">RS</a></td>
 <td>0.8891</td>
-<td>20</td>
+<td>14</td>
 <td>0.9809</td>
 <td>-10.449</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ASB17">=></a></td>
@@ -1056,7 +1055,7 @@
 <td>URS0002326181_321267</td>
 <td><a href="https://rnacentral.org/rna/URS0002326181/321267">RS</a></td>
 <td>0.8052</td>
-<td>20</td>
+<td>13</td>
 <td>0.9266</td>
 <td>-61.356</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ASB3">=></a></td>
@@ -1080,7 +1079,7 @@
 <td>URS0002332485_1470575</td>
 <td><a href="https://rnacentral.org/rna/URS0002332485/1470575">RS</a></td>
 <td>0.8894</td>
-<td>20</td>
+<td>14</td>
 <td>0.9254</td>
 <td>-88.794</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ASB3_1">=></a></td>
@@ -1092,7 +1091,7 @@
 <td>URS0000D91F94_85682</td>
 <td><a href="https://rnacentral.org/rna/URS0000D91F94/85682">RS</a></td>
 <td>0.8014</td>
-<td>20</td>
+<td>4</td>
 <td>0.9847</td>
 <td>-15.018</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ASCL3">=></a></td>
@@ -1104,7 +1103,7 @@
 <td>URS0000D67373_12908</td>
 <td><a href="https://rnacentral.org/rna/URS0000D67373/12908">RS</a></td>
 <td>0.6351</td>
-<td>20</td>
+<td>2</td>
 <td>0.9825</td>
 <td>-19.997</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ASH2L">=></a></td>
@@ -1116,7 +1115,7 @@
 <td>URS0000D882D9_370959</td>
 <td><a href="https://rnacentral.org/rna/URS0000D882D9/370959">RS</a></td>
 <td>0.7262</td>
-<td>20</td>
+<td>1</td>
 <td>0.9822</td>
 <td>-18.778</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ASH2L_0">=></a></td>
@@ -1128,7 +1127,7 @@
 <td>URS0000C26C13_1231392</td>
 <td><a href="https://rnacentral.org/rna/URS0000C26C13/1231392">RS</a></td>
 <td>0.6877</td>
-<td>20</td>
+<td>1</td>
 <td>0.9800</td>
 <td>-24.229</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ASPH">=></a></td>
@@ -1140,7 +1139,7 @@
 <td>URS0000AB4C64_221109</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB4C64/221109">RS</a></td>
 <td>0.9093</td>
-<td>20</td>
+<td>18</td>
 <td>0.9785</td>
 <td>-18.505</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ATCAY">=></a></td>
@@ -1164,7 +1163,7 @@
 <td>URS0000AB20D2_335541</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB20D2/335541">RS</a></td>
 <td>0.7545</td>
-<td>20</td>
+<td>1</td>
 <td>0.9716</td>
 <td>-47.445</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ATG12">=></a></td>
@@ -1188,7 +1187,7 @@
 <td>URS0000ABAB53_710696</td>
 <td><a href="https://rnacentral.org/rna/URS0000ABAB53/710696">RS</a></td>
 <td>0.7758</td>
-<td>20</td>
+<td>3</td>
 <td>0.9748</td>
 <td>-56.751</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ATP2C2">=></a></td>
@@ -1200,7 +1199,7 @@
 <td>URS0000C41F89_883</td>
 <td><a href="https://rnacentral.org/rna/URS0000C41F89/883">RS</a></td>
 <td>0.8141</td>
-<td>20</td>
+<td>1</td>
 <td>0.9877</td>
 <td>-15.473</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ATP6AP1L">=></a></td>
@@ -1212,7 +1211,7 @@
 <td>URS0000DA6F56_1852522</td>
 <td><a href="https://rnacentral.org/rna/URS0000DA6F56/1852522">RS</a></td>
 <td>0.7805</td>
-<td>20</td>
+<td>2</td>
 <td>0.9785</td>
 <td>-48.051</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ATP6V0B">=></a></td>
@@ -1224,7 +1223,7 @@
 <td>URS0000AB4EF4_760192</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB4EF4/760192">RS</a></td>
 <td>0.7199</td>
-<td>20</td>
+<td>2</td>
 <td>0.9553</td>
 <td>-48.809</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ATP6V1C1">=></a></td>
@@ -1236,7 +1235,7 @@
 <td>URS000232E80D_478749</td>
 <td><a href="https://rnacentral.org/rna/URS000232E80D/478749">RS</a></td>
 <td>0.8490</td>
-<td>20</td>
+<td>15</td>
 <td>0.9507</td>
 <td>-57.145</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ATP7A">=></a></td>
@@ -1260,7 +1259,7 @@
 <td>URS0000E60008_1775910</td>
 <td><a href="https://rnacentral.org/rna/URS0000E60008/1775910">RS</a></td>
 <td>0.7525</td>
-<td>20</td>
+<td>3</td>
 <td>0.9888</td>
 <td>-29.038</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/AUH">=></a></td>
@@ -1284,7 +1283,7 @@
 <td>URS0000ABD3C0_138119</td>
 <td><a href="https://rnacentral.org/rna/URS0000ABD3C0/138119">RS</a></td>
 <td>0.7195</td>
-<td>20</td>
+<td>2</td>
 <td>0.9682</td>
 <td>-40.547</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/AURKC">=></a></td>
@@ -1296,7 +1295,7 @@
 <td>URS0000DB5A5A_407234</td>
 <td><a href="https://rnacentral.org/rna/URS0000DB5A5A/407234">RS</a></td>
 <td>0.7861</td>
-<td>20</td>
+<td>3</td>
 <td>0.9910</td>
 <td>-13.566</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/B2M">=></a></td>
@@ -1308,7 +1307,7 @@
 <td>URS0000C5F4B7_1246995</td>
 <td><a href="https://rnacentral.org/rna/URS0000C5F4B7/1246995">RS</a></td>
 <td>0.8626</td>
-<td>20</td>
+<td>6</td>
 <td>0.9603</td>
 <td>-45.670</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/BAG2">=></a></td>
@@ -1320,7 +1319,7 @@
 <td>URS0000BE276F_119206</td>
 <td><a href="https://rnacentral.org/rna/URS0000BE276F/119206">RS</a></td>
 <td>0.8201</td>
-<td>20</td>
+<td>4</td>
 <td>0.9733</td>
 <td>-23.736</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/BARD1">=></a></td>
@@ -1332,7 +1331,7 @@
 <td>URS0000E60016_1156935</td>
 <td><a href="https://rnacentral.org/rna/URS0000E60016/1156935">RS</a></td>
 <td>0.7751</td>
-<td>20</td>
+<td>2</td>
 <td>0.9888</td>
 <td>-9.428</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/BBS1">=></a></td>
@@ -1344,7 +1343,7 @@
 <td>URS0000C16F14_359131</td>
 <td><a href="https://rnacentral.org/rna/URS0000C16F14/359131">RS</a></td>
 <td>0.7934</td>
-<td>20</td>
+<td>8</td>
 <td>0.9589</td>
 <td>-27.084</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/BBS9">=></a></td>
@@ -1368,7 +1367,7 @@
 <td>URS0000D66ADB_12908</td>
 <td><a href="https://rnacentral.org/rna/URS0000D66ADB/12908">RS</a></td>
 <td>0.8572</td>
-<td>20</td>
+<td>11</td>
 <td>0.9837</td>
 <td>-26.101</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/BCAS2">=></a></td>
@@ -1380,7 +1379,7 @@
 <td>URS00021EDDDE_1768241</td>
 <td><a href="https://rnacentral.org/rna/URS00021EDDDE/1768241">RS</a></td>
 <td>0.9233</td>
-<td>20</td>
+<td>18</td>
 <td>0.9903</td>
 <td>-26.146</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/BCKDHA">=></a></td>
@@ -1392,7 +1391,7 @@
 <td>URS000232F607_1746199</td>
 <td><a href="https://rnacentral.org/rna/URS000232F607/1746199">RS</a></td>
 <td>0.8566</td>
-<td>20</td>
+<td>11</td>
 <td>0.9662</td>
 <td>-49.595</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/BCS1L">=></a></td>
@@ -1404,7 +1403,7 @@
 <td>URS0002314984_362418</td>
 <td><a href="https://rnacentral.org/rna/URS0002314984/362418">RS</a></td>
 <td>0.8768</td>
-<td>20</td>
+<td>10</td>
 <td>0.9455</td>
 <td>-95.720</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/BECN1">=></a></td>
@@ -1416,7 +1415,7 @@
 <td>URS0000C5A9DD_1227360</td>
 <td><a href="https://rnacentral.org/rna/URS0000C5A9DD/1227360">RS</a></td>
 <td>0.8964</td>
-<td>20</td>
+<td>16</td>
 <td>0.9837</td>
 <td>-33.897</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/BHMT">=></a></td>
@@ -1428,7 +1427,7 @@
 <td>URS0000ABBDA7_289380</td>
 <td><a href="https://rnacentral.org/rna/URS0000ABBDA7/289380">RS</a></td>
 <td>0.9536</td>
-<td>20</td>
+<td>19</td>
 <td>0.9825</td>
 <td>-25.373</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/BHMT_0">=></a></td>
@@ -1440,7 +1439,7 @@
 <td>URS0000D94201_1798005</td>
 <td><a href="https://rnacentral.org/rna/URS0000D94201/1798005">RS</a></td>
 <td>0.8865</td>
-<td>20</td>
+<td>14</td>
 <td>0.9732</td>
 <td>-32.840</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/BLVRA">=></a></td>
@@ -1452,7 +1451,7 @@
 <td>URS0002330229_1797632</td>
 <td><a href="https://rnacentral.org/rna/URS0002330229/1797632">RS</a></td>
 <td>0.7980</td>
-<td>20</td>
+<td>2</td>
 <td>0.9672</td>
 <td>-48.105</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/BMI1">=></a></td>
@@ -1488,7 +1487,7 @@
 <td>URS0000C18527_930089</td>
 <td><a href="https://rnacentral.org/rna/URS0000C18527/930089">RS</a></td>
 <td>0.7967</td>
-<td>20</td>
+<td>3</td>
 <td>0.9527</td>
 <td>-54.123</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/BMPR1B">=></a></td>
@@ -1500,7 +1499,7 @@
 <td>URS00021EDBBB_12908</td>
 <td><a href="https://rnacentral.org/rna/URS00021EDBBB/12908">RS</a></td>
 <td>0.8737</td>
-<td>20</td>
+<td>12</td>
 <td>0.9876</td>
 <td>-20.498</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/BMS1">=></a></td>
@@ -1524,7 +1523,7 @@
 <td>URS0000DAEEB4_1797656</td>
 <td><a href="https://rnacentral.org/rna/URS0000DAEEB4/1797656">RS</a></td>
 <td>0.9177</td>
-<td>20</td>
+<td>16</td>
 <td>0.9790</td>
 <td>-37.437</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/BRD1">=></a></td>
@@ -1536,7 +1535,7 @@
 <td>URS0000AB3C39_767817</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB3C39/767817">RS</a></td>
 <td>0.8654</td>
-<td>20</td>
+<td>10</td>
 <td>0.9590</td>
 <td>-43.573</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/BRSK1">=></a></td>
@@ -1548,7 +1547,7 @@
 <td>URS0000AB3FDA_596154</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB3FDA/596154">RS</a></td>
 <td>0.9227</td>
-<td>20</td>
+<td>18</td>
 <td>0.9835</td>
 <td>-10.314</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/BTF3">=></a></td>
@@ -1572,7 +1571,7 @@
 <td>URS0000C1500C_1408254</td>
 <td><a href="https://rnacentral.org/rna/URS0000C1500C/1408254">RS</a></td>
 <td>0.8916</td>
-<td>20</td>
+<td>12</td>
 <td>0.9681</td>
 <td>-52.750</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/BTG2_0">=></a></td>
@@ -1584,7 +1583,7 @@
 <td>URS0002325A2C_42234</td>
 <td><a href="https://rnacentral.org/rna/URS0002325A2C/42234">RS</a></td>
 <td>0.9037</td>
-<td>20</td>
+<td>14</td>
 <td>0.9676</td>
 <td>-52.750</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/BTG2_1">=></a></td>
@@ -1608,7 +1607,7 @@
 <td>URS0000D86100_1423773</td>
 <td><a href="https://rnacentral.org/rna/URS0000D86100/1423773">RS</a></td>
 <td>0.9057</td>
-<td>20</td>
+<td>16</td>
 <td>0.9653</td>
 <td>-20.724</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/BZW1_0">=></a></td>
@@ -1632,7 +1631,7 @@
 <td>URS0002324A49_908809</td>
 <td><a href="https://rnacentral.org/rna/URS0002324A49/908809">RS</a></td>
 <td>0.8773</td>
-<td>20</td>
+<td>15</td>
 <td>0.9616</td>
 <td>-45.829</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/C1D_0">=></a></td>
@@ -1680,7 +1679,7 @@
 <td>URS00021EDB9B_337701</td>
 <td><a href="https://rnacentral.org/rna/URS00021EDB9B/337701">RS</a></td>
 <td>0.8405</td>
-<td>20</td>
+<td>6</td>
 <td>0.9893</td>
 <td>-11.516</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/C5">=></a></td>
@@ -1692,7 +1691,7 @@
 <td>URS0000C1945F_1641402</td>
 <td><a href="https://rnacentral.org/rna/URS0000C1945F/1641402">RS</a></td>
 <td>0.9030</td>
-<td>20</td>
+<td>15</td>
 <td>0.9671</td>
 <td>-38.560</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/CA5B">=></a></td>
@@ -1704,7 +1703,7 @@
 <td>URS000232169D_1313172</td>
 <td><a href="https://rnacentral.org/rna/URS000232169D/1313172">RS</a></td>
 <td>0.9121</td>
-<td>20</td>
+<td>16</td>
 <td>0.9607</td>
 <td>-47.133</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/CA5B_0">=></a></td>
@@ -1728,7 +1727,7 @@
 <td>URS00021EDAEA_1208324</td>
 <td><a href="https://rnacentral.org/rna/URS00021EDAEA/1208324">RS</a></td>
 <td>0.8556</td>
-<td>20</td>
+<td>9</td>
 <td>0.9915</td>
 <td>-11.727</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/CACNA1B">=></a></td>
@@ -1740,7 +1739,7 @@
 <td>URS0000C59DC8_472175</td>
 <td><a href="https://rnacentral.org/rna/URS0000C59DC8/472175">RS</a></td>
 <td>0.8859</td>
-<td>20</td>
+<td>14</td>
 <td>0.9838</td>
 <td>-20.150</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/CALCOCO1">=></a></td>
@@ -1752,7 +1751,7 @@
 <td>URS00007E0879_1505936</td>
 <td><a href="https://rnacentral.org/rna/URS00007E0879/1505936">RS</a></td>
 <td>0.9501</td>
-<td>20</td>
+<td>19</td>
 <td>0.9822</td>
 <td>-14.598</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/CANX">=></a></td>
@@ -1764,7 +1763,7 @@
 <td>URS0000C7A68F_1263062</td>
 <td><a href="https://rnacentral.org/rna/URS0000C7A68F/1263062">RS</a></td>
 <td>0.9082</td>
-<td>20</td>
+<td>16</td>
 <td>0.9844</td>
 <td>-20.835</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/CAP2">=></a></td>
@@ -1776,7 +1775,7 @@
 <td>URS0000D9A774_525917</td>
 <td><a href="https://rnacentral.org/rna/URS0000D9A774/525917">RS</a></td>
 <td>0.8165</td>
-<td>20</td>
+<td>2</td>
 <td>0.9814</td>
 <td>-13.422</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/CARD6">=></a></td>
@@ -1788,7 +1787,7 @@
 <td>URS0000AB7584_224911</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB7584/224911">RS</a></td>
 <td>0.7754</td>
-<td>20</td>
+<td>1</td>
 <td>0.9886</td>
 <td>-17.779</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/CASK">=></a></td>
@@ -1800,7 +1799,7 @@
 <td>URS0000D79EE9_163877</td>
 <td><a href="https://rnacentral.org/rna/URS0000D79EE9/163877">RS</a></td>
 <td>0.9482</td>
-<td>20</td>
+<td>18</td>
 <td>0.9855</td>
 <td>-15.213</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/CASP14">=></a></td>
@@ -1812,7 +1811,7 @@
 <td>URS0000D7E59E_553814</td>
 <td><a href="https://rnacentral.org/rna/URS0000D7E59E/553814">RS</a></td>
 <td>0.7774</td>
-<td>20</td>
+<td>1</td>
 <td>0.9849</td>
 <td>-24.801</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/CASP2">=></a></td>
@@ -1824,7 +1823,7 @@
 <td>URS0000DA54D4_1898205</td>
 <td><a href="https://rnacentral.org/rna/URS0000DA54D4/1898205">RS</a></td>
 <td>0.8475</td>
-<td>20</td>
+<td>12</td>
 <td>0.9778</td>
 <td>-28.728</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/CAST">=></a></td>
@@ -1848,7 +1847,7 @@
 <td>URS0000AE8DFC_1891920</td>
 <td><a href="https://rnacentral.org/rna/URS0000AE8DFC/1891920">RS</a></td>
 <td>0.8438</td>
-<td>20</td>
+<td>1</td>
 <td>0.9717</td>
 <td>-36.108</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/CCAR1">=></a></td>
@@ -1860,7 +1859,7 @@
 <td>URS0002323D40_264731</td>
 <td><a href="https://rnacentral.org/rna/URS0002323D40/264731">RS</a></td>
 <td>0.6932</td>
-<td>20</td>
+<td>1</td>
 <td>0.9570</td>
 <td>-59.660</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/CCDC103">=></a></td>
@@ -1872,7 +1871,7 @@
 <td>URS0000AB3AD8_865938</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB3AD8/865938">RS</a></td>
 <td>0.8328</td>
-<td>20</td>
+<td>6</td>
 <td>0.9651</td>
 <td>-53.444</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/CCDC103_0">=></a></td>
@@ -1884,7 +1883,7 @@
 <td>URS000231739D_134962</td>
 <td><a href="https://rnacentral.org/rna/URS000231739D/134962">RS</a></td>
 <td>0.7693</td>
-<td>20</td>
+<td>1</td>
 <td>0.9621</td>
 <td>-57.444</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/CCDC103_1">=></a></td>
@@ -1956,7 +1955,7 @@
 <td>URS0000C2AC30_1140002</td>
 <td><a href="https://rnacentral.org/rna/URS0000C2AC30/1140002">RS</a></td>
 <td>0.8985</td>
-<td>20</td>
+<td>15</td>
 <td>0.9582</td>
 <td>-22.232</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/CCDC158">=></a></td>
@@ -1968,7 +1967,7 @@
 <td>URS0000DA053A_655015</td>
 <td><a href="https://rnacentral.org/rna/URS0000DA053A/655015">RS</a></td>
 <td>0.8365</td>
-<td>20</td>
+<td>7</td>
 <td>0.9893</td>
 <td>-21.484</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/CCDC51">=></a></td>
@@ -1980,7 +1979,7 @@
 <td>URS0000C82DF6_1695218</td>
 <td><a href="https://rnacentral.org/rna/URS0000C82DF6/1695218">RS</a></td>
 <td>0.9534</td>
-<td>20</td>
+<td>19</td>
 <td>0.9878</td>
 <td>-27.490</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/CCDC59">=></a></td>
@@ -1992,7 +1991,7 @@
 <td>URS0000AB31CD_345219</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB31CD/345219">RS</a></td>
 <td>0.7771</td>
-<td>20</td>
+<td>4</td>
 <td>0.9775</td>
 <td>-33.192</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/CCDC66">=></a></td>
@@ -2028,7 +2027,7 @@
 <td>URS0000127534_1211777</td>
 <td><a href="https://rnacentral.org/rna/URS0000127534/1211777">RS</a></td>
 <td>0.7753</td>
-<td>20</td>
+<td>2</td>
 <td>0.9795</td>
 <td>-22.676</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/CCDC91">=></a></td>
@@ -2064,7 +2063,7 @@
 <td>URS000232D37A_1285586</td>
 <td><a href="https://rnacentral.org/rna/URS000232D37A/1285586">RS</a></td>
 <td>0.8050</td>
-<td>20</td>
+<td>1</td>
 <td>0.9549</td>
 <td>-79.427</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/CCNO">=></a></td>
@@ -2076,7 +2075,7 @@
 <td>URS0000C21A3A_1660125</td>
 <td><a href="https://rnacentral.org/rna/URS0000C21A3A/1660125">RS</a></td>
 <td>0.9246</td>
-<td>20</td>
+<td>18</td>
 <td>0.9821</td>
 <td>-42.284</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/CCNO_0">=></a></td>
@@ -2100,7 +2099,7 @@
 <td>URS0000AB8F2C_693979</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB8F2C/693979">RS</a></td>
 <td>0.9523</td>
-<td>20</td>
+<td>19</td>
 <td>0.9810</td>
 <td>-18.592</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/CD164">=></a></td>
@@ -2112,7 +2111,7 @@
 <td>URS00023150C5_577650</td>
 <td><a href="https://rnacentral.org/rna/URS00023150C5/577650">RS</a></td>
 <td>0.9607</td>
-<td>20</td>
+<td>19</td>
 <td>0.9495</td>
 <td>-66.035</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/CDC42">=></a></td>
@@ -2124,7 +2123,7 @@
 <td>URS0000C2DA41_1402135</td>
 <td><a href="https://rnacentral.org/rna/URS0000C2DA41/1402135">RS</a></td>
 <td>0.8214</td>
-<td>20</td>
+<td>6</td>
 <td>0.9585</td>
 <td>-23.890</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/CDH19">=></a></td>
@@ -2160,7 +2159,7 @@
 <td>URS0000DA41FE_1470575</td>
 <td><a href="https://rnacentral.org/rna/URS0000DA41FE/1470575">RS</a></td>
 <td>0.7732</td>
-<td>20</td>
+<td>1</td>
 <td>0.9702</td>
 <td>-44.842</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/CDYL2">=></a></td>
@@ -2172,7 +2171,7 @@
 <td>URS000232A0DB_48</td>
 <td><a href="https://rnacentral.org/rna/URS000232A0DB/48">RS</a></td>
 <td>0.8624</td>
-<td>20</td>
+<td>15</td>
 <td>0.9388</td>
 <td>-59.285</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/CEP70">=></a></td>
@@ -2184,7 +2183,7 @@
 <td>URS0000D6A607_404589</td>
 <td><a href="https://rnacentral.org/rna/URS0000D6A607/404589">RS</a></td>
 <td>0.7250</td>
-<td>20</td>
+<td>5</td>
 <td>0.9885</td>
 <td>-13.951</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/CEP97">=></a></td>
@@ -2208,7 +2207,7 @@
 <td>URS000019B5C4_1322246</td>
 <td><a href="https://rnacentral.org/rna/URS000019B5C4/1322246">RS</a></td>
 <td>0.8333</td>
-<td>20</td>
+<td>7</td>
 <td>0.9805</td>
 <td>-25.098</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/CES3">=></a></td>
@@ -2220,7 +2219,7 @@
 <td>URS0000C1DC83_12908</td>
 <td><a href="https://rnacentral.org/rna/URS0000C1DC83/12908">RS</a></td>
 <td>0.8388</td>
-<td>20</td>
+<td>14</td>
 <td>0.9875</td>
 <td>-21.267</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/CETN2">=></a></td>
@@ -2232,7 +2231,7 @@
 <td>URS0000AB55F0_471854</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB55F0/471854">RS</a></td>
 <td>0.9460</td>
-<td>20</td>
+<td>18</td>
 <td>0.9816</td>
 <td>-28.868</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/CETN2_0">=></a></td>
@@ -2244,7 +2243,7 @@
 <td>URS000057F466_936381</td>
 <td><a href="https://rnacentral.org/rna/URS000057F466/936381">RS</a></td>
 <td>0.8679</td>
-<td>20</td>
+<td>13</td>
 <td>0.9653</td>
 <td>-47.449</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/CETN3">=></a></td>
@@ -2256,7 +2255,7 @@
 <td>URS00021EE115_12908</td>
 <td><a href="https://rnacentral.org/rna/URS00021EE115/12908">RS</a></td>
 <td>0.6527</td>
-<td>20</td>
+<td>2</td>
 <td>0.9881</td>
 <td>-1.249</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/CFH">=></a></td>
@@ -2292,7 +2291,7 @@
 <td>URS0000DA1D94_253839</td>
 <td><a href="https://rnacentral.org/rna/URS0000DA1D94/253839">RS</a></td>
 <td>0.8552</td>
-<td>20</td>
+<td>6</td>
 <td>0.9841</td>
 <td>-9.766</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/CFHR4">=></a></td>
@@ -2304,7 +2303,7 @@
 <td>URS0000C6BE67_1268237</td>
 <td><a href="https://rnacentral.org/rna/URS0000C6BE67/1268237">RS</a></td>
 <td>0.8944</td>
-<td>20</td>
+<td>13</td>
 <td>0.9591</td>
 <td>-29.157</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/CFHR4_0">=></a></td>
@@ -2316,7 +2315,7 @@
 <td>URS0000D900BD_1896175</td>
 <td><a href="https://rnacentral.org/rna/URS0000D900BD/1896175">RS</a></td>
 <td>0.8303</td>
-<td>20</td>
+<td>4</td>
 <td>0.9830</td>
 <td>-9.766</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/CFHR4_1">=></a></td>
@@ -2328,7 +2327,7 @@
 <td>URS0000DA8B63_1986661</td>
 <td><a href="https://rnacentral.org/rna/URS0000DA8B63/1986661">RS</a></td>
 <td>0.7466</td>
-<td>20</td>
+<td>2</td>
 <td>0.9870</td>
 <td>-22.253</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/CHKA">=></a></td>
@@ -2340,7 +2339,7 @@
 <td>URS0000C2A170_931276</td>
 <td><a href="https://rnacentral.org/rna/URS0000C2A170/931276">RS</a></td>
 <td>0.9146</td>
-<td>20</td>
+<td>17</td>
 <td>0.9827</td>
 <td>-20.865</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/CHRFAM7A">=></a></td>
@@ -2352,7 +2351,7 @@
 <td>URS0000C07B72_1187851</td>
 <td><a href="https://rnacentral.org/rna/URS0000C07B72/1187851">RS</a></td>
 <td>0.9544</td>
-<td>20</td>
+<td>19</td>
 <td>0.9811</td>
 <td>-28.420</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/CHURC1">=></a></td>
@@ -2376,7 +2375,7 @@
 <td>URS0000AB733A_501479</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB733A/501479">RS</a></td>
 <td>0.8129</td>
-<td>20</td>
+<td>6</td>
 <td>0.9685</td>
 <td>-53.222</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/CIRBP">=></a></td>
@@ -2388,7 +2387,7 @@
 <td>URS0000ABCC98_522772</td>
 <td><a href="https://rnacentral.org/rna/URS0000ABCC98/522772">RS</a></td>
 <td>0.9234</td>
-<td>20</td>
+<td>19</td>
 <td>0.9623</td>
 <td>-28.340</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/CLCA1">=></a></td>
@@ -2412,7 +2411,7 @@
 <td>URS0000AB8D8F_290399</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB8D8F/290399">RS</a></td>
 <td>0.9320</td>
-<td>20</td>
+<td>18</td>
 <td>0.9704</td>
 <td>-23.883</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/CLCA4_0">=></a></td>
@@ -2424,7 +2423,7 @@
 <td>URS0000BFACE8_755172</td>
 <td><a href="https://rnacentral.org/rna/URS0000BFACE8/755172">RS</a></td>
 <td>0.9053</td>
-<td>20</td>
+<td>17</td>
 <td>0.9686</td>
 <td>-57.728</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/CLCN7">=></a></td>
@@ -2436,7 +2435,7 @@
 <td>URS0000D92700_66430</td>
 <td><a href="https://rnacentral.org/rna/URS0000D92700/66430">RS</a></td>
 <td>0.9035</td>
-<td>20</td>
+<td>15</td>
 <td>0.9885</td>
 <td>-12.479</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/CLDN22">=></a></td>
@@ -2448,7 +2447,7 @@
 <td>URS0000C79519_1149862</td>
 <td><a href="https://rnacentral.org/rna/URS0000C79519/1149862">RS</a></td>
 <td>0.8368</td>
-<td>20</td>
+<td>5</td>
 <td>0.9856</td>
 <td>-13.233</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/CLEC7A">=></a></td>
@@ -2460,7 +2459,7 @@
 <td>URS0000AB5134_355249</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB5134/355249">RS</a></td>
 <td>0.9257</td>
-<td>20</td>
+<td>15</td>
 <td>0.9549</td>
 <td>-53.146</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/CLGN">=></a></td>
@@ -2472,7 +2471,7 @@
 <td>URS0000E26D6B_546</td>
 <td><a href="https://rnacentral.org/rna/URS0000E26D6B/546">RS</a></td>
 <td>0.8228</td>
-<td>20</td>
+<td>6</td>
 <td>0.9816</td>
 <td>-42.130</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/CLIP4">=></a></td>
@@ -2484,7 +2483,7 @@
 <td>URS0000C25C26_1385511</td>
 <td><a href="https://rnacentral.org/rna/URS0000C25C26/1385511">RS</a></td>
 <td>0.8185</td>
-<td>20</td>
+<td>11</td>
 <td>0.9655</td>
 <td>-28.141</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/CLK2">=></a></td>
@@ -2496,7 +2495,7 @@
 <td>URS000231F0A0_1635276</td>
 <td><a href="https://rnacentral.org/rna/URS000231F0A0/1635276">RS</a></td>
 <td>0.8645</td>
-<td>20</td>
+<td>11</td>
 <td>0.9779</td>
 <td>-27.386</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/CLK2_0">=></a></td>
@@ -2520,7 +2519,7 @@
 <td>URS0000C13367_632773</td>
 <td><a href="https://rnacentral.org/rna/URS0000C13367/632773">RS</a></td>
 <td>0.9154</td>
-<td>20</td>
+<td>16</td>
 <td>0.9806</td>
 <td>-11.918</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/CLNK">=></a></td>
@@ -2532,7 +2531,7 @@
 <td>URS0000BEE8B9_104623</td>
 <td><a href="https://rnacentral.org/rna/URS0000BEE8B9/104623">RS</a></td>
 <td>0.8677</td>
-<td>20</td>
+<td>11</td>
 <td>0.9888</td>
 <td>-29.451</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/CLPB">=></a></td>
@@ -2544,7 +2543,7 @@
 <td>URS0000C3450C_1660135</td>
 <td><a href="https://rnacentral.org/rna/URS0000C3450C/1660135">RS</a></td>
 <td>0.8392</td>
-<td>20</td>
+<td>2</td>
 <td>0.9783</td>
 <td>-14.431</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/CLYBL">=></a></td>
@@ -2556,7 +2555,7 @@
 <td>URS0002328451_1255619</td>
 <td><a href="https://rnacentral.org/rna/URS0002328451/1255619">RS</a></td>
 <td>0.7405</td>
-<td>20</td>
+<td>3</td>
 <td>0.9707</td>
 <td>-29.081</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/CMBL">=></a></td>
@@ -2568,7 +2567,7 @@
 <td>URS0000C1C1DD_980563</td>
 <td><a href="https://rnacentral.org/rna/URS0000C1C1DD/980563">RS</a></td>
 <td>0.9215</td>
-<td>20</td>
+<td>17</td>
 <td>0.9890</td>
 <td>-13.626</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/CNKSR2">=></a></td>
@@ -2580,7 +2579,7 @@
 <td>URS0000AB763F_12908</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB763F/12908">RS</a></td>
 <td>0.8764</td>
-<td>20</td>
+<td>15</td>
 <td>0.9735</td>
 <td>-36.644</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/CNPY4">=></a></td>
@@ -2592,7 +2591,7 @@
 <td>URS0000C7C004_1750719</td>
 <td><a href="https://rnacentral.org/rna/URS0000C7C004/1750719">RS</a></td>
 <td>0.8792</td>
-<td>20</td>
+<td>15</td>
 <td>0.9671</td>
 <td>-25.653</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/CNTN1">=></a></td>
@@ -2604,7 +2603,7 @@
 <td>URS0000C33A37_1592897</td>
 <td><a href="https://rnacentral.org/rna/URS0000C33A37/1592897">RS</a></td>
 <td>0.8430</td>
-<td>20</td>
+<td>9</td>
 <td>0.9802</td>
 <td>-16.370</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/CNTN4">=></a></td>
@@ -2628,7 +2627,7 @@
 <td>URS0000D9C20D_1805195</td>
 <td><a href="https://rnacentral.org/rna/URS0000D9C20D/1805195">RS</a></td>
 <td>0.7791</td>
-<td>20</td>
+<td>6</td>
 <td>0.9903</td>
 <td>-17.629</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/COIL">=></a></td>
@@ -2640,7 +2639,7 @@
 <td>URS0000D9D557_83655</td>
 <td><a href="https://rnacentral.org/rna/URS0000D9D557/83655">RS</a></td>
 <td>0.8751</td>
-<td>20</td>
+<td>13</td>
 <td>0.9778</td>
 <td>-47.906</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/COL5A3">=></a></td>
@@ -2652,7 +2651,7 @@
 <td>URS0000C61D73_12908</td>
 <td><a href="https://rnacentral.org/rna/URS0000C61D73/12908">RS</a></td>
 <td>0.9067</td>
-<td>20</td>
+<td>18</td>
 <td>0.9915</td>
 <td>-12.876</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/COL9A3">=></a></td>
@@ -2664,7 +2663,7 @@
 <td>URS0000AB3CF5_279010</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB3CF5/279010">RS</a></td>
 <td>0.7661</td>
-<td>20</td>
+<td>1</td>
 <td>0.9582</td>
 <td>-40.042</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/COMMD10">=></a></td>
@@ -2676,7 +2675,7 @@
 <td>URS0000DA7EB7_1122192</td>
 <td><a href="https://rnacentral.org/rna/URS0000DA7EB7/1122192">RS</a></td>
 <td>0.9309</td>
-<td>20</td>
+<td>18</td>
 <td>0.9860</td>
 <td>-23.656</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/COMMD2">=></a></td>
@@ -2688,7 +2687,7 @@
 <td>URS0000B31CF8_1183435</td>
 <td><a href="https://rnacentral.org/rna/URS0000B31CF8/1183435">RS</a></td>
 <td>0.8383</td>
-<td>20</td>
+<td>8</td>
 <td>0.9844</td>
 <td>-24.896</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/COMMD2_0">=></a></td>
@@ -2700,7 +2699,7 @@
 <td>URS0000B6712B_1325564</td>
 <td><a href="https://rnacentral.org/rna/URS0000B6712B/1325564">RS</a></td>
 <td>0.8344</td>
-<td>20</td>
+<td>4</td>
 <td>0.9538</td>
 <td>-58.766</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/COPB1">=></a></td>
@@ -2712,7 +2711,7 @@
 <td>URS000232B8E6_477974</td>
 <td><a href="https://rnacentral.org/rna/URS000232B8E6/477974">RS</a></td>
 <td>0.7818</td>
-<td>20</td>
+<td>13</td>
 <td>0.9504</td>
 <td>-69.200</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/COPB1_0">=></a></td>
@@ -2736,7 +2735,7 @@
 <td>URS000231FD10_1839773</td>
 <td><a href="https://rnacentral.org/rna/URS000231FD10/1839773">RS</a></td>
 <td>0.8622</td>
-<td>20</td>
+<td>10</td>
 <td>0.9638</td>
 <td>-38.486</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/COPS7B">=></a></td>
@@ -2760,7 +2759,7 @@
 <td>URS0000D87A44_1797678</td>
 <td><a href="https://rnacentral.org/rna/URS0000D87A44/1797678">RS</a></td>
 <td>0.9572</td>
-<td>20</td>
+<td>19</td>
 <td>0.9845</td>
 <td>-19.822</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/COQ7">=></a></td>
@@ -2772,7 +2771,7 @@
 <td>URS0000C32D33_1703392</td>
 <td><a href="https://rnacentral.org/rna/URS0000C32D33/1703392">RS</a></td>
 <td>0.8789</td>
-<td>20</td>
+<td>10</td>
 <td>0.9801</td>
 <td>-27.804</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/COQ7_0">=></a></td>
@@ -2784,7 +2783,7 @@
 <td>URS0000C1570C_305700</td>
 <td><a href="https://rnacentral.org/rna/URS0000C1570C/305700">RS</a></td>
 <td>0.9500</td>
-<td>20</td>
+<td>19</td>
 <td>0.9803</td>
 <td>-21.237</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/COQ7_1">=></a></td>
@@ -2796,7 +2795,7 @@
 <td>URS0000AB5DC4_351016</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB5DC4/351016">RS</a></td>
 <td>0.9021</td>
-<td>20</td>
+<td>14</td>
 <td>0.9923</td>
 <td>-9.344</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/COQ7_2">=></a></td>
@@ -2820,7 +2819,7 @@
 <td>URS0000C060DA_316</td>
 <td><a href="https://rnacentral.org/rna/URS0000C060DA/316">RS</a></td>
 <td>0.8492</td>
-<td>20</td>
+<td>14</td>
 <td>0.9721</td>
 <td>-50.350</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/CORO1B">=></a></td>
@@ -2832,7 +2831,7 @@
 <td>URS0000AB3C33_445972</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB3C33/445972">RS</a></td>
 <td>0.8367</td>
-<td>20</td>
+<td>15</td>
 <td>0.9650</td>
 <td>-57.805</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/CORO1B_0">=></a></td>
@@ -2844,7 +2843,7 @@
 <td>URS0000D96925_550447</td>
 <td><a href="https://rnacentral.org/rna/URS0000D96925/550447">RS</a></td>
 <td>0.6902</td>
-<td>20</td>
+<td>1</td>
 <td>0.9639</td>
 <td>-60.954</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/CORO1B_1">=></a></td>
@@ -2856,7 +2855,7 @@
 <td>URS0000C4D0DC_12908</td>
 <td><a href="https://rnacentral.org/rna/URS0000C4D0DC/12908">RS</a></td>
 <td>0.7443</td>
-<td>20</td>
+<td>3</td>
 <td>0.9913</td>
 <td>-9.757</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/CORO1C">=></a></td>
@@ -2868,7 +2867,7 @@
 <td>URS0000ABAE7E_298653</td>
 <td><a href="https://rnacentral.org/rna/URS0000ABAE7E/298653">RS</a></td>
 <td>0.8986</td>
-<td>20</td>
+<td>14</td>
 <td>0.9635</td>
 <td>-61.397</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/CORO7">=></a></td>
@@ -2904,7 +2903,7 @@
 <td>URS00004C98FA_1430440</td>
 <td><a href="https://rnacentral.org/rna/URS00004C98FA/1430440">RS</a></td>
 <td>0.8347</td>
-<td>20</td>
+<td>3</td>
 <td>0.9774</td>
 <td>-35.468</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/COX17">=></a></td>
@@ -2916,7 +2915,7 @@
 <td>URS0000D9A8A9_1793963</td>
 <td><a href="https://rnacentral.org/rna/URS0000D9A8A9/1793963">RS</a></td>
 <td>0.8303</td>
-<td>20</td>
+<td>6</td>
 <td>0.9823</td>
 <td>-44.995</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/COX18">=></a></td>
@@ -2928,7 +2927,7 @@
 <td>URS0000C25F5A_1221538</td>
 <td><a href="https://rnacentral.org/rna/URS0000C25F5A/1221538">RS</a></td>
 <td>0.8680</td>
-<td>20</td>
+<td>12</td>
 <td>0.9842</td>
 <td>-15.387</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/COX6C">=></a></td>
@@ -2940,7 +2939,7 @@
 <td>URS0000D95779_235985</td>
 <td><a href="https://rnacentral.org/rna/URS0000D95779/235985">RS</a></td>
 <td>0.8454</td>
-<td>20</td>
+<td>4</td>
 <td>0.9721</td>
 <td>-58.246</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/CPLX3">=></a></td>
@@ -2964,7 +2963,7 @@
 <td>URS0000D6D0EB_12908</td>
 <td><a href="https://rnacentral.org/rna/URS0000D6D0EB/12908">RS</a></td>
 <td>0.6418</td>
-<td>20</td>
+<td>1</td>
 <td>0.9883</td>
 <td>-13.776</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/CPXM2">=></a></td>
@@ -2976,7 +2975,7 @@
 <td>URS0000C5BFF9_1246626</td>
 <td><a href="https://rnacentral.org/rna/URS0000C5BFF9/1246626">RS</a></td>
 <td>0.8304</td>
-<td>20</td>
+<td>4</td>
 <td>0.9636</td>
 <td>-57.804</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/CREB1">=></a></td>
@@ -2988,7 +2987,7 @@
 <td>URS000233174F_1129794</td>
 <td><a href="https://rnacentral.org/rna/URS000233174F/1129794">RS</a></td>
 <td>0.8329</td>
-<td>20</td>
+<td>4</td>
 <td>0.9564</td>
 <td>-20.459</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/CROT">=></a></td>
@@ -3000,7 +2999,7 @@
 <td>URS0000D9C4DC_660596</td>
 <td><a href="https://rnacentral.org/rna/URS0000D9C4DC/660596">RS</a></td>
 <td>0.8445</td>
-<td>20</td>
+<td>7</td>
 <td>0.9861</td>
 <td>-31.060</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/CRYBG3">=></a></td>
@@ -3012,7 +3011,7 @@
 <td>URS0000C0834F_12908</td>
 <td><a href="https://rnacentral.org/rna/URS0000C0834F/12908">RS</a></td>
 <td>0.9258</td>
-<td>20</td>
+<td>18</td>
 <td>0.9907</td>
 <td>-8.052</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/CRYGA">=></a></td>
@@ -3024,7 +3023,7 @@
 <td>URS0000C39571_1235279</td>
 <td><a href="https://rnacentral.org/rna/URS0000C39571/1235279">RS</a></td>
 <td>0.8296</td>
-<td>20</td>
+<td>5</td>
 <td>0.9758</td>
 <td>-31.162</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/CRYM">=></a></td>
@@ -3048,7 +3047,7 @@
 <td>URS00021EDBF5_12908</td>
 <td><a href="https://rnacentral.org/rna/URS00021EDBF5/12908">RS</a></td>
 <td>0.9349</td>
-<td>20</td>
+<td>16</td>
 <td>0.9815</td>
 <td>-22.606</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/CT45A3">=></a></td>
@@ -3060,7 +3059,7 @@
 <td>URS0000D95810_344880</td>
 <td><a href="https://rnacentral.org/rna/URS0000D95810/344880">RS</a></td>
 <td>0.9507</td>
-<td>20</td>
+<td>18</td>
 <td>0.9809</td>
 <td>-28.958</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/CT45A6">=></a></td>
@@ -3072,7 +3071,7 @@
 <td>URS0000C189D3_1263015</td>
 <td><a href="https://rnacentral.org/rna/URS0000C189D3/1263015">RS</a></td>
 <td>0.7116</td>
-<td>20</td>
+<td>3</td>
 <td>0.9596</td>
 <td>-71.870</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/CTDP1">=></a></td>
@@ -3084,7 +3083,7 @@
 <td>URS0000D93C09_1783</td>
 <td><a href="https://rnacentral.org/rna/URS0000D93C09/1783">RS</a></td>
 <td>0.7447</td>
-<td>20</td>
+<td>1</td>
 <td>0.9787</td>
 <td>-19.855</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/CTNNBL1">=></a></td>
@@ -3096,7 +3095,7 @@
 <td>URS0000BF0C28_1358026</td>
 <td><a href="https://rnacentral.org/rna/URS0000BF0C28/1358026">RS</a></td>
 <td>0.9030</td>
-<td>20</td>
+<td>18</td>
 <td>0.9769</td>
 <td>-27.946</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/CTNND2">=></a></td>
@@ -3108,7 +3107,7 @@
 <td>URS0000D981EF_1209926</td>
 <td><a href="https://rnacentral.org/rna/URS0000D981EF/1209926">RS</a></td>
 <td>0.8778</td>
-<td>20</td>
+<td>15</td>
 <td>0.9579</td>
 <td>-63.175</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/CTSD">=></a></td>
@@ -3120,7 +3119,7 @@
 <td>URS0000AB4B01_914141</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB4B01/914141">RS</a></td>
 <td>0.8220</td>
-<td>20</td>
+<td>1</td>
 <td>0.9834</td>
 <td>-15.614</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/CTSK">=></a></td>
@@ -3144,7 +3143,7 @@
 <td>URS0000D94D70_1121421</td>
 <td><a href="https://rnacentral.org/rna/URS0000D94D70/1121421">RS</a></td>
 <td>0.8400</td>
-<td>20</td>
+<td>3</td>
 <td>0.9738</td>
 <td>-36.985</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/CWF19L1">=></a></td>
@@ -3156,7 +3155,7 @@
 <td>URS0000ABBF0B_508767</td>
 <td><a href="https://rnacentral.org/rna/URS0000ABBF0B/508767">RS</a></td>
 <td>0.9147</td>
-<td>20</td>
+<td>18</td>
 <td>0.9593</td>
 <td>-42.272</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/CYP19A1">=></a></td>
@@ -3168,7 +3167,7 @@
 <td>URS00021EDE64_12908</td>
 <td><a href="https://rnacentral.org/rna/URS00021EDE64/12908">RS</a></td>
 <td>0.8521</td>
-<td>20</td>
+<td>7</td>
 <td>0.9915</td>
 <td>-20.977</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/CYP2U1">=></a></td>
@@ -3180,7 +3179,7 @@
 <td>URS000232B190_230954</td>
 <td><a href="https://rnacentral.org/rna/URS000232B190/230954">RS</a></td>
 <td>0.9558</td>
-<td>20</td>
+<td>18</td>
 <td>0.9424</td>
 <td>-69.240</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/DAZAP2">=></a></td>
@@ -3192,7 +3191,7 @@
 <td>URS0002320F1D_1454373</td>
 <td><a href="https://rnacentral.org/rna/URS0002320F1D/1454373">RS</a></td>
 <td>0.8897</td>
-<td>20</td>
+<td>15</td>
 <td>0.9382</td>
 <td>-77.824</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/DAZAP2_0">=></a></td>
@@ -3204,7 +3203,7 @@
 <td>URS0000C3ACA6_933944</td>
 <td><a href="https://rnacentral.org/rna/URS0000C3ACA6/933944">RS</a></td>
 <td>0.9203</td>
-<td>20</td>
+<td>16</td>
 <td>0.9745</td>
 <td>-34.227</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/DBF4B">=></a></td>
@@ -3216,7 +3215,7 @@
 <td>URS0000D95A8E_236814</td>
 <td><a href="https://rnacentral.org/rna/URS0000D95A8E/236814">RS</a></td>
 <td>0.8734</td>
-<td>20</td>
+<td>11</td>
 <td>0.9928</td>
 <td>-23.962</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/DCTN3">=></a></td>
@@ -3228,7 +3227,7 @@
 <td>URS0000D98ADB_68173</td>
 <td><a href="https://rnacentral.org/rna/URS0000D98ADB/68173">RS</a></td>
 <td>0.8723</td>
-<td>20</td>
+<td>13</td>
 <td>0.9653</td>
 <td>-44.561</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/DCTN4">=></a></td>
@@ -3252,7 +3251,7 @@
 <td>URS0000BE3A08_1519490</td>
 <td><a href="https://rnacentral.org/rna/URS0000BE3A08/1519490">RS</a></td>
 <td>0.9375</td>
-<td>20</td>
+<td>18</td>
 <td>0.9758</td>
 <td>-36.440</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/DDX18">=></a></td>
@@ -3264,7 +3263,7 @@
 <td>URS0000AB9BD8_106370</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB9BD8/106370">RS</a></td>
 <td>0.8828</td>
-<td>20</td>
+<td>11</td>
 <td>0.9845</td>
 <td>-38.934</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/DDX19A">=></a></td>
@@ -3276,7 +3275,7 @@
 <td>URS0000D9F764_402384</td>
 <td><a href="https://rnacentral.org/rna/URS0000D9F764/402384">RS</a></td>
 <td>0.7795</td>
-<td>20</td>
+<td>3</td>
 <td>0.9604</td>
 <td>-60.459</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/DDX24">=></a></td>
@@ -3288,7 +3287,7 @@
 <td>URS0000C26B4B_56110</td>
 <td><a href="https://rnacentral.org/rna/URS0000C26B4B/56110">RS</a></td>
 <td>0.7995</td>
-<td>20</td>
+<td>3</td>
 <td>0.9613</td>
 <td>-49.645</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/DDX24_0">=></a></td>
@@ -3336,7 +3335,7 @@
 <td>URS0000C83616_12908</td>
 <td><a href="https://rnacentral.org/rna/URS0000C83616/12908">RS</a></td>
 <td>0.8700</td>
-<td>20</td>
+<td>12</td>
 <td>0.9892</td>
 <td>-7.776</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/DDX47">=></a></td>
@@ -3360,7 +3359,7 @@
 <td>URS0000E5FCA8_1156935</td>
 <td><a href="https://rnacentral.org/rna/URS0000E5FCA8/1156935">RS</a></td>
 <td>0.8718</td>
-<td>20</td>
+<td>14</td>
 <td>0.9911</td>
 <td>-14.701</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/DDX47_1">=></a></td>
@@ -3372,7 +3371,7 @@
 <td>URS0002316984_411483</td>
 <td><a href="https://rnacentral.org/rna/URS0002316984/411483">RS</a></td>
 <td>0.7394</td>
-<td>20</td>
+<td>4</td>
 <td>0.8794</td>
 <td>-110.327</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/DDX5">=></a></td>
@@ -3396,7 +3395,7 @@
 <td>URS0000C2C4EE_1609134</td>
 <td><a href="https://rnacentral.org/rna/URS0000C2C4EE/1609134">RS</a></td>
 <td>0.9274</td>
-<td>20</td>
+<td>18</td>
 <td>0.9890</td>
 <td>-14.984</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/DDX58_0">=></a></td>
@@ -3408,7 +3407,7 @@
 <td>URS0000C5EDB6_1302648</td>
 <td><a href="https://rnacentral.org/rna/URS0000C5EDB6/1302648">RS</a></td>
 <td>0.8372</td>
-<td>20</td>
+<td>12</td>
 <td>0.9631</td>
 <td>-48.823</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/DEDD2">=></a></td>
@@ -3420,7 +3419,7 @@
 <td>URS0000DAF344_211114</td>
 <td><a href="https://rnacentral.org/rna/URS0000DAF344/211114">RS</a></td>
 <td>0.9352</td>
-<td>20</td>
+<td>16</td>
 <td>0.9740</td>
 <td>-59.252</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/DFFA">=></a></td>
@@ -3456,7 +3455,7 @@
 <td>URS0000D805D2_684552</td>
 <td><a href="https://rnacentral.org/rna/URS0000D805D2/684552">RS</a></td>
 <td>0.8380</td>
-<td>20</td>
+<td>4</td>
 <td>0.9766</td>
 <td>-26.048</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/DGAT2L6">=></a></td>
@@ -3468,7 +3467,7 @@
 <td>URS0000D849A0_1517881</td>
 <td><a href="https://rnacentral.org/rna/URS0000D849A0/1517881">RS</a></td>
 <td>0.9088</td>
-<td>20</td>
+<td>17</td>
 <td>0.9601</td>
 <td>-37.609</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/DGKA">=></a></td>
@@ -3504,7 +3503,7 @@
 <td>URS000231F4EB_1797914</td>
 <td><a href="https://rnacentral.org/rna/URS000231F4EB/1797914">RS</a></td>
 <td>0.7076</td>
-<td>20</td>
+<td>1</td>
 <td>0.9506</td>
 <td>-54.963</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/DHCR7">=></a></td>
@@ -3540,7 +3539,7 @@
 <td>URS0000C0F029_947969</td>
 <td><a href="https://rnacentral.org/rna/URS0000C0F029/947969">RS</a></td>
 <td>0.7815</td>
-<td>20</td>
+<td>3</td>
 <td>0.9738</td>
 <td>-47.561</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/DHPS">=></a></td>
@@ -3552,7 +3551,7 @@
 <td>URS0000BEFEE2_1609099</td>
 <td><a href="https://rnacentral.org/rna/URS0000BEFEE2/1609099">RS</a></td>
 <td>0.7200</td>
-<td>20</td>
+<td>1</td>
 <td>0.9744</td>
 <td>-48.860</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/DHPS_0">=></a></td>
@@ -3564,7 +3563,7 @@
 <td>URS000231EEC6_261594</td>
 <td><a href="https://rnacentral.org/rna/URS000231EEC6/261594">RS</a></td>
 <td>0.8494</td>
-<td>20</td>
+<td>7</td>
 <td>0.9547</td>
 <td>-21.863</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/DHX36">=></a></td>
@@ -3576,7 +3575,7 @@
 <td>URS0000BEA6DB_1704044</td>
 <td><a href="https://rnacentral.org/rna/URS0000BEA6DB/1704044">RS</a></td>
 <td>0.8755</td>
-<td>20</td>
+<td>13</td>
 <td>0.9780</td>
 <td>-43.734</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/DKC1">=></a></td>
@@ -3600,7 +3599,7 @@
 <td>URS0000C2215A_1185766</td>
 <td><a href="https://rnacentral.org/rna/URS0000C2215A/1185766">RS</a></td>
 <td>0.9280</td>
-<td>20</td>
+<td>18</td>
 <td>0.9901</td>
 <td>-12.447</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/DMBX1">=></a></td>
@@ -3612,7 +3611,7 @@
 <td>URS0000C3E942_145458</td>
 <td><a href="https://rnacentral.org/rna/URS0000C3E942/145458">RS</a></td>
 <td>0.8185</td>
-<td>20</td>
+<td>3</td>
 <td>0.9817</td>
 <td>-31.087</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/DNAH9">=></a></td>
@@ -3624,7 +3623,7 @@
 <td>URS0000D693D8_12908</td>
 <td><a href="https://rnacentral.org/rna/URS0000D693D8/12908">RS</a></td>
 <td>0.8834</td>
-<td>20</td>
+<td>11</td>
 <td>0.9719</td>
 <td>-27.570</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/DNAI2">=></a></td>
@@ -3648,7 +3647,7 @@
 <td>URS0000C45645_75695</td>
 <td><a href="https://rnacentral.org/rna/URS0000C45645/75695">RS</a></td>
 <td>0.8574</td>
-<td>20</td>
+<td>10</td>
 <td>0.9844</td>
 <td>-17.713</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/DNAJB8">=></a></td>
@@ -3660,7 +3659,7 @@
 <td>URS00021EE05B_1317124</td>
 <td><a href="https://rnacentral.org/rna/URS00021EE05B/1317124">RS</a></td>
 <td>0.9089</td>
-<td>20</td>
+<td>17</td>
 <td>0.9892</td>
 <td>-10.001</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/DNAJC11">=></a></td>
@@ -3684,7 +3683,7 @@
 <td>URS0000C0D852_333138</td>
 <td><a href="https://rnacentral.org/rna/URS0000C0D852/333138">RS</a></td>
 <td>0.8980</td>
-<td>20</td>
+<td>16</td>
 <td>0.9769</td>
 <td>-29.808</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/DNAJC7">=></a></td>
@@ -3696,7 +3695,7 @@
 <td>URS0000C512DF_1411621</td>
 <td><a href="https://rnacentral.org/rna/URS0000C512DF/1411621">RS</a></td>
 <td>0.8597</td>
-<td>20</td>
+<td>4</td>
 <td>0.9901</td>
 <td>-15.101</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/DNTTIP2">=></a></td>
@@ -3708,7 +3707,7 @@
 <td>URS0000ABA675_12908</td>
 <td><a href="https://rnacentral.org/rna/URS0000ABA675/12908">RS</a></td>
 <td>0.8991</td>
-<td>20</td>
+<td>15</td>
 <td>0.9827</td>
 <td>-20.084</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/DOCK11">=></a></td>
@@ -3720,7 +3719,7 @@
 <td>URS0000D866CD_1776045</td>
 <td><a href="https://rnacentral.org/rna/URS0000D866CD/1776045">RS</a></td>
 <td>0.8694</td>
-<td>20</td>
+<td>10</td>
 <td>0.9791</td>
 <td>-33.714</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/DOCK11_0">=></a></td>
@@ -3732,7 +3731,7 @@
 <td>URS0000C1A5D3_1679170</td>
 <td><a href="https://rnacentral.org/rna/URS0000C1A5D3/1679170">RS</a></td>
 <td>0.8981</td>
-<td>20</td>
+<td>16</td>
 <td>0.9660</td>
 <td>-40.500</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/DPY19L2">=></a></td>
@@ -3744,7 +3743,7 @@
 <td>URS0000BB0318_475083</td>
 <td><a href="https://rnacentral.org/rna/URS0000BB0318/475083">RS</a></td>
 <td>0.8374</td>
-<td>20</td>
+<td>4</td>
 <td>0.9330</td>
 <td>-57.524</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/DPYSL2">=></a></td>
@@ -3756,7 +3755,7 @@
 <td>URS0000BE3B5A_525146</td>
 <td><a href="https://rnacentral.org/rna/URS0000BE3B5A/525146">RS</a></td>
 <td>0.8941</td>
-<td>20</td>
+<td>14</td>
 <td>0.9867</td>
 <td>-25.329</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/DUSP11">=></a></td>
@@ -3768,7 +3767,7 @@
 <td>URS0000E6082B_1505936</td>
 <td><a href="https://rnacentral.org/rna/URS0000E6082B/1505936">RS</a></td>
 <td>0.7635</td>
-<td>20</td>
+<td>1</td>
 <td>0.9916</td>
 <td>-7.345</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/DUSP6">=></a></td>
@@ -3780,7 +3779,7 @@
 <td>URS0000D6AD63_859657</td>
 <td><a href="https://rnacentral.org/rna/URS0000D6AD63/859657">RS</a></td>
 <td>0.8261</td>
-<td>20</td>
+<td>8</td>
 <td>0.9880</td>
 <td>-19.573</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/DYDC1">=></a></td>
@@ -3804,7 +3803,7 @@
 <td>URS0000DA18A6_464029</td>
 <td><a href="https://rnacentral.org/rna/URS0000DA18A6/464029">RS</a></td>
 <td>0.9321</td>
-<td>20</td>
+<td>19</td>
 <td>0.9721</td>
 <td>-55.924</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/DYNC1LI1_0">=></a></td>
@@ -3840,7 +3839,7 @@
 <td>URS0000C1A5D3_1679170</td>
 <td><a href="https://rnacentral.org/rna/URS0000C1A5D3/1679170">RS</a></td>
 <td>0.8286</td>
-<td>20</td>
+<td>4</td>
 <td>0.9596</td>
 <td>-48.168</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/EDA">=></a></td>
@@ -3900,7 +3899,7 @@
 <td>URS0000C7D0E7_1196094</td>
 <td><a href="https://rnacentral.org/rna/URS0000C7D0E7/1196094">RS</a></td>
 <td>0.7883</td>
-<td>20</td>
+<td>5</td>
 <td>0.9865</td>
 <td>-5.779</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/EHMT2">=></a></td>
@@ -3924,7 +3923,7 @@
 <td>URS0000D91C73_1797794</td>
 <td><a href="https://rnacentral.org/rna/URS0000D91C73/1797794">RS</a></td>
 <td>0.9389</td>
-<td>20</td>
+<td>17</td>
 <td>0.9757</td>
 <td>-36.434</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/EIF2B2">=></a></td>
@@ -3936,7 +3935,7 @@
 <td>URS0000AB9439_641146</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB9439/641146">RS</a></td>
 <td>0.7759</td>
-<td>20</td>
+<td>3</td>
 <td>0.9799</td>
 <td>-43.424</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/EIF3C">=></a></td>
@@ -3948,7 +3947,7 @@
 <td>URS0000AB5C5F_393116</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB5C5F/393116">RS</a></td>
 <td>0.9177</td>
-<td>20</td>
+<td>19</td>
 <td>0.9819</td>
 <td>-32.694</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/EIF3C_0">=></a></td>
@@ -3960,7 +3959,7 @@
 <td>URS0000C3B0D1_1116391</td>
 <td><a href="https://rnacentral.org/rna/URS0000C3B0D1/1116391">RS</a></td>
 <td>0.8668</td>
-<td>20</td>
+<td>13</td>
 <td>0.9811</td>
 <td>-33.480</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/EIF3CL">=></a></td>
@@ -3972,7 +3971,7 @@
 <td>URS0000C18811_1423804</td>
 <td><a href="https://rnacentral.org/rna/URS0000C18811/1423804">RS</a></td>
 <td>0.8888</td>
-<td>20</td>
+<td>14</td>
 <td>0.9536</td>
 <td>-31.913</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/EIF3E">=></a></td>
@@ -3984,7 +3983,7 @@
 <td>URS0000AB4FD4_391008</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB4FD4/391008">RS</a></td>
 <td>0.9498</td>
-<td>20</td>
+<td>19</td>
 <td>0.9627</td>
 <td>-46.851</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/EIF3H">=></a></td>
@@ -4008,7 +4007,7 @@
 <td>URS0000A4F8B0_215221</td>
 <td><a href="https://rnacentral.org/rna/URS0000A4F8B0/215221">RS</a></td>
 <td>0.9091</td>
-<td>20</td>
+<td>15</td>
 <td>0.9569</td>
 <td>-57.575</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/EIF4A1">=></a></td>
@@ -4020,7 +4019,7 @@
 <td>URS0000B5D110_307249</td>
 <td><a href="https://rnacentral.org/rna/URS0000B5D110/307249">RS</a></td>
 <td>0.9118</td>
-<td>20</td>
+<td>17</td>
 <td>0.9573</td>
 <td>-60.257</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/EIF4E2">=></a></td>
@@ -4032,7 +4031,7 @@
 <td>URS0000C57D0C_1685379</td>
 <td><a href="https://rnacentral.org/rna/URS0000C57D0C/1685379">RS</a></td>
 <td>0.9502</td>
-<td>20</td>
+<td>18</td>
 <td>0.9880</td>
 <td>-3.293</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/EIF4H">=></a></td>
@@ -4044,7 +4043,7 @@
 <td>URS0000DF280B_1537</td>
 <td><a href="https://rnacentral.org/rna/URS0000DF280B/1537">RS</a></td>
 <td>0.8545</td>
-<td>20</td>
+<td>10</td>
 <td>0.9526</td>
 <td>-43.405</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/EIF5A">=></a></td>
@@ -4056,7 +4055,7 @@
 <td>URS0000D6C957_12908</td>
 <td><a href="https://rnacentral.org/rna/URS0000D6C957/12908">RS</a></td>
 <td>0.9140</td>
-<td>20</td>
+<td>19</td>
 <td>0.9859</td>
 <td>-28.557</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/EIF6">=></a></td>
@@ -4068,7 +4067,7 @@
 <td>URS0000209672_483908</td>
 <td><a href="https://rnacentral.org/rna/URS0000209672/483908">RS</a></td>
 <td>0.8721</td>
-<td>20</td>
+<td>14</td>
 <td>0.9806</td>
 <td>-25.746</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/EIF6_0">=></a></td>
@@ -4080,7 +4079,7 @@
 <td>URS0000C71979_1262882</td>
 <td><a href="https://rnacentral.org/rna/URS0000C71979/1262882">RS</a></td>
 <td>0.9396</td>
-<td>20</td>
+<td>15</td>
 <td>0.9523</td>
 <td>-50.547</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ELP3">=></a></td>
@@ -4128,7 +4127,7 @@
 <td>URS0000ABCAF6_196600</td>
 <td><a href="https://rnacentral.org/rna/URS0000ABCAF6/196600">RS</a></td>
 <td>0.9163</td>
-<td>20</td>
+<td>19</td>
 <td>0.9601</td>
 <td>-46.745</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ENY2_1">=></a></td>
@@ -4176,7 +4175,7 @@
 <td>URS0000D7FB31_1895790</td>
 <td><a href="https://rnacentral.org/rna/URS0000D7FB31/1895790">RS</a></td>
 <td>0.8790</td>
-<td>20</td>
+<td>11</td>
 <td>0.9801</td>
 <td>-26.011</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/EPB41L3_2">=></a></td>
@@ -4188,7 +4187,7 @@
 <td>URS0000E604CE_1449336</td>
 <td><a href="https://rnacentral.org/rna/URS0000E604CE/1449336">RS</a></td>
 <td>0.7309</td>
-<td>20</td>
+<td>1</td>
 <td>0.9950</td>
 <td>-14.554</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/EPDR1">=></a></td>
@@ -4224,7 +4223,7 @@
 <td>URS0000AB9ED7_428125</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB9ED7/428125">RS</a></td>
 <td>0.9327</td>
-<td>20</td>
+<td>18</td>
 <td>0.9666</td>
 <td>-13.276</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/EPS8">=></a></td>
@@ -4236,7 +4235,7 @@
 <td>URS0000C76578_445335</td>
 <td><a href="https://rnacentral.org/rna/URS0000C76578/445335">RS</a></td>
 <td>0.9253</td>
-<td>20</td>
+<td>16</td>
 <td>0.9818</td>
 <td>-31.836</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/EPSTI1">=></a></td>
@@ -4248,7 +4247,7 @@
 <td>URS0000C87D8B_12908</td>
 <td><a href="https://rnacentral.org/rna/URS0000C87D8B/12908">RS</a></td>
 <td>0.9371</td>
-<td>20</td>
+<td>18</td>
 <td>0.9901</td>
 <td>-8.242</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ERCC1">=></a></td>
@@ -4260,7 +4259,7 @@
 <td>URS0000C53D12_499207</td>
 <td><a href="https://rnacentral.org/rna/URS0000C53D12/499207">RS</a></td>
 <td>0.9136</td>
-<td>20</td>
+<td>17</td>
 <td>0.9733</td>
 <td>-28.022</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ERCC6L">=></a></td>
@@ -4296,7 +4295,7 @@
 <td>URS000233137D_1367847</td>
 <td><a href="https://rnacentral.org/rna/URS000233137D/1367847">RS</a></td>
 <td>0.8837</td>
-<td>20</td>
+<td>15</td>
 <td>0.9531</td>
 <td>-58.755</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ERGIC2_0">=></a></td>
@@ -4308,7 +4307,7 @@
 <td>URS0000C4F8E6_1235835</td>
 <td><a href="https://rnacentral.org/rna/URS0000C4F8E6/1235835">RS</a></td>
 <td>0.8555</td>
-<td>20</td>
+<td>10</td>
 <td>0.9509</td>
 <td>-55.239</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ERGIC2_1">=></a></td>
@@ -4332,7 +4331,7 @@
 <td>URS0000D695A1_12908</td>
 <td><a href="https://rnacentral.org/rna/URS0000D695A1/12908">RS</a></td>
 <td>0.8734</td>
-<td>20</td>
+<td>14</td>
 <td>0.9698</td>
 <td>-35.396</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ETV3">=></a></td>
@@ -4344,7 +4343,7 @@
 <td>URS0000C2D396_99158</td>
 <td><a href="https://rnacentral.org/rna/URS0000C2D396/99158">RS</a></td>
 <td>0.7522</td>
-<td>20</td>
+<td>1</td>
 <td>0.9446</td>
 <td>-50.809</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/EXOC4">=></a></td>
@@ -4380,7 +4379,7 @@
 <td>URS0000C4E1C0_165186</td>
 <td><a href="https://rnacentral.org/rna/URS0000C4E1C0/165186">RS</a></td>
 <td>0.9462</td>
-<td>20</td>
+<td>19</td>
 <td>0.9854</td>
 <td>-26.788</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/EXOSC3_0">=></a></td>
@@ -4404,7 +4403,7 @@
 <td>URS0000DA3D24_1938741</td>
 <td><a href="https://rnacentral.org/rna/URS0000DA3D24/1938741">RS</a></td>
 <td>0.8805</td>
-<td>20</td>
+<td>12</td>
 <td>0.9698</td>
 <td>-24.980</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/EXPH5">=></a></td>
@@ -4416,7 +4415,7 @@
 <td>URS0002318707_1797627</td>
 <td><a href="https://rnacentral.org/rna/URS0002318707/1797627">RS</a></td>
 <td>0.8295</td>
-<td>20</td>
+<td>10</td>
 <td>0.9583</td>
 <td>-50.725</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/EYA2">=></a></td>
@@ -4428,7 +4427,7 @@
 <td>URS0000C4B7AD_2340</td>
 <td><a href="https://rnacentral.org/rna/URS0000C4B7AD/2340">RS</a></td>
 <td>0.8779</td>
-<td>20</td>
+<td>9</td>
 <td>0.9686</td>
 <td>-37.140</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/EYA2_0">=></a></td>
@@ -4452,7 +4451,7 @@
 <td>URS00023134F5_745014</td>
 <td><a href="https://rnacentral.org/rna/URS00023134F5/745014">RS</a></td>
 <td>0.8113</td>
-<td>20</td>
+<td>7</td>
 <td>0.9633</td>
 <td>-43.539</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/FADS1_0">=></a></td>
@@ -4476,7 +4475,7 @@
 <td>URS00023134F5_745014</td>
 <td><a href="https://rnacentral.org/rna/URS00023134F5/745014">RS</a></td>
 <td>0.8113</td>
-<td>20</td>
+<td>7</td>
 <td>0.9633</td>
 <td>-43.539</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/FADS1_2">=></a></td>
@@ -4488,7 +4487,7 @@
 <td>URS0000D6C2B8_12908</td>
 <td><a href="https://rnacentral.org/rna/URS0000D6C2B8/12908">RS</a></td>
 <td>0.9257</td>
-<td>20</td>
+<td>19</td>
 <td>0.9864</td>
 <td>-39.642</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/FAF1">=></a></td>
@@ -4500,7 +4499,7 @@
 <td>URS00021EDE52_12908</td>
 <td><a href="https://rnacentral.org/rna/URS00021EDE52/12908">RS</a></td>
 <td>0.7375</td>
-<td>20</td>
+<td>1</td>
 <td>0.9826</td>
 <td>-17.463</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/FAM111A">=></a></td>
@@ -4524,7 +4523,7 @@
 <td>URS0000C0BEF4_511051</td>
 <td><a href="https://rnacentral.org/rna/URS0000C0BEF4/511051">RS</a></td>
 <td>0.9037</td>
-<td>20</td>
+<td>17</td>
 <td>0.9753</td>
 <td>-44.089</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/FAM114A2_0">=></a></td>
@@ -4536,7 +4535,7 @@
 <td>URS0000D88C01_658167</td>
 <td><a href="https://rnacentral.org/rna/URS0000D88C01/658167">RS</a></td>
 <td>0.9504</td>
-<td>20</td>
+<td>19</td>
 <td>0.9612</td>
 <td>-54.567</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/FAM114A2_1">=></a></td>
@@ -4548,7 +4547,7 @@
 <td>URS00021EDCA3_12908</td>
 <td><a href="https://rnacentral.org/rna/URS00021EDCA3/12908">RS</a></td>
 <td>0.5803</td>
-<td>20</td>
+<td>1</td>
 <td>0.9909</td>
 <td>-9.426</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/FAM120B">=></a></td>
@@ -4560,7 +4559,7 @@
 <td>URS0000AB8D4A_453247</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB8D4A/453247">RS</a></td>
 <td>0.8500</td>
-<td>20</td>
+<td>6</td>
 <td>0.9784</td>
 <td>-27.680</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/FAM72A">=></a></td>
@@ -4584,7 +4583,7 @@
 <td>URS0000D688A6_12908</td>
 <td><a href="https://rnacentral.org/rna/URS0000D688A6/12908">RS</a></td>
 <td>0.7237</td>
-<td>20</td>
+<td>2</td>
 <td>0.9872</td>
 <td>-26.392</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/FANCA">=></a></td>
@@ -4596,7 +4595,7 @@
 <td>URS0001A16A85_1683</td>
 <td><a href="https://rnacentral.org/rna/URS0001A16A85/1683">RS</a></td>
 <td>0.8072</td>
-<td>20</td>
+<td>6</td>
 <td>0.9908</td>
 <td>-21.049</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/FANCA_0">=></a></td>
@@ -4608,7 +4607,7 @@
 <td>URS0000D6A6A9_264732</td>
 <td><a href="https://rnacentral.org/rna/URS0000D6A6A9/264732">RS</a></td>
 <td>0.8571</td>
-<td>20</td>
+<td>10</td>
 <td>0.9873</td>
 <td>-26.392</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/FANCA_1">=></a></td>
@@ -4620,7 +4619,7 @@
 <td>URS000080DE91_2151</td>
 <td><a href="https://rnacentral.org/rna/URS000080DE91/2151">RS</a></td>
 <td>0.8512</td>
-<td>20</td>
+<td>8</td>
 <td>0.9902</td>
 <td>-25.138</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/FANCA_2">=></a></td>
@@ -4668,7 +4667,7 @@
 <td>URS0000C2C7BF_229921</td>
 <td><a href="https://rnacentral.org/rna/URS0000C2C7BF/229921">RS</a></td>
 <td>0.8969</td>
-<td>20</td>
+<td>16</td>
 <td>0.9726</td>
 <td>-53.975</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/FANK1">=></a></td>
@@ -4680,7 +4679,7 @@
 <td>URS0000AB3EA2_269800</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB3EA2/269800">RS</a></td>
 <td>0.9029</td>
-<td>20</td>
+<td>17</td>
 <td>0.9718</td>
 <td>-52.971</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/FARP2">=></a></td>
@@ -4704,7 +4703,7 @@
 <td>URS0000C57A22_1127694</td>
 <td><a href="https://rnacentral.org/rna/URS0000C57A22/1127694">RS</a></td>
 <td>0.7968</td>
-<td>20</td>
+<td>4</td>
 <td>0.9811</td>
 <td>-36.092</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/FBL">=></a></td>
@@ -4716,7 +4715,7 @@
 <td>URS0000C154DF_1616788</td>
 <td><a href="https://rnacentral.org/rna/URS0000C154DF/1616788">RS</a></td>
 <td>0.8798</td>
-<td>20</td>
+<td>13</td>
 <td>0.9678</td>
 <td>-14.616</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/FBXO11">=></a></td>
@@ -4752,7 +4751,7 @@
 <td>URS0000C31221_12908</td>
 <td><a href="https://rnacentral.org/rna/URS0000C31221/12908">RS</a></td>
 <td>0.5276</td>
-<td>20</td>
+<td>1</td>
 <td>0.9903</td>
 <td>-5.359</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/FBXW12">=></a></td>
@@ -4764,7 +4763,7 @@
 <td>URS0000DB1E0A_1797566</td>
 <td><a href="https://rnacentral.org/rna/URS0000DB1E0A/1797566">RS</a></td>
 <td>0.9121</td>
-<td>20</td>
+<td>18</td>
 <td>0.9820</td>
 <td>-24.712</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/FCGRT">=></a></td>
@@ -4788,7 +4787,7 @@
 <td>URS0000CE06CA_2043168</td>
 <td><a href="https://rnacentral.org/rna/URS0000CE06CA/2043168">RS</a></td>
 <td>0.9390</td>
-<td>20</td>
+<td>19</td>
 <td>0.9885</td>
 <td>-17.273</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/FDFT1">=></a></td>
@@ -4800,7 +4799,7 @@
 <td>URS0000CE06CA_2043168</td>
 <td><a href="https://rnacentral.org/rna/URS0000CE06CA/2043168">RS</a></td>
 <td>0.9390</td>
-<td>20</td>
+<td>19</td>
 <td>0.9885</td>
 <td>-17.273</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/FDFT1_0">=></a></td>
@@ -4812,7 +4811,7 @@
 <td>URS0000CE06CA_2043168</td>
 <td><a href="https://rnacentral.org/rna/URS0000CE06CA/2043168">RS</a></td>
 <td>0.9390</td>
-<td>20</td>
+<td>19</td>
 <td>0.9885</td>
 <td>-17.273</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/FDFT1_1">=></a></td>
@@ -4824,7 +4823,7 @@
 <td>URS0000CE06CA_2043168</td>
 <td><a href="https://rnacentral.org/rna/URS0000CE06CA/2043168">RS</a></td>
 <td>0.9390</td>
-<td>20</td>
+<td>19</td>
 <td>0.9885</td>
 <td>-17.273</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/FDFT1_2">=></a></td>
@@ -4836,7 +4835,7 @@
 <td>URS0000CE06CA_2043168</td>
 <td><a href="https://rnacentral.org/rna/URS0000CE06CA/2043168">RS</a></td>
 <td>0.9390</td>
-<td>20</td>
+<td>19</td>
 <td>0.9885</td>
 <td>-17.273</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/FDFT1_3">=></a></td>
@@ -4860,7 +4859,7 @@
 <td>URS0002331F07_1017270</td>
 <td><a href="https://rnacentral.org/rna/URS0002331F07/1017270">RS</a></td>
 <td>0.8801</td>
-<td>20</td>
+<td>15</td>
 <td>0.9485</td>
 <td>-67.782</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/FDPS_0">=></a></td>
@@ -4872,7 +4871,7 @@
 <td>URS0000AB9B35_159087</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB9B35/159087">RS</a></td>
 <td>0.7666</td>
-<td>20</td>
+<td>1</td>
 <td>0.9545</td>
 <td>-62.177</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/FDPS_1">=></a></td>
@@ -4896,7 +4895,7 @@
 <td>URS0000D886DC_660596</td>
 <td><a href="https://rnacentral.org/rna/URS0000D886DC/660596">RS</a></td>
 <td>0.8845</td>
-<td>20</td>
+<td>16</td>
 <td>0.9883</td>
 <td>-31.070</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/FGF6">=></a></td>
@@ -4908,7 +4907,7 @@
 <td>URS0000ABA0D1_1262985</td>
 <td><a href="https://rnacentral.org/rna/URS0000ABA0D1/1262985">RS</a></td>
 <td>0.8809</td>
-<td>20</td>
+<td>14</td>
 <td>0.9601</td>
 <td>-61.245</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/FGGY">=></a></td>
@@ -4932,7 +4931,7 @@
 <td>URS000232ED4D_857417</td>
 <td><a href="https://rnacentral.org/rna/URS000232ED4D/857417">RS</a></td>
 <td>0.8701</td>
-<td>20</td>
+<td>10</td>
 <td>0.9685</td>
 <td>-36.060</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/FGGY_1">=></a></td>
@@ -4980,7 +4979,7 @@
 <td>URS00023340F7_1385511</td>
 <td><a href="https://rnacentral.org/rna/URS00023340F7/1385511">RS</a></td>
 <td>0.8601</td>
-<td>20</td>
+<td>10</td>
 <td>0.9503</td>
 <td>-34.892</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/FOXP1">=></a></td>
@@ -4992,7 +4991,7 @@
 <td>URS0000BA963F_1183433</td>
 <td><a href="https://rnacentral.org/rna/URS0000BA963F/1183433">RS</a></td>
 <td>0.7708</td>
-<td>20</td>
+<td>2</td>
 <td>0.9825</td>
 <td>-30.666</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/FRMD1">=></a></td>
@@ -5004,7 +5003,7 @@
 <td>URS0000B8B763_1519096</td>
 <td><a href="https://rnacentral.org/rna/URS0000B8B763/1519096">RS</a></td>
 <td>0.8763</td>
-<td>20</td>
+<td>13</td>
 <td>0.9894</td>
 <td>-6.652</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/FSCN2">=></a></td>
@@ -5016,7 +5015,7 @@
 <td>URS0000C7B249_1470558</td>
 <td><a href="https://rnacentral.org/rna/URS0000C7B249/1470558">RS</a></td>
 <td>0.8747</td>
-<td>20</td>
+<td>10</td>
 <td>0.9786</td>
 <td>-36.125</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/FTO">=></a></td>
@@ -5028,7 +5027,7 @@
 <td>URS0000C2FA56_97137</td>
 <td><a href="https://rnacentral.org/rna/URS0000C2FA56/97137">RS</a></td>
 <td>0.9471</td>
-<td>20</td>
+<td>19</td>
 <td>0.9839</td>
 <td>-17.594</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/FTSJ1">=></a></td>
@@ -5040,7 +5039,7 @@
 <td>URS0000BF8F18_1768241</td>
 <td><a href="https://rnacentral.org/rna/URS0000BF8F18/1768241">RS</a></td>
 <td>0.8604</td>
-<td>20</td>
+<td>11</td>
 <td>0.9861</td>
 <td>-29.020</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/FUCA1">=></a></td>
@@ -5052,7 +5051,7 @@
 <td>URS0000C8123F_1262698</td>
 <td><a href="https://rnacentral.org/rna/URS0000C8123F/1262698">RS</a></td>
 <td>0.7333</td>
-<td>20</td>
+<td>2</td>
 <td>0.9753</td>
 <td>-23.699</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/FYN">=></a></td>
@@ -5064,7 +5063,7 @@
 <td>URS0000C7562C_1660113</td>
 <td><a href="https://rnacentral.org/rna/URS0000C7562C/1660113">RS</a></td>
 <td>0.8586</td>
-<td>20</td>
+<td>10</td>
 <td>0.9846</td>
 <td>-16.617</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/FYN_0">=></a></td>
@@ -5088,7 +5087,7 @@
 <td>URS0000AB4B50_525284</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB4B50/525284">RS</a></td>
 <td>0.8498</td>
-<td>20</td>
+<td>7</td>
 <td>0.9615</td>
 <td>-36.845</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/GABRA2_0">=></a></td>
@@ -5100,7 +5099,7 @@
 <td>URS0000C5F9E5_1069530</td>
 <td><a href="https://rnacentral.org/rna/URS0000C5F9E5/1069530">RS</a></td>
 <td>0.9058</td>
-<td>20</td>
+<td>18</td>
 <td>0.9714</td>
 <td>-20.962</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/GALNT1">=></a></td>
@@ -5124,7 +5123,7 @@
 <td>URS0000AB7FE9_656519</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB7FE9/656519">RS</a></td>
 <td>0.8435</td>
-<td>20</td>
+<td>1</td>
 <td>0.9663</td>
 <td>-18.257</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/GALNT3">=></a></td>
@@ -5136,7 +5135,7 @@
 <td>URS0000D6633D_12908</td>
 <td><a href="https://rnacentral.org/rna/URS0000D6633D/12908">RS</a></td>
 <td>0.8091</td>
-<td>20</td>
+<td>2</td>
 <td>0.9880</td>
 <td>-1.870</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/GALNT3_0">=></a></td>
@@ -5148,7 +5147,7 @@
 <td>URS000231ADFC_378806</td>
 <td><a href="https://rnacentral.org/rna/URS000231ADFC/378806">RS</a></td>
 <td>0.8841</td>
-<td>20</td>
+<td>11</td>
 <td>0.9655</td>
 <td>-48.459</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/GAPDHS">=></a></td>
@@ -5160,7 +5159,7 @@
 <td>URS0000D7E376_1552</td>
 <td><a href="https://rnacentral.org/rna/URS0000D7E376/1552">RS</a></td>
 <td>0.9218</td>
-<td>20</td>
+<td>19</td>
 <td>0.9743</td>
 <td>-28.495</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/GART">=></a></td>
@@ -5172,7 +5171,7 @@
 <td>URS00023309C0_882086</td>
 <td><a href="https://rnacentral.org/rna/URS00023309C0/882086">RS</a></td>
 <td>0.8339</td>
-<td>20</td>
+<td>15</td>
 <td>0.9474</td>
 <td>-83.683</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/GAS2">=></a></td>
@@ -5184,7 +5183,7 @@
 <td>URS0002312A43_1736544</td>
 <td><a href="https://rnacentral.org/rna/URS0002312A43/1736544">RS</a></td>
 <td>0.8245</td>
-<td>20</td>
+<td>2</td>
 <td>0.8873</td>
 <td>-44.426</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/GATAD1">=></a></td>
@@ -5196,7 +5195,7 @@
 <td>URS0000AB7C84_930946</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB7C84/930946">RS</a></td>
 <td>0.7304</td>
-<td>20</td>
+<td>15</td>
 <td>0.9426</td>
 <td>-95.782</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/GATAD2A">=></a></td>
@@ -5208,7 +5207,7 @@
 <td>URS0000DA22EF_1120925</td>
 <td><a href="https://rnacentral.org/rna/URS0000DA22EF/1120925">RS</a></td>
 <td>0.8252</td>
-<td>20</td>
+<td>11</td>
 <td>0.9599</td>
 <td>-34.351</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/GDI2">=></a></td>
@@ -5220,7 +5219,7 @@
 <td>URS0002322AEA_1003237</td>
 <td><a href="https://rnacentral.org/rna/URS0002322AEA/1003237">RS</a></td>
 <td>0.9111</td>
-<td>20</td>
+<td>17</td>
 <td>0.9660</td>
 <td>-43.853</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/GDNF">=></a></td>
@@ -5256,7 +5255,7 @@
 <td>URS0000C50149_1790</td>
 <td><a href="https://rnacentral.org/rna/URS0000C50149/1790">RS</a></td>
 <td>0.7858</td>
-<td>20</td>
+<td>2</td>
 <td>0.9622</td>
 <td>-60.110</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/GEMIN4">=></a></td>
@@ -5268,7 +5267,7 @@
 <td>URS0000DA6CCC_1898961</td>
 <td><a href="https://rnacentral.org/rna/URS0000DA6CCC/1898961">RS</a></td>
 <td>0.9451</td>
-<td>20</td>
+<td>19</td>
 <td>0.9815</td>
 <td>-29.960</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/GGPS1">=></a></td>
@@ -5280,7 +5279,7 @@
 <td>URS0000AB2BA1_349124</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB2BA1/349124">RS</a></td>
 <td>0.9579</td>
-<td>20</td>
+<td>19</td>
 <td>0.9575</td>
 <td>-67.110</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/GHITM">=></a></td>
@@ -5292,7 +5291,7 @@
 <td>URS0000BE9BA0_1736354</td>
 <td><a href="https://rnacentral.org/rna/URS0000BE9BA0/1736354">RS</a></td>
 <td>0.9442</td>
-<td>20</td>
+<td>18</td>
 <td>0.9747</td>
 <td>-42.054</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/GHITM_0">=></a></td>
@@ -5304,7 +5303,7 @@
 <td>URS0000D95B27_1867956</td>
 <td><a href="https://rnacentral.org/rna/URS0000D95B27/1867956">RS</a></td>
 <td>0.8717</td>
-<td>20</td>
+<td>12</td>
 <td>0.9671</td>
 <td>-48.197</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/GHITM_1">=></a></td>
@@ -5316,7 +5315,7 @@
 <td>URS0000BF3264_163359</td>
 <td><a href="https://rnacentral.org/rna/URS0000BF3264/163359">RS</a></td>
 <td>0.7031</td>
-<td>20</td>
+<td>3</td>
 <td>0.9882</td>
 <td>-19.521</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/GHRH">=></a></td>
@@ -5388,7 +5387,7 @@
 <td>URS0000ABA502_290402</td>
 <td><a href="https://rnacentral.org/rna/URS0000ABA502/290402">RS</a></td>
 <td>0.8995</td>
-<td>20</td>
+<td>17</td>
 <td>0.9887</td>
 <td>-21.192</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/GLDN">=></a></td>
@@ -5400,7 +5399,7 @@
 <td>URS0000C5FA7B_4565</td>
 <td><a href="https://rnacentral.org/rna/URS0000C5FA7B/4565">RS</a></td>
 <td>0.8122</td>
-<td>20</td>
+<td>1</td>
 <td>0.9753</td>
 <td>-32.395</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/GLE1">=></a></td>
@@ -5412,7 +5411,7 @@
 <td>URS0000BEAD94_1655618</td>
 <td><a href="https://rnacentral.org/rna/URS0000BEAD94/1655618">RS</a></td>
 <td>0.9463</td>
-<td>20</td>
+<td>17</td>
 <td>0.9877</td>
 <td>-27.650</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/GLG1">=></a></td>
@@ -5424,7 +5423,7 @@
 <td>URS0000ABA465_562</td>
 <td><a href="https://rnacentral.org/rna/URS0000ABA465/562">RS</a></td>
 <td>0.8493</td>
-<td>20</td>
+<td>5</td>
 <td>0.9745</td>
 <td>-45.889</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/GLT8D1">=></a></td>
@@ -5436,7 +5435,7 @@
 <td>URS0000812454_419947</td>
 <td><a href="https://rnacentral.org/rna/URS0000812454/419947">RS</a></td>
 <td>0.8512</td>
-<td>20</td>
+<td>6</td>
 <td>0.9772</td>
 <td>-33.833</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/GNAT2">=></a></td>
@@ -5472,7 +5471,7 @@
 <td>URS0000B40428_307249</td>
 <td><a href="https://rnacentral.org/rna/URS0000B40428/307249">RS</a></td>
 <td>0.7730</td>
-<td>20</td>
+<td>1</td>
 <td>0.9585</td>
 <td>-64.821</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/GNL3">=></a></td>
@@ -5484,7 +5483,7 @@
 <td>URS000232234E_1121266</td>
 <td><a href="https://rnacentral.org/rna/URS000232234E/1121266">RS</a></td>
 <td>0.8677</td>
-<td>20</td>
+<td>15</td>
 <td>0.9389</td>
 <td>-44.741</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/GNL3_0">=></a></td>
@@ -5496,7 +5495,7 @@
 <td>URS0000ABB845_767817</td>
 <td><a href="https://rnacentral.org/rna/URS0000ABB845/767817">RS</a></td>
 <td>0.9020</td>
-<td>20</td>
+<td>17</td>
 <td>0.9733</td>
 <td>-35.869</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/GNPDA1">=></a></td>
@@ -5508,7 +5507,7 @@
 <td>URS0000AB9337_463191</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB9337/463191">RS</a></td>
 <td>0.9049</td>
-<td>20</td>
+<td>16</td>
 <td>0.9832</td>
 <td>-40.371</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/GNPDA1_0">=></a></td>
@@ -5520,7 +5519,7 @@
 <td>URS000074E4F6_195088</td>
 <td><a href="https://rnacentral.org/rna/URS000074E4F6/195088">RS</a></td>
 <td>0.8709</td>
-<td>20</td>
+<td>9</td>
 <td>0.9506</td>
 <td>-50.923</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/GOLM1">=></a></td>
@@ -5544,7 +5543,7 @@
 <td>URS000080E144_305</td>
 <td><a href="https://rnacentral.org/rna/URS000080E144/305">RS</a></td>
 <td>0.7553</td>
-<td>20</td>
+<td>2</td>
 <td>0.9911</td>
 <td>-11.537</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/GPN1">=></a></td>
@@ -5556,7 +5555,7 @@
 <td>URS000080E144_305</td>
 <td><a href="https://rnacentral.org/rna/URS000080E144/305">RS</a></td>
 <td>0.7553</td>
-<td>20</td>
+<td>2</td>
 <td>0.9911</td>
 <td>-11.537</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/GPN1_0">=></a></td>
@@ -5568,7 +5567,7 @@
 <td>URS000080E144_305</td>
 <td><a href="https://rnacentral.org/rna/URS000080E144/305">RS</a></td>
 <td>0.7553</td>
-<td>20</td>
+<td>2</td>
 <td>0.9911</td>
 <td>-11.537</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/GPN1_1">=></a></td>
@@ -5580,7 +5579,7 @@
 <td>URS000080E144_305</td>
 <td><a href="https://rnacentral.org/rna/URS000080E144/305">RS</a></td>
 <td>0.7553</td>
-<td>20</td>
+<td>2</td>
 <td>0.9911</td>
 <td>-11.537</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/GPN1_2">=></a></td>
@@ -5592,7 +5591,7 @@
 <td>URS0000DAB1B5_2017483</td>
 <td><a href="https://rnacentral.org/rna/URS0000DAB1B5/2017483">RS</a></td>
 <td>0.8409</td>
-<td>20</td>
+<td>9</td>
 <td>0.9721</td>
 <td>-22.250</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/GPR149">=></a></td>
@@ -5604,7 +5603,7 @@
 <td>URS0000C05E9E_1751294</td>
 <td><a href="https://rnacentral.org/rna/URS0000C05E9E/1751294">RS</a></td>
 <td>0.9014</td>
-<td>20</td>
+<td>15</td>
 <td>0.9556</td>
 <td>-60.447</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/GRHL1">=></a></td>
@@ -5616,7 +5615,7 @@
 <td>URS000231D3E5_1895746</td>
 <td><a href="https://rnacentral.org/rna/URS000231D3E5/1895746">RS</a></td>
 <td>0.7990</td>
-<td>20</td>
+<td>5</td>
 <td>0.9561</td>
 <td>-34.322</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/GRIK2">=></a></td>
@@ -5628,7 +5627,7 @@
 <td>URS000232BF5C_544556</td>
 <td><a href="https://rnacentral.org/rna/URS000232BF5C/544556">RS</a></td>
 <td>0.8868</td>
-<td>20</td>
+<td>13</td>
 <td>0.9573</td>
 <td>-28.875</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/GRK5">=></a></td>
@@ -5652,7 +5651,7 @@
 <td>URS00021EDBB8_12908</td>
 <td><a href="https://rnacentral.org/rna/URS00021EDBB8/12908">RS</a></td>
 <td>0.7398</td>
-<td>20</td>
+<td>5</td>
 <td>0.9845</td>
 <td>-24.258</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/GSTM1">=></a></td>
@@ -5664,7 +5663,7 @@
 <td>URS0000E5FE49_888064</td>
 <td><a href="https://rnacentral.org/rna/URS0000E5FE49/888064">RS</a></td>
 <td>0.9125</td>
-<td>20</td>
+<td>18</td>
 <td>0.9893</td>
 <td>-5.775</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/GSTO1">=></a></td>
@@ -5676,7 +5675,7 @@
 <td>URS0000D6AFE8_12908</td>
 <td><a href="https://rnacentral.org/rna/URS0000D6AFE8/12908">RS</a></td>
 <td>0.7862</td>
-<td>20</td>
+<td>1</td>
 <td>0.9597</td>
 <td>-42.901</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/GTF2E2">=></a></td>
@@ -5688,7 +5687,7 @@
 <td>URS0000D783EA_1893</td>
 <td><a href="https://rnacentral.org/rna/URS0000D783EA/1893">RS</a></td>
 <td>0.6715</td>
-<td>20</td>
+<td>1</td>
 <td>0.9896</td>
 <td>-18.821</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/GTF3C1">=></a></td>
@@ -5700,7 +5699,7 @@
 <td>URS0000D6B6E4_697303</td>
 <td><a href="https://rnacentral.org/rna/URS0000D6B6E4/697303">RS</a></td>
 <td>0.8055</td>
-<td>20</td>
+<td>5</td>
 <td>0.9913</td>
 <td>-14.227</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/GTPBP1">=></a></td>
@@ -5724,7 +5723,7 @@
 <td>URS000232CD24_1262870</td>
 <td><a href="https://rnacentral.org/rna/URS000232CD24/1262870">RS</a></td>
 <td>0.8758</td>
-<td>20</td>
+<td>13</td>
 <td>0.9591</td>
 <td>-64.057</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/GTSE1">=></a></td>
@@ -5736,7 +5735,7 @@
 <td>URS0000C4714B_1408226</td>
 <td><a href="https://rnacentral.org/rna/URS0000C4714B/1408226">RS</a></td>
 <td>0.8980</td>
-<td>20</td>
+<td>16</td>
 <td>0.9816</td>
 <td>-19.989</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/GUCA1C">=></a></td>
@@ -5748,7 +5747,7 @@
 <td>URS0000BF1078_626418</td>
 <td><a href="https://rnacentral.org/rna/URS0000BF1078/626418">RS</a></td>
 <td>0.8143</td>
-<td>20</td>
+<td>3</td>
 <td>0.9887</td>
 <td>-15.406</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/GUCY2C">=></a></td>
@@ -5760,7 +5759,7 @@
 <td>URS0000BF3729_373994</td>
 <td><a href="https://rnacentral.org/rna/URS0000BF3729/373994">RS</a></td>
 <td>0.9165</td>
-<td>20</td>
+<td>19</td>
 <td>0.9774</td>
 <td>-44.146</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/GUCY2D">=></a></td>
@@ -5772,7 +5771,7 @@
 <td>URS0000C6D324_1284708</td>
 <td><a href="https://rnacentral.org/rna/URS0000C6D324/1284708">RS</a></td>
 <td>0.8167</td>
-<td>20</td>
+<td>4</td>
 <td>0.9823</td>
 <td>-46.244</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/GUSB">=></a></td>
@@ -5820,7 +5819,7 @@
 <td>URS0000C5F679_1268072</td>
 <td><a href="https://rnacentral.org/rna/URS0000C5F679/1268072">RS</a></td>
 <td>0.7398</td>
-<td>20</td>
+<td>1</td>
 <td>0.9877</td>
 <td>-25.631</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/HAT1">=></a></td>
@@ -5832,7 +5831,7 @@
 <td>URS0000AB4F9A_768670</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB4F9A/768670">RS</a></td>
 <td>0.7945</td>
-<td>20</td>
+<td>2</td>
 <td>0.9869</td>
 <td>-32.193</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/HAT1_0">=></a></td>
@@ -5856,7 +5855,7 @@
 <td>URS0000D94564_1797566</td>
 <td><a href="https://rnacentral.org/rna/URS0000D94564/1797566">RS</a></td>
 <td>0.9256</td>
-<td>20</td>
+<td>18</td>
 <td>0.9790</td>
 <td>-23.306</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/HBP1_0">=></a></td>
@@ -5868,7 +5867,7 @@
 <td>URS0000D812F7_1027249</td>
 <td><a href="https://rnacentral.org/rna/URS0000D812F7/1027249">RS</a></td>
 <td>0.9351</td>
-<td>20</td>
+<td>18</td>
 <td>0.9715</td>
 <td>-46.875</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/HDAC6">=></a></td>
@@ -5892,7 +5891,7 @@
 <td>URS0000D787A4_303541</td>
 <td><a href="https://rnacentral.org/rna/URS0000D787A4/303541">RS</a></td>
 <td>0.8282</td>
-<td>20</td>
+<td>4</td>
 <td>0.9831</td>
 <td>-31.385</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/HDGF">=></a></td>
@@ -5904,7 +5903,7 @@
 <td>URS0000C8A779_1736397</td>
 <td><a href="https://rnacentral.org/rna/URS0000C8A779/1736397">RS</a></td>
 <td>0.8424</td>
-<td>20</td>
+<td>10</td>
 <td>0.9693</td>
 <td>-32.421</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/HDX">=></a></td>
@@ -5916,7 +5915,7 @@
 <td>URS0000D7A98B_1985173</td>
 <td><a href="https://rnacentral.org/rna/URS0000D7A98B/1985173">RS</a></td>
 <td>0.8941</td>
-<td>20</td>
+<td>16</td>
 <td>0.9752</td>
 <td>-42.247</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/HELT">=></a></td>
@@ -5928,7 +5927,7 @@
 <td>URS00023197E5_1629714</td>
 <td><a href="https://rnacentral.org/rna/URS00023197E5/1629714">RS</a></td>
 <td>0.6749</td>
-<td>20</td>
+<td>1</td>
 <td>0.9513</td>
 <td>-62.192</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/HERC3">=></a></td>
@@ -5940,7 +5939,7 @@
 <td>URS0000C11013_1236973</td>
 <td><a href="https://rnacentral.org/rna/URS0000C11013/1236973">RS</a></td>
 <td>0.9126</td>
-<td>20</td>
+<td>17</td>
 <td>0.9815</td>
 <td>-38.148</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/HERPUD1">=></a></td>
@@ -5952,7 +5951,7 @@
 <td>URS0000C569C4_1736488</td>
 <td><a href="https://rnacentral.org/rna/URS0000C569C4/1736488">RS</a></td>
 <td>0.8961</td>
-<td>20</td>
+<td>17</td>
 <td>0.9642</td>
 <td>-48.867</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/HERPUD1_0">=></a></td>
@@ -5964,7 +5963,7 @@
 <td>URS000231E6EA_74033</td>
 <td><a href="https://rnacentral.org/rna/URS000231E6EA/74033">RS</a></td>
 <td>0.7458</td>
-<td>20</td>
+<td>1</td>
 <td>0.9408</td>
 <td>-99.514</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/HEXA">=></a></td>
@@ -5976,7 +5975,7 @@
 <td>URS0000C78DED_1206458</td>
 <td><a href="https://rnacentral.org/rna/URS0000C78DED/1206458">RS</a></td>
 <td>0.8467</td>
-<td>20</td>
+<td>6</td>
 <td>0.9666</td>
 <td>-61.503</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/HEXB">=></a></td>
@@ -5988,7 +5987,7 @@
 <td>URS0000BE2CB1_228410</td>
 <td><a href="https://rnacentral.org/rna/URS0000BE2CB1/228410">RS</a></td>
 <td>0.8359</td>
-<td>20</td>
+<td>3</td>
 <td>0.9828</td>
 <td>-25.848</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/HEYL">=></a></td>
@@ -6012,7 +6011,7 @@
 <td>URS0000D66908_12908</td>
 <td><a href="https://rnacentral.org/rna/URS0000D66908/12908">RS</a></td>
 <td>0.8456</td>
-<td>20</td>
+<td>8</td>
 <td>0.9833</td>
 <td>-28.177</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/HIP1R">=></a></td>
@@ -6036,7 +6035,7 @@
 <td>URS0000C782A2_1110697</td>
 <td><a href="https://rnacentral.org/rna/URS0000C782A2/1110697">RS</a></td>
 <td>0.7924</td>
-<td>20</td>
+<td>3</td>
 <td>0.9643</td>
 <td>-34.831</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/HMBOX1">=></a></td>
@@ -6084,7 +6083,7 @@
 <td>URS000232338D_1565605</td>
 <td><a href="https://rnacentral.org/rna/URS000232338D/1565605">RS</a></td>
 <td>0.7125</td>
-<td>20</td>
+<td>8</td>
 <td>0.9364</td>
 <td>-76.945</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/HMGN2">=></a></td>
@@ -6096,7 +6095,7 @@
 <td>URS0000AB9578_408172</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB9578/408172">RS</a></td>
 <td>0.8192</td>
-<td>20</td>
+<td>2</td>
 <td>0.9795</td>
 <td>-29.122</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/HMOX1">=></a></td>
@@ -6120,7 +6119,7 @@
 <td>URS0000DB58B8_1933035</td>
 <td><a href="https://rnacentral.org/rna/URS0000DB58B8/1933035">RS</a></td>
 <td>0.8611</td>
-<td>20</td>
+<td>9</td>
 <td>0.9687</td>
 <td>-41.370</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/HNRNPH1">=></a></td>
@@ -6144,7 +6143,7 @@
 <td>URS0000C39BF1_1006000</td>
 <td><a href="https://rnacentral.org/rna/URS0000C39BF1/1006000">RS</a></td>
 <td>0.8987</td>
-<td>20</td>
+<td>16</td>
 <td>0.9511</td>
 <td>-51.061</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/HNRNPH2">=></a></td>
@@ -6156,7 +6155,7 @@
 <td>URS0000D7FC1B_3635</td>
 <td><a href="https://rnacentral.org/rna/URS0000D7FC1B/3635">RS</a></td>
 <td>0.7385</td>
-<td>20</td>
+<td>3</td>
 <td>0.9926</td>
 <td>-5.242</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/HOMER1">=></a></td>
@@ -6204,7 +6203,7 @@
 <td>URS00021EDDA2_999552</td>
 <td><a href="https://rnacentral.org/rna/URS00021EDDA2/999552">RS</a></td>
 <td>0.8645</td>
-<td>20</td>
+<td>12</td>
 <td>0.9880</td>
 <td>-2.535</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/HOXB1">=></a></td>
@@ -6276,7 +6275,7 @@
 <td>URS0000D6AA30_679196</td>
 <td><a href="https://rnacentral.org/rna/URS0000D6AA30/679196">RS</a></td>
 <td>0.8758</td>
-<td>20</td>
+<td>13</td>
 <td>0.9909</td>
 <td>-15.116</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/HPD">=></a></td>
@@ -6288,7 +6287,7 @@
 <td>URS0000BF0403_1225651</td>
 <td><a href="https://rnacentral.org/rna/URS0000BF0403/1225651">RS</a></td>
 <td>0.8040</td>
-<td>20</td>
+<td>2</td>
 <td>0.9815</td>
 <td>-17.330</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/HPSE2">=></a></td>
@@ -6300,7 +6299,7 @@
 <td>URS0000ABAC0A_1069534</td>
 <td><a href="https://rnacentral.org/rna/URS0000ABAC0A/1069534">RS</a></td>
 <td>0.8426</td>
-<td>20</td>
+<td>8</td>
 <td>0.9753</td>
 <td>-29.207</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/HSBP1">=></a></td>
@@ -6336,7 +6335,7 @@
 <td>URS0000D7AC88_315423</td>
 <td><a href="https://rnacentral.org/rna/URS0000D7AC88/315423">RS</a></td>
 <td>0.8536</td>
-<td>20</td>
+<td>5</td>
 <td>0.9808</td>
 <td>-39.678</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/HSPA13">=></a></td>
@@ -6348,7 +6347,7 @@
 <td>URS0000DA5183_445576</td>
 <td><a href="https://rnacentral.org/rna/URS0000DA5183/445576">RS</a></td>
 <td>0.8086</td>
-<td>20</td>
+<td>3</td>
 <td>0.9652</td>
 <td>-27.106</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/HSPA4L">=></a></td>
@@ -6360,7 +6359,7 @@
 <td>URS0000AB5EB6_358681</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB5EB6/358681">RS</a></td>
 <td>0.8511</td>
-<td>20</td>
+<td>15</td>
 <td>0.9796</td>
 <td>-36.829</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/HSPB11">=></a></td>
@@ -6384,7 +6383,7 @@
 <td>URS0000AB22C9_197221</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB22C9/197221">RS</a></td>
 <td>0.9247</td>
-<td>20</td>
+<td>19</td>
 <td>0.9870</td>
 <td>-43.163</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/HTATIP2">=></a></td>
@@ -6396,7 +6395,7 @@
 <td>URS0000AB719B_868595</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB719B/868595">RS</a></td>
 <td>0.9503</td>
-<td>20</td>
+<td>19</td>
 <td>0.9672</td>
 <td>-53.429</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/HTATIP2_0">=></a></td>
@@ -6408,7 +6407,7 @@
 <td>URS0000C80591_889378</td>
 <td><a href="https://rnacentral.org/rna/URS0000C80591/889378">RS</a></td>
 <td>0.9221</td>
-<td>20</td>
+<td>17</td>
 <td>0.9749</td>
 <td>-49.512</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/HTATIP2_1">=></a></td>
@@ -6420,7 +6419,7 @@
 <td>URS0000DAAB66_52694</td>
 <td><a href="https://rnacentral.org/rna/URS0000DAAB66/52694">RS</a></td>
 <td>0.7390</td>
-<td>20</td>
+<td>1</td>
 <td>0.9784</td>
 <td>-16.032</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/HTR5A">=></a></td>
@@ -6432,7 +6431,7 @@
 <td>URS0000AB15E9_315750</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB15E9/315750">RS</a></td>
 <td>0.8671</td>
-<td>20</td>
+<td>11</td>
 <td>0.9746</td>
 <td>-48.726</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/HYLS1">=></a></td>
@@ -6444,7 +6443,7 @@
 <td>URS0000C84E2E_1262910</td>
 <td><a href="https://rnacentral.org/rna/URS0000C84E2E/1262910">RS</a></td>
 <td>0.8280</td>
-<td>20</td>
+<td>4</td>
 <td>0.9619</td>
 <td>-51.028</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/HYOU1">=></a></td>
@@ -6456,7 +6455,7 @@
 <td>URS0000DA5B44_1898203</td>
 <td><a href="https://rnacentral.org/rna/URS0000DA5B44/1898203">RS</a></td>
 <td>0.8770</td>
-<td>20</td>
+<td>12</td>
 <td>0.9785</td>
 <td>-22.736</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/IARS2">=></a></td>
@@ -6468,7 +6467,7 @@
 <td>URS00023342C9_1319815</td>
 <td><a href="https://rnacentral.org/rna/URS00023342C9/1319815">RS</a></td>
 <td>0.8708</td>
-<td>20</td>
+<td>9</td>
 <td>0.9565</td>
 <td>-51.923</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ICA1">=></a></td>
@@ -6480,7 +6479,7 @@
 <td>URS0000C51CA1_1508404</td>
 <td><a href="https://rnacentral.org/rna/URS0000C51CA1/1508404">RS</a></td>
 <td>0.8095</td>
-<td>20</td>
+<td>3</td>
 <td>0.9670</td>
 <td>-34.441</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ICOS">=></a></td>
@@ -6492,7 +6491,7 @@
 <td>URS0000C4B2B6_1912856</td>
 <td><a href="https://rnacentral.org/rna/URS0000C4B2B6/1912856">RS</a></td>
 <td>0.9209</td>
-<td>20</td>
+<td>16</td>
 <td>0.9809</td>
 <td>-31.635</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ICOS_0">=></a></td>
@@ -6516,7 +6515,7 @@
 <td>URS00022F8DBC_2845820</td>
 <td><a href="https://rnacentral.org/rna/URS00022F8DBC/2845820">RS</a></td>
 <td>0.8553</td>
-<td>20</td>
+<td>13</td>
 <td>0.9490</td>
 <td>-85.853</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/IDH3G">=></a></td>
@@ -6540,7 +6539,7 @@
 <td>URS0002324C7B_68223</td>
 <td><a href="https://rnacentral.org/rna/URS0002324C7B/68223">RS</a></td>
 <td>0.7795</td>
-<td>20</td>
+<td>10</td>
 <td>0.9689</td>
 <td>-29.433</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/IFITM3">=></a></td>
@@ -6552,7 +6551,7 @@
 <td>URS00021EDD24_393278</td>
 <td><a href="https://rnacentral.org/rna/URS00021EDD24/393278">RS</a></td>
 <td>0.6882</td>
-<td>20</td>
+<td>1</td>
 <td>0.9942</td>
 <td>-2.637</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/IFNK">=></a></td>
@@ -6564,7 +6563,7 @@
 <td>URS000233362A_318464</td>
 <td><a href="https://rnacentral.org/rna/URS000233362A/318464">RS</a></td>
 <td>0.7730</td>
-<td>20</td>
+<td>7</td>
 <td>0.9545</td>
 <td>-64.393</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/IFT172">=></a></td>
@@ -6576,7 +6575,7 @@
 <td>URS0000C410E4_131310</td>
 <td><a href="https://rnacentral.org/rna/URS0000C410E4/131310">RS</a></td>
 <td>0.9030</td>
-<td>20</td>
+<td>16</td>
 <td>0.9488</td>
 <td>-61.982</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/IFT74">=></a></td>
@@ -6612,7 +6611,7 @@
 <td>URS0000C837C9_1255043</td>
 <td><a href="https://rnacentral.org/rna/URS0000C837C9/1255043">RS</a></td>
 <td>0.8872</td>
-<td>20</td>
+<td>12</td>
 <td>0.9836</td>
 <td>-22.246</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/IGF2BP2">=></a></td>
@@ -6636,7 +6635,7 @@
 <td>URS0000DAF41C_1070870</td>
 <td><a href="https://rnacentral.org/rna/URS0000DAF41C/1070870">RS</a></td>
 <td>0.7912</td>
-<td>20</td>
+<td>1</td>
 <td>0.9725</td>
 <td>-23.761</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/IGSF5">=></a></td>
@@ -6648,7 +6647,7 @@
 <td>URS0002325CD2_1144311</td>
 <td><a href="https://rnacentral.org/rna/URS0002325CD2/1144311">RS</a></td>
 <td>0.8430</td>
-<td>20</td>
+<td>7</td>
 <td>0.9702</td>
 <td>-41.591</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/IK">=></a></td>
@@ -6660,7 +6659,7 @@
 <td>URS0000DA5926_519472</td>
 <td><a href="https://rnacentral.org/rna/URS0000DA5926/519472">RS</a></td>
 <td>0.9263</td>
-<td>20</td>
+<td>16</td>
 <td>0.9634</td>
 <td>-47.425</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/IK_0">=></a></td>
@@ -6672,7 +6671,7 @@
 <td>URS0000AB8F7F_406818</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB8F7F/406818">RS</a></td>
 <td>0.8995</td>
-<td>20</td>
+<td>16</td>
 <td>0.9666</td>
 <td>-32.619</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/IL10RA">=></a></td>
@@ -6684,7 +6683,7 @@
 <td>URS0000AB4579_720555</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB4579/720555">RS</a></td>
 <td>0.9255</td>
-<td>20</td>
+<td>17</td>
 <td>0.9640</td>
 <td>-38.330</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/IL13RA2">=></a></td>
@@ -6696,7 +6695,7 @@
 <td>URS0000AB33E3_12908</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB33E3/12908">RS</a></td>
 <td>0.7922</td>
-<td>20</td>
+<td>1</td>
 <td>0.9803</td>
 <td>-12.070</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/IL33">=></a></td>
@@ -6708,7 +6707,7 @@
 <td>URS0000C6B5F1_1704044</td>
 <td><a href="https://rnacentral.org/rna/URS0000C6B5F1/1704044">RS</a></td>
 <td>0.9121</td>
-<td>20</td>
+<td>17</td>
 <td>0.9848</td>
 <td>-14.199</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/IL33_0">=></a></td>
@@ -6720,7 +6719,7 @@
 <td>URS0000AB668B_1055526</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB668B/1055526">RS</a></td>
 <td>0.8552</td>
-<td>20</td>
+<td>8</td>
 <td>0.9700</td>
 <td>-68.072</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/INTS1">=></a></td>
@@ -6732,7 +6731,7 @@
 <td>URS0000AB781C_526986</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB781C/526986">RS</a></td>
 <td>0.8925</td>
-<td>20</td>
+<td>15</td>
 <td>0.9781</td>
 <td>-27.354</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/INTS9">=></a></td>
@@ -6744,7 +6743,7 @@
 <td>URS0000AB63B7_765911</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB63B7/765911">RS</a></td>
 <td>0.5117</td>
-<td>20</td>
+<td>1</td>
 <td>0.9814</td>
 <td>-33.847</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/INTU">=></a></td>
@@ -6756,7 +6755,7 @@
 <td>URS0002326EC4_67257</td>
 <td><a href="https://rnacentral.org/rna/URS0002326EC4/67257">RS</a></td>
 <td>0.9116</td>
-<td>20</td>
+<td>16</td>
 <td>0.9645</td>
 <td>-39.727</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/IPO11">=></a></td>
@@ -6768,7 +6767,7 @@
 <td>URS0000AB59EE_85643</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB59EE/85643">RS</a></td>
 <td>0.9276</td>
-<td>20</td>
+<td>17</td>
 <td>0.9876</td>
 <td>-18.866</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/IPP">=></a></td>
@@ -6780,7 +6779,7 @@
 <td>URS0000D6BC9F_333849</td>
 <td><a href="https://rnacentral.org/rna/URS0000D6BC9F/333849">RS</a></td>
 <td>0.8976</td>
-<td>20</td>
+<td>15</td>
 <td>0.9868</td>
 <td>-11.050</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/IQCF2">=></a></td>
@@ -6792,7 +6791,7 @@
 <td>URS0000C44327_320778</td>
 <td><a href="https://rnacentral.org/rna/URS0000C44327/320778">RS</a></td>
 <td>0.8802</td>
-<td>20</td>
+<td>15</td>
 <td>0.9558</td>
 <td>-37.427</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/IQCG">=></a></td>
@@ -6816,7 +6815,7 @@
 <td>URS0000C8700C_484770</td>
 <td><a href="https://rnacentral.org/rna/URS0000C8700C/484770">RS</a></td>
 <td>0.8997</td>
-<td>20</td>
+<td>14</td>
 <td>0.9840</td>
 <td>-24.281</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ISYNA1">=></a></td>
@@ -6828,7 +6827,7 @@
 <td>URS0002318D53_1906740</td>
 <td><a href="https://rnacentral.org/rna/URS0002318D53/1906740">RS</a></td>
 <td>0.7653</td>
-<td>20</td>
+<td>2</td>
 <td>0.9507</td>
 <td>-90.530</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ITCH">=></a></td>
@@ -6840,7 +6839,7 @@
 <td>URS00021EDF5D_12908</td>
 <td><a href="https://rnacentral.org/rna/URS00021EDF5D/12908">RS</a></td>
 <td>0.8832</td>
-<td>20</td>
+<td>14</td>
 <td>0.9901</td>
 <td>-2.695</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ITGB6">=></a></td>
@@ -6852,7 +6851,7 @@
 <td>URS0002318FCF_1619949</td>
 <td><a href="https://rnacentral.org/rna/URS0002318FCF/1619949">RS</a></td>
 <td>0.8681</td>
-<td>20</td>
+<td>15</td>
 <td>0.9350</td>
 <td>-43.748</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ITGB6_0">=></a></td>
@@ -6876,7 +6875,7 @@
 <td>URS00021EDE8E_1915077</td>
 <td><a href="https://rnacentral.org/rna/URS00021EDE8E/1915077">RS</a></td>
 <td>0.8076</td>
-<td>20</td>
+<td>5</td>
 <td>0.9896</td>
 <td>-9.095</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/JAM3">=></a></td>
@@ -6888,7 +6887,7 @@
 <td>URS0000C18845_1293441</td>
 <td><a href="https://rnacentral.org/rna/URS0000C18845/1293441">RS</a></td>
 <td>0.9423</td>
-<td>20</td>
+<td>18</td>
 <td>0.9878</td>
 <td>-19.984</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/JAZF1">=></a></td>
@@ -6900,7 +6899,7 @@
 <td>URS00021EDFD3_12908</td>
 <td><a href="https://rnacentral.org/rna/URS00021EDFD3/12908">RS</a></td>
 <td>0.9273</td>
-<td>20</td>
+<td>16</td>
 <td>0.9897</td>
 <td>-14.895</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/JAZF1_0">=></a></td>
@@ -6924,7 +6923,7 @@
 <td>URS0000D98CAD_1703927</td>
 <td><a href="https://rnacentral.org/rna/URS0000D98CAD/1703927">RS</a></td>
 <td>0.7850</td>
-<td>20</td>
+<td>3</td>
 <td>0.9862</td>
 <td>-19.826</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/KBTBD8">=></a></td>
@@ -6936,7 +6935,7 @@
 <td>URS0000D98CAD_1703927</td>
 <td><a href="https://rnacentral.org/rna/URS0000D98CAD/1703927">RS</a></td>
 <td>0.7850</td>
-<td>20</td>
+<td>3</td>
 <td>0.9862</td>
 <td>-19.826</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/KBTBD8_0">=></a></td>
@@ -6960,7 +6959,7 @@
 <td>URS0000C3EA48_1658665</td>
 <td><a href="https://rnacentral.org/rna/URS0000C3EA48/1658665">RS</a></td>
 <td>0.8427</td>
-<td>20</td>
+<td>2</td>
 <td>0.9779</td>
 <td>-22.635</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/KCNU1">=></a></td>
@@ -6972,7 +6971,7 @@
 <td>URS000231515B_1798626</td>
 <td><a href="https://rnacentral.org/rna/URS000231515B/1798626">RS</a></td>
 <td>0.7758</td>
-<td>20</td>
+<td>1</td>
 <td>0.9855</td>
 <td>-8.415</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/KCNU1_0">=></a></td>
@@ -6984,7 +6983,7 @@
 <td>URS0000DACCE0_54291</td>
 <td><a href="https://rnacentral.org/rna/URS0000DACCE0/54291">RS</a></td>
 <td>0.8725</td>
-<td>20</td>
+<td>10</td>
 <td>0.9707</td>
 <td>-30.392</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/KCTD9">=></a></td>
@@ -7008,7 +7007,7 @@
 <td>URS0000C16FF7_1445510</td>
 <td><a href="https://rnacentral.org/rna/URS0000C16FF7/1445510">RS</a></td>
 <td>0.8400</td>
-<td>20</td>
+<td>4</td>
 <td>0.9513</td>
 <td>-53.951</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/KIAA0586">=></a></td>
@@ -7044,7 +7043,7 @@
 <td>URS0000AB97F9_945021</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB97F9/945021">RS</a></td>
 <td>0.9236</td>
-<td>20</td>
+<td>18</td>
 <td>0.9585</td>
 <td>-64.137</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/KIF15">=></a></td>
@@ -7056,7 +7055,7 @@
 <td>URS0002312ED2_1395125</td>
 <td><a href="https://rnacentral.org/rna/URS0002312ED2/1395125">RS</a></td>
 <td>0.9590</td>
-<td>20</td>
+<td>19</td>
 <td>0.9513</td>
 <td>-43.973</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/KIF18A">=></a></td>
@@ -7080,7 +7079,7 @@
 <td>URS0000AB66AF_1003195</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB66AF/1003195">RS</a></td>
 <td>0.8154</td>
-<td>20</td>
+<td>12</td>
 <td>0.9618</td>
 <td>-25.734</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/KIF18A_1">=></a></td>
@@ -7092,7 +7091,7 @@
 <td>URS0000D7947B_623280</td>
 <td><a href="https://rnacentral.org/rna/URS0000D7947B/623280">RS</a></td>
 <td>0.8021</td>
-<td>20</td>
+<td>7</td>
 <td>0.9815</td>
 <td>-16.901</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/KIF20B">=></a></td>
@@ -7104,7 +7103,7 @@
 <td>URS0000C63AD5_1758689</td>
 <td><a href="https://rnacentral.org/rna/URS0000C63AD5/1758689">RS</a></td>
 <td>0.8742</td>
-<td>20</td>
+<td>11</td>
 <td>0.9697</td>
 <td>-39.530</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/KIF2C">=></a></td>
@@ -7116,7 +7115,7 @@
 <td>URS0000D6676F_12908</td>
 <td><a href="https://rnacentral.org/rna/URS0000D6676F/12908">RS</a></td>
 <td>0.9222</td>
-<td>20</td>
+<td>18</td>
 <td>0.9763</td>
 <td>-28.887</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/KIFAP3">=></a></td>
@@ -7128,7 +7127,7 @@
 <td>URS0000D9FAAB_1678002</td>
 <td><a href="https://rnacentral.org/rna/URS0000D9FAAB/1678002">RS</a></td>
 <td>0.8000</td>
-<td>20</td>
+<td>2</td>
 <td>0.9755</td>
 <td>-24.316</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/KIRREL3">=></a></td>
@@ -7140,7 +7139,7 @@
 <td>URS0000BED21F_314253</td>
 <td><a href="https://rnacentral.org/rna/URS0000BED21F/314253">RS</a></td>
 <td>0.7660</td>
-<td>20</td>
+<td>1</td>
 <td>0.9838</td>
 <td>-3.127</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/KITLG">=></a></td>
@@ -7152,7 +7151,7 @@
 <td>URS0000BE6339_111780</td>
 <td><a href="https://rnacentral.org/rna/URS0000BE6339/111780">RS</a></td>
 <td>0.7572</td>
-<td>20</td>
+<td>3</td>
 <td>0.9835</td>
 <td>-14.036</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/KLHL13">=></a></td>
@@ -7164,7 +7163,7 @@
 <td>URS0002311BA1_1904944</td>
 <td><a href="https://rnacentral.org/rna/URS0002311BA1/1904944">RS</a></td>
 <td>0.7448</td>
-<td>20</td>
+<td>3</td>
 <td>0.9049</td>
 <td>-86.213</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/KLHL24">=></a></td>
@@ -7176,7 +7175,7 @@
 <td>URS0002311BA1_1904944</td>
 <td><a href="https://rnacentral.org/rna/URS0002311BA1/1904944">RS</a></td>
 <td>0.7448</td>
-<td>20</td>
+<td>3</td>
 <td>0.9049</td>
 <td>-86.213</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/KLHL24_0">=></a></td>
@@ -7200,7 +7199,7 @@
 <td>URS0000D91A92_1116375</td>
 <td><a href="https://rnacentral.org/rna/URS0000D91A92/1116375">RS</a></td>
 <td>0.8696</td>
-<td>20</td>
+<td>9</td>
 <td>0.9629</td>
 <td>-26.032</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/KLRC1">=></a></td>
@@ -7212,7 +7211,7 @@
 <td>URS0000D83BD3_36818</td>
 <td><a href="https://rnacentral.org/rna/URS0000D83BD3/36818">RS</a></td>
 <td>0.8652</td>
-<td>20</td>
+<td>9</td>
 <td>0.9589</td>
 <td>-37.517</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/KRIT1">=></a></td>
@@ -7236,7 +7235,7 @@
 <td>URS0000E601E9_1302648</td>
 <td><a href="https://rnacentral.org/rna/URS0000E601E9/1302648">RS</a></td>
 <td>0.7419</td>
-<td>20</td>
+<td>1</td>
 <td>0.9933</td>
 <td>-20.506</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/L1CAM">=></a></td>
@@ -7248,7 +7247,7 @@
 <td>URS0000B4D3BB_1183423</td>
 <td><a href="https://rnacentral.org/rna/URS0000B4D3BB/1183423">RS</a></td>
 <td>0.7691</td>
-<td>20</td>
+<td>13</td>
 <td>0.9439</td>
 <td>-72.177</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/L3MBTL4">=></a></td>
@@ -7332,7 +7331,7 @@
 <td>URS0000DA2E71_302980</td>
 <td><a href="https://rnacentral.org/rna/URS0000DA2E71/302980">RS</a></td>
 <td>0.8551</td>
-<td>20</td>
+<td>15</td>
 <td>0.9527</td>
 <td>-85.429</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/LBR_1">=></a></td>
@@ -7344,7 +7343,7 @@
 <td>URS0000C3CB06_553198</td>
 <td><a href="https://rnacentral.org/rna/URS0000C3CB06/553198">RS</a></td>
 <td>0.8135</td>
-<td>20</td>
+<td>8</td>
 <td>0.9844</td>
 <td>-15.773</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/LCOR">=></a></td>
@@ -7368,7 +7367,7 @@
 <td>URS0000AB2143_469618</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB2143/469618">RS</a></td>
 <td>0.9196</td>
-<td>20</td>
+<td>18</td>
 <td>0.9668</td>
 <td>-38.987</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/LDHC">=></a></td>
@@ -7380,7 +7379,7 @@
 <td>URS00021EDE28_1577895</td>
 <td><a href="https://rnacentral.org/rna/URS00021EDE28/1577895">RS</a></td>
 <td>0.7644</td>
-<td>20</td>
+<td>4</td>
 <td>0.9917</td>
 <td>-9.496</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/LDLRAD1">=></a></td>
@@ -7392,7 +7391,7 @@
 <td>URS0000D8610A_1802656</td>
 <td><a href="https://rnacentral.org/rna/URS0000D8610A/1802656">RS</a></td>
 <td>0.8801</td>
-<td>20</td>
+<td>12</td>
 <td>0.9686</td>
 <td>-25.830</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/LELP1">=></a></td>
@@ -7404,7 +7403,7 @@
 <td>URS0000C3FDC5_1666913</td>
 <td><a href="https://rnacentral.org/rna/URS0000C3FDC5/1666913">RS</a></td>
 <td>0.7224</td>
-<td>20</td>
+<td>2</td>
 <td>0.9902</td>
 <td>-5.441</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/LEO1">=></a></td>
@@ -7416,7 +7415,7 @@
 <td>URS0000D698A2_12908</td>
 <td><a href="https://rnacentral.org/rna/URS0000D698A2/12908">RS</a></td>
 <td>0.8815</td>
-<td>20</td>
+<td>13</td>
 <td>0.9671</td>
 <td>-37.789</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/LGALS2">=></a></td>
@@ -7428,7 +7427,7 @@
 <td>URS0000C15F41_1886670</td>
 <td><a href="https://rnacentral.org/rna/URS0000C15F41/1886670">RS</a></td>
 <td>0.8964</td>
-<td>20</td>
+<td>13</td>
 <td>0.9684</td>
 <td>-25.339</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/LGALS8">=></a></td>
@@ -7440,7 +7439,7 @@
 <td>URS0000BF1BC1_58049</td>
 <td><a href="https://rnacentral.org/rna/URS0000BF1BC1/58049">RS</a></td>
 <td>0.8312</td>
-<td>20</td>
+<td>15</td>
 <td>0.9291</td>
 <td>-90.141</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/LGMN">=></a></td>
@@ -7452,7 +7451,7 @@
 <td>URS0000E60472_1125712</td>
 <td><a href="https://rnacentral.org/rna/URS0000E60472/1125712">RS</a></td>
 <td>0.6626</td>
-<td>20</td>
+<td>5</td>
 <td>0.9161</td>
 <td>-101.503</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/LGMN_0">=></a></td>
@@ -7464,7 +7463,7 @@
 <td>URS0002334A7C_999898</td>
 <td><a href="https://rnacentral.org/rna/URS0002334A7C/999898">RS</a></td>
 <td>0.5714</td>
-<td>20</td>
+<td>1</td>
 <td>0.9561</td>
 <td>-53.405</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/LGMN_1">=></a></td>
@@ -7488,7 +7487,7 @@
 <td>URS0000C2558A_1246484</td>
 <td><a href="https://rnacentral.org/rna/URS0000C2558A/1246484">RS</a></td>
 <td>0.8633</td>
-<td>20</td>
+<td>8</td>
 <td>0.9762</td>
 <td>-53.890</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/LHX3">=></a></td>
@@ -7500,7 +7499,7 @@
 <td>URS0000DB2AFB_1797913</td>
 <td><a href="https://rnacentral.org/rna/URS0000DB2AFB/1797913">RS</a></td>
 <td>0.8685</td>
-<td>20</td>
+<td>9</td>
 <td>0.9839</td>
 <td>-26.171</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/LIAS">=></a></td>
@@ -7512,7 +7511,7 @@
 <td>URS0000D9E396_1703924</td>
 <td><a href="https://rnacentral.org/rna/URS0000D9E396/1703924">RS</a></td>
 <td>0.7649</td>
-<td>20</td>
+<td>2</td>
 <td>0.9718</td>
 <td>-40.783</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/LIAS_0">=></a></td>
@@ -7524,7 +7523,7 @@
 <td>URS000231EBB6_1125411</td>
 <td><a href="https://rnacentral.org/rna/URS000231EBB6/1125411">RS</a></td>
 <td>0.7934</td>
-<td>20</td>
+<td>1</td>
 <td>0.9689</td>
 <td>-44.964</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/LIG3">=></a></td>
@@ -7536,7 +7535,7 @@
 <td>URS0000C5DB3B_86416</td>
 <td><a href="https://rnacentral.org/rna/URS0000C5DB3B/86416">RS</a></td>
 <td>0.8350</td>
-<td>20</td>
+<td>5</td>
 <td>0.9756</td>
 <td>-31.638</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/LIG3_0">=></a></td>
@@ -7548,7 +7547,7 @@
 <td>URS000231B063_12908</td>
 <td><a href="https://rnacentral.org/rna/URS000231B063/12908">RS</a></td>
 <td>0.6685</td>
-<td>20</td>
+<td>2</td>
 <td>0.9837</td>
 <td>-21.856</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/LINGO1">=></a></td>
@@ -7572,7 +7571,7 @@
 <td>URS0000C0165F_294699</td>
 <td><a href="https://rnacentral.org/rna/URS0000C0165F/294699">RS</a></td>
 <td>0.7442</td>
-<td>20</td>
+<td>3</td>
 <td>0.9883</td>
 <td>-13.629</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/LITAF">=></a></td>
@@ -7584,7 +7583,7 @@
 <td>URS0000C6E09D_585394</td>
 <td><a href="https://rnacentral.org/rna/URS0000C6E09D/585394">RS</a></td>
 <td>0.9393</td>
-<td>20</td>
+<td>18</td>
 <td>0.9802</td>
 <td>-17.548</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/LLPH">=></a></td>
@@ -7608,7 +7607,7 @@
 <td>URS0000C614C6_797473</td>
 <td><a href="https://rnacentral.org/rna/URS0000C614C6/797473">RS</a></td>
 <td>0.9425</td>
-<td>20</td>
+<td>17</td>
 <td>0.9895</td>
 <td>-10.588</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/LMLN">=></a></td>
@@ -7632,7 +7631,7 @@
 <td>URS0000D95A4E_1943632</td>
 <td><a href="https://rnacentral.org/rna/URS0000D95A4E/1943632">RS</a></td>
 <td>0.8409</td>
-<td>20</td>
+<td>6</td>
 <td>0.9876</td>
 <td>-20.876</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/LMX1B">=></a></td>
@@ -7644,7 +7643,7 @@
 <td>URS0000E60158_1158608</td>
 <td><a href="https://rnacentral.org/rna/URS0000E60158/1158608">RS</a></td>
 <td>0.9508</td>
-<td>20</td>
+<td>16</td>
 <td>0.9904</td>
 <td>-8.990</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/LRGUK">=></a></td>
@@ -7656,7 +7655,7 @@
 <td>URS0000C88188_1220589</td>
 <td><a href="https://rnacentral.org/rna/URS0000C88188/1220589">RS</a></td>
 <td>0.8357</td>
-<td>20</td>
+<td>11</td>
 <td>0.9842</td>
 <td>-24.442</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/LRRC42">=></a></td>
@@ -7680,7 +7679,7 @@
 <td>URS0000DA1EB5_48936</td>
 <td><a href="https://rnacentral.org/rna/URS0000DA1EB5/48936">RS</a></td>
 <td>0.8447</td>
-<td>20</td>
+<td>9</td>
 <td>0.9519</td>
 <td>-37.420</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/LRRCC1">=></a></td>
@@ -7692,7 +7691,7 @@
 <td>URS0000C10297_1234679</td>
 <td><a href="https://rnacentral.org/rna/URS0000C10297/1234679">RS</a></td>
 <td>0.8396</td>
-<td>20</td>
+<td>9</td>
 <td>0.9795</td>
 <td>-26.895</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/LRSAM1">=></a></td>
@@ -7704,7 +7703,7 @@
 <td>URS0000E60016_1156935</td>
 <td><a href="https://rnacentral.org/rna/URS0000E60016/1156935">RS</a></td>
 <td>0.8331</td>
-<td>20</td>
+<td>12</td>
 <td>0.9881</td>
 <td>-7.892</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/LSM3">=></a></td>
@@ -7716,7 +7715,7 @@
 <td>URS0000DA19C4_1895922</td>
 <td><a href="https://rnacentral.org/rna/URS0000DA19C4/1895922">RS</a></td>
 <td>0.8686</td>
-<td>20</td>
+<td>11</td>
 <td>0.9820</td>
 <td>-25.470</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/LSM5">=></a></td>
@@ -7740,7 +7739,7 @@
 <td>URS0000DA49D6_1977292</td>
 <td><a href="https://rnacentral.org/rna/URS0000DA49D6/1977292">RS</a></td>
 <td>0.8886</td>
-<td>20</td>
+<td>16</td>
 <td>0.9781</td>
 <td>-45.075</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/LTK">=></a></td>
@@ -7752,7 +7751,7 @@
 <td>URS0000D95D73_1798804</td>
 <td><a href="https://rnacentral.org/rna/URS0000D95D73/1798804">RS</a></td>
 <td>0.9429</td>
-<td>20</td>
+<td>19</td>
 <td>0.9717</td>
 <td>-41.133</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/LUC7L">=></a></td>
@@ -7764,7 +7763,7 @@
 <td>URS0000ABA474_311403</td>
 <td><a href="https://rnacentral.org/rna/URS0000ABA474/311403">RS</a></td>
 <td>0.9015</td>
-<td>20</td>
+<td>17</td>
 <td>0.9866</td>
 <td>-28.309</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/LYPLAL1">=></a></td>
@@ -7776,7 +7775,7 @@
 <td>URS0000D859A8_1955422</td>
 <td><a href="https://rnacentral.org/rna/URS0000D859A8/1955422">RS</a></td>
 <td>0.8183</td>
-<td>20</td>
+<td>1</td>
 <td>0.9869</td>
 <td>-28.309</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/LYPLAL1_0">=></a></td>
@@ -7788,7 +7787,7 @@
 <td>URS000232FA9D_12908</td>
 <td><a href="https://rnacentral.org/rna/URS000232FA9D/12908">RS</a></td>
 <td>0.9111</td>
-<td>20</td>
+<td>16</td>
 <td>0.9836</td>
 <td>-23.982</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/LYPLAL1_1">=></a></td>
@@ -7800,7 +7799,7 @@
 <td>URS00023354FA_879243</td>
 <td><a href="https://rnacentral.org/rna/URS00023354FA/879243">RS</a></td>
 <td>0.7520</td>
-<td>20</td>
+<td>14</td>
 <td>0.9514</td>
 <td>-76.860</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/LYSMD4">=></a></td>
@@ -7824,7 +7823,7 @@
 <td>URS0000ABB7B7_575594</td>
 <td><a href="https://rnacentral.org/rna/URS0000ABB7B7/575594">RS</a></td>
 <td>0.8093</td>
-<td>20</td>
+<td>3</td>
 <td>0.9766</td>
 <td>-36.576</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/MAD2L2">=></a></td>
@@ -7860,7 +7859,7 @@
 <td>URS0000E5FB23_1121291</td>
 <td><a href="https://rnacentral.org/rna/URS0000E5FB23/1121291">RS</a></td>
 <td>0.9199</td>
-<td>20</td>
+<td>17</td>
 <td>0.9899</td>
 <td>-18.398</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/MAK16">=></a></td>
@@ -7884,7 +7883,7 @@
 <td>URS0000C7B40B_12908</td>
 <td><a href="https://rnacentral.org/rna/URS0000C7B40B/12908">RS</a></td>
 <td>0.8147</td>
-<td>20</td>
+<td>6</td>
 <td>0.9898</td>
 <td>-7.249</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/MAP1S">=></a></td>
@@ -7896,7 +7895,7 @@
 <td>URS0000AB1EA1_445972</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB1EA1/445972">RS</a></td>
 <td>0.9088</td>
-<td>20</td>
+<td>15</td>
 <td>0.9816</td>
 <td>-23.836</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/MAP2K1">=></a></td>
@@ -7920,7 +7919,7 @@
 <td>URS0000AB7E92_525246</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB7E92/525246">RS</a></td>
 <td>0.9334</td>
-<td>20</td>
+<td>19</td>
 <td>0.9834</td>
 <td>-24.980</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/MAP3K3">=></a></td>
@@ -7932,7 +7931,7 @@
 <td>URS0000C18302_1479237</td>
 <td><a href="https://rnacentral.org/rna/URS0000C18302/1479237">RS</a></td>
 <td>0.8883</td>
-<td>20</td>
+<td>15</td>
 <td>0.9743</td>
 <td>-35.641</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/MAP7D3">=></a></td>
@@ -7944,7 +7943,7 @@
 <td>URS0000BEF16E_1750719</td>
 <td><a href="https://rnacentral.org/rna/URS0000BEF16E/1750719">RS</a></td>
 <td>0.7967</td>
-<td>20</td>
+<td>4</td>
 <td>0.9825</td>
 <td>-14.478</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/MAPK10">=></a></td>
@@ -7968,7 +7967,7 @@
 <td>URS0000D89034_197461</td>
 <td><a href="https://rnacentral.org/rna/URS0000D89034/197461">RS</a></td>
 <td>0.8305</td>
-<td>20</td>
+<td>2</td>
 <td>0.9688</td>
 <td>-74.524</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/MAPK15_0">=></a></td>
@@ -8016,7 +8015,7 @@
 <td>URS0000D98E37_1893</td>
 <td><a href="https://rnacentral.org/rna/URS0000D98E37/1893">RS</a></td>
 <td>0.8716</td>
-<td>20</td>
+<td>14</td>
 <td>0.9760</td>
 <td>-42.151</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/MAPRE1_2">=></a></td>
@@ -8040,7 +8039,7 @@
 <td>URS000231A1F3_1798249</td>
 <td><a href="https://rnacentral.org/rna/URS000231A1F3/1798249">RS</a></td>
 <td>0.7902</td>
-<td>20</td>
+<td>1</td>
 <td>0.9629</td>
 <td>-38.978</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/MAT2A">=></a></td>
@@ -8064,7 +8063,7 @@
 <td>URS0000DB4186_1805100</td>
 <td><a href="https://rnacentral.org/rna/URS0000DB4186/1805100">RS</a></td>
 <td>0.6184</td>
-<td>20</td>
+<td>1</td>
 <td>0.9869</td>
 <td>-24.301</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/MBIP">=></a></td>
@@ -8076,7 +8075,7 @@
 <td>URS0000C1EE7B_1423733</td>
 <td><a href="https://rnacentral.org/rna/URS0000C1EE7B/1423733">RS</a></td>
 <td>0.7554</td>
-<td>20</td>
+<td>1</td>
 <td>0.9789</td>
 <td>-36.049</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/MBIP_0">=></a></td>
@@ -8088,7 +8087,7 @@
 <td>URS0000AB4130_546270</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB4130/546270">RS</a></td>
 <td>0.8911</td>
-<td>20</td>
+<td>14</td>
 <td>0.9840</td>
 <td>-21.972</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/MBOAT1">=></a></td>
@@ -8100,7 +8099,7 @@
 <td>URS0000C4E956_1472719</td>
 <td><a href="https://rnacentral.org/rna/URS0000C4E956/1472719">RS</a></td>
 <td>0.8215</td>
-<td>20</td>
+<td>6</td>
 <td>0.9753</td>
 <td>-20.265</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/MBTD1">=></a></td>
@@ -8148,7 +8147,7 @@
 <td>URS0000BF7629_1309411</td>
 <td><a href="https://rnacentral.org/rna/URS0000BF7629/1309411">RS</a></td>
 <td>0.7364</td>
-<td>20</td>
+<td>1</td>
 <td>0.9755</td>
 <td>-25.119</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/MCHR2">=></a></td>
@@ -8160,7 +8159,7 @@
 <td>URS0000D8AFD5_1718998</td>
 <td><a href="https://rnacentral.org/rna/URS0000D8AFD5/1718998">RS</a></td>
 <td>0.8146</td>
-<td>20</td>
+<td>7</td>
 <td>0.9850</td>
 <td>-21.093</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/MCM2">=></a></td>
@@ -8172,7 +8171,7 @@
 <td>URS0000AB68ED_518636</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB68ED/518636">RS</a></td>
 <td>0.8481</td>
-<td>20</td>
+<td>6</td>
 <td>0.9734</td>
 <td>-50.214</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/MCM3">=></a></td>
@@ -8184,7 +8183,7 @@
 <td>URS0000E60055_1934248</td>
 <td><a href="https://rnacentral.org/rna/URS0000E60055/1934248">RS</a></td>
 <td>0.9112</td>
-<td>20</td>
+<td>16</td>
 <td>0.9863</td>
 <td>-3.166</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/MCM3AP">=></a></td>
@@ -8196,7 +8195,7 @@
 <td>URS0000C17F13_1188</td>
 <td><a href="https://rnacentral.org/rna/URS0000C17F13/1188">RS</a></td>
 <td>0.8976</td>
-<td>20</td>
+<td>15</td>
 <td>0.9798</td>
 <td>-36.987</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/MCM4">=></a></td>
@@ -8208,7 +8207,7 @@
 <td>URS0000D833A0_1515439</td>
 <td><a href="https://rnacentral.org/rna/URS0000D833A0/1515439">RS</a></td>
 <td>0.8852</td>
-<td>20</td>
+<td>14</td>
 <td>0.9633</td>
 <td>-65.397</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/MCM4_0">=></a></td>
@@ -8220,7 +8219,7 @@
 <td>URS0000D8B90E_112901</td>
 <td><a href="https://rnacentral.org/rna/URS0000D8B90E/112901">RS</a></td>
 <td>0.8997</td>
-<td>20</td>
+<td>12</td>
 <td>0.9854</td>
 <td>-23.023</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/MDH1B">=></a></td>
@@ -8244,7 +8243,7 @@
 <td>URS0000ABA0BE_293826</td>
 <td><a href="https://rnacentral.org/rna/URS0000ABA0BE/293826">RS</a></td>
 <td>0.7192</td>
-<td>20</td>
+<td>1</td>
 <td>0.9721</td>
 <td>-28.787</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/MED24">=></a></td>
@@ -8268,7 +8267,7 @@
 <td>URS0000C4C2C2_1413211</td>
 <td><a href="https://rnacentral.org/rna/URS0000C4C2C2/1413211">RS</a></td>
 <td>0.7488</td>
-<td>20</td>
+<td>2</td>
 <td>0.9749</td>
 <td>-27.037</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/MED24_1">=></a></td>
@@ -8304,7 +8303,7 @@
 <td>URS0000AB9F10_401526</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB9F10/401526">RS</a></td>
 <td>0.8664</td>
-<td>20</td>
+<td>12</td>
 <td>0.9754</td>
 <td>-39.705</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/MED24_4">=></a></td>
@@ -8316,7 +8315,7 @@
 <td>URS0000ABC460_388399</td>
 <td><a href="https://rnacentral.org/rna/URS0000ABC460/388399">RS</a></td>
 <td>0.8624</td>
-<td>20</td>
+<td>13</td>
 <td>0.9649</td>
 <td>-39.986</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/MED24_5">=></a></td>
@@ -8352,7 +8351,7 @@
 <td>URS0000D7F8DF_1672749</td>
 <td><a href="https://rnacentral.org/rna/URS0000D7F8DF/1672749">RS</a></td>
 <td>0.9456</td>
-<td>20</td>
+<td>19</td>
 <td>0.9874</td>
 <td>-37.125</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/MED25">=></a></td>
@@ -8376,7 +8375,7 @@
 <td>URS0000E5FF47_1798573</td>
 <td><a href="https://rnacentral.org/rna/URS0000E5FF47/1798573">RS</a></td>
 <td>0.9100</td>
-<td>20</td>
+<td>12</td>
 <td>0.9890</td>
 <td>-11.695</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/MED6">=></a></td>
@@ -8400,7 +8399,7 @@
 <td>URS00021EDF41_12908</td>
 <td><a href="https://rnacentral.org/rna/URS00021EDF41/12908">RS</a></td>
 <td>0.9362</td>
-<td>20</td>
+<td>18</td>
 <td>0.9811</td>
 <td>-30.303</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/MED8">=></a></td>
@@ -8412,7 +8411,7 @@
 <td>URS0000DA39C5_1805091</td>
 <td><a href="https://rnacentral.org/rna/URS0000DA39C5/1805091">RS</a></td>
 <td>0.9632</td>
-<td>20</td>
+<td>19</td>
 <td>0.9814</td>
 <td>-26.959</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/MED8_0">=></a></td>
@@ -8436,7 +8435,7 @@
 <td>URS0000C5A738_1144311</td>
 <td><a href="https://rnacentral.org/rna/URS0000C5A738/1144311">RS</a></td>
 <td>0.9577</td>
-<td>20</td>
+<td>19</td>
 <td>0.9804</td>
 <td>-33.630</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/MEMO1">=></a></td>
@@ -8448,7 +8447,7 @@
 <td>URS0002318B93_1797386</td>
 <td><a href="https://rnacentral.org/rna/URS0002318B93/1797386">RS</a></td>
 <td>0.8219</td>
-<td>20</td>
+<td>5</td>
 <td>0.9654</td>
 <td>-48.883</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/MEPCE">=></a></td>
@@ -8472,7 +8471,7 @@
 <td>URS0000AB85B4_1282</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB85B4/1282">RS</a></td>
 <td>0.8648</td>
-<td>20</td>
+<td>11</td>
 <td>0.9761</td>
 <td>-22.727</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/METTL7A">=></a></td>
@@ -8484,7 +8483,7 @@
 <td>URS0002327FA4_1262736</td>
 <td><a href="https://rnacentral.org/rna/URS0002327FA4/1262736">RS</a></td>
 <td>0.9032</td>
-<td>20</td>
+<td>19</td>
 <td>0.9520</td>
 <td>-80.851</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/MGAT2">=></a></td>
@@ -8496,7 +8495,7 @@
 <td>URS0000DB1FE6_3562</td>
 <td><a href="https://rnacentral.org/rna/URS0000DB1FE6/3562">RS</a></td>
 <td>0.8241</td>
-<td>20</td>
+<td>6</td>
 <td>0.9871</td>
 <td>-12.725</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/MGST3">=></a></td>
@@ -8508,7 +8507,7 @@
 <td>URS0000C65CB5_1768241</td>
 <td><a href="https://rnacentral.org/rna/URS0000C65CB5/1768241">RS</a></td>
 <td>0.8847</td>
-<td>20</td>
+<td>10</td>
 <td>0.9899</td>
 <td>-10.575</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/MGST3_0">=></a></td>
@@ -8532,7 +8531,7 @@
 <td>URS00019F3427_2653165</td>
 <td><a href="https://rnacentral.org/rna/URS00019F3427/2653165">RS</a></td>
 <td>0.8717</td>
-<td>20</td>
+<td>12</td>
 <td>0.9463</td>
 <td>-68.332</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/MLF1">=></a></td>
@@ -8544,7 +8543,7 @@
 <td>URS000231E285_498761</td>
 <td><a href="https://rnacentral.org/rna/URS000231E285/498761">RS</a></td>
 <td>0.8562</td>
-<td>20</td>
+<td>15</td>
 <td>0.9527</td>
 <td>-45.678</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/MLH1">=></a></td>
@@ -8556,7 +8555,7 @@
 <td>URS0000E60427_1195236</td>
 <td><a href="https://rnacentral.org/rna/URS0000E60427/1195236">RS</a></td>
 <td>0.7698</td>
-<td>20</td>
+<td>1</td>
 <td>0.9508</td>
 <td>-41.762</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/MLLT10">=></a></td>
@@ -8568,7 +8567,7 @@
 <td>URS0000D95D5C_80876</td>
 <td><a href="https://rnacentral.org/rna/URS0000D95D5C/80876">RS</a></td>
 <td>0.7367</td>
-<td>20</td>
+<td>2</td>
 <td>0.9550</td>
 <td>-18.039</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/MLPH">=></a></td>
@@ -8580,7 +8579,7 @@
 <td>URS0000C0BF6F_931276</td>
 <td><a href="https://rnacentral.org/rna/URS0000C0BF6F/931276">RS</a></td>
 <td>0.8567</td>
-<td>20</td>
+<td>10</td>
 <td>0.9575</td>
 <td>-53.656</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/MMACHC">=></a></td>
@@ -8592,7 +8591,7 @@
 <td>URS0000D98BDD_1337093</td>
 <td><a href="https://rnacentral.org/rna/URS0000D98BDD/1337093">RS</a></td>
 <td>0.8520</td>
-<td>20</td>
+<td>14</td>
 <td>0.9636</td>
 <td>-44.406</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/MMADHC">=></a></td>
@@ -8604,7 +8603,7 @@
 <td>URS0000BF456D_497965</td>
 <td><a href="https://rnacentral.org/rna/URS0000BF456D/497965">RS</a></td>
 <td>0.7937</td>
-<td>20</td>
+<td>2</td>
 <td>0.9866</td>
 <td>-15.993</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/MMP7">=></a></td>
@@ -8616,7 +8615,7 @@
 <td>URS0000C4A540_1658671</td>
 <td><a href="https://rnacentral.org/rna/URS0000C4A540/1658671">RS</a></td>
 <td>0.8005</td>
-<td>20</td>
+<td>2</td>
 <td>0.9886</td>
 <td>-15.993</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/MMP7_0">=></a></td>
@@ -8628,7 +8627,7 @@
 <td>URS0000DA1333_58117</td>
 <td><a href="https://rnacentral.org/rna/URS0000DA1333/58117">RS</a></td>
 <td>0.8300</td>
-<td>20</td>
+<td>5</td>
 <td>0.9841</td>
 <td>-34.429</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/MORC1">=></a></td>
@@ -8664,7 +8663,7 @@
 <td>URS0000AB5109_465543</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB5109/465543">RS</a></td>
 <td>0.8262</td>
-<td>20</td>
+<td>1</td>
 <td>0.9649</td>
 <td>-30.442</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/MPHOSPH9">=></a></td>
@@ -8676,7 +8675,7 @@
 <td>URS00021EDBE7_12908</td>
 <td><a href="https://rnacentral.org/rna/URS00021EDBE7/12908">RS</a></td>
 <td>0.7740</td>
-<td>20</td>
+<td>4</td>
 <td>0.9840</td>
 <td>-34.491</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/MPI">=></a></td>
@@ -8700,7 +8699,7 @@
 <td>URS0000C05ABB_1423802</td>
 <td><a href="https://rnacentral.org/rna/URS0000C05ABB/1423802">RS</a></td>
 <td>0.6891</td>
-<td>20</td>
+<td>3</td>
 <td>0.9849</td>
 <td>-30.091</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/MPI_1">=></a></td>
@@ -8712,7 +8711,7 @@
 <td>URS00021EDDA7_12908</td>
 <td><a href="https://rnacentral.org/rna/URS00021EDDA7/12908">RS</a></td>
 <td>0.8357</td>
-<td>20</td>
+<td>4</td>
 <td>0.9844</td>
 <td>-32.341</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/MPI_2">=></a></td>
@@ -8724,7 +8723,7 @@
 <td>URS0000E604DC_1798581</td>
 <td><a href="https://rnacentral.org/rna/URS0000E604DC/1798581">RS</a></td>
 <td>0.7892</td>
-<td>20</td>
+<td>1</td>
 <td>0.9902</td>
 <td>-17.292</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/MRPL21">=></a></td>
@@ -8736,7 +8735,7 @@
 <td>URS0000C5F30B_12908</td>
 <td><a href="https://rnacentral.org/rna/URS0000C5F30B/12908">RS</a></td>
 <td>0.7806</td>
-<td>20</td>
+<td>1</td>
 <td>0.9894</td>
 <td>-12.538</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/MRPL22">=></a></td>
@@ -8748,7 +8747,7 @@
 <td>URS00023216B3_1629550</td>
 <td><a href="https://rnacentral.org/rna/URS00023216B3/1629550">RS</a></td>
 <td>0.8895</td>
-<td>20</td>
+<td>14</td>
 <td>0.9550</td>
 <td>-48.328</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/MRPL22_0">=></a></td>
@@ -8772,7 +8771,7 @@
 <td>URS0000DDBA0A_2182327</td>
 <td><a href="https://rnacentral.org/rna/URS0000DDBA0A/2182327">RS</a></td>
 <td>0.8922</td>
-<td>20</td>
+<td>15</td>
 <td>0.9851</td>
 <td>-17.708</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/MRPL28">=></a></td>
@@ -8784,7 +8783,7 @@
 <td>URS0000C3960C_12908</td>
 <td><a href="https://rnacentral.org/rna/URS0000C3960C/12908">RS</a></td>
 <td>0.8426</td>
-<td>20</td>
+<td>10</td>
 <td>0.9893</td>
 <td>-16.079</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/MRPL28_0">=></a></td>
@@ -8820,7 +8819,7 @@
 <td>URS0000C472AD_1432558</td>
 <td><a href="https://rnacentral.org/rna/URS0000C472AD/1432558">RS</a></td>
 <td>0.8320</td>
-<td>20</td>
+<td>5</td>
 <td>0.9697</td>
 <td>-19.645</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/MRPL45">=></a></td>
@@ -8832,7 +8831,7 @@
 <td>URS0000C1437B_1121923</td>
 <td><a href="https://rnacentral.org/rna/URS0000C1437B/1121923">RS</a></td>
 <td>0.8818</td>
-<td>20</td>
+<td>13</td>
 <td>0.9757</td>
 <td>-46.142</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/MRPL48">=></a></td>
@@ -8880,7 +8879,7 @@
 <td>URS0000C1E994_1736411</td>
 <td><a href="https://rnacentral.org/rna/URS0000C1E994/1736411">RS</a></td>
 <td>0.9158</td>
-<td>20</td>
+<td>16</td>
 <td>0.9527</td>
 <td>-77.194</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/MRPS15">=></a></td>
@@ -8916,7 +8915,7 @@
 <td>URS0000BF2A85_1002672</td>
 <td><a href="https://rnacentral.org/rna/URS0000BF2A85/1002672">RS</a></td>
 <td>0.9272</td>
-<td>20</td>
+<td>17</td>
 <td>0.9916</td>
 <td>-11.772</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/MRPS18B">=></a></td>
@@ -8928,7 +8927,7 @@
 <td>URS0000AB51F3_469596</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB51F3/469596">RS</a></td>
 <td>0.8807</td>
-<td>20</td>
+<td>12</td>
 <td>0.9781</td>
 <td>-20.666</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/MRPS21">=></a></td>
@@ -8940,7 +8939,7 @@
 <td>URS0000C7AF58_12908</td>
 <td><a href="https://rnacentral.org/rna/URS0000C7AF58/12908">RS</a></td>
 <td>0.8910</td>
-<td>20</td>
+<td>15</td>
 <td>0.9887</td>
 <td>-12.344</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/MRPS27">=></a></td>
@@ -8952,7 +8951,7 @@
 <td>URS0000C89680_1158606</td>
 <td><a href="https://rnacentral.org/rna/URS0000C89680/1158606">RS</a></td>
 <td>0.5347</td>
-<td>20</td>
+<td>2</td>
 <td>0.9873</td>
 <td>-17.396</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/MSH4">=></a></td>
@@ -8964,7 +8963,7 @@
 <td>URS0000C2BC16_1223523</td>
 <td><a href="https://rnacentral.org/rna/URS0000C2BC16/1223523">RS</a></td>
 <td>0.6753</td>
-<td>20</td>
+<td>3</td>
 <td>0.9504</td>
 <td>-38.353</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/MSN">=></a></td>
@@ -8976,7 +8975,7 @@
 <td>URS0000C3EC64_1660156</td>
 <td><a href="https://rnacentral.org/rna/URS0000C3EC64/1660156">RS</a></td>
 <td>0.9212</td>
-<td>20</td>
+<td>15</td>
 <td>0.9876</td>
 <td>-16.559</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/MTBP">=></a></td>
@@ -8988,7 +8987,7 @@
 <td>URS0000ABA3B0_411467</td>
 <td><a href="https://rnacentral.org/rna/URS0000ABA3B0/411467">RS</a></td>
 <td>0.8178</td>
-<td>20</td>
+<td>4</td>
 <td>0.9806</td>
 <td>-25.276</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/MTBP_0">=></a></td>
@@ -9000,7 +8999,7 @@
 <td>URS0000B37A75_91750</td>
 <td><a href="https://rnacentral.org/rna/URS0000B37A75/91750">RS</a></td>
 <td>0.7792</td>
-<td>20</td>
+<td>3</td>
 <td>0.9896</td>
 <td>-20.448</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/MTHFD1">=></a></td>
@@ -9012,7 +9011,7 @@
 <td>URS0000D8A544_947013</td>
 <td><a href="https://rnacentral.org/rna/URS0000D8A544/947013">RS</a></td>
 <td>0.8965</td>
-<td>20</td>
+<td>17</td>
 <td>0.9788</td>
 <td>-28.322</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/MTHFR">=></a></td>
@@ -9024,7 +9023,7 @@
 <td>URS00000B88E1_60481</td>
 <td><a href="https://rnacentral.org/rna/URS00000B88E1/60481">RS</a></td>
 <td>0.8455</td>
-<td>20</td>
+<td>15</td>
 <td>0.9342</td>
 <td>-87.946</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/MTHFSD">=></a></td>
@@ -9036,7 +9035,7 @@
 <td>URS000231D03D_1297617</td>
 <td><a href="https://rnacentral.org/rna/URS000231D03D/1297617">RS</a></td>
 <td>0.8324</td>
-<td>20</td>
+<td>7</td>
 <td>0.9542</td>
 <td>-52.878</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/MTNR1A">=></a></td>
@@ -9048,7 +9047,7 @@
 <td>URS0000D96AE1_1912097</td>
 <td><a href="https://rnacentral.org/rna/URS0000D96AE1/1912097">RS</a></td>
 <td>0.7935</td>
-<td>20</td>
+<td>1</td>
 <td>0.9594</td>
 <td>-60.448</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/MTRF1L">=></a></td>
@@ -9060,7 +9059,7 @@
 <td>URS0000C52B57_12908</td>
 <td><a href="https://rnacentral.org/rna/URS0000C52B57/12908">RS</a></td>
 <td>0.8686</td>
-<td>20</td>
+<td>10</td>
 <td>0.9903</td>
 <td>-13.082</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/MTRR">=></a></td>
@@ -9084,7 +9083,7 @@
 <td>URS0000D66C0D_12908</td>
 <td><a href="https://rnacentral.org/rna/URS0000D66C0D/12908">RS</a></td>
 <td>0.9321</td>
-<td>20</td>
+<td>17</td>
 <td>0.9900</td>
 <td>-10.148</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/MYCT1">=></a></td>
@@ -9096,7 +9095,7 @@
 <td>URS0000D8D54A_1834193</td>
 <td><a href="https://rnacentral.org/rna/URS0000D8D54A/1834193">RS</a></td>
 <td>0.7369</td>
-<td>20</td>
+<td>10</td>
 <td>0.9623</td>
 <td>-32.817</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/MYL12A">=></a></td>
@@ -9108,7 +9107,7 @@
 <td>URS0000C386F2_1262931</td>
 <td><a href="https://rnacentral.org/rna/URS0000C386F2/1262931">RS</a></td>
 <td>0.9559</td>
-<td>20</td>
+<td>19</td>
 <td>0.9764</td>
 <td>-22.440</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/MYL12B">=></a></td>
@@ -9120,7 +9119,7 @@
 <td>URS0000D93FE6_983</td>
 <td><a href="https://rnacentral.org/rna/URS0000D93FE6/983">RS</a></td>
 <td>0.8968</td>
-<td>20</td>
+<td>15</td>
 <td>0.9753</td>
 <td>-26.646</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/MYL6">=></a></td>
@@ -9132,7 +9131,7 @@
 <td>URS0000C5422F_1473546</td>
 <td><a href="https://rnacentral.org/rna/URS0000C5422F/1473546">RS</a></td>
 <td>0.8730</td>
-<td>20</td>
+<td>11</td>
 <td>0.9500</td>
 <td>-69.827</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/MYO18A">=></a></td>
@@ -9144,7 +9143,7 @@
 <td>URS0000D7F42E_1882763</td>
 <td><a href="https://rnacentral.org/rna/URS0000D7F42E/1882763">RS</a></td>
 <td>0.8459</td>
-<td>20</td>
+<td>6</td>
 <td>0.9803</td>
 <td>-12.976</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/MYO9A">=></a></td>
@@ -9156,7 +9155,7 @@
 <td>URS0000E6042B_1736436</td>
 <td><a href="https://rnacentral.org/rna/URS0000E6042B/1736436">RS</a></td>
 <td>0.8670</td>
-<td>20</td>
+<td>10</td>
 <td>0.9914</td>
 <td>-17.338</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/NAGPA">=></a></td>
@@ -9168,7 +9167,7 @@
 <td>URS0000C6F88A_12908</td>
 <td><a href="https://rnacentral.org/rna/URS0000C6F88A/12908">RS</a></td>
 <td>0.7045</td>
-<td>20</td>
+<td>1</td>
 <td>0.9911</td>
 <td>-19.359</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/NAGPA_0">=></a></td>
@@ -9180,7 +9179,7 @@
 <td>URS0000BE9DE3_1588023</td>
 <td><a href="https://rnacentral.org/rna/URS0000BE9DE3/1588023">RS</a></td>
 <td>0.8095</td>
-<td>20</td>
+<td>1</td>
 <td>0.9773</td>
 <td>-30.912</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/NAP1L4">=></a></td>
@@ -9204,7 +9203,7 @@
 <td>URS0000D69198_12908</td>
 <td><a href="https://rnacentral.org/rna/URS0000D69198/12908">RS</a></td>
 <td>0.9253</td>
-<td>20</td>
+<td>16</td>
 <td>0.9818</td>
 <td>-43.082</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/NAT9">=></a></td>
@@ -9216,7 +9215,7 @@
 <td>URS000003F5D8_655816</td>
 <td><a href="https://rnacentral.org/rna/URS000003F5D8/655816">RS</a></td>
 <td>0.8616</td>
-<td>20</td>
+<td>8</td>
 <td>0.9737</td>
 <td>-56.726</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/NAT9_0">=></a></td>
@@ -9240,7 +9239,7 @@
 <td>URS0000C07F33_1262777</td>
 <td><a href="https://rnacentral.org/rna/URS0000C07F33/1262777">RS</a></td>
 <td>0.9193</td>
-<td>20</td>
+<td>18</td>
 <td>0.9577</td>
 <td>-58.240</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/NCAPG2">=></a></td>
@@ -9288,7 +9287,7 @@
 <td>URS000231AAC0_1283291</td>
 <td><a href="https://rnacentral.org/rna/URS000231AAC0/1283291">RS</a></td>
 <td>0.8274</td>
-<td>20</td>
+<td>12</td>
 <td>0.8966</td>
 <td>-77.686</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/NCDN">=></a></td>
@@ -9300,7 +9299,7 @@
 <td>URS0000C18EAE_34073</td>
 <td><a href="https://rnacentral.org/rna/URS0000C18EAE/34073">RS</a></td>
 <td>0.8857</td>
-<td>20</td>
+<td>14</td>
 <td>0.9735</td>
 <td>-40.585</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/NCOA3">=></a></td>
@@ -9312,7 +9311,7 @@
 <td>URS0002329360_1123404</td>
 <td><a href="https://rnacentral.org/rna/URS0002329360/1123404">RS</a></td>
 <td>0.8057</td>
-<td>20</td>
+<td>14</td>
 <td>0.9482</td>
 <td>-62.478</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/NDC80">=></a></td>
@@ -9324,7 +9323,7 @@
 <td>URS0000C5EF6F_1415775</td>
 <td><a href="https://rnacentral.org/rna/URS0000C5EF6F/1415775">RS</a></td>
 <td>0.8521</td>
-<td>20</td>
+<td>8</td>
 <td>0.9689</td>
 <td>-47.526</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/NDOR1">=></a></td>
@@ -9348,7 +9347,7 @@
 <td>URS0000C86627_86668</td>
 <td><a href="https://rnacentral.org/rna/URS0000C86627/86668">RS</a></td>
 <td>0.8593</td>
-<td>20</td>
+<td>12</td>
 <td>0.9792</td>
 <td>-19.200</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/NDUFA5">=></a></td>
@@ -9360,7 +9359,7 @@
 <td>URS0000D65DAD_272621</td>
 <td><a href="https://rnacentral.org/rna/URS0000D65DAD/272621">RS</a></td>
 <td>0.9152</td>
-<td>20</td>
+<td>18</td>
 <td>0.9874</td>
 <td>-18.182</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/NDUFA7">=></a></td>
@@ -9396,7 +9395,7 @@
 <td>URS0000DB0534_574375</td>
 <td><a href="https://rnacentral.org/rna/URS0000DB0534/574375">RS</a></td>
 <td>0.8457</td>
-<td>20</td>
+<td>9</td>
 <td>0.9765</td>
 <td>-40.932</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/NDUFAF4">=></a></td>
@@ -9408,7 +9407,7 @@
 <td>URS0000DB2C85_1471761</td>
 <td><a href="https://rnacentral.org/rna/URS0000DB2C85/1471761">RS</a></td>
 <td>0.8161</td>
-<td>20</td>
+<td>4</td>
 <td>0.9746</td>
 <td>-40.932</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/NDUFAF4_0">=></a></td>
@@ -9432,7 +9431,7 @@
 <td>URS0000AB9CE1_12908</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB9CE1/12908">RS</a></td>
 <td>0.9038</td>
-<td>20</td>
+<td>16</td>
 <td>0.9819</td>
 <td>-50.596</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/NDUFB7">=></a></td>
@@ -9456,7 +9455,7 @@
 <td>URS0000D9B39F_1987385</td>
 <td><a href="https://rnacentral.org/rna/URS0000D9B39F/1987385">RS</a></td>
 <td>0.8201</td>
-<td>20</td>
+<td>2</td>
 <td>0.9632</td>
 <td>-60.199</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/NDUFS1">=></a></td>
@@ -9480,7 +9479,7 @@
 <td>URS0000C14892_1262785</td>
 <td><a href="https://rnacentral.org/rna/URS0000C14892/1262785">RS</a></td>
 <td>0.8494</td>
-<td>20</td>
+<td>5</td>
 <td>0.9665</td>
 <td>-31.748</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/NDUFV2">=></a></td>
@@ -9492,7 +9491,7 @@
 <td>URS0000D8D2F7_519472</td>
 <td><a href="https://rnacentral.org/rna/URS0000D8D2F7/519472">RS</a></td>
 <td>0.7240</td>
-<td>20</td>
+<td>4</td>
 <td>0.9793</td>
 <td>-34.811</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/NECAP1">=></a></td>
@@ -9504,7 +9503,7 @@
 <td>URS0000C6AE66_1300347</td>
 <td><a href="https://rnacentral.org/rna/URS0000C6AE66/1300347">RS</a></td>
 <td>0.4831</td>
-<td>20</td>
+<td>1</td>
 <td>0.9841</td>
 <td>-13.367</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/NECAP1_0">=></a></td>
@@ -9516,7 +9515,7 @@
 <td>URS0000E6035A_401562</td>
 <td><a href="https://rnacentral.org/rna/URS0000E6035A/401562">RS</a></td>
 <td>0.9276</td>
-<td>20</td>
+<td>16</td>
 <td>0.9881</td>
 <td>-11.781</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/NECAP1_1">=></a></td>
@@ -9528,7 +9527,7 @@
 <td>URS000231AC5E_522772</td>
 <td><a href="https://rnacentral.org/rna/URS000231AC5E/522772">RS</a></td>
 <td>0.9487</td>
-<td>20</td>
+<td>18</td>
 <td>0.9554</td>
 <td>-50.784</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/NEDD9">=></a></td>
@@ -9540,7 +9539,7 @@
 <td>URS0000C63B52_1799370</td>
 <td><a href="https://rnacentral.org/rna/URS0000C63B52/1799370">RS</a></td>
 <td>0.7908</td>
-<td>20</td>
+<td>9</td>
 <td>0.9635</td>
 <td>-67.390</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/NEURL1B">=></a></td>
@@ -9552,7 +9551,7 @@
 <td>URS00021EDDA9_12908</td>
 <td><a href="https://rnacentral.org/rna/URS00021EDDA9/12908">RS</a></td>
 <td>0.8488</td>
-<td>20</td>
+<td>6</td>
 <td>0.9860</td>
 <td>-17.410</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/NKAIN2">=></a></td>
@@ -9564,7 +9563,7 @@
 <td>URS0000C190A7_1221500</td>
 <td><a href="https://rnacentral.org/rna/URS0000C190A7/1221500">RS</a></td>
 <td>0.7952</td>
-<td>20</td>
+<td>3</td>
 <td>0.9753</td>
 <td>-32.340</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/NMD3">=></a></td>
@@ -9576,7 +9575,7 @@
 <td>URS0000127534_1211777</td>
 <td><a href="https://rnacentral.org/rna/URS0000127534/1211777">RS</a></td>
 <td>0.9014</td>
-<td>20</td>
+<td>15</td>
 <td>0.9772</td>
 <td>-26.587</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/NOC3L">=></a></td>
@@ -9588,7 +9587,7 @@
 <td>URS00021EDFB7_364200</td>
 <td><a href="https://rnacentral.org/rna/URS00021EDFB7/364200">RS</a></td>
 <td>0.9208</td>
-<td>20</td>
+<td>16</td>
 <td>0.9912</td>
 <td>-19.022</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/NOLC1">=></a></td>
@@ -9600,7 +9599,7 @@
 <td>URS00023163F2_742766</td>
 <td><a href="https://rnacentral.org/rna/URS00023163F2/742766">RS</a></td>
 <td>0.9072</td>
-<td>20</td>
+<td>16</td>
 <td>0.9404</td>
 <td>-58.314</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/NONO">=></a></td>
@@ -9636,7 +9635,7 @@
 <td>URS0000A53319_33029</td>
 <td><a href="https://rnacentral.org/rna/URS0000A53319/33029">RS</a></td>
 <td>0.9410</td>
-<td>20</td>
+<td>19</td>
 <td>0.9670</td>
 <td>-46.138</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/NOP2">=></a></td>
@@ -9660,7 +9659,7 @@
 <td>URS0000C02FF4_1365484</td>
 <td><a href="https://rnacentral.org/rna/URS0000C02FF4/1365484">RS</a></td>
 <td>0.8625</td>
-<td>20</td>
+<td>11</td>
 <td>0.9563</td>
 <td>-26.906</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/NOSIP_0">=></a></td>
@@ -9672,7 +9671,7 @@
 <td>URS0000AB19FC_378753</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB19FC/378753">RS</a></td>
 <td>0.7046</td>
-<td>20</td>
+<td>2</td>
 <td>0.9776</td>
 <td>-55.867</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/NPHP1">=></a></td>
@@ -9684,7 +9683,7 @@
 <td>URS0000C53EDA_1131730</td>
 <td><a href="https://rnacentral.org/rna/URS0000C53EDA/1131730">RS</a></td>
 <td>0.8473</td>
-<td>20</td>
+<td>5</td>
 <td>0.9810</td>
 <td>-37.189</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/NPHP3">=></a></td>
@@ -9696,7 +9695,7 @@
 <td>URS0000C65D31_1231341</td>
 <td><a href="https://rnacentral.org/rna/URS0000C65D31/1231341">RS</a></td>
 <td>0.9013</td>
-<td>20</td>
+<td>15</td>
 <td>0.9810</td>
 <td>-34.370</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/NPHP3_0">=></a></td>
@@ -9708,7 +9707,7 @@
 <td>URS0000C0727E_1074049</td>
 <td><a href="https://rnacentral.org/rna/URS0000C0727E/1074049">RS</a></td>
 <td>0.8848</td>
-<td>20</td>
+<td>15</td>
 <td>0.9720</td>
 <td>-28.051</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/NR1H2">=></a></td>
@@ -9720,7 +9719,7 @@
 <td>URS00022D596D_92647</td>
 <td><a href="https://rnacentral.org/rna/URS00022D596D/92647">RS</a></td>
 <td>0.7704</td>
-<td>20</td>
+<td>3</td>
 <td>0.9564</td>
 <td>-40.068</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/NSUN6">=></a></td>
@@ -9732,7 +9731,7 @@
 <td>URS0000C3441F_1105031</td>
 <td><a href="https://rnacentral.org/rna/URS0000C3441F/1105031">RS</a></td>
 <td>0.9146</td>
-<td>20</td>
+<td>16</td>
 <td>0.9807</td>
 <td>-36.589</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/NUB1">=></a></td>
@@ -9744,7 +9743,7 @@
 <td>URS0000C1F598_12908</td>
 <td><a href="https://rnacentral.org/rna/URS0000C1F598/12908">RS</a></td>
 <td>0.9151</td>
-<td>20</td>
+<td>17</td>
 <td>0.9894</td>
 <td>-11.625</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/NUBP1">=></a></td>
@@ -9756,7 +9755,7 @@
 <td>URS0000ABAFB8_720555</td>
 <td><a href="https://rnacentral.org/rna/URS0000ABAFB8/720555">RS</a></td>
 <td>0.9613</td>
-<td>20</td>
+<td>19</td>
 <td>0.9798</td>
 <td>-24.841</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/NUBP1_0">=></a></td>
@@ -9780,7 +9779,7 @@
 <td>URS0000C65841_1800</td>
 <td><a href="https://rnacentral.org/rna/URS0000C65841/1800">RS</a></td>
 <td>0.8836</td>
-<td>20</td>
+<td>13</td>
 <td>0.9750</td>
 <td>-38.113</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/NUDT7_0">=></a></td>
@@ -9804,7 +9803,7 @@
 <td>URS0000DAABC0_1986854</td>
 <td><a href="https://rnacentral.org/rna/URS0000DAABC0/1986854">RS</a></td>
 <td>0.9067</td>
-<td>20</td>
+<td>15</td>
 <td>0.9887</td>
 <td>-5.681</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/NUP205">=></a></td>
@@ -9828,7 +9827,7 @@
 <td>URS0000C3F5F1_12908</td>
 <td><a href="https://rnacentral.org/rna/URS0000C3F5F1/12908">RS</a></td>
 <td>0.8098</td>
-<td>20</td>
+<td>5</td>
 <td>0.9865</td>
 <td>-14.223</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/NUP88">=></a></td>
@@ -9852,7 +9851,7 @@
 <td>URS0000C67994_1649647</td>
 <td><a href="https://rnacentral.org/rna/URS0000C67994/1649647">RS</a></td>
 <td>0.8240</td>
-<td>20</td>
+<td>5</td>
 <td>0.8917</td>
 <td>-48.484</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/NVL">=></a></td>
@@ -9876,7 +9875,7 @@
 <td>URS00023174E5_254357</td>
 <td><a href="https://rnacentral.org/rna/URS00023174E5/254357">RS</a></td>
 <td>0.8261</td>
-<td>20</td>
+<td>15</td>
 <td>0.9189</td>
 <td>-60.409</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/NXT2_0">=></a></td>
@@ -9888,7 +9887,7 @@
 <td>URS0000AB2892_644107</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB2892/644107">RS</a></td>
 <td>0.8782</td>
-<td>20</td>
+<td>12</td>
 <td>0.9936</td>
 <td>-6.476</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/OCEL1">=></a></td>
@@ -9900,7 +9899,7 @@
 <td>URS0000C3AC23_1144305</td>
 <td><a href="https://rnacentral.org/rna/URS0000C3AC23/1144305">RS</a></td>
 <td>0.8737</td>
-<td>20</td>
+<td>14</td>
 <td>0.9852</td>
 <td>-23.718</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/OCEL1_0">=></a></td>
@@ -9912,7 +9911,7 @@
 <td>URS0000C2E601_12908</td>
 <td><a href="https://rnacentral.org/rna/URS0000C2E601/12908">RS</a></td>
 <td>0.7605</td>
-<td>20</td>
+<td>3</td>
 <td>0.9909</td>
 <td>-11.100</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/OCEL1_1">=></a></td>
@@ -9924,7 +9923,7 @@
 <td>URS0000D6B26C_12908</td>
 <td><a href="https://rnacentral.org/rna/URS0000D6B26C/12908">RS</a></td>
 <td>0.9256</td>
-<td>20</td>
+<td>18</td>
 <td>0.9907</td>
 <td>-2.449</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ODAM">=></a></td>
@@ -9936,7 +9935,7 @@
 <td>URS00021EE0C2_1577901</td>
 <td><a href="https://rnacentral.org/rna/URS00021EE0C2/1577901">RS</a></td>
 <td>0.9553</td>
-<td>20</td>
+<td>19</td>
 <td>0.9910</td>
 <td>-2.449</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ODAM_0">=></a></td>
@@ -9948,7 +9947,7 @@
 <td>URS0000DB5B2F_1235591</td>
 <td><a href="https://rnacentral.org/rna/URS0000DB5B2F/1235591">RS</a></td>
 <td>0.7979</td>
-<td>20</td>
+<td>3</td>
 <td>0.9863</td>
 <td>-7.110</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/OFD1">=></a></td>
@@ -9960,7 +9959,7 @@
 <td>URS0000C7D443_12908</td>
 <td><a href="https://rnacentral.org/rna/URS0000C7D443/12908">RS</a></td>
 <td>0.8162</td>
-<td>20</td>
+<td>5</td>
 <td>0.9861</td>
 <td>-18.817</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/OGDHL">=></a></td>
@@ -9972,7 +9971,7 @@
 <td>URS0000D9FB82_1797814</td>
 <td><a href="https://rnacentral.org/rna/URS0000D9FB82/1797814">RS</a></td>
 <td>0.8815</td>
-<td>20</td>
+<td>12</td>
 <td>0.9777</td>
 <td>-35.848</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/OMA1">=></a></td>
@@ -9984,7 +9983,7 @@
 <td>URS0000AB17A2_29388</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB17A2/29388">RS</a></td>
 <td>0.9262</td>
-<td>20</td>
+<td>17</td>
 <td>0.9716</td>
 <td>-50.566</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/OMA1_0">=></a></td>
@@ -9996,7 +9995,7 @@
 <td>URS00023138BF_30025</td>
 <td><a href="https://rnacentral.org/rna/URS00023138BF/30025">RS</a></td>
 <td>0.8957</td>
-<td>20</td>
+<td>14</td>
 <td>0.9744</td>
 <td>-33.997</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/OMA1_1">=></a></td>
@@ -10032,7 +10031,7 @@
 <td>URS0000BBDFCB_1520</td>
 <td><a href="https://rnacentral.org/rna/URS0000BBDFCB/1520">RS</a></td>
 <td>0.9072</td>
-<td>20</td>
+<td>15</td>
 <td>0.9496</td>
 <td>-50.127</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/OPTN">=></a></td>
@@ -10044,7 +10043,7 @@
 <td>URS0000C2D8EF_1226323</td>
 <td><a href="https://rnacentral.org/rna/URS0000C2D8EF/1226323">RS</a></td>
 <td>0.8757</td>
-<td>20</td>
+<td>12</td>
 <td>0.9831</td>
 <td>-27.238</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ORMDL1">=></a></td>
@@ -10080,7 +10079,7 @@
 <td>URS000080DDCD_305</td>
 <td><a href="https://rnacentral.org/rna/URS000080DDCD/305">RS</a></td>
 <td>0.6593</td>
-<td>20</td>
+<td>3</td>
 <td>0.9876</td>
 <td>-8.407</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/OSBPL3">=></a></td>
@@ -10092,7 +10091,7 @@
 <td>URS0000C49C25_12908</td>
 <td><a href="https://rnacentral.org/rna/URS0000C49C25/12908">RS</a></td>
 <td>0.9380</td>
-<td>20</td>
+<td>18</td>
 <td>0.9896</td>
 <td>-1.942</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/OSBPL9">=></a></td>
@@ -10128,7 +10127,7 @@
 <td>URS00004ADC78_1288971</td>
 <td><a href="https://rnacentral.org/rna/URS00004ADC78/1288971">RS</a></td>
 <td>0.6572</td>
-<td>20</td>
+<td>1</td>
 <td>0.9680</td>
 <td>-26.571</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/OXSM">=></a></td>
@@ -10140,7 +10139,7 @@
 <td>URS0000C766FD_1703358</td>
 <td><a href="https://rnacentral.org/rna/URS0000C766FD/1703358">RS</a></td>
 <td>0.8372</td>
-<td>20</td>
+<td>14</td>
 <td>0.9727</td>
 <td>-31.358</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/OXSM_0">=></a></td>
@@ -10152,7 +10151,7 @@
 <td>URS0000AB41B4_60481</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB41B4/60481">RS</a></td>
 <td>0.8867</td>
-<td>20</td>
+<td>13</td>
 <td>0.9579</td>
 <td>-62.789</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PA2G4">=></a></td>
@@ -10164,7 +10163,7 @@
 <td>URS0002318F8A_632245</td>
 <td><a href="https://rnacentral.org/rna/URS0002318F8A/632245">RS</a></td>
 <td>0.7615</td>
-<td>20</td>
+<td>2</td>
 <td>0.9517</td>
 <td>-79.219</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PACRGL">=></a></td>
@@ -10176,7 +10175,7 @@
 <td>URS00021EDCB7_12908</td>
 <td><a href="https://rnacentral.org/rna/URS00021EDCB7/12908">RS</a></td>
 <td>0.9074</td>
-<td>20</td>
+<td>16</td>
 <td>0.9915</td>
 <td>-11.504</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PADI4">=></a></td>
@@ -10188,7 +10187,7 @@
 <td>URS0000D8397A_1852522</td>
 <td><a href="https://rnacentral.org/rna/URS0000D8397A/1852522">RS</a></td>
 <td>0.8549</td>
-<td>20</td>
+<td>7</td>
 <td>0.9900</td>
 <td>-11.504</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PADI4_0">=></a></td>
@@ -10200,7 +10199,7 @@
 <td>URS0000D9CAC2_1797842</td>
 <td><a href="https://rnacentral.org/rna/URS0000D9CAC2/1797842">RS</a></td>
 <td>0.9595</td>
-<td>20</td>
+<td>19</td>
 <td>0.9643</td>
 <td>-45.155</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PAFAH1B2">=></a></td>
@@ -10224,7 +10223,7 @@
 <td>URS0000ABD0F6_36809</td>
 <td><a href="https://rnacentral.org/rna/URS0000ABD0F6/36809">RS</a></td>
 <td>0.8264</td>
-<td>20</td>
+<td>7</td>
 <td>0.9916</td>
 <td>-5.699</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PAK3">=></a></td>
@@ -10248,7 +10247,7 @@
 <td>URS0000C24F80_1263009</td>
 <td><a href="https://rnacentral.org/rna/URS0000C24F80/1263009">RS</a></td>
 <td>0.8641</td>
-<td>20</td>
+<td>9</td>
 <td>0.9820</td>
 <td>-22.759</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PAM_0">=></a></td>
@@ -10272,7 +10271,7 @@
 <td>URS00021EDED4_12908</td>
 <td><a href="https://rnacentral.org/rna/URS00021EDED4/12908">RS</a></td>
 <td>0.7042</td>
-<td>20</td>
+<td>1</td>
 <td>0.9818</td>
 <td>-27.772</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PARP2">=></a></td>
@@ -10284,7 +10283,7 @@
 <td>URS0000D7E37D_642227</td>
 <td><a href="https://rnacentral.org/rna/URS0000D7E37D/642227">RS</a></td>
 <td>0.8407</td>
-<td>20</td>
+<td>4</td>
 <td>0.9858</td>
 <td>-22.227</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PAX1">=></a></td>
@@ -10308,7 +10307,7 @@
 <td>URS0001A09FEF_2653125</td>
 <td><a href="https://rnacentral.org/rna/URS0001A09FEF/2653125">RS</a></td>
 <td>0.8863</td>
-<td>20</td>
+<td>12</td>
 <td>0.9561</td>
 <td>-34.832</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PBLD">=></a></td>
@@ -10320,7 +10319,7 @@
 <td>URS0000C1449F_587</td>
 <td><a href="https://rnacentral.org/rna/URS0000C1449F/587">RS</a></td>
 <td>0.8464</td>
-<td>20</td>
+<td>8</td>
 <td>0.9600</td>
 <td>-33.020</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PCBP3">=></a></td>
@@ -10332,7 +10331,7 @@
 <td>URS0000ABD72F_573061</td>
 <td><a href="https://rnacentral.org/rna/URS0000ABD72F/573061">RS</a></td>
 <td>0.7795</td>
-<td>20</td>
+<td>2</td>
 <td>0.9824</td>
 <td>-32.756</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PCCB">=></a></td>
@@ -10344,7 +10343,7 @@
 <td>URS0000C20A50_1017270</td>
 <td><a href="https://rnacentral.org/rna/URS0000C20A50/1017270">RS</a></td>
 <td>0.7417</td>
-<td>20</td>
+<td>2</td>
 <td>0.9548</td>
 <td>-36.834</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PCDH18">=></a></td>
@@ -10356,7 +10355,7 @@
 <td>URS0000E603B3_1895747</td>
 <td><a href="https://rnacentral.org/rna/URS0000E603B3/1895747">RS</a></td>
 <td>0.6501</td>
-<td>20</td>
+<td>1</td>
 <td>0.9859</td>
 <td>-11.449</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PCF11">=></a></td>
@@ -10368,7 +10367,7 @@
 <td>URS000231A63C_1802077</td>
 <td><a href="https://rnacentral.org/rna/URS000231A63C/1802077">RS</a></td>
 <td>0.7692</td>
-<td>20</td>
+<td>14</td>
 <td>0.9658</td>
 <td>-67.370</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PDAP1">=></a></td>
@@ -10380,7 +10379,7 @@
 <td>URS0000D862A1_1780379</td>
 <td><a href="https://rnacentral.org/rna/URS0000D862A1/1780379">RS</a></td>
 <td>0.8470</td>
-<td>20</td>
+<td>7</td>
 <td>0.9516</td>
 <td>-59.848</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PDE4B">=></a></td>
@@ -10392,7 +10391,7 @@
 <td>URS000232510C_66430</td>
 <td><a href="https://rnacentral.org/rna/URS000232510C/66430">RS</a></td>
 <td>0.8678</td>
-<td>20</td>
+<td>13</td>
 <td>0.9716</td>
 <td>-40.706</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PDE6B">=></a></td>
@@ -10404,7 +10403,7 @@
 <td>URS0000AB7199_525370</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB7199/525370">RS</a></td>
 <td>0.9225</td>
-<td>20</td>
+<td>17</td>
 <td>0.9762</td>
 <td>-35.956</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PDE6H">=></a></td>
@@ -10416,7 +10415,7 @@
 <td>URS0000C772E2_1734399</td>
 <td><a href="https://rnacentral.org/rna/URS0000C772E2/1734399">RS</a></td>
 <td>0.7525</td>
-<td>20</td>
+<td>1</td>
 <td>0.9834</td>
 <td>-33.316</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PDE9A">=></a></td>
@@ -10440,7 +10439,7 @@
 <td>URS0001E35C9E_2055160</td>
 <td><a href="https://rnacentral.org/rna/URS0001E35C9E/2055160">RS</a></td>
 <td>0.8687</td>
-<td>20</td>
+<td>12</td>
 <td>0.9883</td>
 <td>-15.494</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PDK2_0">=></a></td>
@@ -10452,7 +10451,7 @@
 <td>URS0000ABC2F7_658086</td>
 <td><a href="https://rnacentral.org/rna/URS0000ABC2F7/658086">RS</a></td>
 <td>0.8997</td>
-<td>20</td>
+<td>15</td>
 <td>0.9511</td>
 <td>-76.397</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PDK2_1">=></a></td>
@@ -10464,7 +10463,7 @@
 <td>URS0000C0CDC3_1619057</td>
 <td><a href="https://rnacentral.org/rna/URS0000C0CDC3/1619057">RS</a></td>
 <td>0.7836</td>
-<td>20</td>
+<td>1</td>
 <td>0.9681</td>
 <td>-46.090</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PDP2">=></a></td>
@@ -10476,7 +10475,7 @@
 <td>URS0000BBF1D6_1391910</td>
 <td><a href="https://rnacentral.org/rna/URS0000BBF1D6/1391910">RS</a></td>
 <td>0.8791</td>
-<td>20</td>
+<td>11</td>
 <td>0.9730</td>
 <td>-58.557</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PDRG1">=></a></td>
@@ -10488,7 +10487,7 @@
 <td>URS0000C46CD7_1690815</td>
 <td><a href="https://rnacentral.org/rna/URS0000C46CD7/1690815">RS</a></td>
 <td>0.8825</td>
-<td>20</td>
+<td>13</td>
 <td>0.9713</td>
 <td>-58.557</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PDRG1_0">=></a></td>
@@ -10500,7 +10499,7 @@
 <td>URS00019B0878_227605</td>
 <td><a href="https://rnacentral.org/rna/URS00019B0878/227605">RS</a></td>
 <td>0.8699</td>
-<td>20</td>
+<td>15</td>
 <td>0.9384</td>
 <td>-98.299</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PDS5A">=></a></td>
@@ -10512,7 +10511,7 @@
 <td>URS0000DF3BBE_44250</td>
 <td><a href="https://rnacentral.org/rna/URS0000DF3BBE/44250">RS</a></td>
 <td>0.7928</td>
-<td>20</td>
+<td>4</td>
 <td>0.9845</td>
 <td>-23.455</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PEMT">=></a></td>
@@ -10524,7 +10523,7 @@
 <td>URS000079623A_1473546</td>
 <td><a href="https://rnacentral.org/rna/URS000079623A/1473546">RS</a></td>
 <td>0.9576</td>
-<td>20</td>
+<td>19</td>
 <td>0.9810</td>
 <td>-55.748</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PEX1">=></a></td>
@@ -10536,7 +10535,7 @@
 <td>URS0000AB36B2_644966</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB36B2/644966">RS</a></td>
 <td>0.8079</td>
-<td>20</td>
+<td>3</td>
 <td>0.9755</td>
 <td>-40.928</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PEX11A">=></a></td>
@@ -10560,7 +10559,7 @@
 <td>URS00021EDFF8_12908</td>
 <td><a href="https://rnacentral.org/rna/URS00021EDFF8/12908">RS</a></td>
 <td>0.8052</td>
-<td>20</td>
+<td>4</td>
 <td>0.9918</td>
 <td>-16.229</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PEX19">=></a></td>
@@ -10572,7 +10571,7 @@
 <td>URS0000AB250A_343509</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB250A/343509">RS</a></td>
 <td>0.8418</td>
-<td>20</td>
+<td>6</td>
 <td>0.9769</td>
 <td>-45.965</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PFDN2">=></a></td>
@@ -10584,7 +10583,7 @@
 <td>URS000231C3D9_1797624</td>
 <td><a href="https://rnacentral.org/rna/URS000231C3D9/1797624">RS</a></td>
 <td>0.7730</td>
-<td>20</td>
+<td>3</td>
 <td>0.9660</td>
 <td>-39.256</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PHF19">=></a></td>
@@ -10608,7 +10607,7 @@
 <td>URS0000C667BE_1188252</td>
 <td><a href="https://rnacentral.org/rna/URS0000C667BE/1188252">RS</a></td>
 <td>0.8934</td>
-<td>20</td>
+<td>12</td>
 <td>0.9560</td>
 <td>-27.879</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PHF20">=></a></td>
@@ -10632,7 +10631,7 @@
 <td>URS0000D669D6_12908</td>
 <td><a href="https://rnacentral.org/rna/URS0000D669D6/12908">RS</a></td>
 <td>0.8854</td>
-<td>20</td>
+<td>14</td>
 <td>0.9842</td>
 <td>-21.715</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PHLDA2">=></a></td>
@@ -10692,7 +10691,7 @@
 <td>URS0000D9A353_1895901</td>
 <td><a href="https://rnacentral.org/rna/URS0000D9A353/1895901">RS</a></td>
 <td>0.5205</td>
-<td>20</td>
+<td>1</td>
 <td>0.9840</td>
 <td>-21.030</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PIGO">=></a></td>
@@ -10704,7 +10703,7 @@
 <td>URS0002317292_12908</td>
 <td><a href="https://rnacentral.org/rna/URS0002317292/12908">RS</a></td>
 <td>0.8256</td>
-<td>20</td>
+<td>10</td>
 <td>0.9856</td>
 <td>-20.437</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PIGW">=></a></td>
@@ -10716,7 +10715,7 @@
 <td>URS0000C56EEA_12908</td>
 <td><a href="https://rnacentral.org/rna/URS0000C56EEA/12908">RS</a></td>
 <td>0.8701</td>
-<td>20</td>
+<td>8</td>
 <td>0.9908</td>
 <td>-17.563</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PIK3C3">=></a></td>
@@ -10728,7 +10727,7 @@
 <td>URS0000D8770B_112248</td>
 <td><a href="https://rnacentral.org/rna/URS0000D8770B/112248">RS</a></td>
 <td>0.9008</td>
-<td>20</td>
+<td>15</td>
 <td>0.9765</td>
 <td>-32.032</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PITPNB">=></a></td>
@@ -10740,7 +10739,7 @@
 <td>URS0000D8A5FB_512402</td>
 <td><a href="https://rnacentral.org/rna/URS0000D8A5FB/512402">RS</a></td>
 <td>0.9113</td>
-<td>20</td>
+<td>16</td>
 <td>0.9852</td>
 <td>-33.113</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PKD2L2">=></a></td>
@@ -10752,7 +10751,7 @@
 <td>URS000231A1DE_1304903</td>
 <td><a href="https://rnacentral.org/rna/URS000231A1DE/1304903">RS</a></td>
 <td>0.8597</td>
-<td>20</td>
+<td>6</td>
 <td>0.9712</td>
 <td>-19.871</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PKN2">=></a></td>
@@ -10764,7 +10763,7 @@
 <td>URS0000BFCC1F_1811976</td>
 <td><a href="https://rnacentral.org/rna/URS0000BFCC1F/1811976">RS</a></td>
 <td>0.8334</td>
-<td>20</td>
+<td>3</td>
 <td>0.9824</td>
 <td>-38.941</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PKP3">=></a></td>
@@ -10788,7 +10787,7 @@
 <td>URS0000D81328_1797652</td>
 <td><a href="https://rnacentral.org/rna/URS0000D81328/1797652">RS</a></td>
 <td>0.7737</td>
-<td>20</td>
+<td>1</td>
 <td>0.9836</td>
 <td>-22.608</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PLCE1">=></a></td>
@@ -10800,7 +10799,7 @@
 <td>URS0000D831A0_1552</td>
 <td><a href="https://rnacentral.org/rna/URS0000D831A0/1552">RS</a></td>
 <td>0.9097</td>
-<td>20</td>
+<td>16</td>
 <td>0.9741</td>
 <td>-37.504</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PLEKHA2">=></a></td>
@@ -10812,7 +10811,7 @@
 <td>URS0000AB9143_1897050</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB9143/1897050">RS</a></td>
 <td>0.9335</td>
-<td>20</td>
+<td>17</td>
 <td>0.9811</td>
 <td>-19.007</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PLRG1">=></a></td>
@@ -10836,7 +10835,7 @@
 <td>URS0000AB83E5_212717</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB83E5/212717">RS</a></td>
 <td>0.8205</td>
-<td>20</td>
+<td>7</td>
 <td>0.9607</td>
 <td>-72.330</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PMEPA1">=></a></td>
@@ -10860,7 +10859,7 @@
 <td>URS0000DB05FD_1933868</td>
 <td><a href="https://rnacentral.org/rna/URS0000DB05FD/1933868">RS</a></td>
 <td>0.9639</td>
-<td>20</td>
+<td>19</td>
 <td>0.9901</td>
 <td>-11.178</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PMF1_0">=></a></td>
@@ -10872,7 +10871,7 @@
 <td>URS0000C7D418_12908</td>
 <td><a href="https://rnacentral.org/rna/URS0000C7D418/12908">RS</a></td>
 <td>0.8998</td>
-<td>20</td>
+<td>14</td>
 <td>0.9899</td>
 <td>-5.366</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PMF1_1">=></a></td>
@@ -10884,7 +10883,7 @@
 <td>URS0000E5FF47_1798573</td>
 <td><a href="https://rnacentral.org/rna/URS0000E5FF47/1798573">RS</a></td>
 <td>0.8011</td>
-<td>20</td>
+<td>1</td>
 <td>0.9890</td>
 <td>-2.514</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PMPCA">=></a></td>
@@ -10896,7 +10895,7 @@
 <td>URS0000C03E26_909626</td>
 <td><a href="https://rnacentral.org/rna/URS0000C03E26/909626">RS</a></td>
 <td>0.8210</td>
-<td>20</td>
+<td>10</td>
 <td>0.9713</td>
 <td>-28.518</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PMPCA_0">=></a></td>
@@ -10908,7 +10907,7 @@
 <td>URS0000ABAF41_435591</td>
 <td><a href="https://rnacentral.org/rna/URS0000ABAF41/435591">RS</a></td>
 <td>0.9207</td>
-<td>20</td>
+<td>19</td>
 <td>0.9766</td>
 <td>-28.418</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PNLIPRP1">=></a></td>
@@ -10920,7 +10919,7 @@
 <td>URS00022D4579_2845385</td>
 <td><a href="https://rnacentral.org/rna/URS00022D4579/2845385">RS</a></td>
 <td>0.9374</td>
-<td>20</td>
+<td>17</td>
 <td>0.9687</td>
 <td>-29.756</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PNPLA4">=></a></td>
@@ -10932,7 +10931,7 @@
 <td>URS0000C634C6_1581149</td>
 <td><a href="https://rnacentral.org/rna/URS0000C634C6/1581149">RS</a></td>
 <td>0.7957</td>
-<td>20</td>
+<td>1</td>
 <td>0.9765</td>
 <td>-49.167</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PNPLA5">=></a></td>
@@ -10968,7 +10967,7 @@
 <td>URS0000D7D1CB_1120996</td>
 <td><a href="https://rnacentral.org/rna/URS0000D7D1CB/1120996">RS</a></td>
 <td>0.8001</td>
-<td>20</td>
+<td>9</td>
 <td>0.9776</td>
 <td>-41.103</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PNPT1">=></a></td>
@@ -10980,7 +10979,7 @@
 <td>URS0000AB3D0E_261594</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB3D0E/261594">RS</a></td>
 <td>0.9256</td>
-<td>20</td>
+<td>18</td>
 <td>0.9904</td>
 <td>-8.657</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/POLA1">=></a></td>
@@ -10992,7 +10991,7 @@
 <td>URS0000D4552F_2756</td>
 <td><a href="https://rnacentral.org/rna/URS0000D4552F/2756">RS</a></td>
 <td>0.9453</td>
-<td>20</td>
+<td>19</td>
 <td>0.9779</td>
 <td>-22.941</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/POLE2">=></a></td>
@@ -11004,7 +11003,7 @@
 <td>URS0000AB4AC7_338963</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB4AC7/338963">RS</a></td>
 <td>0.8322</td>
-<td>20</td>
+<td>5</td>
 <td>0.9742</td>
 <td>-35.197</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/POLK">=></a></td>
@@ -11016,7 +11015,7 @@
 <td>URS0000D68C16_12908</td>
 <td><a href="https://rnacentral.org/rna/URS0000D68C16/12908">RS</a></td>
 <td>0.8149</td>
-<td>20</td>
+<td>4</td>
 <td>0.9911</td>
 <td>-7.637</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/POLK_0">=></a></td>
@@ -11028,7 +11027,7 @@
 <td>URS0000D8393B_58117</td>
 <td><a href="https://rnacentral.org/rna/URS0000D8393B/58117">RS</a></td>
 <td>0.8668</td>
-<td>20</td>
+<td>12</td>
 <td>0.9609</td>
 <td>-37.666</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/POLK_1">=></a></td>
@@ -11052,7 +11051,7 @@
 <td>URS0000CF3D90_1510460</td>
 <td><a href="https://rnacentral.org/rna/URS0000CF3D90/1510460">RS</a></td>
 <td>0.7802</td>
-<td>20</td>
+<td>5</td>
 <td>0.9361</td>
 <td>-70.911</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/POLR2C">=></a></td>
@@ -11064,7 +11063,7 @@
 <td>URS0000D7CEB6_1904967</td>
 <td><a href="https://rnacentral.org/rna/URS0000D7CEB6/1904967">RS</a></td>
 <td>0.8548</td>
-<td>20</td>
+<td>13</td>
 <td>0.9829</td>
 <td>-34.489</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/POLR3D">=></a></td>
@@ -11088,7 +11087,7 @@
 <td>URS0000C4206F_1384054</td>
 <td><a href="https://rnacentral.org/rna/URS0000C4206F/1384054">RS</a></td>
 <td>0.8953</td>
-<td>20</td>
+<td>14</td>
 <td>0.9840</td>
 <td>-24.326</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/POP7">=></a></td>
@@ -11100,7 +11099,7 @@
 <td>URS0000D842C4_1817838</td>
 <td><a href="https://rnacentral.org/rna/URS0000D842C4/1817838">RS</a></td>
 <td>0.9243</td>
-<td>20</td>
+<td>18</td>
 <td>0.9650</td>
 <td>-18.126</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PPARG">=></a></td>
@@ -11160,7 +11159,7 @@
 <td>URS0000C1E79A_1263001</td>
 <td><a href="https://rnacentral.org/rna/URS0000C1E79A/1263001">RS</a></td>
 <td>0.8966</td>
-<td>20</td>
+<td>17</td>
 <td>0.9546</td>
 <td>-31.933</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PPIA_1">=></a></td>
@@ -11208,7 +11207,7 @@
 <td>URS00021EDEAE_12908</td>
 <td><a href="https://rnacentral.org/rna/URS00021EDEAE/12908">RS</a></td>
 <td>0.8692</td>
-<td>20</td>
+<td>12</td>
 <td>0.9901</td>
 <td>-5.795</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PPM1B">=></a></td>
@@ -11220,7 +11219,7 @@
 <td>URS0002314BEB_67267</td>
 <td><a href="https://rnacentral.org/rna/URS0002314BEB/67267">RS</a></td>
 <td>0.7924</td>
-<td>20</td>
+<td>1</td>
 <td>0.9712</td>
 <td>-45.708</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PPME1">=></a></td>
@@ -11232,7 +11231,7 @@
 <td>URS0002327006_47885</td>
 <td><a href="https://rnacentral.org/rna/URS0002327006/47885">RS</a></td>
 <td>0.6843</td>
-<td>20</td>
+<td>2</td>
 <td>0.9601</td>
 <td>-75.182</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PPP1CC">=></a></td>
@@ -11244,7 +11243,7 @@
 <td>URS0000D8CD32_194197</td>
 <td><a href="https://rnacentral.org/rna/URS0000D8CD32/194197">RS</a></td>
 <td>0.9889</td>
-<td>20</td>
+<td>19</td>
 <td>0.9905</td>
 <td>-4.121</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PPP1R3F">=></a></td>
@@ -11256,7 +11255,7 @@
 <td>URS0000D83AA7_1471761</td>
 <td><a href="https://rnacentral.org/rna/URS0000D83AA7/1471761">RS</a></td>
 <td>0.8999</td>
-<td>20</td>
+<td>16</td>
 <td>0.9755</td>
 <td>-43.479</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PPP2R5D">=></a></td>
@@ -11268,7 +11267,7 @@
 <td>URS0000D95D55_411959</td>
 <td><a href="https://rnacentral.org/rna/URS0000D95D55/411959">RS</a></td>
 <td>0.9316</td>
-<td>20</td>
+<td>17</td>
 <td>0.9831</td>
 <td>-20.747</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PPWD1">=></a></td>
@@ -11280,7 +11279,7 @@
 <td>URS0000302F69_551936</td>
 <td><a href="https://rnacentral.org/rna/URS0000302F69/551936">RS</a></td>
 <td>0.8255</td>
-<td>20</td>
+<td>5</td>
 <td>0.9506</td>
 <td>-37.015</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PPWD1_0">=></a></td>
@@ -11292,7 +11291,7 @@
 <td>URS0000C1C63A_537288</td>
 <td><a href="https://rnacentral.org/rna/URS0000C1C63A/537288">RS</a></td>
 <td>0.9182</td>
-<td>20</td>
+<td>16</td>
 <td>0.9817</td>
 <td>-18.529</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PPWD1_1">=></a></td>
@@ -11304,7 +11303,7 @@
 <td>URS00021EDB05_1675527</td>
 <td><a href="https://rnacentral.org/rna/URS00021EDB05/1675527">RS</a></td>
 <td>0.8512</td>
-<td>20</td>
+<td>9</td>
 <td>0.9897</td>
 <td>-13.145</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PRAF2">=></a></td>
@@ -11364,7 +11363,7 @@
 <td>URS0000C854CA_1679168</td>
 <td><a href="https://rnacentral.org/rna/URS0000C854CA/1679168">RS</a></td>
 <td>0.9183</td>
-<td>20</td>
+<td>19</td>
 <td>0.9748</td>
 <td>-36.619</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PRIM1_1">=></a></td>
@@ -11376,7 +11375,7 @@
 <td>URS0000E5FCD4_249189</td>
 <td><a href="https://rnacentral.org/rna/URS0000E5FCD4/249189">RS</a></td>
 <td>0.8689</td>
-<td>20</td>
+<td>12</td>
 <td>0.9889</td>
 <td>-16.381</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PRKAR2B">=></a></td>
@@ -11388,7 +11387,7 @@
 <td>URS0000C4BC81_12908</td>
 <td><a href="https://rnacentral.org/rna/URS0000C4BC81/12908">RS</a></td>
 <td>0.7292</td>
-<td>20</td>
+<td>1</td>
 <td>0.9893</td>
 <td>-14.645</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PRKAR2B_0">=></a></td>
@@ -11400,7 +11399,7 @@
 <td>URS0000D994C7_83656</td>
 <td><a href="https://rnacentral.org/rna/URS0000D994C7/83656">RS</a></td>
 <td>0.8299</td>
-<td>20</td>
+<td>14</td>
 <td>0.9550</td>
 <td>-66.383</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PRKCZ">=></a></td>
@@ -11424,7 +11423,7 @@
 <td>URS00021EE18E_12908</td>
 <td><a href="https://rnacentral.org/rna/URS00021EE18E/12908">RS</a></td>
 <td>0.8068</td>
-<td>20</td>
+<td>6</td>
 <td>0.9903</td>
 <td>-12.145</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PROCA1">=></a></td>
@@ -11436,7 +11435,7 @@
 <td>URS0000AB9235_362948</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB9235/362948">RS</a></td>
 <td>0.8698</td>
-<td>20</td>
+<td>11</td>
 <td>0.9775</td>
 <td>-49.571</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PRRT1">=></a></td>
@@ -11448,7 +11447,7 @@
 <td>URS0000C7FA48_1848038</td>
 <td><a href="https://rnacentral.org/rna/URS0000C7FA48/1848038">RS</a></td>
 <td>0.8411</td>
-<td>20</td>
+<td>7</td>
 <td>0.9863</td>
 <td>-23.577</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PRRX1">=></a></td>
@@ -11496,7 +11495,7 @@
 <td>URS0000DAE6F0_1703929</td>
 <td><a href="https://rnacentral.org/rna/URS0000DAE6F0/1703929">RS</a></td>
 <td>0.8537</td>
-<td>20</td>
+<td>8</td>
 <td>0.9776</td>
 <td>-32.712</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PSMB1">=></a></td>
@@ -11508,7 +11507,7 @@
 <td>URS0000AB1CC6_762948</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB1CC6/762948">RS</a></td>
 <td>0.8987</td>
-<td>20</td>
+<td>14</td>
 <td>0.9713</td>
 <td>-35.491</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PSMB1_0">=></a></td>
@@ -11544,7 +11543,7 @@
 <td>URS0000C53EAD_1804984</td>
 <td><a href="https://rnacentral.org/rna/URS0000C53EAD/1804984">RS</a></td>
 <td>0.9006</td>
-<td>20</td>
+<td>16</td>
 <td>0.9672</td>
 <td>-34.263</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PSMB3_1">=></a></td>
@@ -11556,7 +11555,7 @@
 <td>URS0000E5FE9F_1736378</td>
 <td><a href="https://rnacentral.org/rna/URS0000E5FE9F/1736378">RS</a></td>
 <td>0.9146</td>
-<td>20</td>
+<td>19</td>
 <td>0.9928</td>
 <td>-16.685</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PSMB4">=></a></td>
@@ -11568,7 +11567,7 @@
 <td>URS0000C116C3_1915</td>
 <td><a href="https://rnacentral.org/rna/URS0000C116C3/1915">RS</a></td>
 <td>0.9553</td>
-<td>20</td>
+<td>19</td>
 <td>0.9820</td>
 <td>-22.631</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PSMC2">=></a></td>
@@ -11580,7 +11579,7 @@
 <td>URS000231DFC8_1801824</td>
 <td><a href="https://rnacentral.org/rna/URS000231DFC8/1801824">RS</a></td>
 <td>0.8820</td>
-<td>20</td>
+<td>15</td>
 <td>0.8959</td>
 <td>-77.690</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PSMC2_0">=></a></td>
@@ -11592,7 +11591,7 @@
 <td>URS00023167AC_1797572</td>
 <td><a href="https://rnacentral.org/rna/URS00023167AC/1797572">RS</a></td>
 <td>0.9217</td>
-<td>20</td>
+<td>15</td>
 <td>0.9357</td>
 <td>-67.008</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PSMC2_1">=></a></td>
@@ -11604,7 +11603,7 @@
 <td>URS0002335677_36874</td>
 <td><a href="https://rnacentral.org/rna/URS0002335677/36874">RS</a></td>
 <td>0.8224</td>
-<td>20</td>
+<td>8</td>
 <td>0.9284</td>
 <td>-33.164</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PSMC2_2">=></a></td>
@@ -11616,7 +11615,7 @@
 <td>URS000232612E_1110502</td>
 <td><a href="https://rnacentral.org/rna/URS000232612E/1110502">RS</a></td>
 <td>0.7134</td>
-<td>20</td>
+<td>15</td>
 <td>0.9045</td>
 <td>-85.300</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PSMC2_3">=></a></td>
@@ -11628,7 +11627,7 @@
 <td>URS000232CB11_1144342</td>
 <td><a href="https://rnacentral.org/rna/URS000232CB11/1144342">RS</a></td>
 <td>0.9613</td>
-<td>20</td>
+<td>18</td>
 <td>0.9039</td>
 <td>-94.525</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PSMC2_4">=></a></td>
@@ -11640,7 +11639,7 @@
 <td>URS000232A757_1532558</td>
 <td><a href="https://rnacentral.org/rna/URS000232A757/1532558">RS</a></td>
 <td>0.6934</td>
-<td>20</td>
+<td>11</td>
 <td>0.9096</td>
 <td>-85.261</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PSMC2_5">=></a></td>
@@ -11652,7 +11651,7 @@
 <td>URS0000D6591D_1156918</td>
 <td><a href="https://rnacentral.org/rna/URS0000D6591D/1156918">RS</a></td>
 <td>0.8099</td>
-<td>20</td>
+<td>2</td>
 <td>0.9880</td>
 <td>-13.567</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PSMC3IP">=></a></td>
@@ -11664,7 +11663,7 @@
 <td>URS00023276A2_1120975</td>
 <td><a href="https://rnacentral.org/rna/URS00023276A2/1120975">RS</a></td>
 <td>0.8156</td>
-<td>20</td>
+<td>1</td>
 <td>0.9541</td>
 <td>-63.545</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PSMC3IP_0">=></a></td>
@@ -11676,7 +11675,7 @@
 <td>URS0000DA5006_1797834</td>
 <td><a href="https://rnacentral.org/rna/URS0000DA5006/1797834">RS</a></td>
 <td>0.8264</td>
-<td>20</td>
+<td>2</td>
 <td>0.9728</td>
 <td>-40.075</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PSMD10">=></a></td>
@@ -11700,7 +11699,7 @@
 <td>URS0000C38DAD_1293054</td>
 <td><a href="https://rnacentral.org/rna/URS0000C38DAD/1293054">RS</a></td>
 <td>0.9122</td>
-<td>20</td>
+<td>16</td>
 <td>0.9810</td>
 <td>-31.021</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PSMD4">=></a></td>
@@ -11724,7 +11723,7 @@
 <td>URS0000BFBC27_1736592</td>
 <td><a href="https://rnacentral.org/rna/URS0000BFBC27/1736592">RS</a></td>
 <td>0.7853</td>
-<td>20</td>
+<td>2</td>
 <td>0.9874</td>
 <td>-12.737</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PSMD6_0">=></a></td>
@@ -11748,7 +11747,7 @@
 <td>URS0000AB2AFF_408172</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB2AFF/408172">RS</a></td>
 <td>0.8844</td>
-<td>20</td>
+<td>14</td>
 <td>0.9894</td>
 <td>-12.501</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PSMD6_2">=></a></td>
@@ -11760,7 +11759,7 @@
 <td>URS0002315077_1173020</td>
 <td><a href="https://rnacentral.org/rna/URS0002315077/1173020">RS</a></td>
 <td>0.7684</td>
-<td>20</td>
+<td>4</td>
 <td>0.9660</td>
 <td>-64.679</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PSMD7">=></a></td>
@@ -11772,7 +11771,7 @@
 <td>URS0000DAB0DC_1920421</td>
 <td><a href="https://rnacentral.org/rna/URS0000DAB0DC/1920421">RS</a></td>
 <td>0.8997</td>
-<td>20</td>
+<td>14</td>
 <td>0.9834</td>
 <td>-28.996</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PSMD8">=></a></td>
@@ -11784,7 +11783,7 @@
 <td>URS0000AB2F2C_545693</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB2F2C/545693">RS</a></td>
 <td>0.9302</td>
-<td>20</td>
+<td>19</td>
 <td>0.9813</td>
 <td>-40.637</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PSMD9">=></a></td>
@@ -11796,7 +11795,7 @@
 <td>URS00021EDA94_12908</td>
 <td><a href="https://rnacentral.org/rna/URS00021EDA94/12908">RS</a></td>
 <td>0.8751</td>
-<td>20</td>
+<td>12</td>
 <td>0.9900</td>
 <td>-15.702</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PTAR1">=></a></td>
@@ -11820,7 +11819,7 @@
 <td>URS00007DE4B6_1476857</td>
 <td><a href="https://rnacentral.org/rna/URS00007DE4B6/1476857">RS</a></td>
 <td>0.8344</td>
-<td>20</td>
+<td>1</td>
 <td>0.9736</td>
 <td>-19.504</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PTK2">=></a></td>
@@ -11832,7 +11831,7 @@
 <td>URS0000C07B12_1140001</td>
 <td><a href="https://rnacentral.org/rna/URS0000C07B12/1140001">RS</a></td>
 <td>0.7751</td>
-<td>20</td>
+<td>1</td>
 <td>0.9773</td>
 <td>-41.214</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PTMA">=></a></td>
@@ -11844,7 +11843,7 @@
 <td>URS0000DAF3B1_37921</td>
 <td><a href="https://rnacentral.org/rna/URS0000DAF3B1/37921">RS</a></td>
 <td>0.8925</td>
-<td>20</td>
+<td>14</td>
 <td>0.9737</td>
 <td>-34.331</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PTPN13">=></a></td>
@@ -11868,7 +11867,7 @@
 <td>URS0000C72F8F_1736361</td>
 <td><a href="https://rnacentral.org/rna/URS0000C72F8F/1736361">RS</a></td>
 <td>0.8151</td>
-<td>20</td>
+<td>7</td>
 <td>0.9760</td>
 <td>-15.730</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PTPN3_0">=></a></td>
@@ -11892,7 +11891,7 @@
 <td>URS0000DA5611_1834191</td>
 <td><a href="https://rnacentral.org/rna/URS0000DA5611/1834191">RS</a></td>
 <td>0.8234</td>
-<td>20</td>
+<td>5</td>
 <td>0.9820</td>
 <td>-16.356</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PTPRQ">=></a></td>
@@ -11904,7 +11903,7 @@
 <td>URS0000C4B02C_383855</td>
 <td><a href="https://rnacentral.org/rna/URS0000C4B02C/383855">RS</a></td>
 <td>0.8629</td>
-<td>20</td>
+<td>14</td>
 <td>0.9610</td>
 <td>-42.850</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PTRH2">=></a></td>
@@ -11916,7 +11915,7 @@
 <td>URS0000C36FC0_317619</td>
 <td><a href="https://rnacentral.org/rna/URS0000C36FC0/317619">RS</a></td>
 <td>0.7602</td>
-<td>20</td>
+<td>1</td>
 <td>0.9781</td>
 <td>-43.484</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PTS">=></a></td>
@@ -11940,7 +11939,7 @@
 <td>URS0000C29114_2045</td>
 <td><a href="https://rnacentral.org/rna/URS0000C29114/2045">RS</a></td>
 <td>0.8395</td>
-<td>20</td>
+<td>7</td>
 <td>0.9898</td>
 <td>-13.826</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PUS10_0">=></a></td>
@@ -11952,7 +11951,7 @@
 <td>URS000232D1B0_1592329</td>
 <td><a href="https://rnacentral.org/rna/URS000232D1B0/1592329">RS</a></td>
 <td>0.9342</td>
-<td>20</td>
+<td>18</td>
 <td>0.9880</td>
 <td>-9.788</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PUS10_1">=></a></td>
@@ -11964,7 +11963,7 @@
 <td>URS0000DB2136_1965562</td>
 <td><a href="https://rnacentral.org/rna/URS0000DB2136/1965562">RS</a></td>
 <td>0.9223</td>
-<td>20</td>
+<td>19</td>
 <td>0.9768</td>
 <td>-22.783</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PUS7L">=></a></td>
@@ -12000,7 +11999,7 @@
 <td>URS0002312D0D_242161</td>
 <td><a href="https://rnacentral.org/rna/URS0002312D0D/242161">RS</a></td>
 <td>0.9008</td>
-<td>20</td>
+<td>17</td>
 <td>0.9773</td>
 <td>-26.019</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/PUS7L_2">=></a></td>
@@ -12036,7 +12035,7 @@
 <td>URS0000C4B74D_1262983</td>
 <td><a href="https://rnacentral.org/rna/URS0000C4B74D/1262983">RS</a></td>
 <td>0.8134</td>
-<td>20</td>
+<td>9</td>
 <td>0.9831</td>
 <td>-11.554</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/QRICH1">=></a></td>
@@ -12048,7 +12047,7 @@
 <td>URS0000D92AB2_1817751</td>
 <td><a href="https://rnacentral.org/rna/URS0000D92AB2/1817751">RS</a></td>
 <td>0.6547</td>
-<td>20</td>
+<td>1</td>
 <td>0.9667</td>
 <td>-26.819</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/QRICH1_0">=></a></td>
@@ -12060,7 +12059,7 @@
 <td>URS0000AB7FF5_395965</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB7FF5/395965">RS</a></td>
 <td>0.7950</td>
-<td>20</td>
+<td>1</td>
 <td>0.9784</td>
 <td>-46.619</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/QSOX1">=></a></td>
@@ -12072,7 +12071,7 @@
 <td>URS00023142EF_1860085</td>
 <td><a href="https://rnacentral.org/rna/URS00023142EF/1860085">RS</a></td>
 <td>0.8703</td>
-<td>20</td>
+<td>10</td>
 <td>0.9764</td>
 <td>-60.357</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RAB11B">=></a></td>
@@ -12084,7 +12083,7 @@
 <td>URS0000BF46BD_1841653</td>
 <td><a href="https://rnacentral.org/rna/URS0000BF46BD/1841653">RS</a></td>
 <td>0.9390</td>
-<td>20</td>
+<td>19</td>
 <td>0.9891</td>
 <td>-7.925</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RAB14">=></a></td>
@@ -12096,7 +12095,7 @@
 <td>URS0000D79928_1797642</td>
 <td><a href="https://rnacentral.org/rna/URS0000D79928/1797642">RS</a></td>
 <td>0.8991</td>
-<td>20</td>
+<td>15</td>
 <td>0.9690</td>
 <td>-18.231</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RAB27A">=></a></td>
@@ -12108,7 +12107,7 @@
 <td>URS0000D8B08B_48256</td>
 <td><a href="https://rnacentral.org/rna/URS0000D8B08B/48256">RS</a></td>
 <td>0.8876</td>
-<td>20</td>
+<td>15</td>
 <td>0.9683</td>
 <td>-35.579</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RAB27B">=></a></td>
@@ -12120,7 +12119,7 @@
 <td>URS0000D9833C_1435342</td>
 <td><a href="https://rnacentral.org/rna/URS0000D9833C/1435342">RS</a></td>
 <td>0.6853</td>
-<td>20</td>
+<td>3</td>
 <td>0.9578</td>
 <td>-74.152</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RAB35">=></a></td>
@@ -12132,7 +12131,7 @@
 <td>URS0002325E02_1449350</td>
 <td><a href="https://rnacentral.org/rna/URS0002325E02/1449350">RS</a></td>
 <td>0.6856</td>
-<td>20</td>
+<td>1</td>
 <td>0.8921</td>
 <td>-75.625</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RAB35_0">=></a></td>
@@ -12144,7 +12143,7 @@
 <td>URS000231EC7C_1111071</td>
 <td><a href="https://rnacentral.org/rna/URS000231EC7C/1111071">RS</a></td>
 <td>0.9150</td>
-<td>20</td>
+<td>15</td>
 <td>0.9164</td>
 <td>-68.520</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RAB35_1">=></a></td>
@@ -12156,7 +12155,7 @@
 <td>URS0000D84409_326474</td>
 <td><a href="https://rnacentral.org/rna/URS0000D84409/326474">RS</a></td>
 <td>0.8414</td>
-<td>20</td>
+<td>3</td>
 <td>0.9645</td>
 <td>-30.518</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RAB38">=></a></td>
@@ -12168,7 +12167,7 @@
 <td>URS0000D9F3C0_1123282</td>
 <td><a href="https://rnacentral.org/rna/URS0000D9F3C0/1123282">RS</a></td>
 <td>0.8390</td>
-<td>20</td>
+<td>15</td>
 <td>0.9504</td>
 <td>-71.154</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RAB3A">=></a></td>
@@ -12180,7 +12179,7 @@
 <td>URS0000ABD02D_1316414</td>
 <td><a href="https://rnacentral.org/rna/URS0000ABD02D/1316414">RS</a></td>
 <td>0.7550</td>
-<td>20</td>
+<td>3</td>
 <td>0.9861</td>
 <td>-10.455</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RAB3GAP1">=></a></td>
@@ -12204,7 +12203,7 @@
 <td>URS0000D984C5_1797488</td>
 <td><a href="https://rnacentral.org/rna/URS0000D984C5/1797488">RS</a></td>
 <td>0.8364</td>
-<td>20</td>
+<td>7</td>
 <td>0.9857</td>
 <td>-20.503</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RAB41">=></a></td>
@@ -12216,7 +12215,7 @@
 <td>URS0000C2941F_698760</td>
 <td><a href="https://rnacentral.org/rna/URS0000C2941F/698760">RS</a></td>
 <td>0.8425</td>
-<td>20</td>
+<td>9</td>
 <td>0.9827</td>
 <td>-30.860</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RABGGTA">=></a></td>
@@ -12240,7 +12239,7 @@
 <td>URS0000C3B7AB_1163408</td>
 <td><a href="https://rnacentral.org/rna/URS0000C3B7AB/1163408">RS</a></td>
 <td>0.8725</td>
-<td>20</td>
+<td>10</td>
 <td>0.9761</td>
 <td>-31.996</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RACGAP1">=></a></td>
@@ -12252,7 +12251,7 @@
 <td>URS0000C62159_1774745</td>
 <td><a href="https://rnacentral.org/rna/URS0000C62159/1774745">RS</a></td>
 <td>0.8304</td>
-<td>20</td>
+<td>4</td>
 <td>0.9556</td>
 <td>-55.840</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RACGAP1_0">=></a></td>
@@ -12264,7 +12263,7 @@
 <td>URS0000D671CB_12908</td>
 <td><a href="https://rnacentral.org/rna/URS0000D671CB/12908">RS</a></td>
 <td>0.9414</td>
-<td>20</td>
+<td>18</td>
 <td>0.9853</td>
 <td>-10.380</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RAD17">=></a></td>
@@ -12276,7 +12275,7 @@
 <td>URS0000C76FA2_1400863</td>
 <td><a href="https://rnacentral.org/rna/URS0000C76FA2/1400863">RS</a></td>
 <td>0.9308</td>
-<td>20</td>
+<td>17</td>
 <td>0.9856</td>
 <td>-23.067</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RAD51">=></a></td>
@@ -12288,7 +12287,7 @@
 <td>URS0002328E91_475083</td>
 <td><a href="https://rnacentral.org/rna/URS0002328E91/475083">RS</a></td>
 <td>0.8322</td>
-<td>20</td>
+<td>15</td>
 <td>0.9486</td>
 <td>-49.914</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RAD51AP1">=></a></td>
@@ -12300,7 +12299,7 @@
 <td>URS0000C6C91C_1461752</td>
 <td><a href="https://rnacentral.org/rna/URS0000C6C91C/1461752">RS</a></td>
 <td>0.8331</td>
-<td>20</td>
+<td>4</td>
 <td>0.9606</td>
 <td>-48.135</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RAD9B">=></a></td>
@@ -12324,7 +12323,7 @@
 <td>URS00023246F5_1660094</td>
 <td><a href="https://rnacentral.org/rna/URS00023246F5/1660094">RS</a></td>
 <td>0.8750</td>
-<td>20</td>
+<td>12</td>
 <td>0.9680</td>
 <td>-32.940</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RAP1A">=></a></td>
@@ -12336,7 +12335,7 @@
 <td>URS0000C7E283_1246484</td>
 <td><a href="https://rnacentral.org/rna/URS0000C7E283/1246484">RS</a></td>
 <td>0.8809</td>
-<td>20</td>
+<td>14</td>
 <td>0.9880</td>
 <td>-16.481</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RARB">=></a></td>
@@ -12348,7 +12347,7 @@
 <td>URS0002211EF7_2822344</td>
 <td><a href="https://rnacentral.org/rna/URS0002211EF7/2822344">RS</a></td>
 <td>0.8881</td>
-<td>20</td>
+<td>12</td>
 <td>0.9822</td>
 <td>-35.124</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RARRES1">=></a></td>
@@ -12360,7 +12359,7 @@
 <td>URS0000C00384_312309</td>
 <td><a href="https://rnacentral.org/rna/URS0000C00384/312309">RS</a></td>
 <td>0.8932</td>
-<td>20</td>
+<td>14</td>
 <td>0.9908</td>
 <td>-10.050</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RASGRF1">=></a></td>
@@ -12372,7 +12371,7 @@
 <td>URS0000BE6DC5_574376</td>
 <td><a href="https://rnacentral.org/rna/URS0000BE6DC5/574376">RS</a></td>
 <td>0.9097</td>
-<td>20</td>
+<td>15</td>
 <td>0.9822</td>
 <td>-19.134</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RBBP5">=></a></td>
@@ -12384,7 +12383,7 @@
 <td>URS0000C5D262_34073</td>
 <td><a href="https://rnacentral.org/rna/URS0000C5D262/34073">RS</a></td>
 <td>0.9214</td>
-<td>20</td>
+<td>17</td>
 <td>0.9765</td>
 <td>-37.682</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RBM14">=></a></td>
@@ -12396,7 +12395,7 @@
 <td>URS0000DAED65_310780</td>
 <td><a href="https://rnacentral.org/rna/URS0000DAED65/310780">RS</a></td>
 <td>0.9209</td>
-<td>20</td>
+<td>18</td>
 <td>0.9706</td>
 <td>-45.668</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RBM18">=></a></td>
@@ -12408,7 +12407,7 @@
 <td>URS0000AB4D7E_526988</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB4D7E/526988">RS</a></td>
 <td>0.9256</td>
-<td>20</td>
+<td>17</td>
 <td>0.9766</td>
 <td>-32.169</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RBM19">=></a></td>
@@ -12420,7 +12419,7 @@
 <td>URS0000C3DC62_1423763</td>
 <td><a href="https://rnacentral.org/rna/URS0000C3DC62/1423763">RS</a></td>
 <td>0.7531</td>
-<td>20</td>
+<td>1</td>
 <td>0.9600</td>
 <td>-54.069</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RBM19_0">=></a></td>
@@ -12432,7 +12431,7 @@
 <td>URS0000C1C5C4_1335048</td>
 <td><a href="https://rnacentral.org/rna/URS0000C1C5C4/1335048">RS</a></td>
 <td>0.9178</td>
-<td>20</td>
+<td>18</td>
 <td>0.9902</td>
 <td>-5.801</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RBM26">=></a></td>
@@ -12444,7 +12443,7 @@
 <td>URS000232DB04_1802095</td>
 <td><a href="https://rnacentral.org/rna/URS000232DB04/1802095">RS</a></td>
 <td>0.8093</td>
-<td>20</td>
+<td>3</td>
 <td>0.9552</td>
 <td>-64.693</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RBM46">=></a></td>
@@ -12468,7 +12467,7 @@
 <td>URS00023159D8_1574263</td>
 <td><a href="https://rnacentral.org/rna/URS00023159D8/1574263">RS</a></td>
 <td>0.8491</td>
-<td>20</td>
+<td>4</td>
 <td>0.9585</td>
 <td>-59.264</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RBM5">=></a></td>
@@ -12480,7 +12479,7 @@
 <td>URS00021EDB73_12908</td>
 <td><a href="https://rnacentral.org/rna/URS00021EDB73/12908">RS</a></td>
 <td>0.8374</td>
-<td>20</td>
+<td>6</td>
 <td>0.9908</td>
 <td>-7.992</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RBM7">=></a></td>
@@ -12504,7 +12503,7 @@
 <td>URS0000AB63AC_717608</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB63AC/717608">RS</a></td>
 <td>0.5223</td>
-<td>20</td>
+<td>1</td>
 <td>0.9699</td>
 <td>-37.902</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RBM8A_0">=></a></td>
@@ -12528,7 +12527,7 @@
 <td>URS0000D98386_393303</td>
 <td><a href="https://rnacentral.org/rna/URS0000D98386/393303">RS</a></td>
 <td>0.7292</td>
-<td>20</td>
+<td>1</td>
 <td>0.9616</td>
 <td>-53.942</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RBMX">=></a></td>
@@ -12552,7 +12551,7 @@
 <td>URS0000D916B4_754417</td>
 <td><a href="https://rnacentral.org/rna/URS0000D916B4/754417">RS</a></td>
 <td>0.8727</td>
-<td>20</td>
+<td>10</td>
 <td>0.9692</td>
 <td>-36.329</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RBP1">=></a></td>
@@ -12576,7 +12575,7 @@
 <td>URS0000C13EF8_1686064</td>
 <td><a href="https://rnacentral.org/rna/URS0000C13EF8/1686064">RS</a></td>
 <td>0.9454</td>
-<td>20</td>
+<td>19</td>
 <td>0.9803</td>
 <td>-38.058</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RCL1">=></a></td>
@@ -12600,7 +12599,7 @@
 <td>URS0000D67501_349102</td>
 <td><a href="https://rnacentral.org/rna/URS0000D67501/349102">RS</a></td>
 <td>0.9420</td>
-<td>20</td>
+<td>19</td>
 <td>0.9875</td>
 <td>-13.119</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RELL1">=></a></td>
@@ -12612,7 +12611,7 @@
 <td>URS0002312A2D_1641811</td>
 <td><a href="https://rnacentral.org/rna/URS0002312A2D/1641811">RS</a></td>
 <td>0.7949</td>
-<td>20</td>
+<td>2</td>
 <td>0.9663</td>
 <td>-48.798</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RFC3">=></a></td>
@@ -12624,7 +12623,7 @@
 <td>URS0000D66C08_12908</td>
 <td><a href="https://rnacentral.org/rna/URS0000D66C08/12908">RS</a></td>
 <td>0.6819</td>
-<td>20</td>
+<td>3</td>
 <td>0.9883</td>
 <td>-4.485</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RFFL">=></a></td>
@@ -12636,7 +12635,7 @@
 <td>URS0000ABB0A7_944559</td>
 <td><a href="https://rnacentral.org/rna/URS0000ABB0A7/944559">RS</a></td>
 <td>0.8205</td>
-<td>20</td>
+<td>4</td>
 <td>0.9713</td>
 <td>-20.093</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RFX2">=></a></td>
@@ -12648,7 +12647,7 @@
 <td>URS0000C54A99_5601</td>
 <td><a href="https://rnacentral.org/rna/URS0000C54A99/5601">RS</a></td>
 <td>0.8004</td>
-<td>20</td>
+<td>1</td>
 <td>0.9619</td>
 <td>-66.180</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RGP1">=></a></td>
@@ -12660,7 +12659,7 @@
 <td>URS0000D82829_388950</td>
 <td><a href="https://rnacentral.org/rna/URS0000D82829/388950">RS</a></td>
 <td>0.6829</td>
-<td>20</td>
+<td>1</td>
 <td>0.9802</td>
 <td>-17.148</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RGS16">=></a></td>
@@ -12672,7 +12671,7 @@
 <td>URS000231F4D3_1759059</td>
 <td><a href="https://rnacentral.org/rna/URS000231F4D3/1759059">RS</a></td>
 <td>0.9050</td>
-<td>20</td>
+<td>12</td>
 <td>0.9633</td>
 <td>-46.917</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RGS20">=></a></td>
@@ -12684,7 +12683,7 @@
 <td>URS0000D97E04_326474</td>
 <td><a href="https://rnacentral.org/rna/URS0000D97E04/326474">RS</a></td>
 <td>0.8883</td>
-<td>20</td>
+<td>15</td>
 <td>0.9683</td>
 <td>-39.382</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RHBDD1">=></a></td>
@@ -12696,7 +12695,7 @@
 <td>URS0000AB4D64_640512</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB4D64/640512">RS</a></td>
 <td>0.8674</td>
-<td>20</td>
+<td>12</td>
 <td>0.9759</td>
 <td>-41.048</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RHBDD2">=></a></td>
@@ -12732,7 +12731,7 @@
 <td>URS0000BE2D79_1737066</td>
 <td><a href="https://rnacentral.org/rna/URS0000BE2D79/1737066">RS</a></td>
 <td>0.9219</td>
-<td>20</td>
+<td>15</td>
 <td>0.9758</td>
 <td>-28.084</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RIMKLB">=></a></td>
@@ -12744,7 +12743,7 @@
 <td>URS00021EDAF9_12908</td>
 <td><a href="https://rnacentral.org/rna/URS00021EDAF9/12908">RS</a></td>
 <td>0.9464</td>
-<td>20</td>
+<td>19</td>
 <td>0.9882</td>
 <td>-26.592</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RIPK4">=></a></td>
@@ -12756,7 +12755,7 @@
 <td>URS0000C3B12B_690567</td>
 <td><a href="https://rnacentral.org/rna/URS0000C3B12B/690567">RS</a></td>
 <td>0.8339</td>
-<td>20</td>
+<td>1</td>
 <td>0.9706</td>
 <td>-31.586</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RMND5A">=></a></td>
@@ -12768,7 +12767,7 @@
 <td>URS000231BDBB_1123012</td>
 <td><a href="https://rnacentral.org/rna/URS000231BDBB/1123012">RS</a></td>
 <td>0.8293</td>
-<td>20</td>
+<td>1</td>
 <td>0.9506</td>
 <td>-60.433</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RNF125">=></a></td>
@@ -12780,7 +12779,7 @@
 <td>URS0000BEE6DC_999552</td>
 <td><a href="https://rnacentral.org/rna/URS0000BEE6DC/999552">RS</a></td>
 <td>0.8483</td>
-<td>20</td>
+<td>8</td>
 <td>0.9869</td>
 <td>-23.886</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RNF14">=></a></td>
@@ -12792,7 +12791,7 @@
 <td>URS0000AB866C_484019</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB866C/484019">RS</a></td>
 <td>0.7867</td>
-<td>20</td>
+<td>1</td>
 <td>0.9562</td>
 <td>-69.332</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RNF141">=></a></td>
@@ -12804,7 +12803,7 @@
 <td>URS0000D7BFBC_393303</td>
 <td><a href="https://rnacentral.org/rna/URS0000D7BFBC/393303">RS</a></td>
 <td>0.9411</td>
-<td>20</td>
+<td>19</td>
 <td>0.9834</td>
 <td>-16.853</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RNF170">=></a></td>
@@ -12816,7 +12815,7 @@
 <td>URS0000D98620_1710701</td>
 <td><a href="https://rnacentral.org/rna/URS0000D98620/1710701">RS</a></td>
 <td>0.8991</td>
-<td>20</td>
+<td>15</td>
 <td>0.9846</td>
 <td>-25.767</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RNF181">=></a></td>
@@ -12828,7 +12827,7 @@
 <td>URS0000ABC4E6_228410</td>
 <td><a href="https://rnacentral.org/rna/URS0000ABC4E6/228410">RS</a></td>
 <td>0.8712</td>
-<td>20</td>
+<td>8</td>
 <td>0.9511</td>
 <td>-67.366</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RNF185">=></a></td>
@@ -12840,7 +12839,7 @@
 <td>URS0002319F7F_619805</td>
 <td><a href="https://rnacentral.org/rna/URS0002319F7F/619805">RS</a></td>
 <td>0.8787</td>
-<td>20</td>
+<td>15</td>
 <td>0.9592</td>
 <td>-38.710</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RNF32">=></a></td>
@@ -12852,7 +12851,7 @@
 <td>URS0000DAE2AB_1803475</td>
 <td><a href="https://rnacentral.org/rna/URS0000DAE2AB/1803475">RS</a></td>
 <td>0.9619</td>
-<td>20</td>
+<td>18</td>
 <td>0.9623</td>
 <td>-31.363</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RNF32_0">=></a></td>
@@ -12876,7 +12875,7 @@
 <td>URS0000D8A512_1956175</td>
 <td><a href="https://rnacentral.org/rna/URS0000D8A512/1956175">RS</a></td>
 <td>0.7648</td>
-<td>20</td>
+<td>1</td>
 <td>0.9666</td>
 <td>-42.387</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RNF5">=></a></td>
@@ -12888,7 +12887,7 @@
 <td>URS0000E418E2_195709</td>
 <td><a href="https://rnacentral.org/rna/URS0000E418E2/195709">RS</a></td>
 <td>0.7950</td>
-<td>20</td>
+<td>1</td>
 <td>0.9635</td>
 <td>-53.810</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RNF5_0">=></a></td>
@@ -12900,7 +12899,7 @@
 <td>URS0000C3363F_1736607</td>
 <td><a href="https://rnacentral.org/rna/URS0000C3363F/1736607">RS</a></td>
 <td>0.9161</td>
-<td>20</td>
+<td>16</td>
 <td>0.9878</td>
 <td>-20.176</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RNF5_1">=></a></td>
@@ -12912,7 +12911,7 @@
 <td>URS0000ABAA3C_342451</td>
 <td><a href="https://rnacentral.org/rna/URS0000ABAA3C/342451">RS</a></td>
 <td>0.8699</td>
-<td>20</td>
+<td>10</td>
 <td>0.9824</td>
 <td>-25.391</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RNGTT">=></a></td>
@@ -12924,7 +12923,7 @@
 <td>URS000232280F_1797347</td>
 <td><a href="https://rnacentral.org/rna/URS000232280F/1797347">RS</a></td>
 <td>0.8984</td>
-<td>20</td>
+<td>14</td>
 <td>0.9414</td>
 <td>-77.722</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RNH1">=></a></td>
@@ -12936,7 +12935,7 @@
 <td>URS0002322155_1848292</td>
 <td><a href="https://rnacentral.org/rna/URS0002322155/1848292">RS</a></td>
 <td>0.8822</td>
-<td>20</td>
+<td>14</td>
 <td>0.9409</td>
 <td>-77.722</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RNH1_0">=></a></td>
@@ -12948,7 +12947,7 @@
 <td>URS0002322155_1848292</td>
 <td><a href="https://rnacentral.org/rna/URS0002322155/1848292">RS</a></td>
 <td>0.8822</td>
-<td>20</td>
+<td>14</td>
 <td>0.9409</td>
 <td>-77.722</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RNH1_1">=></a></td>
@@ -12960,7 +12959,7 @@
 <td>URS0002322155_1848292</td>
 <td><a href="https://rnacentral.org/rna/URS0002322155/1848292">RS</a></td>
 <td>0.8822</td>
-<td>20</td>
+<td>14</td>
 <td>0.9409</td>
 <td>-77.722</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RNH1_2">=></a></td>
@@ -13008,7 +13007,7 @@
 <td>URS0000D9B079_93064</td>
 <td><a href="https://rnacentral.org/rna/URS0000D9B079/93064">RS</a></td>
 <td>0.8951</td>
-<td>20</td>
+<td>16</td>
 <td>0.9881</td>
 <td>-14.135</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RORB">=></a></td>
@@ -13032,7 +13031,7 @@
 <td>URS0000B51248_1470561</td>
 <td><a href="https://rnacentral.org/rna/URS0000B51248/1470561">RS</a></td>
 <td>0.6981</td>
-<td>20</td>
+<td>1</td>
 <td>0.9887</td>
 <td>-20.629</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RPL10">=></a></td>
@@ -13068,7 +13067,7 @@
 <td>URS0000C52541_1262943</td>
 <td><a href="https://rnacentral.org/rna/URS0000C52541/1262943">RS</a></td>
 <td>0.9027</td>
-<td>20</td>
+<td>15</td>
 <td>0.9667</td>
 <td>-49.330</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RPL12_0">=></a></td>
@@ -13080,7 +13079,7 @@
 <td>URS0000AB7596_339671</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB7596/339671">RS</a></td>
 <td>0.8495</td>
-<td>20</td>
+<td>15</td>
 <td>0.9928</td>
 <td>-6.395</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RPL13A">=></a></td>
@@ -13092,7 +13091,7 @@
 <td>URS000232D614_479437</td>
 <td><a href="https://rnacentral.org/rna/URS000232D614/479437">RS</a></td>
 <td>0.8691</td>
-<td>20</td>
+<td>12</td>
 <td>0.9742</td>
 <td>-18.750</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RPL13A_0">=></a></td>
@@ -13104,7 +13103,7 @@
 <td>URS0000C7DDBA_1131730</td>
 <td><a href="https://rnacentral.org/rna/URS0000C7DDBA/1131730">RS</a></td>
 <td>0.8408</td>
-<td>20</td>
+<td>12</td>
 <td>0.9778</td>
 <td>-21.657</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RPL17">=></a></td>
@@ -13116,7 +13115,7 @@
 <td>URS0000AB8A62_697284</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB8A62/697284">RS</a></td>
 <td>0.7831</td>
-<td>20</td>
+<td>1</td>
 <td>0.9721</td>
 <td>-27.175</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RPL17_0">=></a></td>
@@ -13128,7 +13127,7 @@
 <td>URS0000E5FAC1_1007105</td>
 <td><a href="https://rnacentral.org/rna/URS0000E5FAC1/1007105">RS</a></td>
 <td>0.8566</td>
-<td>20</td>
+<td>15</td>
 <td>0.9895</td>
 <td>-18.230</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RPL18A">=></a></td>
@@ -13140,7 +13139,7 @@
 <td>URS0000D65953_12908</td>
 <td><a href="https://rnacentral.org/rna/URS0000D65953/12908">RS</a></td>
 <td>0.7956</td>
-<td>20</td>
+<td>1</td>
 <td>0.9896</td>
 <td>-12.531</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RPL18A_0">=></a></td>
@@ -13164,7 +13163,7 @@
 <td>URS0000C3848A_1262828</td>
 <td><a href="https://rnacentral.org/rna/URS0000C3848A/1262828">RS</a></td>
 <td>0.9264</td>
-<td>20</td>
+<td>19</td>
 <td>0.9717</td>
 <td>-28.300</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RPL21_0">=></a></td>
@@ -13176,7 +13175,7 @@
 <td>URS00007C13B6_224308</td>
 <td><a href="https://rnacentral.org/rna/URS00007C13B6/224308">RS</a></td>
 <td>0.9059</td>
-<td>20</td>
+<td>15</td>
 <td>0.9780</td>
 <td>-33.393</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RPL22L1">=></a></td>
@@ -13188,7 +13187,7 @@
 <td>URS0000D97515_252474</td>
 <td><a href="https://rnacentral.org/rna/URS0000D97515/252474">RS</a></td>
 <td>0.8073</td>
-<td>20</td>
+<td>2</td>
 <td>0.9711</td>
 <td>-32.125</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RPL23">=></a></td>
@@ -13200,7 +13199,7 @@
 <td>URS0000C5F323_864069</td>
 <td><a href="https://rnacentral.org/rna/URS0000C5F323/864069">RS</a></td>
 <td>0.9154</td>
-<td>20</td>
+<td>19</td>
 <td>0.9744</td>
 <td>-27.699</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RPL26">=></a></td>
@@ -13224,7 +13223,7 @@
 <td>URS0000AB3ECC_747682</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB3ECC/747682">RS</a></td>
 <td>0.8692</td>
-<td>20</td>
+<td>10</td>
 <td>0.9748</td>
 <td>-32.382</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RPL26L1_0">=></a></td>
@@ -13236,7 +13235,7 @@
 <td>URS0000DB065E_679318</td>
 <td><a href="https://rnacentral.org/rna/URS0000DB065E/679318">RS</a></td>
 <td>0.9434</td>
-<td>20</td>
+<td>19</td>
 <td>0.9849</td>
 <td>-23.866</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RPL26L1_1">=></a></td>
@@ -13248,7 +13247,7 @@
 <td>URS0000AB5C09_526988</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB5C09/526988">RS</a></td>
 <td>0.8379</td>
-<td>20</td>
+<td>6</td>
 <td>0.9680</td>
 <td>-57.947</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RPL29">=></a></td>
@@ -13260,7 +13259,7 @@
 <td>URS0000D80EDD_1802007</td>
 <td><a href="https://rnacentral.org/rna/URS0000D80EDD/1802007">RS</a></td>
 <td>0.9130</td>
-<td>20</td>
+<td>16</td>
 <td>0.9812</td>
 <td>-35.322</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RPL29_0">=></a></td>
@@ -13284,7 +13283,7 @@
 <td>URS0000AB7DBC_339671</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB7DBC/339671">RS</a></td>
 <td>0.8919</td>
-<td>20</td>
+<td>14</td>
 <td>0.9730</td>
 <td>-33.167</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RPL36AL">=></a></td>
@@ -13344,7 +13343,7 @@
 <td>URS0000C199C5_1263005</td>
 <td><a href="https://rnacentral.org/rna/URS0000C199C5/1263005">RS</a></td>
 <td>0.7358</td>
-<td>20</td>
+<td>3</td>
 <td>0.9840</td>
 <td>-25.647</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RPS15">=></a></td>
@@ -13356,7 +13355,7 @@
 <td>URS0000AB4D5F_1423807</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB4D5F/1423807">RS</a></td>
 <td>0.8728</td>
-<td>20</td>
+<td>11</td>
 <td>0.9881</td>
 <td>-12.479</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RPS2">=></a></td>
@@ -13368,7 +13367,7 @@
 <td>URS0000AB810A_443255</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB810A/443255">RS</a></td>
 <td>0.8954</td>
-<td>20</td>
+<td>15</td>
 <td>0.9664</td>
 <td>-49.002</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RPS20">=></a></td>
@@ -13404,7 +13403,7 @@
 <td>URS000082A36B_1608583</td>
 <td><a href="https://rnacentral.org/rna/URS000082A36B/1608583">RS</a></td>
 <td>0.9223</td>
-<td>20</td>
+<td>16</td>
 <td>0.9847</td>
 <td>-24.946</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RPS25">=></a></td>
@@ -13428,7 +13427,7 @@
 <td>URS0000C4D4F7_12908</td>
 <td><a href="https://rnacentral.org/rna/URS0000C4D4F7/12908">RS</a></td>
 <td>0.8707</td>
-<td>20</td>
+<td>11</td>
 <td>0.9719</td>
 <td>-22.084</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RPS27A">=></a></td>
@@ -13440,7 +13439,7 @@
 <td>URS0000C5DFF7_1641402</td>
 <td><a href="https://rnacentral.org/rna/URS0000C5DFF7/1641402">RS</a></td>
 <td>0.8115</td>
-<td>20</td>
+<td>6</td>
 <td>0.9684</td>
 <td>-25.737</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RPS4Y1">=></a></td>
@@ -13452,7 +13451,7 @@
 <td>URS0000AB46F4_1739409</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB46F4/1739409">RS</a></td>
 <td>0.9471</td>
-<td>20</td>
+<td>19</td>
 <td>0.9756</td>
 <td>-29.760</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RPS4Y2">=></a></td>
@@ -13464,7 +13463,7 @@
 <td>URS000231EA11_195088</td>
 <td><a href="https://rnacentral.org/rna/URS000231EA11/195088">RS</a></td>
 <td>0.8576</td>
-<td>20</td>
+<td>7</td>
 <td>0.9558</td>
 <td>-62.671</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RPS8">=></a></td>
@@ -13476,7 +13475,7 @@
 <td>URS0000AB88F3_340099</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB88F3/340099">RS</a></td>
 <td>0.7831</td>
-<td>20</td>
+<td>2</td>
 <td>0.9787</td>
 <td>-29.154</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RPSA">=></a></td>
@@ -13488,7 +13487,7 @@
 <td>URS0000AB2CC9_298653</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB2CC9/298653">RS</a></td>
 <td>0.9300</td>
-<td>20</td>
+<td>19</td>
 <td>0.9702</td>
 <td>-36.501</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RPSA_0">=></a></td>
@@ -13500,7 +13499,7 @@
 <td>URS0000E60758_401562</td>
 <td><a href="https://rnacentral.org/rna/URS0000E60758/401562">RS</a></td>
 <td>0.8878</td>
-<td>20</td>
+<td>13</td>
 <td>0.9892</td>
 <td>-8.808</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RPSA_1">=></a></td>
@@ -13512,7 +13511,7 @@
 <td>URS0000C61564_12908</td>
 <td><a href="https://rnacentral.org/rna/URS0000C61564/12908">RS</a></td>
 <td>0.9197</td>
-<td>20</td>
+<td>16</td>
 <td>0.9868</td>
 <td>-2.515</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RPUSD3">=></a></td>
@@ -13548,7 +13547,7 @@
 <td>URS0000D67B65_12908</td>
 <td><a href="https://rnacentral.org/rna/URS0000D67B65/12908">RS</a></td>
 <td>0.9149</td>
-<td>20</td>
+<td>16</td>
 <td>0.9834</td>
 <td>-17.161</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RSBN1L">=></a></td>
@@ -13560,7 +13559,7 @@
 <td>URS0000C64332_12908</td>
 <td><a href="https://rnacentral.org/rna/URS0000C64332/12908">RS</a></td>
 <td>0.7676</td>
-<td>20</td>
+<td>1</td>
 <td>0.9886</td>
 <td>-7.225</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RSBN1L_0">=></a></td>
@@ -13584,7 +13583,7 @@
 <td>URS0002323E56_1629334</td>
 <td><a href="https://rnacentral.org/rna/URS0002323E56/1629334">RS</a></td>
 <td>0.9570</td>
-<td>20</td>
+<td>19</td>
 <td>0.9489</td>
 <td>-67.616</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RSL24D1_0">=></a></td>
@@ -13620,7 +13619,7 @@
 <td>URS0000C80B51_1617414</td>
 <td><a href="https://rnacentral.org/rna/URS0000C80B51/1617414">RS</a></td>
 <td>0.7594</td>
-<td>20</td>
+<td>8</td>
 <td>0.9546</td>
 <td>-61.963</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RSRC1_1">=></a></td>
@@ -13644,7 +13643,7 @@
 <td>URS0000BEAD8A_309801</td>
 <td><a href="https://rnacentral.org/rna/URS0000BEAD8A/309801">RS</a></td>
 <td>0.7957</td>
-<td>20</td>
+<td>1</td>
 <td>0.9864</td>
 <td>-26.635</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RTBDN">=></a></td>
@@ -13668,7 +13667,7 @@
 <td>URS0000C1227D_1208323</td>
 <td><a href="https://rnacentral.org/rna/URS0000C1227D/1208323">RS</a></td>
 <td>0.9569</td>
-<td>20</td>
+<td>19</td>
 <td>0.9896</td>
 <td>-7.384</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RUVBL2_0">=></a></td>
@@ -13680,7 +13679,7 @@
 <td>URS0000C786CB_407035</td>
 <td><a href="https://rnacentral.org/rna/URS0000C786CB/407035">RS</a></td>
 <td>0.9085</td>
-<td>20</td>
+<td>16</td>
 <td>0.9908</td>
 <td>-7.384</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RUVBL2_1">=></a></td>
@@ -13704,7 +13703,7 @@
 <td>URS000232007D_1802503</td>
 <td><a href="https://rnacentral.org/rna/URS000232007D/1802503">RS</a></td>
 <td>0.7725</td>
-<td>20</td>
+<td>3</td>
 <td>0.9862</td>
 <td>-19.076</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/RXRB">=></a></td>
@@ -13716,7 +13715,7 @@
 <td>URS0000D9FBE6_1801840</td>
 <td><a href="https://rnacentral.org/rna/URS0000D9FBE6/1801840">RS</a></td>
 <td>0.7832</td>
-<td>20</td>
+<td>6</td>
 <td>0.9849</td>
 <td>-23.054</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SAAL1">=></a></td>
@@ -13728,7 +13727,7 @@
 <td>URS0000D9784A_999627</td>
 <td><a href="https://rnacentral.org/rna/URS0000D9784A/999627">RS</a></td>
 <td>0.9542</td>
-<td>20</td>
+<td>18</td>
 <td>0.9867</td>
 <td>-5.171</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SAAL1_0">=></a></td>
@@ -13740,7 +13739,7 @@
 <td>URS0000D7E111_29354</td>
 <td><a href="https://rnacentral.org/rna/URS0000D7E111/29354">RS</a></td>
 <td>0.8398</td>
-<td>20</td>
+<td>3</td>
 <td>0.9742</td>
 <td>-50.602</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SAFB2">=></a></td>
@@ -13752,7 +13751,7 @@
 <td>URS0000C7B9C3_1288970</td>
 <td><a href="https://rnacentral.org/rna/URS0000C7B9C3/1288970">RS</a></td>
 <td>0.7777</td>
-<td>20</td>
+<td>1</td>
 <td>0.9764</td>
 <td>-43.658</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SALL4">=></a></td>
@@ -13764,7 +13763,7 @@
 <td>URS0000ED7292_1263854</td>
 <td><a href="https://rnacentral.org/rna/URS0000ED7292/1263854">RS</a></td>
 <td>0.9081</td>
-<td>20</td>
+<td>16</td>
 <td>0.9774</td>
 <td>-35.393</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SAMD11">=></a></td>
@@ -13776,7 +13775,7 @@
 <td>URS0000DB19E5_1801818</td>
 <td><a href="https://rnacentral.org/rna/URS0000DB19E5/1801818">RS</a></td>
 <td>0.9302</td>
-<td>20</td>
+<td>19</td>
 <td>0.9704</td>
 <td>-24.134</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SAMD13">=></a></td>
@@ -13800,7 +13799,7 @@
 <td>URS0000BE28ED_1399146</td>
 <td><a href="https://rnacentral.org/rna/URS0000BE28ED/1399146">RS</a></td>
 <td>0.8110</td>
-<td>20</td>
+<td>11</td>
 <td>0.9661</td>
 <td>-65.169</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SAMD8">=></a></td>
@@ -13812,7 +13811,7 @@
 <td>URS0000D7F221_1313296</td>
 <td><a href="https://rnacentral.org/rna/URS0000D7F221/1313296">RS</a></td>
 <td>0.9308</td>
-<td>20</td>
+<td>19</td>
 <td>0.9624</td>
 <td>-31.280</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SAR1A">=></a></td>
@@ -13836,7 +13835,7 @@
 <td>URS0000ABD306_1609975</td>
 <td><a href="https://rnacentral.org/rna/URS0000ABD306/1609975">RS</a></td>
 <td>0.7287</td>
-<td>20</td>
+<td>1</td>
 <td>0.9538</td>
 <td>-54.493</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SAT1">=></a></td>
@@ -13848,7 +13847,7 @@
 <td>URS0000C6901E_1536773</td>
 <td><a href="https://rnacentral.org/rna/URS0000C6901E/1536773">RS</a></td>
 <td>0.8120</td>
-<td>20</td>
+<td>9</td>
 <td>0.9467</td>
 <td>-36.489</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SAT1_0">=></a></td>
@@ -13872,7 +13871,7 @@
 <td>URS000231BDE1_96561</td>
 <td><a href="https://rnacentral.org/rna/URS000231BDE1/96561">RS</a></td>
 <td>0.9525</td>
-<td>20</td>
+<td>19</td>
 <td>0.9473</td>
 <td>-40.891</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SCFD1">=></a></td>
@@ -13884,7 +13883,7 @@
 <td>URS0000C68398_1230342</td>
 <td><a href="https://rnacentral.org/rna/URS0000C68398/1230342">RS</a></td>
 <td>0.7846</td>
-<td>20</td>
+<td>3</td>
 <td>0.9845</td>
 <td>-19.799</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SCHIP1">=></a></td>
@@ -13896,7 +13895,7 @@
 <td>URS0000AB33E3_12908</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB33E3/12908">RS</a></td>
 <td>0.8659</td>
-<td>20</td>
+<td>9</td>
 <td>0.9819</td>
 <td>-33.278</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SCIN">=></a></td>
@@ -13908,7 +13907,7 @@
 <td>URS0000ABA8A4_873447</td>
 <td><a href="https://rnacentral.org/rna/URS0000ABA8A4/873447">RS</a></td>
 <td>0.9160</td>
-<td>20</td>
+<td>16</td>
 <td>0.9857</td>
 <td>-30.235</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SCO1">=></a></td>
@@ -13920,7 +13919,7 @@
 <td>URS0000DA275D_1798253</td>
 <td><a href="https://rnacentral.org/rna/URS0000DA275D/1798253">RS</a></td>
 <td>0.8803</td>
-<td>20</td>
+<td>16</td>
 <td>0.9893</td>
 <td>-10.542</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SCOC">=></a></td>
@@ -13932,7 +13931,7 @@
 <td>URS000232EAE7_165597</td>
 <td><a href="https://rnacentral.org/rna/URS000232EAE7/165597">RS</a></td>
 <td>0.8438</td>
-<td>20</td>
+<td>4</td>
 <td>0.9627</td>
 <td>-45.750</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SCRN1">=></a></td>
@@ -13944,7 +13943,7 @@
 <td>URS0000C34588_1402860</td>
 <td><a href="https://rnacentral.org/rna/URS0000C34588/1402860">RS</a></td>
 <td>0.8070</td>
-<td>20</td>
+<td>5</td>
 <td>0.9784</td>
 <td>-37.082</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SCUBE2">=></a></td>
@@ -13956,7 +13955,7 @@
 <td>URS0000C3FC19_74031</td>
 <td><a href="https://rnacentral.org/rna/URS0000C3FC19/74031">RS</a></td>
 <td>0.8230</td>
-<td>20</td>
+<td>6</td>
 <td>0.9785</td>
 <td>-29.027</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SCUBE2_0">=></a></td>
@@ -13980,7 +13979,7 @@
 <td>URS0000DA403C_1945884</td>
 <td><a href="https://rnacentral.org/rna/URS0000DA403C/1945884">RS</a></td>
 <td>0.8917</td>
-<td>20</td>
+<td>15</td>
 <td>0.9643</td>
 <td>-43.265</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SDAD1">=></a></td>
@@ -13992,7 +13991,7 @@
 <td>URS00003085CF_224308</td>
 <td><a href="https://rnacentral.org/rna/URS00003085CF/224308">RS</a></td>
 <td>0.8973</td>
-<td>20</td>
+<td>15</td>
 <td>0.9819</td>
 <td>-30.287</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SEC14L2">=></a></td>
@@ -14004,7 +14003,7 @@
 <td>URS00003085CF_224308</td>
 <td><a href="https://rnacentral.org/rna/URS00003085CF/224308">RS</a></td>
 <td>0.8973</td>
-<td>20</td>
+<td>15</td>
 <td>0.9819</td>
 <td>-30.287</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SEC14L2_0">=></a></td>
@@ -14016,7 +14015,7 @@
 <td>URS0000AB7E92_525246</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB7E92/525246">RS</a></td>
 <td>0.7077</td>
-<td>20</td>
+<td>1</td>
 <td>0.9834</td>
 <td>-22.464</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SEC16A">=></a></td>
@@ -14064,7 +14063,7 @@
 <td>URS0002316E77_1895817</td>
 <td><a href="https://rnacentral.org/rna/URS0002316E77/1895817">RS</a></td>
 <td>0.8807</td>
-<td>20</td>
+<td>14</td>
 <td>0.9546</td>
 <td>-44.335</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SEC24C_0">=></a></td>
@@ -14100,7 +14099,7 @@
 <td>URS0000D85203_1797568</td>
 <td><a href="https://rnacentral.org/rna/URS0000D85203/1797568">RS</a></td>
 <td>0.9107</td>
-<td>20</td>
+<td>16</td>
 <td>0.9845</td>
 <td>-28.797</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SEL1L">=></a></td>
@@ -14112,7 +14111,7 @@
 <td>URS0000AB3435_351016</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB3435/351016">RS</a></td>
 <td>0.8548</td>
-<td>20</td>
+<td>8</td>
 <td>0.9867</td>
 <td>-28.555</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SENP2">=></a></td>
@@ -14124,7 +14123,7 @@
 <td>URS00021EDF64_12908</td>
 <td><a href="https://rnacentral.org/rna/URS00021EDF64/12908">RS</a></td>
 <td>0.8105</td>
-<td>20</td>
+<td>3</td>
 <td>0.9833</td>
 <td>-16.335</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SENP2_0">=></a></td>
@@ -14148,7 +14147,7 @@
 <td>URS000231BB85_337701</td>
 <td><a href="https://rnacentral.org/rna/URS000231BB85/337701">RS</a></td>
 <td>0.8436</td>
-<td>20</td>
+<td>2</td>
 <td>0.9346</td>
 <td>-62.701</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SERINC4">=></a></td>
@@ -14160,7 +14159,7 @@
 <td>URS0000E60938_121719</td>
 <td><a href="https://rnacentral.org/rna/URS0000E60938/121719">RS</a></td>
 <td>0.7724</td>
-<td>20</td>
+<td>3</td>
 <td>0.9920</td>
 <td>-8.250</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SERPINB13">=></a></td>
@@ -14172,7 +14171,7 @@
 <td>URS0000C7A7E1_1705566</td>
 <td><a href="https://rnacentral.org/rna/URS0000C7A7E1/1705566">RS</a></td>
 <td>0.9243</td>
-<td>20</td>
+<td>16</td>
 <td>0.9774</td>
 <td>-35.778</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SERPINB6">=></a></td>
@@ -14184,7 +14183,7 @@
 <td>URS0000C344D8_12908</td>
 <td><a href="https://rnacentral.org/rna/URS0000C344D8/12908">RS</a></td>
 <td>0.9315</td>
-<td>20</td>
+<td>18</td>
 <td>0.9925</td>
 <td>-9.669</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SERTAD2">=></a></td>
@@ -14196,7 +14195,7 @@
 <td>URS0000AB1ADC_717608</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB1ADC/717608">RS</a></td>
 <td>0.7084</td>
-<td>20</td>
+<td>1</td>
 <td>0.9628</td>
 <td>-43.699</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SETD3">=></a></td>
@@ -14208,7 +14207,7 @@
 <td>URS0000D7E495_1798575</td>
 <td><a href="https://rnacentral.org/rna/URS0000D7E495/1798575">RS</a></td>
 <td>0.8229</td>
-<td>20</td>
+<td>2</td>
 <td>0.9681</td>
 <td>-45.188</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SETDB1">=></a></td>
@@ -14220,7 +14219,7 @@
 <td>URS000232EDC3_37332</td>
 <td><a href="https://rnacentral.org/rna/URS000232EDC3/37332">RS</a></td>
 <td>0.8919</td>
-<td>20</td>
+<td>13</td>
 <td>0.9626</td>
 <td>-35.212</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SGCE">=></a></td>
@@ -14232,7 +14231,7 @@
 <td>URS0000B70A93_1183424</td>
 <td><a href="https://rnacentral.org/rna/URS0000B70A93/1183424">RS</a></td>
 <td>0.7266</td>
-<td>20</td>
+<td>1</td>
 <td>0.9751</td>
 <td>-27.636</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SGCE_0">=></a></td>
@@ -14244,7 +14243,7 @@
 <td>URS0000C2B17C_872965</td>
 <td><a href="https://rnacentral.org/rna/URS0000C2B17C/872965">RS</a></td>
 <td>0.8888</td>
-<td>20</td>
+<td>12</td>
 <td>0.9619</td>
 <td>-74.971</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SGTA">=></a></td>
@@ -14256,7 +14255,7 @@
 <td>URS0000ABA954_395019</td>
 <td><a href="https://rnacentral.org/rna/URS0000ABA954/395019">RS</a></td>
 <td>0.9264</td>
-<td>20</td>
+<td>17</td>
 <td>0.9486</td>
 <td>-89.471</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SGTA_0">=></a></td>
@@ -14268,7 +14267,7 @@
 <td>URS000231D77B_765698</td>
 <td><a href="https://rnacentral.org/rna/URS000231D77B/765698">RS</a></td>
 <td>0.9239</td>
-<td>20</td>
+<td>15</td>
 <td>0.9541</td>
 <td>-79.771</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SGTA_1">=></a></td>
@@ -14292,7 +14291,7 @@
 <td>URS0000AB7560_525263</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB7560/525263">RS</a></td>
 <td>0.8030</td>
-<td>20</td>
+<td>2</td>
 <td>0.9735</td>
 <td>-36.421</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SHOX2">=></a></td>
@@ -14304,7 +14303,7 @@
 <td>URS0000DB5CBF_1903686</td>
 <td><a href="https://rnacentral.org/rna/URS0000DB5CBF/1903686">RS</a></td>
 <td>0.8069</td>
-<td>20</td>
+<td>2</td>
 <td>0.9864</td>
 <td>-31.676</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SIM2">=></a></td>
@@ -14340,7 +14339,7 @@
 <td>URS0000AB1981_633697</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB1981/633697">RS</a></td>
 <td>0.8944</td>
-<td>20</td>
+<td>13</td>
 <td>0.9838</td>
 <td>-34.200</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SIRT6_0">=></a></td>
@@ -14352,7 +14351,7 @@
 <td>URS0002320705_1718951</td>
 <td><a href="https://rnacentral.org/rna/URS0002320705/1718951">RS</a></td>
 <td>0.9087</td>
-<td>20</td>
+<td>15</td>
 <td>0.9589</td>
 <td>-68.182</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SLC10A4">=></a></td>
@@ -14364,7 +14363,7 @@
 <td>URS000232811F_272129</td>
 <td><a href="https://rnacentral.org/rna/URS000232811F/272129">RS</a></td>
 <td>0.7884</td>
-<td>20</td>
+<td>1</td>
 <td>0.9712</td>
 <td>-35.543</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SLC16A9">=></a></td>
@@ -14376,7 +14375,7 @@
 <td>URS0000C20784_1156394</td>
 <td><a href="https://rnacentral.org/rna/URS0000C20784/1156394">RS</a></td>
 <td>0.7725</td>
-<td>20</td>
+<td>2</td>
 <td>0.9662</td>
 <td>-29.997</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SLC17A1">=></a></td>
@@ -14388,7 +14387,7 @@
 <td>URS0000E604E5_1564681</td>
 <td><a href="https://rnacentral.org/rna/URS0000E604E5/1564681">RS</a></td>
 <td>0.7574</td>
-<td>20</td>
+<td>2</td>
 <td>0.9820</td>
 <td>-7.720</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SLC22A5">=></a></td>
@@ -14400,7 +14399,7 @@
 <td>URS0000C89AD0_87541</td>
 <td><a href="https://rnacentral.org/rna/URS0000C89AD0/87541">RS</a></td>
 <td>0.7220</td>
-<td>20</td>
+<td>2</td>
 <td>0.9784</td>
 <td>-13.022</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SLC23A3">=></a></td>
@@ -14412,7 +14411,7 @@
 <td>URS00021EDF5F_928856</td>
 <td><a href="https://rnacentral.org/rna/URS00021EDF5F/928856">RS</a></td>
 <td>0.8367</td>
-<td>20</td>
+<td>12</td>
 <td>0.9919</td>
 <td>-6.438</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SLC23A3_0">=></a></td>
@@ -14436,7 +14435,7 @@
 <td>URS00023227CE_215803</td>
 <td><a href="https://rnacentral.org/rna/URS00023227CE/215803">RS</a></td>
 <td>0.8104</td>
-<td>20</td>
+<td>5</td>
 <td>0.9588</td>
 <td>-69.890</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SLC25A3_0">=></a></td>
@@ -14448,7 +14447,7 @@
 <td>URS0000C60D82_345341</td>
 <td><a href="https://rnacentral.org/rna/URS0000C60D82/345341">RS</a></td>
 <td>0.8959</td>
-<td>20</td>
+<td>15</td>
 <td>0.9757</td>
 <td>-41.502</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SLC25A3_1">=></a></td>
@@ -14460,7 +14459,7 @@
 <td>URS0000AB5B20_379066</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB5B20/379066">RS</a></td>
 <td>0.8406</td>
-<td>20</td>
+<td>4</td>
 <td>0.9876</td>
 <td>-25.905</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SLC25A3_2">=></a></td>
@@ -14472,7 +14471,7 @@
 <td>URS0000AB5039_1302243</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB5039/1302243">RS</a></td>
 <td>0.8579</td>
-<td>20</td>
+<td>12</td>
 <td>0.9704</td>
 <td>-72.207</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SLC25A32">=></a></td>
@@ -14484,7 +14483,7 @@
 <td>URS0000BF9321_454194</td>
 <td><a href="https://rnacentral.org/rna/URS0000BF9321/454194">RS</a></td>
 <td>0.7928</td>
-<td>20</td>
+<td>3</td>
 <td>0.9854</td>
 <td>-31.989</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SLC27A3">=></a></td>
@@ -14496,7 +14495,7 @@
 <td>URS0002324396_309807</td>
 <td><a href="https://rnacentral.org/rna/URS0002324396/309807">RS</a></td>
 <td>0.7257</td>
-<td>20</td>
+<td>1</td>
 <td>0.9865</td>
 <td>-27.536</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SLC2A8">=></a></td>
@@ -14520,7 +14519,7 @@
 <td>URS0000C0A117_376489</td>
 <td><a href="https://rnacentral.org/rna/URS0000C0A117/376489">RS</a></td>
 <td>0.8756</td>
-<td>20</td>
+<td>13</td>
 <td>0.9576</td>
 <td>-56.469</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SLC35A5">=></a></td>
@@ -14532,7 +14531,7 @@
 <td>URS0000C3DDDD_12908</td>
 <td><a href="https://rnacentral.org/rna/URS0000C3DDDD/12908">RS</a></td>
 <td>0.7145</td>
-<td>20</td>
+<td>1</td>
 <td>0.9902</td>
 <td>-14.808</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SLC37A2">=></a></td>
@@ -14556,7 +14555,7 @@
 <td>URS0000AB2F36_761193</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB2F36/761193">RS</a></td>
 <td>0.8002</td>
-<td>20</td>
+<td>7</td>
 <td>0.9816</td>
 <td>-11.080</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SLC3A1">=></a></td>
@@ -14568,7 +14567,7 @@
 <td>URS0002314A70_1774968</td>
 <td><a href="https://rnacentral.org/rna/URS0002314A70/1774968">RS</a></td>
 <td>0.8623</td>
-<td>20</td>
+<td>9</td>
 <td>0.9415</td>
 <td>-71.552</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SLC46A1">=></a></td>
@@ -14592,7 +14591,7 @@
 <td>URS000032B911_365659</td>
 <td><a href="https://rnacentral.org/rna/URS000032B911/365659">RS</a></td>
 <td>0.8154</td>
-<td>20</td>
+<td>4</td>
 <td>0.9810</td>
 <td>-31.400</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SLC6A6">=></a></td>
@@ -14604,7 +14603,7 @@
 <td>URS0000C809B1_882083</td>
 <td><a href="https://rnacentral.org/rna/URS0000C809B1/882083">RS</a></td>
 <td>0.8999</td>
-<td>20</td>
+<td>15</td>
 <td>0.9795</td>
 <td>-41.325</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SLC9A6">=></a></td>
@@ -14616,7 +14615,7 @@
 <td>URS0000DA88AC_85336</td>
 <td><a href="https://rnacentral.org/rna/URS0000DA88AC/85336">RS</a></td>
 <td>0.8994</td>
-<td>20</td>
+<td>15</td>
 <td>0.9697</td>
 <td>-20.892</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SLCO1B1">=></a></td>
@@ -14628,7 +14627,7 @@
 <td>URS0000AB226F_227882</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB226F/227882">RS</a></td>
 <td>0.9060</td>
-<td>20</td>
+<td>14</td>
 <td>0.9624</td>
 <td>-23.861</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SLCO1B3">=></a></td>
@@ -14640,7 +14639,7 @@
 <td>URS0000DB3C1D_40578</td>
 <td><a href="https://rnacentral.org/rna/URS0000DB3C1D/40578">RS</a></td>
 <td>0.8749</td>
-<td>20</td>
+<td>13</td>
 <td>0.9719</td>
 <td>-21.801</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SLITRK3">=></a></td>
@@ -14652,7 +14651,7 @@
 <td>URS0000C119A6_333140</td>
 <td><a href="https://rnacentral.org/rna/URS0000C119A6/333140">RS</a></td>
 <td>0.6500</td>
-<td>20</td>
+<td>1</td>
 <td>0.9806</td>
 <td>-24.796</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SLITRK5">=></a></td>
@@ -14664,7 +14663,7 @@
 <td>URS0000C3A40C_1841653</td>
 <td><a href="https://rnacentral.org/rna/URS0000C3A40C/1841653">RS</a></td>
 <td>0.9049</td>
-<td>20</td>
+<td>16</td>
 <td>0.9672</td>
 <td>-39.325</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SMC4">=></a></td>
@@ -14712,7 +14711,7 @@
 <td>URS0000D81E3B_118060</td>
 <td><a href="https://rnacentral.org/rna/URS0000D81E3B/118060">RS</a></td>
 <td>0.9066</td>
-<td>20</td>
+<td>13</td>
 <td>0.9781</td>
 <td>-21.635</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SMR3A">=></a></td>
@@ -14724,7 +14723,7 @@
 <td>URS0002317556_1797650</td>
 <td><a href="https://rnacentral.org/rna/URS0002317556/1797650">RS</a></td>
 <td>0.7815</td>
-<td>20</td>
+<td>1</td>
 <td>0.9530</td>
 <td>-54.000</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SMTNL2">=></a></td>
@@ -14760,7 +14759,7 @@
 <td>URS0000ABC782_709797</td>
 <td><a href="https://rnacentral.org/rna/URS0000ABC782/709797">RS</a></td>
 <td>0.8882</td>
-<td>20</td>
+<td>13</td>
 <td>0.9846</td>
 <td>-23.027</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SMYD5">=></a></td>
@@ -14772,7 +14771,7 @@
 <td>URS0000AB688E_36809</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB688E/36809">RS</a></td>
 <td>0.9160</td>
-<td>20</td>
+<td>16</td>
 <td>0.9779</td>
 <td>-37.655</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SNAP23">=></a></td>
@@ -14784,7 +14783,7 @@
 <td>URS0000C21B0E_1889784</td>
 <td><a href="https://rnacentral.org/rna/URS0000C21B0E/1889784">RS</a></td>
 <td>0.8907</td>
-<td>20</td>
+<td>13</td>
 <td>0.9725</td>
 <td>-35.057</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SNAP91">=></a></td>
@@ -14820,7 +14819,7 @@
 <td>URS0000DA1886_326475</td>
 <td><a href="https://rnacentral.org/rna/URS0000DA1886/326475">RS</a></td>
 <td>0.8418</td>
-<td>20</td>
+<td>12</td>
 <td>0.9544</td>
 <td>-33.815</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SNCAIP_0">=></a></td>
@@ -14844,7 +14843,7 @@
 <td>URS0000C8569D_1736477</td>
 <td><a href="https://rnacentral.org/rna/URS0000C8569D/1736477">RS</a></td>
 <td>0.9104</td>
-<td>20</td>
+<td>16</td>
 <td>0.9670</td>
 <td>-28.369</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SNCAIP_2">=></a></td>
@@ -14856,7 +14855,7 @@
 <td>URS000232B20C_1255656</td>
 <td><a href="https://rnacentral.org/rna/URS000232B20C/1255656">RS</a></td>
 <td>0.8936</td>
-<td>20</td>
+<td>15</td>
 <td>0.9731</td>
 <td>-35.188</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SNRPG">=></a></td>
@@ -14868,7 +14867,7 @@
 <td>URS0000C84BE7_1380763</td>
 <td><a href="https://rnacentral.org/rna/URS0000C84BE7/1380763">RS</a></td>
 <td>0.7492</td>
-<td>20</td>
+<td>2</td>
 <td>0.9489</td>
 <td>-77.853</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SNX13">=></a></td>
@@ -14880,7 +14879,7 @@
 <td>URS0000C80839_1849360</td>
 <td><a href="https://rnacentral.org/rna/URS0000C80839/1849360">RS</a></td>
 <td>0.8085</td>
-<td>20</td>
+<td>1</td>
 <td>0.9702</td>
 <td>-32.854</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SNX14">=></a></td>
@@ -14904,7 +14903,7 @@
 <td>URS0000AB4B20_525904</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB4B20/525904">RS</a></td>
 <td>0.9307</td>
-<td>20</td>
+<td>18</td>
 <td>0.9595</td>
 <td>-36.151</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SNX24">=></a></td>
@@ -14916,7 +14915,7 @@
 <td>URS0000ABD072_105481</td>
 <td><a href="https://rnacentral.org/rna/URS0000ABD072/105481">RS</a></td>
 <td>0.7710</td>
-<td>20</td>
+<td>3</td>
 <td>0.9730</td>
 <td>-49.147</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SOD1">=></a></td>
@@ -14928,7 +14927,7 @@
 <td>URS0000C36AEB_1535750</td>
 <td><a href="https://rnacentral.org/rna/URS0000C36AEB/1535750">RS</a></td>
 <td>0.8386</td>
-<td>20</td>
+<td>13</td>
 <td>0.9747</td>
 <td>-31.242</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SORD">=></a></td>
@@ -14940,7 +14939,7 @@
 <td>URS0000C1DA3B_797515</td>
 <td><a href="https://rnacentral.org/rna/URS0000C1DA3B/797515">RS</a></td>
 <td>0.8084</td>
-<td>20</td>
+<td>3</td>
 <td>0.9760</td>
 <td>-23.276</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SP8">=></a></td>
@@ -14952,7 +14951,7 @@
 <td>URS0000DAA48F_1801946</td>
 <td><a href="https://rnacentral.org/rna/URS0000DAA48F/1801946">RS</a></td>
 <td>0.8054</td>
-<td>20</td>
+<td>2</td>
 <td>0.9763</td>
 <td>-23.276</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SP8_0">=></a></td>
@@ -14964,7 +14963,7 @@
 <td>URS00023142FE_1655575</td>
 <td><a href="https://rnacentral.org/rna/URS00023142FE/1655575">RS</a></td>
 <td>0.8434</td>
-<td>20</td>
+<td>2</td>
 <td>0.9628</td>
 <td>-34.144</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SPA17">=></a></td>
@@ -14988,7 +14987,7 @@
 <td>URS0000C32FEF_12908</td>
 <td><a href="https://rnacentral.org/rna/URS0000C32FEF/12908">RS</a></td>
 <td>0.8938</td>
-<td>20</td>
+<td>15</td>
 <td>0.9889</td>
 <td>-14.200</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SPANXA1">=></a></td>
@@ -15000,7 +14999,7 @@
 <td>URS0000ABB531_78245</td>
 <td><a href="https://rnacentral.org/rna/URS0000ABB531/78245">RS</a></td>
 <td>0.8954</td>
-<td>20</td>
+<td>16</td>
 <td>0.9839</td>
 <td>-14.873</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SPANXA2">=></a></td>
@@ -15012,7 +15011,7 @@
 <td>URS0000DA929C_225345</td>
 <td><a href="https://rnacentral.org/rna/URS0000DA929C/225345">RS</a></td>
 <td>0.9142</td>
-<td>20</td>
+<td>16</td>
 <td>0.9837</td>
 <td>-9.629</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SPANXC">=></a></td>
@@ -15024,7 +15023,7 @@
 <td>URS0000BFB683_463025</td>
 <td><a href="https://rnacentral.org/rna/URS0000BFB683/463025">RS</a></td>
 <td>0.8511</td>
-<td>20</td>
+<td>7</td>
 <td>0.9846</td>
 <td>-19.891</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SPATA17">=></a></td>
@@ -15060,7 +15059,7 @@
 <td>URS00023328B5_754476</td>
 <td><a href="https://rnacentral.org/rna/URS00023328B5/754476">RS</a></td>
 <td>0.7779</td>
-<td>20</td>
+<td>12</td>
 <td>0.9459</td>
 <td>-78.421</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SPDYA">=></a></td>
@@ -15096,7 +15095,7 @@
 <td>URS0000C79845_1263000</td>
 <td><a href="https://rnacentral.org/rna/URS0000C79845/1263000">RS</a></td>
 <td>0.6907</td>
-<td>20</td>
+<td>2</td>
 <td>0.9902</td>
 <td>-5.525</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SPIC">=></a></td>
@@ -15120,7 +15119,7 @@
 <td>URS0000C17007_246786</td>
 <td><a href="https://rnacentral.org/rna/URS0000C17007/246786">RS</a></td>
 <td>0.8254</td>
-<td>20</td>
+<td>3</td>
 <td>0.9776</td>
 <td>-48.044</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SPIRE1_0">=></a></td>
@@ -15132,7 +15131,7 @@
 <td>URS0000C70E66_1274</td>
 <td><a href="https://rnacentral.org/rna/URS0000C70E66/1274">RS</a></td>
 <td>0.6477</td>
-<td>20</td>
+<td>1</td>
 <td>0.9812</td>
 <td>-24.654</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SPRR2A">=></a></td>
@@ -15144,7 +15143,7 @@
 <td>URS0000E5FBA1_463014</td>
 <td><a href="https://rnacentral.org/rna/URS0000E5FBA1/463014">RS</a></td>
 <td>0.9516</td>
-<td>20</td>
+<td>19</td>
 <td>0.9906</td>
 <td>-18.016</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SRC">=></a></td>
@@ -15168,7 +15167,7 @@
 <td>URS00021EDE0F_1123247</td>
 <td><a href="https://rnacentral.org/rna/URS00021EDE0F/1123247">RS</a></td>
 <td>0.6785</td>
-<td>20</td>
+<td>3</td>
 <td>0.9907</td>
 <td>-8.838</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SRGAP3">=></a></td>
@@ -15180,7 +15179,7 @@
 <td>URS0000D7B040_582419</td>
 <td><a href="https://rnacentral.org/rna/URS0000D7B040/582419">RS</a></td>
 <td>0.7429</td>
-<td>20</td>
+<td>2</td>
 <td>0.9839</td>
 <td>-11.935</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SRXN1">=></a></td>
@@ -15192,7 +15191,7 @@
 <td>URS0000AB5FFE_1496</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB5FFE/1496">RS</a></td>
 <td>0.8990</td>
-<td>20</td>
+<td>15</td>
 <td>0.9785</td>
 <td>-37.873</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SS18">=></a></td>
@@ -15228,7 +15227,7 @@
 <td>URS0002335499_553198</td>
 <td><a href="https://rnacentral.org/rna/URS0002335499/553198">RS</a></td>
 <td>0.8779</td>
-<td>20</td>
+<td>12</td>
 <td>0.9653</td>
 <td>-42.317</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ST6GAL2">=></a></td>
@@ -15240,7 +15239,7 @@
 <td>URS000232136A_237609</td>
 <td><a href="https://rnacentral.org/rna/URS000232136A/237609">RS</a></td>
 <td>0.7916</td>
-<td>20</td>
+<td>1</td>
 <td>0.9438</td>
 <td>-45.778</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/STAB2">=></a></td>
@@ -15252,7 +15251,7 @@
 <td>URS0000C26F64_12908</td>
 <td><a href="https://rnacentral.org/rna/URS0000C26F64/12908">RS</a></td>
 <td>0.7963</td>
-<td>20</td>
+<td>2</td>
 <td>0.9899</td>
 <td>-19.306</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/STAC">=></a></td>
@@ -15264,7 +15263,7 @@
 <td>URS0002321F66_1792508</td>
 <td><a href="https://rnacentral.org/rna/URS0002321F66/1792508">RS</a></td>
 <td>0.7430</td>
-<td>20</td>
+<td>1</td>
 <td>0.9437</td>
 <td>-38.996</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/STAG2">=></a></td>
@@ -15276,7 +15275,7 @@
 <td>URS0000C483A6_1736466</td>
 <td><a href="https://rnacentral.org/rna/URS0000C483A6/1736466">RS</a></td>
 <td>0.8530</td>
-<td>20</td>
+<td>8</td>
 <td>0.9870</td>
 <td>-17.370</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/STARD5">=></a></td>
@@ -15288,7 +15287,7 @@
 <td>URS0000E5FBBF_795666</td>
 <td><a href="https://rnacentral.org/rna/URS0000E5FBBF/795666">RS</a></td>
 <td>0.6830</td>
-<td>20</td>
+<td>1</td>
 <td>0.9811</td>
 <td>-21.285</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/STK11IP">=></a></td>
@@ -15300,7 +15299,7 @@
 <td>URS00021EDD4A_12908</td>
 <td><a href="https://rnacentral.org/rna/URS00021EDD4A/12908">RS</a></td>
 <td>0.9134</td>
-<td>20</td>
+<td>16</td>
 <td>0.9902</td>
 <td>-6.313</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/STK19">=></a></td>
@@ -15312,7 +15311,7 @@
 <td>URS0000C170AD_1418105</td>
 <td><a href="https://rnacentral.org/rna/URS0000C170AD/1418105">RS</a></td>
 <td>0.6923</td>
-<td>20</td>
+<td>1</td>
 <td>0.9808</td>
 <td>-32.453</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/STK31">=></a></td>
@@ -15324,7 +15323,7 @@
 <td>URS0000BEAD26_1348662</td>
 <td><a href="https://rnacentral.org/rna/URS0000BEAD26/1348662">RS</a></td>
 <td>0.8067</td>
-<td>20</td>
+<td>2</td>
 <td>0.9664</td>
 <td>-54.857</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/STK32B">=></a></td>
@@ -15336,7 +15335,7 @@
 <td>URS0000ABCF94_1069536</td>
 <td><a href="https://rnacentral.org/rna/URS0000ABCF94/1069536">RS</a></td>
 <td>0.8593</td>
-<td>20</td>
+<td>9</td>
 <td>0.9525</td>
 <td>-27.492</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/STRN3">=></a></td>
@@ -15348,7 +15347,7 @@
 <td>URS0001A0B7A7_2653141</td>
 <td><a href="https://rnacentral.org/rna/URS0001A0B7A7/2653141">RS</a></td>
 <td>0.6961</td>
-<td>20</td>
+<td>4</td>
 <td>0.9775</td>
 <td>-49.306</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/STX18">=></a></td>
@@ -15360,7 +15359,7 @@
 <td>URS00023297B4_1703399</td>
 <td><a href="https://rnacentral.org/rna/URS00023297B4/1703399">RS</a></td>
 <td>0.8452</td>
-<td>20</td>
+<td>11</td>
 <td>0.8842</td>
 <td>-116.612</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/STX4">=></a></td>
@@ -15396,7 +15395,7 @@
 <td>URS0000C26F64_12908</td>
 <td><a href="https://rnacentral.org/rna/URS0000C26F64/12908">RS</a></td>
 <td>0.9245</td>
-<td>20</td>
+<td>18</td>
 <td>0.9886</td>
 <td>-25.423</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SUMF1">=></a></td>
@@ -15408,7 +15407,7 @@
 <td>URS0000C4388A_1133849</td>
 <td><a href="https://rnacentral.org/rna/URS0000C4388A/1133849">RS</a></td>
 <td>0.6917</td>
-<td>20</td>
+<td>3</td>
 <td>0.9563</td>
 <td>-59.009</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SUMO1">=></a></td>
@@ -15420,7 +15419,7 @@
 <td>URS0000C34FEA_1842533</td>
 <td><a href="https://rnacentral.org/rna/URS0000C34FEA/1842533">RS</a></td>
 <td>0.8592</td>
-<td>20</td>
+<td>11</td>
 <td>0.9708</td>
 <td>-40.106</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SUPT5H">=></a></td>
@@ -15432,7 +15431,7 @@
 <td>URS0000C12AC5_1750719</td>
 <td><a href="https://rnacentral.org/rna/URS0000C12AC5/1750719">RS</a></td>
 <td>0.9162</td>
-<td>20</td>
+<td>16</td>
 <td>0.9727</td>
 <td>-36.906</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SUPT5H_0">=></a></td>
@@ -15444,7 +15443,7 @@
 <td>URS0000ABC6B3_710696</td>
 <td><a href="https://rnacentral.org/rna/URS0000ABC6B3/710696">RS</a></td>
 <td>0.7742</td>
-<td>20</td>
+<td>1</td>
 <td>0.9702</td>
 <td>-33.773</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SUPT5H_1">=></a></td>
@@ -15456,7 +15455,7 @@
 <td>URS0000D6A5F8_1736382</td>
 <td><a href="https://rnacentral.org/rna/URS0000D6A5F8/1736382">RS</a></td>
 <td>0.8131</td>
-<td>20</td>
+<td>5</td>
 <td>0.9901</td>
 <td>-15.825</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SURF1">=></a></td>
@@ -15468,7 +15467,7 @@
 <td>URS0000D7E438_1123357</td>
 <td><a href="https://rnacentral.org/rna/URS0000D7E438/1123357">RS</a></td>
 <td>0.8653</td>
-<td>20</td>
+<td>8</td>
 <td>0.9851</td>
 <td>-19.146</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SUV39H1">=></a></td>
@@ -15480,7 +15479,7 @@
 <td>URS0000BEDB8C_1262813</td>
 <td><a href="https://rnacentral.org/rna/URS0000BEDB8C/1262813">RS</a></td>
 <td>0.7553</td>
-<td>20</td>
+<td>1</td>
 <td>0.9648</td>
 <td>-48.535</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SYCP3">=></a></td>
@@ -15492,7 +15491,7 @@
 <td>URS000231EA28_388413</td>
 <td><a href="https://rnacentral.org/rna/URS000231EA28/388413">RS</a></td>
 <td>0.8814</td>
-<td>20</td>
+<td>15</td>
 <td>0.9394</td>
 <td>-47.655</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SYDE2">=></a></td>
@@ -15504,7 +15503,7 @@
 <td>URS0000C394A7_1397</td>
 <td><a href="https://rnacentral.org/rna/URS0000C394A7/1397">RS</a></td>
 <td>0.9197</td>
-<td>20</td>
+<td>17</td>
 <td>0.9785</td>
 <td>-35.086</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SYNGR1">=></a></td>
@@ -15516,7 +15515,7 @@
 <td>URS0000C0E628_169760</td>
 <td><a href="https://rnacentral.org/rna/URS0000C0E628/169760">RS</a></td>
 <td>0.7749</td>
-<td>20</td>
+<td>2</td>
 <td>0.9637</td>
 <td>-44.577</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SYNJ2BP">=></a></td>
@@ -15528,7 +15527,7 @@
 <td>URS0000BF3A2C_1408103</td>
 <td><a href="https://rnacentral.org/rna/URS0000BF3A2C/1408103">RS</a></td>
 <td>0.9303</td>
-<td>20</td>
+<td>16</td>
 <td>0.9771</td>
 <td>-44.579</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/SYPL1">=></a></td>
@@ -15540,7 +15539,7 @@
 <td>URS0000DB64DA_1402976</td>
 <td><a href="https://rnacentral.org/rna/URS0000DB64DA/1402976">RS</a></td>
 <td>0.9374</td>
-<td>20</td>
+<td>18</td>
 <td>0.9828</td>
 <td>-20.678</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/TANK">=></a></td>
@@ -15552,7 +15551,7 @@
 <td>URS0000DA6D3A_1123756</td>
 <td><a href="https://rnacentral.org/rna/URS0000DA6D3A/1123756">RS</a></td>
 <td>0.8488</td>
-<td>20</td>
+<td>10</td>
 <td>0.9917</td>
 <td>-2.725</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/TANK_0">=></a></td>
@@ -15576,7 +15575,7 @@
 <td>URS00007CDE37_69974</td>
 <td><a href="https://rnacentral.org/rna/URS00007CDE37/69974">RS</a></td>
 <td>0.8643</td>
-<td>20</td>
+<td>12</td>
 <td>0.9698</td>
 <td>-79.676</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/TBC1D16">=></a></td>
@@ -15588,7 +15587,7 @@
 <td>URS0000C814D2_1263029</td>
 <td><a href="https://rnacentral.org/rna/URS0000C814D2/1263029">RS</a></td>
 <td>0.8728</td>
-<td>20</td>
+<td>8</td>
 <td>0.9756</td>
 <td>-24.023</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/TBC1D8B">=></a></td>
@@ -15600,7 +15599,7 @@
 <td>URS0000C5FF3C_47500</td>
 <td><a href="https://rnacentral.org/rna/URS0000C5FF3C/47500">RS</a></td>
 <td>0.8571</td>
-<td>20</td>
+<td>6</td>
 <td>0.9601</td>
 <td>-59.207</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/TBCCD1">=></a></td>
@@ -15624,7 +15623,7 @@
 <td>URS0000C08E8C_1494608</td>
 <td><a href="https://rnacentral.org/rna/URS0000C08E8C/1494608">RS</a></td>
 <td>0.9231</td>
-<td>20</td>
+<td>16</td>
 <td>0.9822</td>
 <td>-26.745</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/TBK1">=></a></td>
@@ -15636,7 +15635,7 @@
 <td>URS0000D68D84_12908</td>
 <td><a href="https://rnacentral.org/rna/URS0000D68D84/12908">RS</a></td>
 <td>0.7813</td>
-<td>20</td>
+<td>2</td>
 <td>0.9521</td>
 <td>-39.326</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/TBR1">=></a></td>
@@ -15660,7 +15659,7 @@
 <td>URS000232CB4C_1333998</td>
 <td><a href="https://rnacentral.org/rna/URS000232CB4C/1333998">RS</a></td>
 <td>0.7667</td>
-<td>20</td>
+<td>3</td>
 <td>0.9528</td>
 <td>-47.154</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/TCEAL1">=></a></td>
@@ -15672,7 +15671,7 @@
 <td>URS0000AB43C9_675817</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB43C9/675817">RS</a></td>
 <td>0.8249</td>
-<td>20</td>
+<td>11</td>
 <td>0.9538</td>
 <td>-44.452</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/TCEAL1_0">=></a></td>
@@ -15684,7 +15683,7 @@
 <td>URS0000D93C1E_556325</td>
 <td><a href="https://rnacentral.org/rna/URS0000D93C1E/556325">RS</a></td>
 <td>0.8788</td>
-<td>20</td>
+<td>13</td>
 <td>0.9761</td>
 <td>-51.144</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/TCP11">=></a></td>
@@ -15696,7 +15695,7 @@
 <td>URS0000AB2DD1_634503</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB2DD1/634503">RS</a></td>
 <td>0.9188</td>
-<td>20</td>
+<td>16</td>
 <td>0.9803</td>
 <td>-38.014</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/TDP1">=></a></td>
@@ -15708,7 +15707,7 @@
 <td>URS0000C7AB27_1487921</td>
 <td><a href="https://rnacentral.org/rna/URS0000C7AB27/1487921">RS</a></td>
 <td>0.9421</td>
-<td>20</td>
+<td>16</td>
 <td>0.9773</td>
 <td>-40.207</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/TDP1_0">=></a></td>
@@ -15720,7 +15719,7 @@
 <td>URS0002335396_1972460</td>
 <td><a href="https://rnacentral.org/rna/URS0002335396/1972460">RS</a></td>
 <td>0.7335</td>
-<td>20</td>
+<td>1</td>
 <td>0.9607</td>
 <td>-56.482</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/TECPR2">=></a></td>
@@ -15744,7 +15743,7 @@
 <td>URS0000C2ECF8_1736291</td>
 <td><a href="https://rnacentral.org/rna/URS0000C2ECF8/1736291">RS</a></td>
 <td>0.7911</td>
-<td>20</td>
+<td>1</td>
 <td>0.9772</td>
 <td>-44.618</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/TGIF2">=></a></td>
@@ -15756,7 +15755,7 @@
 <td>URS000231FB0B_135947</td>
 <td><a href="https://rnacentral.org/rna/URS000231FB0B/135947">RS</a></td>
 <td>0.9020</td>
-<td>20</td>
+<td>14</td>
 <td>0.9873</td>
 <td>-19.449</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/TGIF2LX">=></a></td>
@@ -15768,7 +15767,7 @@
 <td>URS0000C3A97D_1437444</td>
 <td><a href="https://rnacentral.org/rna/URS0000C3A97D/1437444">RS</a></td>
 <td>0.8109</td>
-<td>20</td>
+<td>3</td>
 <td>0.9843</td>
 <td>-21.343</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/TGIF2LY">=></a></td>
@@ -15792,7 +15791,7 @@
 <td>URS0000AB6FB2_467705</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB6FB2/467705">RS</a></td>
 <td>0.8172</td>
-<td>20</td>
+<td>11</td>
 <td>0.9622</td>
 <td>-71.013</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/THAP10">=></a></td>
@@ -15804,7 +15803,7 @@
 <td>URS0000D9579E_1121131</td>
 <td><a href="https://rnacentral.org/rna/URS0000D9579E/1121131">RS</a></td>
 <td>0.8588</td>
-<td>20</td>
+<td>8</td>
 <td>0.9757</td>
 <td>-35.089</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/THAP6">=></a></td>
@@ -15816,7 +15815,7 @@
 <td>URS000232BFC3_1736540</td>
 <td><a href="https://rnacentral.org/rna/URS000232BFC3/1736540">RS</a></td>
 <td>0.8990</td>
-<td>20</td>
+<td>16</td>
 <td>0.9750</td>
 <td>-38.739</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/THAP6_0">=></a></td>
@@ -15828,7 +15827,7 @@
 <td>URS0000D9087A_549789</td>
 <td><a href="https://rnacentral.org/rna/URS0000D9087A/549789">RS</a></td>
 <td>0.8879</td>
-<td>20</td>
+<td>13</td>
 <td>0.9730</td>
 <td>-39.740</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/THAP6_1">=></a></td>
@@ -15876,7 +15875,7 @@
 <td>URS0002334189_1121014</td>
 <td><a href="https://rnacentral.org/rna/URS0002334189/1121014">RS</a></td>
 <td>0.9049</td>
-<td>20</td>
+<td>15</td>
 <td>0.9521</td>
 <td>-59.286</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/THAP9_1">=></a></td>
@@ -15888,7 +15887,7 @@
 <td>URS00021EDD8B_540747</td>
 <td><a href="https://rnacentral.org/rna/URS00021EDD8B/540747">RS</a></td>
 <td>0.8884</td>
-<td>20</td>
+<td>14</td>
 <td>0.9892</td>
 <td>-17.500</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/THBD">=></a></td>
@@ -15900,7 +15899,7 @@
 <td>URS0000C6D3C0_1849170</td>
 <td><a href="https://rnacentral.org/rna/URS0000C6D3C0/1849170">RS</a></td>
 <td>0.8615</td>
-<td>20</td>
+<td>12</td>
 <td>0.9928</td>
 <td>-8.643</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/THRSP">=></a></td>
@@ -15924,7 +15923,7 @@
 <td>URS0000C31CC7_1384057</td>
 <td><a href="https://rnacentral.org/rna/URS0000C31CC7/1384057">RS</a></td>
 <td>0.8777</td>
-<td>20</td>
+<td>12</td>
 <td>0.9853</td>
 <td>-24.292</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/TIMD4">=></a></td>
@@ -15936,7 +15935,7 @@
 <td>URS0000CDC9F1_1507512</td>
 <td><a href="https://rnacentral.org/rna/URS0000CDC9F1/1507512">RS</a></td>
 <td>0.8917</td>
-<td>20</td>
+<td>14</td>
 <td>0.9575</td>
 <td>-28.908</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/TINAG">=></a></td>
@@ -15948,7 +15947,7 @@
 <td>URS000080DDBB_1423</td>
 <td><a href="https://rnacentral.org/rna/URS000080DDBB/1423">RS</a></td>
 <td>0.8081</td>
-<td>20</td>
+<td>4</td>
 <td>0.9884</td>
 <td>-10.181</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/TM4SF20">=></a></td>
@@ -15960,7 +15959,7 @@
 <td>URS0000C30838_12908</td>
 <td><a href="https://rnacentral.org/rna/URS0000C30838/12908">RS</a></td>
 <td>0.7190</td>
-<td>20</td>
+<td>4</td>
 <td>0.9913</td>
 <td>-10.225</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/TM9SF4">=></a></td>
@@ -15972,7 +15971,7 @@
 <td>URS0000E52EB4_2173034</td>
 <td><a href="https://rnacentral.org/rna/URS0000E52EB4/2173034">RS</a></td>
 <td>0.7178</td>
-<td>20</td>
+<td>3</td>
 <td>0.9804</td>
 <td>-51.335</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/TMBIM4">=></a></td>
@@ -15984,7 +15983,7 @@
 <td>URS0000C0F371_574376</td>
 <td><a href="https://rnacentral.org/rna/URS0000C0F371/574376">RS</a></td>
 <td>0.8213</td>
-<td>20</td>
+<td>4</td>
 <td>0.9888</td>
 <td>-10.123</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/TMEM101">=></a></td>
@@ -16020,7 +16019,7 @@
 <td>URS0000D82D2C_1797831</td>
 <td><a href="https://rnacentral.org/rna/URS0000D82D2C/1797831">RS</a></td>
 <td>0.7593</td>
-<td>20</td>
+<td>5</td>
 <td>0.9787</td>
 <td>-19.280</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/TMEM196">=></a></td>
@@ -16032,7 +16031,7 @@
 <td>URS0000C0DBAD_1679170</td>
 <td><a href="https://rnacentral.org/rna/URS0000C0DBAD/1679170">RS</a></td>
 <td>0.9034</td>
-<td>20</td>
+<td>15</td>
 <td>0.9770</td>
 <td>-19.362</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/TMEM200A">=></a></td>
@@ -16044,7 +16043,7 @@
 <td>URS00019C69F8_2653135</td>
 <td><a href="https://rnacentral.org/rna/URS00019C69F8/2653135">RS</a></td>
 <td>0.9078</td>
-<td>20</td>
+<td>17</td>
 <td>0.9804</td>
 <td>-34.554</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/TMEM205">=></a></td>
@@ -16056,7 +16055,7 @@
 <td>URS0000D957FE_1803461</td>
 <td><a href="https://rnacentral.org/rna/URS0000D957FE/1803461">RS</a></td>
 <td>0.8833</td>
-<td>20</td>
+<td>14</td>
 <td>0.9636</td>
 <td>-64.273</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/TMEM205_0">=></a></td>
@@ -16068,7 +16067,7 @@
 <td>URS0000D86A69_299255</td>
 <td><a href="https://rnacentral.org/rna/URS0000D86A69/299255">RS</a></td>
 <td>0.9314</td>
-<td>20</td>
+<td>17</td>
 <td>0.9421</td>
 <td>-86.062</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/TMEM205_1">=></a></td>
@@ -16080,7 +16079,7 @@
 <td>URS00023335B5_1617416</td>
 <td><a href="https://rnacentral.org/rna/URS00023335B5/1617416">RS</a></td>
 <td>0.8529</td>
-<td>20</td>
+<td>5</td>
 <td>0.9713</td>
 <td>-48.429</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/TMEM208">=></a></td>
@@ -16116,7 +16115,7 @@
 <td>URS0002314971_1263004</td>
 <td><a href="https://rnacentral.org/rna/URS0002314971/1263004">RS</a></td>
 <td>0.7316</td>
-<td>20</td>
+<td>10</td>
 <td>0.9264</td>
 <td>-105.307</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/TMEM80_0">=></a></td>
@@ -16128,7 +16127,7 @@
 <td>URS0000C12DDC_1235797</td>
 <td><a href="https://rnacentral.org/rna/URS0000C12DDC/1235797">RS</a></td>
 <td>0.7656</td>
-<td>20</td>
+<td>5</td>
 <td>0.9763</td>
 <td>-50.844</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/TMEM86A">=></a></td>
@@ -16140,7 +16139,7 @@
 <td>URS0000AB24A0_885272</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB24A0/885272">RS</a></td>
 <td>0.8985</td>
-<td>20</td>
+<td>15</td>
 <td>0.9551</td>
 <td>-52.422</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/TMEM87A">=></a></td>
@@ -16152,7 +16151,7 @@
 <td>URS0000AB8D01_338966</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB8D01/338966">RS</a></td>
 <td>0.8603</td>
-<td>20</td>
+<td>8</td>
 <td>0.9554</td>
 <td>-19.022</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/TMPRSS11B">=></a></td>
@@ -16164,7 +16163,7 @@
 <td>URS0000BF3B99_1284</td>
 <td><a href="https://rnacentral.org/rna/URS0000BF3B99/1284">RS</a></td>
 <td>0.8094</td>
-<td>20</td>
+<td>5</td>
 <td>0.9587</td>
 <td>-24.943</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/TMPRSS11B_0">=></a></td>
@@ -16176,7 +16175,7 @@
 <td>URS00021EDC81_12908</td>
 <td><a href="https://rnacentral.org/rna/URS00021EDC81/12908">RS</a></td>
 <td>0.9022</td>
-<td>20</td>
+<td>16</td>
 <td>0.9780</td>
 <td>-10.215</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/TMPRSS11D">=></a></td>
@@ -16188,7 +16187,7 @@
 <td>URS0000C52048_1392007</td>
 <td><a href="https://rnacentral.org/rna/URS0000C52048/1392007">RS</a></td>
 <td>0.8225</td>
-<td>20</td>
+<td>1</td>
 <td>0.9731</td>
 <td>-15.833</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/TMPRSS11D_0">=></a></td>
@@ -16200,7 +16199,7 @@
 <td>URS0000AB8CF7_868595</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB8CF7/868595">RS</a></td>
 <td>0.9266</td>
-<td>20</td>
+<td>18</td>
 <td>0.9657</td>
 <td>-35.784</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/TMTC3">=></a></td>
@@ -16236,7 +16235,7 @@
 <td>URS0000BFFF30_869279</td>
 <td><a href="https://rnacentral.org/rna/URS0000BFFF30/869279">RS</a></td>
 <td>0.9292</td>
-<td>20</td>
+<td>18</td>
 <td>0.9895</td>
 <td>-4.781</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/TNFAIP6">=></a></td>
@@ -16248,7 +16247,7 @@
 <td>URS0000AB8D6F_260799</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB8D6F/260799">RS</a></td>
 <td>0.7717</td>
-<td>20</td>
+<td>4</td>
 <td>0.9712</td>
 <td>-36.939</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/TNFRSF10D">=></a></td>
@@ -16320,7 +16319,7 @@
 <td>URS0000841FAE_150340</td>
 <td><a href="https://rnacentral.org/rna/URS0000841FAE/150340">RS</a></td>
 <td>0.7636</td>
-<td>20</td>
+<td>3</td>
 <td>0.9598</td>
 <td>-59.164</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/TOP3B">=></a></td>
@@ -16332,7 +16331,7 @@
 <td>URS0000AB6F01_521000</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB6F01/521000">RS</a></td>
 <td>0.8154</td>
-<td>20</td>
+<td>2</td>
 <td>0.9806</td>
 <td>-46.768</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/TOR1A">=></a></td>
@@ -16356,7 +16355,7 @@
 <td>URS0000AB2708_868864</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB2708/868864">RS</a></td>
 <td>0.8947</td>
-<td>20</td>
+<td>16</td>
 <td>0.9784</td>
 <td>-26.869</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/TPK1">=></a></td>
@@ -16368,7 +16367,7 @@
 <td>URS0002317705_1751286</td>
 <td><a href="https://rnacentral.org/rna/URS0002317705/1751286">RS</a></td>
 <td>0.8887</td>
-<td>20</td>
+<td>15</td>
 <td>0.9617</td>
 <td>-52.687</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/TPM3">=></a></td>
@@ -16380,7 +16379,7 @@
 <td>URS0000AB3353_106370</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB3353/106370">RS</a></td>
 <td>0.8436</td>
-<td>20</td>
+<td>8</td>
 <td>0.9748</td>
 <td>-27.936</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/TPM3_0">=></a></td>
@@ -16392,7 +16391,7 @@
 <td>URS0000C31E95_352211</td>
 <td><a href="https://rnacentral.org/rna/URS0000C31E95/352211">RS</a></td>
 <td>0.8364</td>
-<td>20</td>
+<td>6</td>
 <td>0.9685</td>
 <td>-35.364</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/TPM3_1">=></a></td>
@@ -16404,7 +16403,7 @@
 <td>URS0000C45151_408170</td>
 <td><a href="https://rnacentral.org/rna/URS0000C45151/408170">RS</a></td>
 <td>0.8212</td>
-<td>20</td>
+<td>4</td>
 <td>0.9668</td>
 <td>-35.364</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/TPM3_2">=></a></td>
@@ -16416,7 +16415,7 @@
 <td>URS0000BEB5DF_1263065</td>
 <td><a href="https://rnacentral.org/rna/URS0000BEB5DF/1263065">RS</a></td>
 <td>0.9443</td>
-<td>20</td>
+<td>19</td>
 <td>0.9764</td>
 <td>-48.812</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/TPRG1L">=></a></td>
@@ -16440,7 +16439,7 @@
 <td>URS00021EDF55_12908</td>
 <td><a href="https://rnacentral.org/rna/URS00021EDF55/12908">RS</a></td>
 <td>0.9460</td>
-<td>20</td>
+<td>18</td>
 <td>0.9850</td>
 <td>-12.554</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/TRAF5">=></a></td>
@@ -16452,7 +16451,7 @@
 <td>URS0000AB9108_388401</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB9108/388401">RS</a></td>
 <td>0.8676</td>
-<td>20</td>
+<td>11</td>
 <td>0.9918</td>
 <td>-12.075</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/TRAPPC1">=></a></td>
@@ -16476,7 +16475,7 @@
 <td>URS0000D9A684_1155944</td>
 <td><a href="https://rnacentral.org/rna/URS0000D9A684/1155944">RS</a></td>
 <td>0.8442</td>
-<td>20</td>
+<td>13</td>
 <td>0.9731</td>
 <td>-40.455</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/TRIP12">=></a></td>
@@ -16488,7 +16487,7 @@
 <td>URS0000C7E5C6_1417296</td>
 <td><a href="https://rnacentral.org/rna/URS0000C7E5C6/1417296">RS</a></td>
 <td>0.6430</td>
-<td>20</td>
+<td>1</td>
 <td>0.9856</td>
 <td>-5.942</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/TRIT1">=></a></td>
@@ -16512,7 +16511,7 @@
 <td>URS0000E5FC98_663278</td>
 <td><a href="https://rnacentral.org/rna/URS0000E5FC98/663278">RS</a></td>
 <td>0.9122</td>
-<td>20</td>
+<td>15</td>
 <td>0.9872</td>
 <td>-22.351</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/TRMT61B">=></a></td>
@@ -16524,7 +16523,7 @@
 <td>URS0000ABD39D_861360</td>
 <td><a href="https://rnacentral.org/rna/URS0000ABD39D/861360">RS</a></td>
 <td>0.6453</td>
-<td>20</td>
+<td>2</td>
 <td>0.9846</td>
 <td>-36.479</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/TRPC3">=></a></td>
@@ -16548,7 +16547,7 @@
 <td>URS0000DAF70A_1158604</td>
 <td><a href="https://rnacentral.org/rna/URS0000DAF70A/1158604">RS</a></td>
 <td>0.8121</td>
-<td>20</td>
+<td>6</td>
 <td>0.9823</td>
 <td>-19.966</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/TRPV6">=></a></td>
@@ -16584,7 +16583,7 @@
 <td>URS0000C1F219_703336</td>
 <td><a href="https://rnacentral.org/rna/URS0000C1F219/703336">RS</a></td>
 <td>0.8516</td>
-<td>20</td>
+<td>8</td>
 <td>0.9819</td>
 <td>-29.047</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/TSPY1">=></a></td>
@@ -16596,7 +16595,7 @@
 <td>URS00021EDCDF_12908</td>
 <td><a href="https://rnacentral.org/rna/URS00021EDCDF/12908">RS</a></td>
 <td>0.9268</td>
-<td>20</td>
+<td>16</td>
 <td>0.9905</td>
 <td>-14.567</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/TTC13">=></a></td>
@@ -16608,7 +16607,7 @@
 <td>URS0000C5650D_1408889</td>
 <td><a href="https://rnacentral.org/rna/URS0000C5650D/1408889">RS</a></td>
 <td>0.7014</td>
-<td>20</td>
+<td>2</td>
 <td>0.9816</td>
 <td>-35.059</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/TTC16">=></a></td>
@@ -16620,7 +16619,7 @@
 <td>URS0000C0237F_1330458</td>
 <td><a href="https://rnacentral.org/rna/URS0000C0237F/1330458">RS</a></td>
 <td>0.8640</td>
-<td>20</td>
+<td>8</td>
 <td>0.9777</td>
 <td>-26.666</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/TTC23">=></a></td>
@@ -16632,7 +16631,7 @@
 <td>URS0000D8EFAA_1882832</td>
 <td><a href="https://rnacentral.org/rna/URS0000D8EFAA/1882832">RS</a></td>
 <td>0.6365</td>
-<td>20</td>
+<td>1</td>
 <td>0.9482</td>
 <td>-32.852</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/TTC23_0">=></a></td>
@@ -16644,7 +16643,7 @@
 <td>URS000232814E_1801756</td>
 <td><a href="https://rnacentral.org/rna/URS000232814E/1801756">RS</a></td>
 <td>0.9416</td>
-<td>20</td>
+<td>18</td>
 <td>0.9754</td>
 <td>-28.881</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/TTC26">=></a></td>
@@ -16656,7 +16655,7 @@
 <td>URS0000D7DB8E_1945886</td>
 <td><a href="https://rnacentral.org/rna/URS0000D7DB8E/1945886">RS</a></td>
 <td>0.8608</td>
-<td>20</td>
+<td>8</td>
 <td>0.9675</td>
 <td>-41.895</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/TTC26_0">=></a></td>
@@ -16668,7 +16667,7 @@
 <td>URS0000C0AC4D_12908</td>
 <td><a href="https://rnacentral.org/rna/URS0000C0AC4D/12908">RS</a></td>
 <td>0.8248</td>
-<td>20</td>
+<td>10</td>
 <td>0.9909</td>
 <td>-15.884</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/TTC30A">=></a></td>
@@ -16692,7 +16691,7 @@
 <td>URS0000C36937_990271</td>
 <td><a href="https://rnacentral.org/rna/URS0000C36937/990271">RS</a></td>
 <td>0.7695</td>
-<td>20</td>
+<td>1</td>
 <td>0.9618</td>
 <td>-56.649</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/TTK">=></a></td>
@@ -16716,7 +16715,7 @@
 <td>URS0000C7B169_745277</td>
 <td><a href="https://rnacentral.org/rna/URS0000C7B169/745277">RS</a></td>
 <td>0.8297</td>
-<td>20</td>
+<td>2</td>
 <td>0.9619</td>
 <td>-80.648</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/TTPAL_0">=></a></td>
@@ -16740,7 +16739,7 @@
 <td>URS00019FF145_2653185</td>
 <td><a href="https://rnacentral.org/rna/URS00019FF145/2653185">RS</a></td>
 <td>0.9249</td>
-<td>20</td>
+<td>17</td>
 <td>0.9746</td>
 <td>-73.332</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/TTPAL_2">=></a></td>
@@ -16752,7 +16751,7 @@
 <td>URS0000D99462_1802005</td>
 <td><a href="https://rnacentral.org/rna/URS0000D99462/1802005">RS</a></td>
 <td>0.7601</td>
-<td>20</td>
+<td>4</td>
 <td>0.9679</td>
 <td>-70.635</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/TTPAL_3">=></a></td>
@@ -16764,7 +16763,7 @@
 <td>URS0000C5D60E_12908</td>
 <td><a href="https://rnacentral.org/rna/URS0000C5D60E/12908">RS</a></td>
 <td>0.8049</td>
-<td>20</td>
+<td>3</td>
 <td>0.9929</td>
 <td>-9.450</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/TTYH2">=></a></td>
@@ -16776,7 +16775,7 @@
 <td>URS0000D98828_1581138</td>
 <td><a href="https://rnacentral.org/rna/URS0000D98828/1581138">RS</a></td>
 <td>0.7531</td>
-<td>20</td>
+<td>1</td>
 <td>0.9754</td>
 <td>-32.125</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/TUBA1B">=></a></td>
@@ -16788,7 +16787,7 @@
 <td>URS0000D92293_1971726</td>
 <td><a href="https://rnacentral.org/rna/URS0000D92293/1971726">RS</a></td>
 <td>0.8825</td>
-<td>20</td>
+<td>11</td>
 <td>0.9753</td>
 <td>-38.524</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/TUBB2B">=></a></td>
@@ -16800,7 +16799,7 @@
 <td>URS0000BF073C_571913</td>
 <td><a href="https://rnacentral.org/rna/URS0000BF073C/571913">RS</a></td>
 <td>0.7752</td>
-<td>20</td>
+<td>1</td>
 <td>0.9771</td>
 <td>-36.574</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/TUBB2B_0">=></a></td>
@@ -16812,7 +16811,7 @@
 <td>URS0000AB1962_329726</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB1962/329726">RS</a></td>
 <td>0.9049</td>
-<td>20</td>
+<td>16</td>
 <td>0.9831</td>
 <td>-37.062</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/TUBG1">=></a></td>
@@ -16824,7 +16823,7 @@
 <td>URS0000C56123_12908</td>
 <td><a href="https://rnacentral.org/rna/URS0000C56123/12908">RS</a></td>
 <td>0.7255</td>
-<td>20</td>
+<td>5</td>
 <td>0.9897</td>
 <td>-16.792</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/TULP1">=></a></td>
@@ -16836,7 +16835,7 @@
 <td>URS0000E608C8_1736544</td>
 <td><a href="https://rnacentral.org/rna/URS0000E608C8/1736544">RS</a></td>
 <td>0.9320</td>
-<td>20</td>
+<td>18</td>
 <td>0.9857</td>
 <td>-13.538</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/TUT1">=></a></td>
@@ -16848,7 +16847,7 @@
 <td>URS0000ABA9F1_471881</td>
 <td><a href="https://rnacentral.org/rna/URS0000ABA9F1/471881">RS</a></td>
 <td>0.8931</td>
-<td>20</td>
+<td>14</td>
 <td>0.9601</td>
 <td>-24.126</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/TXK">=></a></td>
@@ -16860,7 +16859,7 @@
 <td>URS0000C2D0E7_1095749</td>
 <td><a href="https://rnacentral.org/rna/URS0000C2D0E7/1095749">RS</a></td>
 <td>0.7779</td>
-<td>20</td>
+<td>1</td>
 <td>0.9807</td>
 <td>-19.855</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/TXLNA">=></a></td>
@@ -16896,7 +16895,7 @@
 <td>URS0000DB1E4A_1797657</td>
 <td><a href="https://rnacentral.org/rna/URS0000DB1E4A/1797657">RS</a></td>
 <td>0.9231</td>
-<td>20</td>
+<td>17</td>
 <td>0.9491</td>
 <td>-79.742</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/TYW1">=></a></td>
@@ -16920,7 +16919,7 @@
 <td>URS0000C80721_1504536</td>
 <td><a href="https://rnacentral.org/rna/URS0000C80721/1504536">RS</a></td>
 <td>0.7581</td>
-<td>20</td>
+<td>2</td>
 <td>0.9750</td>
 <td>-29.493</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/UBA52">=></a></td>
@@ -16944,7 +16943,7 @@
 <td>URS0000BE345D_449659</td>
 <td><a href="https://rnacentral.org/rna/URS0000BE345D/449659">RS</a></td>
 <td>0.9412</td>
-<td>20</td>
+<td>19</td>
 <td>0.9482</td>
 <td>-43.564</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/UBAP2L">=></a></td>
@@ -16968,7 +16967,7 @@
 <td>URS0000AB1C54_563192</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB1C54/563192">RS</a></td>
 <td>0.9087</td>
-<td>20</td>
+<td>16</td>
 <td>0.9633</td>
 <td>-40.100</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/UBAP2L_1">=></a></td>
@@ -16980,7 +16979,7 @@
 <td>URS000232A443_1515613</td>
 <td><a href="https://rnacentral.org/rna/URS000232A443/1515613">RS</a></td>
 <td>0.8756</td>
-<td>20</td>
+<td>14</td>
 <td>0.9320</td>
 <td>-62.800</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/UBAP2L_2">=></a></td>
@@ -16992,7 +16991,7 @@
 <td>URS0002319A4B_1617433</td>
 <td><a href="https://rnacentral.org/rna/URS0002319A4B/1617433">RS</a></td>
 <td>0.9522</td>
-<td>20</td>
+<td>16</td>
 <td>0.9525</td>
 <td>-45.315</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/UBAP2L_3">=></a></td>
@@ -17004,7 +17003,7 @@
 <td>URS0002314C4C_212717</td>
 <td><a href="https://rnacentral.org/rna/URS0002314C4C/212717">RS</a></td>
 <td>0.9588</td>
-<td>20</td>
+<td>19</td>
 <td>0.9512</td>
 <td>-40.934</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/UBAP2L_4">=></a></td>
@@ -17016,7 +17015,7 @@
 <td>URS0002312294_1803469</td>
 <td><a href="https://rnacentral.org/rna/URS0002312294/1803469">RS</a></td>
 <td>0.6818</td>
-<td>20</td>
+<td>1</td>
 <td>0.9264</td>
 <td>-59.314</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/UBAP2L_5">=></a></td>
@@ -17040,7 +17039,7 @@
 <td>URS0000D85C2B_1797236</td>
 <td><a href="https://rnacentral.org/rna/URS0000D85C2B/1797236">RS</a></td>
 <td>0.7812</td>
-<td>20</td>
+<td>1</td>
 <td>0.9796</td>
 <td>-34.478</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/UBE2C">=></a></td>
@@ -17052,7 +17051,7 @@
 <td>URS0000C1593C_1395513</td>
 <td><a href="https://rnacentral.org/rna/URS0000C1593C/1395513">RS</a></td>
 <td>0.7670</td>
-<td>20</td>
+<td>2</td>
 <td>0.9761</td>
 <td>-43.063</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/UBE2F">=></a></td>
@@ -17064,7 +17063,7 @@
 <td>URS000231FB6F_1306406</td>
 <td><a href="https://rnacentral.org/rna/URS000231FB6F/1306406">RS</a></td>
 <td>0.9571</td>
-<td>20</td>
+<td>18</td>
 <td>0.9637</td>
 <td>-34.132</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/UBE2F_0">=></a></td>
@@ -17076,7 +17075,7 @@
 <td>URS0000C65629_12908</td>
 <td><a href="https://rnacentral.org/rna/URS0000C65629/12908">RS</a></td>
 <td>0.7953</td>
-<td>20</td>
+<td>2</td>
 <td>0.9869</td>
 <td>-16.142</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/UBE3A">=></a></td>
@@ -17100,7 +17099,7 @@
 <td>URS0000DA5201_1805166</td>
 <td><a href="https://rnacentral.org/rna/URS0000DA5201/1805166">RS</a></td>
 <td>0.7655</td>
-<td>20</td>
+<td>1</td>
 <td>0.9845</td>
 <td>-34.768</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/UCHL1">=></a></td>
@@ -17112,7 +17111,7 @@
 <td>URS00021EDAAB_658057</td>
 <td><a href="https://rnacentral.org/rna/URS00021EDAAB/658057">RS</a></td>
 <td>0.7079</td>
-<td>20</td>
+<td>1</td>
 <td>0.9877</td>
 <td>-13.017</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/UCHL1_0">=></a></td>
@@ -17136,7 +17135,7 @@
 <td>URS0000AB8098_555088</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB8098/555088">RS</a></td>
 <td>0.8808</td>
-<td>20</td>
+<td>13</td>
 <td>0.9661</td>
 <td>-52.107</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/UQCRC2">=></a></td>
@@ -17160,7 +17159,7 @@
 <td>URS000231984D_1292036</td>
 <td><a href="https://rnacentral.org/rna/URS000231984D/1292036">RS</a></td>
 <td>0.9445</td>
-<td>20</td>
+<td>17</td>
 <td>0.9541</td>
 <td>-55.113</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/UQCRH_0">=></a></td>
@@ -17184,7 +17183,7 @@
 <td>URS0000C0EE03_1423739</td>
 <td><a href="https://rnacentral.org/rna/URS0000C0EE03/1423739">RS</a></td>
 <td>0.7629</td>
-<td>20</td>
+<td>1</td>
 <td>0.9805</td>
 <td>-17.707</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/UROS">=></a></td>
@@ -17196,7 +17195,7 @@
 <td>URS0000CD9DB7_1695997</td>
 <td><a href="https://rnacentral.org/rna/URS0000CD9DB7/1695997">RS</a></td>
 <td>0.8132</td>
-<td>20</td>
+<td>2</td>
 <td>0.9704</td>
 <td>-56.630</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/USP30">=></a></td>
@@ -17208,7 +17207,7 @@
 <td>URS0000BF0D92_1837282</td>
 <td><a href="https://rnacentral.org/rna/URS0000BF0D92/1837282">RS</a></td>
 <td>0.8434</td>
-<td>20</td>
+<td>8</td>
 <td>0.9828</td>
 <td>-50.397</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/USP30_0">=></a></td>
@@ -17232,7 +17231,7 @@
 <td>URS0000E5FC23_1484158</td>
 <td><a href="https://rnacentral.org/rna/URS0000E5FC23/1484158">RS</a></td>
 <td>0.7677</td>
-<td>20</td>
+<td>3</td>
 <td>0.9896</td>
 <td>-7.916</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/USP6NL">=></a></td>
@@ -17244,7 +17243,7 @@
 <td>URS0002321E67_307121</td>
 <td><a href="https://rnacentral.org/rna/URS0002321E67/307121">RS</a></td>
 <td>0.7587</td>
-<td>20</td>
+<td>1</td>
 <td>0.9155</td>
 <td>-86.771</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/UTP15">=></a></td>
@@ -17280,7 +17279,7 @@
 <td>URS0000DB0873_1703924</td>
 <td><a href="https://rnacentral.org/rna/URS0000DB0873/1703924">RS</a></td>
 <td>0.8272</td>
-<td>20</td>
+<td>1</td>
 <td>0.9732</td>
 <td>-50.331</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/UTP23">=></a></td>
@@ -17292,7 +17291,7 @@
 <td>URS0000C2D712_1492922</td>
 <td><a href="https://rnacentral.org/rna/URS0000C2D712/1492922">RS</a></td>
 <td>0.8963</td>
-<td>20</td>
+<td>15</td>
 <td>0.9770</td>
 <td>-34.440</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/UTP6">=></a></td>
@@ -17304,7 +17303,7 @@
 <td>URS0000D9A71F_1895747</td>
 <td><a href="https://rnacentral.org/rna/URS0000D9A71F/1895747">RS</a></td>
 <td>0.7063</td>
-<td>20</td>
+<td>1</td>
 <td>0.9869</td>
 <td>-14.299</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/VAMP4">=></a></td>
@@ -17316,7 +17315,7 @@
 <td>URS0002322F0E_398199</td>
 <td><a href="https://rnacentral.org/rna/URS0002322F0E/398199">RS</a></td>
 <td>0.8392</td>
-<td>20</td>
+<td>8</td>
 <td>0.9857</td>
 <td>-14.552</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/VAT1">=></a></td>
@@ -17328,7 +17327,7 @@
 <td>URS0000D7DDD0_1192162</td>
 <td><a href="https://rnacentral.org/rna/URS0000D7DDD0/1192162">RS</a></td>
 <td>0.8049</td>
-<td>20</td>
+<td>2</td>
 <td>0.9657</td>
 <td>-33.798</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/VDAC1">=></a></td>
@@ -17340,7 +17339,7 @@
 <td>URS0000DB16BF_29486</td>
 <td><a href="https://rnacentral.org/rna/URS0000DB16BF/29486">RS</a></td>
 <td>0.9303</td>
-<td>20</td>
+<td>18</td>
 <td>0.9891</td>
 <td>-23.255</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/VPS25">=></a></td>
@@ -17376,7 +17375,7 @@
 <td>URS0000C1A2FC_768710</td>
 <td><a href="https://rnacentral.org/rna/URS0000C1A2FC/768710">RS</a></td>
 <td>0.7165</td>
-<td>20</td>
+<td>1</td>
 <td>0.9612</td>
 <td>-66.859</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/VRK1_0">=></a></td>
@@ -17400,7 +17399,7 @@
 <td>URS0000D950AF_1764959</td>
 <td><a href="https://rnacentral.org/rna/URS0000D950AF/1764959">RS</a></td>
 <td>0.8048</td>
-<td>20</td>
+<td>4</td>
 <td>0.9823</td>
 <td>-26.404</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/WDR20">=></a></td>
@@ -17412,7 +17411,7 @@
 <td>URS0000C0F77E_1292022</td>
 <td><a href="https://rnacentral.org/rna/URS0000C0F77E/1292022">RS</a></td>
 <td>0.8644</td>
-<td>20</td>
+<td>11</td>
 <td>0.9731</td>
 <td>-46.053</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/WDR35">=></a></td>
@@ -17436,7 +17435,7 @@
 <td>URS000233495C_54911</td>
 <td><a href="https://rnacentral.org/rna/URS000233495C/54911">RS</a></td>
 <td>0.8612</td>
-<td>20</td>
+<td>13</td>
 <td>0.9454</td>
 <td>-76.938</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/WDR45">=></a></td>
@@ -17448,7 +17447,7 @@
 <td>URS000231426F_1727164</td>
 <td><a href="https://rnacentral.org/rna/URS000231426F/1727164">RS</a></td>
 <td>0.9583</td>
-<td>20</td>
+<td>19</td>
 <td>0.9409</td>
 <td>-78.688</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/WDR45_0">=></a></td>
@@ -17460,7 +17459,7 @@
 <td>URS0002312D99_2064</td>
 <td><a href="https://rnacentral.org/rna/URS0002312D99/2064">RS</a></td>
 <td>0.8196</td>
-<td>20</td>
+<td>12</td>
 <td>0.9396</td>
 <td>-78.747</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/WDR45_1">=></a></td>
@@ -17472,7 +17471,7 @@
 <td>URS0000BE6853_324057</td>
 <td><a href="https://rnacentral.org/rna/URS0000BE6853/324057">RS</a></td>
 <td>0.7476</td>
-<td>20</td>
+<td>1</td>
 <td>0.9876</td>
 <td>-11.323</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/WDR47">=></a></td>
@@ -17484,7 +17483,7 @@
 <td>URS0000C12183_1677858</td>
 <td><a href="https://rnacentral.org/rna/URS0000C12183/1677858">RS</a></td>
 <td>0.8301</td>
-<td>20</td>
+<td>2</td>
 <td>0.9651</td>
 <td>-34.356</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/WDR59">=></a></td>
@@ -17496,7 +17495,7 @@
 <td>URS0000ABB73A_1282</td>
 <td><a href="https://rnacentral.org/rna/URS0000ABB73A/1282">RS</a></td>
 <td>0.9013</td>
-<td>20</td>
+<td>16</td>
 <td>0.9857</td>
 <td>-32.419</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/WDR61">=></a></td>
@@ -17508,7 +17507,7 @@
 <td>URS0000AB8667_743718</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB8667/743718">RS</a></td>
 <td>0.8478</td>
-<td>20</td>
+<td>11</td>
 <td>0.9728</td>
 <td>-38.771</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/WDR93">=></a></td>
@@ -17532,7 +17531,7 @@
 <td>URS0000C1FC2E_1736595</td>
 <td><a href="https://rnacentral.org/rna/URS0000C1FC2E/1736595">RS</a></td>
 <td>0.8335</td>
-<td>20</td>
+<td>7</td>
 <td>0.9626</td>
 <td>-47.089</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/WHAMM">=></a></td>
@@ -17544,7 +17543,7 @@
 <td>URS0000C72400_1291734</td>
 <td><a href="https://rnacentral.org/rna/URS0000C72400/1291734">RS</a></td>
 <td>0.9381</td>
-<td>20</td>
+<td>18</td>
 <td>0.9605</td>
 <td>-40.917</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/WIPF2">=></a></td>
@@ -17580,7 +17579,7 @@
 <td>URS0000C56E35_12908</td>
 <td><a href="https://rnacentral.org/rna/URS0000C56E35/12908">RS</a></td>
 <td>0.7381</td>
-<td>20</td>
+<td>1</td>
 <td>0.9876</td>
 <td>-12.201</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/XAF1">=></a></td>
@@ -17592,7 +17591,7 @@
 <td>URS00005268BD_508767</td>
 <td><a href="https://rnacentral.org/rna/URS00005268BD/508767">RS</a></td>
 <td>0.8948</td>
-<td>20</td>
+<td>15</td>
 <td>0.9608</td>
 <td>-32.085</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/XPNPEP1">=></a></td>
@@ -17604,7 +17603,7 @@
 <td>URS0002316087_1302241</td>
 <td><a href="https://rnacentral.org/rna/URS0002316087/1302241">RS</a></td>
 <td>0.8573</td>
-<td>20</td>
+<td>14</td>
 <td>0.9558</td>
 <td>-39.952</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/XPNPEP1_0">=></a></td>
@@ -17628,7 +17627,7 @@
 <td>URS00023135C2_1797827</td>
 <td><a href="https://rnacentral.org/rna/URS00023135C2/1797827">RS</a></td>
 <td>0.9421</td>
-<td>20</td>
+<td>19</td>
 <td>0.9526</td>
 <td>-47.103</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/XRCC4_0">=></a></td>
@@ -17640,7 +17639,7 @@
 <td>URS000231F8A0_279058</td>
 <td><a href="https://rnacentral.org/rna/URS000231F8A0/279058">RS</a></td>
 <td>0.9297</td>
-<td>20</td>
+<td>18</td>
 <td>0.9349</td>
 <td>-75.763</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/XRCC4_1">=></a></td>
@@ -17664,7 +17663,7 @@
 <td>URS0000C75678_1716141</td>
 <td><a href="https://rnacentral.org/rna/URS0000C75678/1716141">RS</a></td>
 <td>0.8331</td>
-<td>20</td>
+<td>15</td>
 <td>0.9556</td>
 <td>-52.787</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/XRCC5">=></a></td>
@@ -17688,7 +17687,7 @@
 <td>URS0000C20881_1635277</td>
 <td><a href="https://rnacentral.org/rna/URS0000C20881/1635277">RS</a></td>
 <td>0.7991</td>
-<td>20</td>
+<td>5</td>
 <td>0.9898</td>
 <td>-31.257</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/XRCC6">=></a></td>
@@ -17700,7 +17699,7 @@
 <td>URS0000C80C50_1736407</td>
 <td><a href="https://rnacentral.org/rna/URS0000C80C50/1736407">RS</a></td>
 <td>0.7494</td>
-<td>20</td>
+<td>1</td>
 <td>0.9898</td>
 <td>-22.341</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/YIF1B">=></a></td>
@@ -17712,7 +17711,7 @@
 <td>URS000231D10F_1736531</td>
 <td><a href="https://rnacentral.org/rna/URS000231D10F/1736531">RS</a></td>
 <td>0.8060</td>
-<td>20</td>
+<td>2</td>
 <td>0.9482</td>
 <td>-76.294</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/YIPF1">=></a></td>
@@ -17724,7 +17723,7 @@
 <td>URS0000C2CD7B_1501230</td>
 <td><a href="https://rnacentral.org/rna/URS0000C2CD7B/1501230">RS</a></td>
 <td>0.8117</td>
-<td>20</td>
+<td>3</td>
 <td>0.9643</td>
 <td>-68.557</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/YIPF2">=></a></td>
@@ -17736,7 +17735,7 @@
 <td>URS0002311C2D_1586290</td>
 <td><a href="https://rnacentral.org/rna/URS0002311C2D/1586290">RS</a></td>
 <td>0.9032</td>
-<td>20</td>
+<td>16</td>
 <td>0.9584</td>
 <td>-81.412</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/YIPF2_0">=></a></td>
@@ -17748,7 +17747,7 @@
 <td>URS0000AB334D_930171</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB334D/930171">RS</a></td>
 <td>0.9444</td>
-<td>20</td>
+<td>17</td>
 <td>0.9669</td>
 <td>-62.348</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/YLPM1">=></a></td>
@@ -17772,7 +17771,7 @@
 <td>URS0000D66693_12908</td>
 <td><a href="https://rnacentral.org/rna/URS0000D66693/12908">RS</a></td>
 <td>0.8440</td>
-<td>20</td>
+<td>7</td>
 <td>0.9829</td>
 <td>-32.488</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/YPEL5">=></a></td>
@@ -17784,7 +17783,7 @@
 <td>URS0000C5A7F8_1016849</td>
 <td><a href="https://rnacentral.org/rna/URS0000C5A7F8/1016849">RS</a></td>
 <td>0.8600</td>
-<td>20</td>
+<td>12</td>
 <td>0.9578</td>
 <td>-46.391</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/YWHAB">=></a></td>
@@ -17796,7 +17795,7 @@
 <td>URS0000C0A20E_1504672</td>
 <td><a href="https://rnacentral.org/rna/URS0000C0A20E/1504672">RS</a></td>
 <td>0.7897</td>
-<td>20</td>
+<td>3</td>
 <td>0.9778</td>
 <td>-31.297</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/YWHAE">=></a></td>
@@ -17808,7 +17807,7 @@
 <td>URS0000AB8BEA_1082931</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB8BEA/1082931">RS</a></td>
 <td>0.8046</td>
-<td>20</td>
+<td>3</td>
 <td>0.9781</td>
 <td>-48.759</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ZBED3">=></a></td>
@@ -17820,7 +17819,7 @@
 <td>URS0000C6ED2A_1423813</td>
 <td><a href="https://rnacentral.org/rna/URS0000C6ED2A/1423813">RS</a></td>
 <td>0.8252</td>
-<td>20</td>
+<td>5</td>
 <td>0.9656</td>
 <td>-24.852</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ZBTB24">=></a></td>
@@ -17832,7 +17831,7 @@
 <td>URS0000C2998C_169760</td>
 <td><a href="https://rnacentral.org/rna/URS0000C2998C/169760">RS</a></td>
 <td>0.9347</td>
-<td>20</td>
+<td>18</td>
 <td>0.9781</td>
 <td>-29.607</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ZBTB39">=></a></td>
@@ -17844,7 +17843,7 @@
 <td>URS0000E60188_1736420</td>
 <td><a href="https://rnacentral.org/rna/URS0000E60188/1736420">RS</a></td>
 <td>0.8876</td>
-<td>20</td>
+<td>15</td>
 <td>0.9874</td>
 <td>-10.627</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ZBTB46">=></a></td>
@@ -17868,7 +17867,7 @@
 <td>URS0000DAF3AC_1701573</td>
 <td><a href="https://rnacentral.org/rna/URS0000DAF3AC/1701573">RS</a></td>
 <td>0.8051</td>
-<td>20</td>
+<td>4</td>
 <td>0.9822</td>
 <td>-25.837</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ZC3H13">=></a></td>
@@ -17892,7 +17891,7 @@
 <td>URS0000C5945B_1078086</td>
 <td><a href="https://rnacentral.org/rna/URS0000C5945B/1078086">RS</a></td>
 <td>0.8712</td>
-<td>20</td>
+<td>14</td>
 <td>0.9593</td>
 <td>-58.900</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ZCCHC9">=></a></td>
@@ -17904,7 +17903,7 @@
 <td>URS0000C301B0_84022</td>
 <td><a href="https://rnacentral.org/rna/URS0000C301B0/84022">RS</a></td>
 <td>0.8761</td>
-<td>20</td>
+<td>10</td>
 <td>0.9723</td>
 <td>-47.473</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ZCCHC9_0">=></a></td>
@@ -17916,7 +17915,7 @@
 <td>URS0000C53B15_908809</td>
 <td><a href="https://rnacentral.org/rna/URS0000C53B15/908809">RS</a></td>
 <td>0.8616</td>
-<td>20</td>
+<td>15</td>
 <td>0.9725</td>
 <td>-24.779</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ZDHHC20">=></a></td>
@@ -17928,7 +17927,7 @@
 <td>URS0000C4A1A6_87541</td>
 <td><a href="https://rnacentral.org/rna/URS0000C4A1A6/87541">RS</a></td>
 <td>0.7082</td>
-<td>20</td>
+<td>1</td>
 <td>0.9845</td>
 <td>-21.817</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ZDHHC6">=></a></td>
@@ -17940,7 +17939,7 @@
 <td>URS0000DB5955_1416753</td>
 <td><a href="https://rnacentral.org/rna/URS0000DB5955/1416753">RS</a></td>
 <td>0.9256</td>
-<td>20</td>
+<td>18</td>
 <td>0.9539</td>
 <td>-24.041</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ZFAND6">=></a></td>
@@ -17952,7 +17951,7 @@
 <td>URS0000C304F2_149040</td>
 <td><a href="https://rnacentral.org/rna/URS0000C304F2/149040">RS</a></td>
 <td>0.8671</td>
-<td>20</td>
+<td>12</td>
 <td>0.9596</td>
 <td>-65.603</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ZFPL1">=></a></td>
@@ -17964,7 +17963,7 @@
 <td>URS0000D7D027_53463</td>
 <td><a href="https://rnacentral.org/rna/URS0000D7D027/53463">RS</a></td>
 <td>0.7251</td>
-<td>20</td>
+<td>4</td>
 <td>0.9900</td>
 <td>-19.247</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ZFPM2">=></a></td>
@@ -17988,7 +17987,7 @@
 <td>URS000232AB93_1797892</td>
 <td><a href="https://rnacentral.org/rna/URS000232AB93/1797892">RS</a></td>
 <td>0.8913</td>
-<td>20</td>
+<td>15</td>
 <td>0.9454</td>
 <td>-38.972</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ZFYVE16">=></a></td>
@@ -18000,7 +17999,7 @@
 <td>URS0000D672DC_12908</td>
 <td><a href="https://rnacentral.org/rna/URS0000D672DC/12908">RS</a></td>
 <td>0.9417</td>
-<td>20</td>
+<td>19</td>
 <td>0.9850</td>
 <td>-22.522</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ZFYVE19">=></a></td>
@@ -18012,7 +18011,7 @@
 <td>URS0000D66AF8_12908</td>
 <td><a href="https://rnacentral.org/rna/URS0000D66AF8/12908">RS</a></td>
 <td>0.8432</td>
-<td>20</td>
+<td>8</td>
 <td>0.9813</td>
 <td>-18.888</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ZMAT4">=></a></td>
@@ -18024,7 +18023,7 @@
 <td>URS000231EB5F_1703929</td>
 <td><a href="https://rnacentral.org/rna/URS000231EB5F/1703929">RS</a></td>
 <td>0.9005</td>
-<td>20</td>
+<td>17</td>
 <td>0.9641</td>
 <td>-28.015</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ZMYND11">=></a></td>
@@ -18036,7 +18035,7 @@
 <td>URS00021EDDF3_376733</td>
 <td><a href="https://rnacentral.org/rna/URS00021EDDF3/376733">RS</a></td>
 <td>0.6894</td>
-<td>20</td>
+<td>2</td>
 <td>0.9883</td>
 <td>-13.948</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ZNF185">=></a></td>
@@ -18048,7 +18047,7 @@
 <td>URS0002319DA8_1621259</td>
 <td><a href="https://rnacentral.org/rna/URS0002319DA8/1621259">RS</a></td>
 <td>0.9397</td>
-<td>20</td>
+<td>18</td>
 <td>0.9599</td>
 <td>-65.123</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ZNF211">=></a></td>
@@ -18060,7 +18059,7 @@
 <td>URS00023297B0_882102</td>
 <td><a href="https://rnacentral.org/rna/URS00023297B0/882102">RS</a></td>
 <td>0.9403</td>
-<td>20</td>
+<td>17</td>
 <td>0.9346</td>
 <td>-60.109</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ZNF236">=></a></td>
@@ -18072,7 +18071,7 @@
 <td>URS000232DCC6_1892869</td>
 <td><a href="https://rnacentral.org/rna/URS000232DCC6/1892869">RS</a></td>
 <td>0.8126</td>
-<td>20</td>
+<td>3</td>
 <td>0.9758</td>
 <td>-46.456</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ZNF281">=></a></td>
@@ -18108,7 +18107,7 @@
 <td>URS0000D861EB_1889883</td>
 <td><a href="https://rnacentral.org/rna/URS0000D861EB/1889883">RS</a></td>
 <td>0.9079</td>
-<td>20</td>
+<td>18</td>
 <td>0.9761</td>
 <td>-11.561</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ZNF345">=></a></td>
@@ -18120,7 +18119,7 @@
 <td>URS0000D7E438_1123357</td>
 <td><a href="https://rnacentral.org/rna/URS0000D7E438/1123357">RS</a></td>
 <td>0.9594</td>
-<td>20</td>
+<td>19</td>
 <td>0.9894</td>
 <td>-26.051</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ZNF346">=></a></td>
@@ -18132,7 +18131,7 @@
 <td>URS0000DAB0FE_61013</td>
 <td><a href="https://rnacentral.org/rna/URS0000DAB0FE/61013">RS</a></td>
 <td>0.9234</td>
-<td>20</td>
+<td>17</td>
 <td>0.9864</td>
 <td>-27.605</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ZNF346_0">=></a></td>
@@ -18144,7 +18143,7 @@
 <td>URS0000D96347_1797566</td>
 <td><a href="https://rnacentral.org/rna/URS0000D96347/1797566">RS</a></td>
 <td>0.8522</td>
-<td>20</td>
+<td>10</td>
 <td>0.9845</td>
 <td>-10.081</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ZNF407">=></a></td>
@@ -18204,7 +18203,7 @@
 <td>URS0000C80990_33050</td>
 <td><a href="https://rnacentral.org/rna/URS0000C80990/33050">RS</a></td>
 <td>0.7507</td>
-<td>20</td>
+<td>1</td>
 <td>0.9729</td>
 <td>-32.743</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ZNF484">=></a></td>
@@ -18216,7 +18215,7 @@
 <td>URS0000AB9479_331869</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB9479/331869">RS</a></td>
 <td>0.8471</td>
-<td>20</td>
+<td>11</td>
 <td>0.9667</td>
 <td>-29.249</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ZNF585B">=></a></td>
@@ -18228,7 +18227,7 @@
 <td>URS0000BE4FEF_485447</td>
 <td><a href="https://rnacentral.org/rna/URS0000BE4FEF/485447">RS</a></td>
 <td>0.8295</td>
-<td>20</td>
+<td>2</td>
 <td>0.9623</td>
 <td>-66.421</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ZNF594">=></a></td>
@@ -18252,7 +18251,7 @@
 <td>URS000232DB64_504472</td>
 <td><a href="https://rnacentral.org/rna/URS000232DB64/504472">RS</a></td>
 <td>0.9610</td>
-<td>20</td>
+<td>19</td>
 <td>0.9437</td>
 <td>-54.150</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ZNF611_0">=></a></td>
@@ -18264,7 +18263,7 @@
 <td>URS0000C12790_1618776</td>
 <td><a href="https://rnacentral.org/rna/URS0000C12790/1618776">RS</a></td>
 <td>0.7822</td>
-<td>20</td>
+<td>1</td>
 <td>0.9662</td>
 <td>-38.078</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ZNF615">=></a></td>
@@ -18276,7 +18275,7 @@
 <td>URS0000D89FFD_573370</td>
 <td><a href="https://rnacentral.org/rna/URS0000D89FFD/573370">RS</a></td>
 <td>0.9194</td>
-<td>20</td>
+<td>17</td>
 <td>0.9840</td>
 <td>-23.592</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ZNF615_0">=></a></td>
@@ -18288,7 +18287,7 @@
 <td>URS0000AB1891_700597</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB1891/700597">RS</a></td>
 <td>0.8421</td>
-<td>20</td>
+<td>11</td>
 <td>0.9579</td>
 <td>-60.689</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ZNF644">=></a></td>
@@ -18300,7 +18299,7 @@
 <td>URS000232D5E0_1263095</td>
 <td><a href="https://rnacentral.org/rna/URS000232D5E0/1263095">RS</a></td>
 <td>0.7708</td>
-<td>20</td>
+<td>1</td>
 <td>0.9525</td>
 <td>-66.348</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ZNF687">=></a></td>
@@ -18336,7 +18335,7 @@
 <td>URS0000AB1898_196600</td>
 <td><a href="https://rnacentral.org/rna/URS0000AB1898/196600">RS</a></td>
 <td>0.9030</td>
-<td>20</td>
+<td>16</td>
 <td>0.9667</td>
 <td>-42.991</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ZNF75D">=></a></td>
@@ -18396,7 +18395,7 @@
 <td>URS0000D66260_228400</td>
 <td><a href="https://rnacentral.org/rna/URS0000D66260/228400">RS</a></td>
 <td>0.9292</td>
-<td>20</td>
+<td>19</td>
 <td>0.9659</td>
 <td>-33.040</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ZNF821">=></a></td>
@@ -18408,7 +18407,7 @@
 <td>URS0002328420_1200284</td>
 <td><a href="https://rnacentral.org/rna/URS0002328420/1200284">RS</a></td>
 <td>0.9033</td>
-<td>20</td>
+<td>15</td>
 <td>0.9259</td>
 <td>-64.308</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ZRANB3">=></a></td>
@@ -18420,7 +18419,7 @@
 <td>URS0000D7B131_1834139</td>
 <td><a href="https://rnacentral.org/rna/URS0000D7B131/1834139">RS</a></td>
 <td>0.8772</td>
-<td>20</td>
+<td>12</td>
 <td>0.9861</td>
 <td>-20.499</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ZRANB3_0">=></a></td>
@@ -18432,7 +18431,7 @@
 <td>URS000231B4D3_408172</td>
 <td><a href="https://rnacentral.org/rna/URS000231B4D3/408172">RS</a></td>
 <td>0.7457</td>
-<td>20</td>
+<td>2</td>
 <td>0.9847</td>
 <td>-14.846</td>
 <td><a href="/human_riboswitch_hits_gallery/_mds/ZZZ3">=></a></td>
