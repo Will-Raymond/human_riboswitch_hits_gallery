@@ -543,3 +543,8 @@ for i in range(len(ulist)):
                         
     make_md(gene, tuple(master_str_tuple))
 '''
+
+from PIL import Image
+for f in os.listdir('./alns_10.27.23/'):
+    img = Image.open('./alns_10.27.23/' + f)
+    img.crop((460,330, 3480,2660)).save('./alns_10.27.23/' + f)

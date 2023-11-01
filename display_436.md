@@ -5,6 +5,7 @@ permalink: /display_436/
 datatable: true
 ---
 
+<link rel="shortcut icon" type="image/png" href="../icon.png">
 <link rel="stylesheet" type="text/css" href="../custom.css">
 <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/dt/jq-3.6.0/dt-1.11.3/datatables.min.css"/>
  
