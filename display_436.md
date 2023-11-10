@@ -28,16 +28,16 @@ $(document).ready(function(){
 <table id="maintable" class="display">
 <thead>
 <tr>
-<th>Gene</th>
-<th>5'UTR mRNA</th>
-<th>UTRdb link</th>
-<th>Closest RS</th>
-<th>RS link</th>
-<th>Ensemble Norm</th>
-<th>Ensemble Count</th>
-<th>Similarity</th>
-<th>MFE</th>
-<th>Visualization</th>
+<th> <div title="What gene is this transcript associated with?"> Gene </div></th>
+<th> <div title="ID in original UTRdb"> 5'UTR UTRdb 1.0 ID </div></th>
+<th> <div title="Defunct link to original UTRdb"> UTRdb 1.0 link </div></th>
+<th> <div title="ID on RNA central of closest RS match"> Closest RS ID</div></th>
+<th> <div title="Link to closest RS match on RNA central "> Closest RS link </div></th>
+<th> <div title="Average RS probability reported by the classifiers"> Ensemble Norm </div></th>
+<th> <div title="How many classifiers found this 5'UTR to be a RS?"> Ensemble Count </div></th>
+<th> <div title="Best similarity metric between 5'UTR hit and RS normalized(length distance + edit distance + structural feature vector MSE)/3"> Similarity </div></th>
+<th> <div title="Mean free energy of the NUPACK predicted dot structure"> MFE </div></th>
+<th><div title="Link to the visualization page of this hit"> Visualization </div></th>
 </tr>
 </thead>
 <tbody>
