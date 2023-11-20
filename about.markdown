@@ -19,6 +19,14 @@ Positive examples were sorted by ligand, and 20 positive-unlabeled classifiers w
 
 ## Contact info
 
+#### William S. Raymond<sup>1,&</sup>, Jacob DeRoo<sup>1</sup>, Brian Munsky<sup>1,2,$</sup>
+
+<sup><sup>1</sup> School of Biomedical Engineering, Colorado State University Fort Collins, CO 80523, USA</sup>
+<sup><sup>2</sup>  Chemical and Biological Engineering, Colorado State University Fort Collins, CO 80523, USA</sup>
+
+& <a href="wsraymon@rams.colostate.edu">wsraymon@rams.colostate.edu</a>
+
+$ <a href="brian.munsky@colostate.edu">brian.munsky@colostate.edu</a> 
 
 ## Table links
 
