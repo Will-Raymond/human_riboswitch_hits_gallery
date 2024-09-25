@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.964<br>
                     Length: 130.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 15/20<br>
-                    lysine - 2/20<br>
-                    FMN - 2/20<br>         
+                    FMN - 20/20<br>
+                    <br>
+                    <br>         
             </td>
             <td>
                     RS: URS0000AB52A6_1045854<br>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA022359/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000AB52A6/1045854" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C84DB1/1262892" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C6D608/1834077" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000AB52A6/1045854" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C84DB1/1262892" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C6D608/1834077" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA022359     | URS0000AB52A6_1045854     | URS0000C84DB1_1262892     | URS0000C6D608_1834077     |
 | <span title="Length of the sequence in question">Length</span>  | 130.     |  128.    | 133.   |  130.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.964 | 0.960 | 0.964 |

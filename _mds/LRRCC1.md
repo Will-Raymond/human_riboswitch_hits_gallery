@@ -32,7 +32,7 @@ exclude: true
                     ENS: 0.947<br>
                     Length: 189.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
+                    lysine - 20/20<br>
                     <br>
                     <br>         
             </td>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA060665/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000BF8CC5/79884" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000D9D25B/1805073" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000AB7FA3/221109" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000BF8CC5/79884" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000D9D25B/1805073" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000AB7FA3/221109" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA060665     | URS0000BF8CC5_79884     | URS0000D9D25B_1805073     | URS0000AB7FA3_221109     |
 | <span title="Length of the sequence in question">Length</span>  | 189.     |  187.    | 186.   |  183.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.947 | 0.936 | 0.903 |

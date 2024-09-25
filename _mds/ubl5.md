@@ -32,7 +32,7 @@ exclude: true
                     ENS: 0.972<br>
                     Length: 129.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
+                    guanidine - 20/20<br>
                     <br>
                     <br>         
             </td>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA116393/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000D65B78/272564" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C55DD2/1660143" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C4BEAF/1134474" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000D65B78/272564" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C55DD2/1660143" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C4BEAF/1134474" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA116393     | URS0000D65B78_272564     | URS0000C55DD2_1660143     | URS0000C4BEAF_1134474     |
 | <span title="Length of the sequence in question">Length</span>  | 129.     |  129.    | 127.   |  130.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.972 | 0.959 | 0.969 |

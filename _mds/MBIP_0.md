@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.976<br>
                     Length: 113.<br>
                     Predicted Ligands:<br>
-                    zmp-ztp - 6/20<br>
-                    TPP - 5/20<br>
-                    guanidine - 4/20<br>         
+                    TPP - 20/20<br>
+                    <br>
+                    <br>         
             </td>
             <td>
                     RS: URS0000AB697F_351607<br>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA064073/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000AB697F/351607" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C6947B/768710" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000DB405F/2030" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000AB697F/351607" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C6947B/768710" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000DB405F/2030" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA064073     | URS0000AB697F_351607     | URS0000C6947B_768710     | URS0000DB405F_2030     |
 | <span title="Length of the sequence in question">Length</span>  | 113.     |  113.    | 112.   |  114.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.976 | 0.978 | 0.976 |

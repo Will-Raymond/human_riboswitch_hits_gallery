@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.954<br>
                     Length: 137.<br>
                     Predicted Ligands:<br>
-                    fluoride - 15/20<br>
-                    purine - 3/20<br>
-                    glutamine - 1/20<br>         
+                    TPP - 20/20<br>
+                    <br>
+                    <br>         
             </td>
             <td>
                     RS: URS0000DA759D_1802033<br>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA072814/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000DA759D/1802033" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000BF1DB0/1330036" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C43A3C/1660139" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000DA759D/1802033" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000BF1DB0/1330036" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C43A3C/1660139" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA072814     | URS0000DA759D_1802033     | URS0000BF1DB0_1330036     | URS0000C43A3C_1660139     |
 | <span title="Length of the sequence in question">Length</span>  | 137.     |  134.    | 135.   |  137.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.954 | 0.936 | 0.965 |

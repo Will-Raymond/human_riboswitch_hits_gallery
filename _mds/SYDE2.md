@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.919<br>
                     Length: 209.<br>
                     Predicted Ligands:<br>
-                    fluoride - 14/20<br>
-                    guanine - 3/20<br>
-                    unknown - 2/20<br>         
+                    cobalamin - 20/20<br>
+                    <br>
+                    <br>         
             </td>
             <td>
                     RS: URS00023321A9_1895708<br>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA106209/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS00023321A9/1895708" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS00023171E6/1262734" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS000231A362/639282" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS00023321A9/1895708" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS00023171E6/1262734" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS000231A362/639282" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA106209     | URS00023321A9_1895708     | URS00023171E6_1262734     | URS000231A362_639282     |
 | <span title="Length of the sequence in question">Length</span>  | 209.     |  211.    | 207.   |  210.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.919 | 0.923 | 0.903 |

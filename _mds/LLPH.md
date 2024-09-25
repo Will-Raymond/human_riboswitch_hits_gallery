@@ -32,7 +32,7 @@ exclude: true
                     ENS: 0.978<br>
                     Length: 81.<br>
                     Predicted Ligands:<br>
-                    fluoride - 20/20<br>
+                    cobalamin - 20/20<br>
                     <br>
                     <br>         
             </td>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA059278/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0002332722/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000D67EE2/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C02E9B/1620421" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0002332722/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000D67EE2/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C02E9B/1620421" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA059278     | URS0002332722_12908     | URS0000D67EE2_12908     | URS0000C02E9B_1620421     |
 | <span title="Length of the sequence in question">Length</span>  | 81.     |  81.    | 83.   |  79.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.978 | 0.978 | 0.976 |

@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.959<br>
                     Length: 123.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 7/20<br>
-                    homocysteine - 4/20<br>
-                    FMN - 4/20<br>         
+                    TPP - 20/20<br>
+                    <br>
+                    <br>         
             </td>
             <td>
                     RS: URS00023290BA_1797836<br>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA004366/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS00023290BA/1797836" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000DB1736/1797937" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C14A46/1660161" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS00023290BA/1797836" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000DB1736/1797937" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C14A46/1660161" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA004366     | URS00023290BA_1797836     | URS0000DB1736_1797937     | URS0000C14A46_1660161     |
 | <span title="Length of the sequence in question">Length</span>  | 123.     |  119.    | 124.   |  122.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.959 | 0.970 | 0.970 |

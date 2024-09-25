@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.961<br>
                     Length: 133.<br>
                     Predicted Ligands:<br>
-                    TPP - 9/20<br>
-                    tetrahydrofolate - 2/20<br>
-                    SAM - 2/20<br>         
+                    TPP - 20/20<br>
+                    <br>
+                    <br>         
             </td>
             <td>
                     RS: URS0000D802B4_1805091<br>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA037412/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000D802B4/1805091" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000BA9A40/1673631" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D92923/192843" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000D802B4/1805091" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000BA9A40/1673631" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D92923/192843" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA037412     | URS0000D802B4_1805091     | URS0000BA9A40_1673631     | URS0000D92923_192843     |
 | <span title="Length of the sequence in question">Length</span>  | 133.     |  130.    | 133.   |  134.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.961 | 0.965 | 0.966 |

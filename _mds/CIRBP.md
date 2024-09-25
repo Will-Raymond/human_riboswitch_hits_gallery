@@ -32,7 +32,7 @@ exclude: true
                     ENS: 0.961<br>
                     Length: 136.<br>
                     Predicted Ligands:<br>
-                    guanidine - 20/20<br>
+                    cobalamin - 20/20<br>
                     <br>
                     <br>         
             </td>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA022142/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C4712E/1736322" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0002321DBC/1136941" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C7DF26/1888892" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000C4712E/1736322" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0002321DBC/1136941" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C7DF26/1888892" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA022142     | URS0000C4712E_1736322     | URS0002321DBC_1136941     | URS0000C7DF26_1888892     |
 | <span title="Length of the sequence in question">Length</span>  | 136.     |  133.    | 137.   |  138.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.961 | 0.952 | 0.954 |

@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.969<br>
                     Length: 132.<br>
                     Predicted Ligands:<br>
-                    FMN - 9/20<br>
-                    TPP - 3/20<br>
-                    glucosamine - 3/20<br>         
+                    TPP - 20/20<br>
+                    <br>
+                    <br>         
             </td>
             <td>
                     RS: URS0000BE2543_1348663<br>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA075722/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000BE2543/1348663" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C5A2C4/1822225" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C15471/1646498" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000BE2543/1348663" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C5A2C4/1822225" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C15471/1646498" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA075722     | URS0000BE2543_1348663     | URS0000C5A2C4_1822225     | URS0000C15471_1646498     |
 | <span title="Length of the sequence in question">Length</span>  | 132.     |  134.    | 130.   |  132.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.969 | 0.968 | 0.965 |

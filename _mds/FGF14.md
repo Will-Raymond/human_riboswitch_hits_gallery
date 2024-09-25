@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.974<br>
                     Length: 121.<br>
                     Predicted Ligands:<br>
-                    FMN - 18/20<br>
-                    molybdenum - 1/20<br>
-                    Mg2+ - 1/20<br>         
+                    molybdenum - 20/20<br>
+                    <br>
+                    <br>         
             </td>
             <td>
                     RS: URS0000C40A86_1869311<br>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA040628/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C40A86/1869311" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000AB6B72/465515" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS000231578C/1538639" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000C40A86/1869311" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000AB6B72/465515" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS000231578C/1538639" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA040628     | URS0000C40A86_1869311     | URS0000AB6B72_465515     | URS000231578C_1538639     |
 | <span title="Length of the sequence in question">Length</span>  | 121.     |  120.    | 120.   |  124.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.974 | 0.970 | 0.960 |

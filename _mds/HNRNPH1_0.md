@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.954<br>
                     Length: 172.<br>
                     Predicted Ligands:<br>
-                    TPP - 10/20<br>
-                    fluoride - 6/20<br>
-                    Mg2+ - 1/20<br>         
+                    TPP - 20/20<br>
+                    <br>
+                    <br>         
             </td>
             <td>
                     RS: URS0000DACCAD_1926878<br>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA050023/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000DACCAD/1926878" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0002319408/311402" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000AB738B/471855" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000DACCAD/1926878" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0002319408/311402" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000AB738B/471855" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA050023     | URS0000DACCAD_1926878     | URS0002319408_311402     | URS0000AB738B_471855     |
 | <span title="Length of the sequence in question">Length</span>  | 172.     |  171.    | 171.   |  169.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.954 | 0.950 | 0.952 |

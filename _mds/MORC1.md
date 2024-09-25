@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.982<br>
                     Length: 87.<br>
                     Predicted Ligands:<br>
-                    methionine - 7/20<br>
-                    TPP - 6/20<br>
-                    SAM - 3/20<br>         
+                    glycine - 20/20<br>
+                    <br>
+                    <br>         
             </td>
             <td>
                     RS: URS0000D69660_12908<br>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA066882/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000D69660/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C610F6/933388" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D6C8DB/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000D69660/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C610F6/933388" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D6C8DB/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA066882     | URS0000D69660_12908     | URS0000C610F6_933388     | URS0000D6C8DB_12908     |
 | <span title="Length of the sequence in question">Length</span>  | 87.     |  85.    | 90.   |  88.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.982 | 0.974 | 0.982 |

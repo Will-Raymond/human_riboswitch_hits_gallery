@@ -32,7 +32,7 @@ exclude: true
                     ENS: 0.952<br>
                     Length: 160.<br>
                     Predicted Ligands:<br>
-                    fluoride - 20/20<br>
+                    glucosamine - 20/20<br>
                     <br>
                     <br>         
             </td>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA107612/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C691D8/1640515" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000ABAFC8/196162" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS000231294E/1618776" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000C691D8/1640515" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000ABAFC8/196162" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS000231294E/1618776" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA107612     | URS0000C691D8_1640515     | URS0000ABAFC8_196162     | URS000231294E_1618776     |
 | <span title="Length of the sequence in question">Length</span>  | 160.     |  161.    | 158.   |  155.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.952 | 0.922 | 0.913 |

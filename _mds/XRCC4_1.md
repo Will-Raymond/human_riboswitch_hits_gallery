@@ -32,7 +32,7 @@ exclude: true
                     ENS: 0.932<br>
                     Length: 242.<br>
                     Predicted Ligands:<br>
-                    glutamine - 20/20<br>
+                    cobalamin - 20/20<br>
                     <br>
                     <br>         
             </td>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA120463/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0002322663/688245" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000214F2B/410659" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0002319E44/1978760" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0002322663/688245" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000214F2B/410659" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0002319E44/1978760" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA120463     | URS0002322663_688245     | URS0000214F2B_410659     | URS0002319E44_1978760     |
 | <span title="Length of the sequence in question">Length</span>  | 242.     |  242.    | 238.   |  245.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.932 | 0.899 | 0.913 |

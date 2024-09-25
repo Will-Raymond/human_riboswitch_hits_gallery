@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.959<br>
                     Length: 124.<br>
                     Predicted Ligands:<br>
-                    unknown - 13/20<br>
-                    fluoride - 4/20<br>
-                    glutamine - 3/20<br>         
+                    glycine - 20/20<br>
+                    <br>
+                    <br>         
             </td>
             <td>
                     RS: URS0002329156_1609098<br>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA051284/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0002329156/1609098" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000AB8735/398578" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C642A1/92647" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0002329156/1609098" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000AB8735/398578" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C642A1/92647" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA051284     | URS0002329156_1609098     | URS0000AB8735_398578     | URS0000C642A1_92647     |
 | <span title="Length of the sequence in question">Length</span>  | 124.     |  125.    | 127.   |  126.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.959 | 0.952 | 0.955 |

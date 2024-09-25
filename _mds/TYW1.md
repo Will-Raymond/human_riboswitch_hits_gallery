@@ -32,7 +32,7 @@ exclude: true
                     ENS: 0.942<br>
                     Length: 189.<br>
                     Predicted Ligands:<br>
-                    SAM - 20/20<br>
+                    cobalamin - 20/20<br>
                     <br>
                     <br>         
             </td>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA115466/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C39E59/1262944" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS00023280BB/1797275" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000ABABFE/290339" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000C39E59/1262944" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS00023280BB/1797275" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000ABABFE/290339" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA115466     | URS0000C39E59_1262944     | URS00023280BB_1797275     | URS0000ABABFE_290339     |
 | <span title="Length of the sequence in question">Length</span>  | 189.     |  188.    | 188.   |  184.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.942 | 0.943 | 0.917 |

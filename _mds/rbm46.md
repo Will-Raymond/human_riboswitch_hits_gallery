@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.903<br>
                     Length: 198.<br>
                     Predicted Ligands:<br>
-                    unknown - 16/20<br>
-                    glutamine - 2/20<br>
-                    homocysteine - 1/20<br>         
+                    cobalamin - 20/20<br>
+                    <br>
+                    <br>         
             </td>
             <td>
                     RS: URS0000C2D1DE_930169<br>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA089519/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C2D1DE/930169" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS000232ED48/419610" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS000032C021/115808" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000C2D1DE/930169" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS000232ED48/419610" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS000032C021/115808" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA089519     | URS0000C2D1DE_930169     | URS000232ED48_419610     | URS000032C021_115808     |
 | <span title="Length of the sequence in question">Length</span>  | 198.     |  191.    | 200.   |  196.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.903 | 0.944 | 0.930 |

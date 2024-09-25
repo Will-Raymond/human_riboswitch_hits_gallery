@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.992<br>
                     Length: 44.<br>
                     Predicted Ligands:<br>
-                    SAM - 12/20<br>
-                    guanidine - 7/20<br>
-                    glycine - 1/20<br>         
+                    preQ_1 - 20/20<br>
+                    <br>
+                    <br>         
             </td>
             <td>
                     RS: URS0000AB877A_272558<br>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA024367/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000AB877A/272558" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000DF2C5A/44250" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000DB5D0C/1852522" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000AB877A/272558" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000DF2C5A/44250" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000DB5D0C/1852522" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA024367     | URS0000AB877A_272558     | URS0000DF2C5A_44250     | URS0000DB5D0C_1852522     |
 | <span title="Length of the sequence in question">Length</span>  | 44.     |  44.    | 44.   |  44.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.992 | 0.991 | 0.991 |

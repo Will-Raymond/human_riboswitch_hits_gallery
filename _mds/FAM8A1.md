@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.977<br>
                     Length: 80.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 13/20<br>
-                    Mg2+ - 3/20<br>
-                    FMN - 3/20<br>         
+                    Ni/Co - 20/20<br>
+                    <br>
+                    <br>         
             </td>
             <td>
                     RS: URS0000C295AF_401526<br>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA039154/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C295AF/401526" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0002318E2C/1618499" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS00023137B4/1262794" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000C295AF/401526" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0002318E2C/1618499" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS00023137B4/1262794" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA039154     | URS0000C295AF_401526     | URS0002318E2C_1618499     | URS00023137B4_1262794     |
 | <span title="Length of the sequence in question">Length</span>  | 80.     |  78.    | 79.   |  82.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.977 | 0.983 | 0.980 |

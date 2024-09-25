@@ -32,7 +32,7 @@ exclude: true
                     ENS: 0.991<br>
                     Length: 55.<br>
                     Predicted Ligands:<br>
-                    glutamine - 20/20<br>
+                    SAM - 20/20<br>
                     <br>
                     <br>         
             </td>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA082294/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000E5FF72/1801945" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C4DEF6/1545044" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D7D027/53463" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000E5FF72/1801945" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C4DEF6/1545044" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D7D027/53463" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA082294     | URS0000E5FF72_1801945     | URS0000C4DEF6_1545044     | URS0000D7D027_53463     |
 | <span title="Length of the sequence in question">Length</span>  | 55.     |  55.    | 51.   |  51.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.991 | 0.979 | 0.979 |

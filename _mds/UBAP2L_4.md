@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.948<br>
                     Length: 192.<br>
                     Predicted Ligands:<br>
-                    GMP - 7/20<br>
-                    cyclic-di-GMP - 7/20<br>
-                    glycine - 3/20<br>         
+                    cobalamin - 20/20<br>
+                    <br>
+                    <br>         
             </td>
             <td>
                     RS: URS000232F9FB_1435356<br>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA115944/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS000232F9FB/1435356" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000B86731/35703" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS000232B46E/1801856" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS000232F9FB/1435356" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000B86731/35703" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS000232B46E/1801856" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA115944     | URS000232F9FB_1435356     | URS0000B86731_35703     | URS000232B46E_1801856     |
 | <span title="Length of the sequence in question">Length</span>  | 192.     |  193.    | 191.   |  189.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.948 | 0.938 | 0.936 |

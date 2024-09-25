@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.953<br>
                     Length: 174.<br>
                     Predicted Ligands:<br>
-                    glycine - 9/20<br>
-                    TPP - 4/20<br>
-                    fluoride - 2/20<br>         
+                    Mg2+ - 20/20<br>
+                    <br>
+                    <br>         
             </td>
             <td>
                     RS: URS0002315B40_1276229<br>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA119986/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0002315B40/1276229" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0002317B61/626939" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D803E8/225345" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0002315B40/1276229" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0002317B61/626939" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D803E8/225345" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA119986     | URS0002315B40_1276229     | URS0002317B61_626939     | URS0000D803E8_225345     |
 | <span title="Length of the sequence in question">Length</span>  | 174.     |  175.    | 171.   |  172.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.953 | 0.942 | 0.937 |

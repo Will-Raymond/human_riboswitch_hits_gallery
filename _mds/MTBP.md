@@ -32,7 +32,7 @@ exclude: true
                     ENS: 0.985<br>
                     Length: 70.<br>
                     Predicted Ligands:<br>
-                    methionine - 20/20<br>
+                    fluoride - 20/20<br>
                     <br>
                     <br>         
             </td>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA068260/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0002314F36/235986" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C06E39/1588750" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000BE92EF/1286631" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0002314F36/235986" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C06E39/1588750" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000BE92EF/1286631" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA068260     | URS0002314F36_235986     | URS0000C06E39_1588750     | URS0000BE92EF_1286631     |
 | <span title="Length of the sequence in question">Length</span>  | 70.     |  68.    | 70.   |  72.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.985 | 0.985 | 0.979 |

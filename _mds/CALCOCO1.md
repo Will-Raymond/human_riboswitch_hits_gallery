@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.977<br>
                     Length: 81.<br>
                     Predicted Ligands:<br>
-                    TPP - 8/20<br>
-                    glycine - 6/20<br>
-                    SAM - 3/20<br>         
+                    SAM - 20/20<br>
+                    <br>
+                    <br>         
             </td>
             <td>
                     RS: URS0000BE8192_1532558<br>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA016201/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000BE8192/1532558" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS000231F64C/1834515" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D7B0AB/1798298" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000BE8192/1532558" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS000231F64C/1834515" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D7B0AB/1798298" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA016201     | URS0000BE8192_1532558     | URS000231F64C_1834515     | URS0000D7B0AB_1798298     |
 | <span title="Length of the sequence in question">Length</span>  | 81.     |  78.    | 83.   |  78.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.977 | 0.977 | 0.972 |

@@ -32,7 +32,7 @@ exclude: true
                     ENS: 0.886<br>
                     Length: 156.<br>
                     Predicted Ligands:<br>
-                    SAM - 20/20<br>
+                    FMN - 20/20<br>
                     <br>
                     <br>         
             </td>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA083556/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C63DC4/1736280" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000D90A7A/1279029" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS000232C750/1802005" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000C63DC4/1736280" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000D90A7A/1279029" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS000232C750/1802005" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA083556     | URS0000C63DC4_1736280     | URS0000D90A7A_1279029     | URS000232C750_1802005     |
 | <span title="Length of the sequence in question">Length</span>  | 156.     |  152.    | 152.   |  154.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.886 | 0.895 | 0.883 |

@@ -32,7 +32,7 @@ exclude: true
                     ENS: 0.955<br>
                     Length: 118.<br>
                     Predicted Ligands:<br>
-                    purine - 20/20<br>
+                    FMN - 20/20<br>
                     <br>
                     <br>         
             </td>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA071239/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C79A0B/411475" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C0C91E/61635" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000DAB0CB/134962" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000C79A0B/411475" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C0C91E/61635" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000DAB0CB/134962" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA071239     | URS0000C79A0B_411475     | URS0000C0C91E_61635     | URS0000DAB0CB_134962     |
 | <span title="Length of the sequence in question">Length</span>  | 118.     |  113.    | 117.   |  117.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.955 | 0.973 | 0.967 |

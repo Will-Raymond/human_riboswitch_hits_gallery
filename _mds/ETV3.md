@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.959<br>
                     Length: 108.<br>
                     Predicted Ligands:<br>
-                    glutamine - 9/20<br>
-                    SAM - 7/20<br>
-                    unknown - 3/20<br>         
+                    methionine - 20/20<br>
+                    <br>
+                    <br>         
             </td>
             <td>
                     RS: URS0000C018B2_1609103<br>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA036895/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C018B2/1609103" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS00022F45F0/2845384" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D6CBC0/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000C018B2/1609103" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS00022F45F0/2845384" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D6CBC0/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA036895     | URS0000C018B2_1609103     | URS00022F45F0_2845384     | URS0000D6CBC0_12908     |
 | <span title="Length of the sequence in question">Length</span>  | 108.     |  108.    | 110.   |  108.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.959 | 0.927 | 0.959 |

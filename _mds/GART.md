@@ -32,7 +32,7 @@ exclude: true
                     ENS: 0.971<br>
                     Length: 124.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
+                    FMN - 20/20<br>
                     <br>
                     <br>         
             </td>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA043245/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0002330D92/313612" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000ABBC85/525310" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C3199A/1262761" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0002330D92/313612" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000ABBC85/525310" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C3199A/1262761" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA043245     | URS0002330D92_313612     | URS0000ABBC85_525310     | URS0000C3199A_1262761     |
 | <span title="Length of the sequence in question">Length</span>  | 124.     |  126.    | 122.   |  126.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.971 | 0.964 | 0.962 |

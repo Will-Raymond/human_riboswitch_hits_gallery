@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.913<br>
                     Length: 165.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 13/20<br>
-                    Mg2+ - 2/20<br>
-                    Mn2+ - 1/20<br>         
+                    Mg2+ - 20/20<br>
+                    <br>
+                    <br>         
             </td>
             <td>
                     RS: URS0000C78E2E_1620392<br>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA087949/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C78E2E/1620392" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000DB12D9/758803" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C84E2E/1262910" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000C78E2E/1620392" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000DB12D9/758803" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C84E2E/1262910" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA087949     | URS0000C78E2E_1620392     | URS0000DB12D9_758803     | URS0000C84E2E_1262910     |
 | <span title="Length of the sequence in question">Length</span>  | 165.     |  160.    | 163.   |  162.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.913 | 0.949 | 0.941 |

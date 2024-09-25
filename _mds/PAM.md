@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.947<br>
                     Length: 153.<br>
                     Predicted Ligands:<br>
-                    preQ_1 - 14/20<br>
-                    SAM - 3/20<br>
-                    zmp-ztp - 1/20<br>         
+                    glucosamine - 20/20<br>
+                    <br>
+                    <br>         
             </td>
             <td>
                     RS: URS0000AB5F75_367928<br>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA076470/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000AB5F75/367928" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C15F27/1238" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000AB4734/585501" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000AB5F75/367928" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C15F27/1238" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000AB4734/585501" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA076470     | URS0000AB5F75_367928     | URS0000C15F27_1238     | URS0000AB4734_585501     |
 | <span title="Length of the sequence in question">Length</span>  | 153.     |  153.    | 157.   |  155.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.947 | 0.935 | 0.946 |

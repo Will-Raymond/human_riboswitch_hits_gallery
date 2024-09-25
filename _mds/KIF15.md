@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.948<br>
                     Length: 174.<br>
                     Predicted Ligands:<br>
-                    zmp-ztp - 5/20<br>
-                    methionine - 3/20<br>
-                    molybdenum - 2/20<br>         
+                    lysine - 20/20<br>
+                    <br>
+                    <br>         
             </td>
             <td>
                     RS: URS0000C8A42C_748449<br>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA056318/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C8A42C/748449" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C422D1/1351755" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0002331011/1080068" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000C8A42C/748449" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C422D1/1351755" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0002331011/1080068" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA056318     | URS0000C8A42C_748449     | URS0000C422D1_1351755     | URS0002331011_1080068     |
 | <span title="Length of the sequence in question">Length</span>  | 174.     |  171.    | 169.   |  178.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.948 | 0.928 | 0.905 |

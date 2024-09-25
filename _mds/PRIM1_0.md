@@ -32,7 +32,7 @@ exclude: true
                     ENS: 0.990<br>
                     Length: 50.<br>
                     Predicted Ligands:<br>
-                    SAM - 20/20<br>
+                    glutamine - 20/20<br>
                     <br>
                     <br>         
             </td>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA084405/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000E6098E/150033" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0002328BDC/93929" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D68FF7/981327" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000E6098E/150033" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0002328BDC/93929" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D68FF7/981327" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA084405     | URS0000E6098E_150033     | URS0002328BDC_93929     | URS0000D68FF7_981327     |
 | <span title="Length of the sequence in question">Length</span>  | 50.     |  48.    | 51.   |  51.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.990 | 0.990 | 0.990 |

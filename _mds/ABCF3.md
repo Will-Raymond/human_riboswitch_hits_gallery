@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.986<br>
                     Length: 59.<br>
                     Predicted Ligands:<br>
-                    TPP - 8/20<br>
-                    cobalamin - 5/20<br>
-                    SAM - 4/20<br>         
+                    fluoride - 20/20<br>
+                    <br>
+                    <br>         
             </td>
             <td>
                     RS: URS0000BE58B7_111780<br>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA000494-0/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000BE58B7/111780" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000D696BA/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D8B744/1528693" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000BE58B7/111780" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000D696BA/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D8B744/1528693" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA000494-0     | URS0000BE58B7_111780     | URS0000D696BA_12908     | URS0000D8B744_1528693     |
 | <span title="Length of the sequence in question">Length</span>  | 59.     |  58.    | 60.   |  61.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.986 | 0.985 | 0.983 |

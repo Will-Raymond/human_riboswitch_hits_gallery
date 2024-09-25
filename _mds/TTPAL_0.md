@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.948<br>
                     Length: 168.<br>
                     Predicted Ligands:<br>
-                    unknown - 18/20<br>
-                    TPP - 1/20<br>
-                    fluoride - 1/20<br>         
+                    TPP - 20/20<br>
+                    <br>
+                    <br>         
             </td>
             <td>
                     RS: URS0000C3DCD0_1420913<br>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA114957/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C3DCD0/1420913" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C2D819/1420915" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS000231AF2E/1157616" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000C3DCD0/1420913" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C2D819/1420915" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS000231AF2E/1157616" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA114957     | URS0000C3DCD0_1420913     | URS0000C2D819_1420915     | URS000231AF2E_1157616     |
 | <span title="Length of the sequence in question">Length</span>  | 168.     |  165.    | 165.   |  166.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.948 | 0.948 | 0.945 |

@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.949<br>
                     Length: 150.<br>
                     Predicted Ligands:<br>
-                    preQ_1 - 8/20<br>
-                    SAM - 7/20<br>
-                    unknown - 2/20<br>         
+                    glucosamine - 20/20<br>
+                    <br>
+                    <br>         
             </td>
             <td>
                     RS: URS0000BF739D_1314771<br>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA055147/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000BF739D/1314771" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000BED6EC/1262840" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000BEF057/1131462" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000BF739D/1314771" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000BED6EC/1262840" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000BEF057/1131462" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA055147     | URS0000BF739D_1314771     | URS0000BED6EC_1262840     | URS0000BEF057_1131462     |
 | <span title="Length of the sequence in question">Length</span>  | 150.     |  153.    | 150.   |  149.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.949 | 0.961 | 0.962 |

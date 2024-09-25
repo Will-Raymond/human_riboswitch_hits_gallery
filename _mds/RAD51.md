@@ -32,8 +32,8 @@ exclude: true
                     ENS: 0.969<br>
                     Length: 74.<br>
                     Predicted Ligands:<br>
-                    SAM - 11/20<br>
-                    preQ_1 - 9/20<br>
+                    homocysteine - 20/20<br>
+                    <br>
                     <br>         
             </td>
             <td>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA088108/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C89D65/1385521" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000D8F731/67267" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C06C49/36861" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000C89D65/1385521" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000D8F731/67267" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C06C49/36861" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA088108     | URS0000C89D65_1385521     | URS0000D8F731_67267     | URS0000C06C49_36861     |
 | <span title="Length of the sequence in question">Length</span>  | 74.     |  79.    | 76.   |  77.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.969 | 0.983 | 0.978 |

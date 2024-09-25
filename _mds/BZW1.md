@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.984<br>
                     Length: 102.<br>
                     Predicted Ligands:<br>
-                    Mn2+ - 18/20<br>
-                    glucosamine - 1/20<br>
-                    zmp-ztp - 1/20<br>         
+                    glycine - 20/20<br>
+                    <br>
+                    <br>         
             </td>
             <td>
                     RS: URS0000D9ED25_1194090<br>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA011520/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000D9ED25/1194090" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C61555/1523418" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000DB3EBD/1484053" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000D9ED25/1194090" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C61555/1523418" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000DB3EBD/1484053" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA011520     | URS0000D9ED25_1194090     | URS0000C61555_1523418     | URS0000DB3EBD_1484053     |
 | <span title="Length of the sequence in question">Length</span>  | 102.     |  101.    | 106.   |  99.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.984 | 0.966 | 0.974 |

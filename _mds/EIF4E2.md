@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.951<br>
                     Length: 163.<br>
                     Predicted Ligands:<br>
-                    TPP - 18/20<br>
-                    molybdenum - 1/20<br>
-                    zmp-ztp - 1/20<br>         
+                    cobalamin - 20/20<br>
+                    <br>
+                    <br>         
             </td>
             <td>
                     RS: URS0002312ECE_546414<br>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA034446/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0002312ECE/546414" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C4CB66/1321778" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000AB21CD/640512" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0002312ECE/546414" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C4CB66/1321778" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000AB21CD/640512" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA034446     | URS0002312ECE_546414     | URS0000C4CB66_1321778     | URS0000AB21CD_640512     |
 | <span title="Length of the sequence in question">Length</span>  | 163.     |  164.    | 168.   |  160.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.951 | 0.930 | 0.947 |

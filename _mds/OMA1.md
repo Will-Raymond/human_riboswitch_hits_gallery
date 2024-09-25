@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.974<br>
                     Length: 113.<br>
                     Predicted Ligands:<br>
-                    SAM - 9/20<br>
-                    preQ_1 - 7/20<br>
-                    zmp-ztp - 1/20<br>         
+                    TPP - 20/20<br>
+                    <br>
+                    <br>         
             </td>
             <td>
                     RS: URS0000D82390_1972445<br>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA075086/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000D82390/1972445" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000BEB43A/1736354" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000DA23B6/1798318" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000D82390/1972445" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000BEB43A/1736354" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000DA23B6/1798318" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA075086     | URS0000D82390_1972445     | URS0000BEB43A_1736354     | URS0000DA23B6_1798318     |
 | <span title="Length of the sequence in question">Length</span>  | 113.     |  111.    | 113.   |  116.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.974 | 0.977 | 0.968 |

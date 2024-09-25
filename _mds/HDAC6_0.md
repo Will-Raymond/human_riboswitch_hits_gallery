@@ -32,7 +32,7 @@ exclude: true
                     ENS: 0.950<br>
                     Length: 166.<br>
                     Predicted Ligands:<br>
-                    SAM - 20/20<br>
+                    Mg2+ - 20/20<br>
                     <br>
                     <br>         
             </td>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA048213/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C65A85/797515" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000AB8083/208964" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C790A0/1385511" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000C65A85/797515" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000AB8083/208964" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C790A0/1385511" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA048213     | URS0000C65A85_797515     | URS0000AB8083_208964     | URS0000C790A0_1385511     |
 | <span title="Length of the sequence in question">Length</span>  | 166.     |  165.    | 163.   |  168.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.950 | 0.936 | 0.940 |

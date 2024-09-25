@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.992<br>
                     Length: 53.<br>
                     Predicted Ligands:<br>
-                    glycine - 12/20<br>
-                    guanidine - 3/20<br>
-                    cobalamin - 2/20<br>         
+                    glutamine - 20/20<br>
+                    <br>
+                    <br>         
             </td>
             <td>
                     RS: URS0000C73A20_12908<br>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA007209/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C73A20/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000D77952/335992" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C0834F/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000C73A20/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000D77952/335992" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C0834F/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA007209     | URS0000C73A20_12908     | URS0000D77952_335992     | URS0000C0834F_12908     |
 | <span title="Length of the sequence in question">Length</span>  | 53.     |  52.    | 53.   |  51.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.992 | 0.991 | 0.988 |

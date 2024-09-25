@@ -32,7 +32,7 @@ exclude: true
                     ENS: 0.984<br>
                     Length: 80.<br>
                     Predicted Ligands:<br>
-                    SAM - 20/20<br>
+                    glycine - 20/20<br>
                     <br>
                     <br>         
             </td>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA094425/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C21AFA/1246995" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C06D9A/586416" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C1E73C/189381" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000C21AFA/1246995" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C06D9A/586416" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C1E73C/189381" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA094425     | URS0000C21AFA_1246995     | URS0000C06D9A_586416     | URS0000C1E73C_189381     |
 | <span title="Length of the sequence in question">Length</span>  | 80.     |  82.    | 79.   |  79.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.984 | 0.985 | 0.985 |

@@ -32,7 +32,7 @@ exclude: true
                     ENS: 0.979<br>
                     Length: 89.<br>
                     Predicted Ligands:<br>
-                    SAM - 20/20<br>
+                    zmp-ztp - 20/20<br>
                     <br>
                     <br>         
             </td>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA108870/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000DB26FC/1179773" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C3A79E/1531966" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C32A28/298654" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000DB26FC/1179773" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C3A79E/1531966" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C32A28/298654" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA108870     | URS0000DB26FC_1179773     | URS0000C3A79E_1531966     | URS0000C32A28_298654     |
 | <span title="Length of the sequence in question">Length</span>  | 89.     |  87.    | 90.   |  87.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.979 | 0.984 | 0.980 |

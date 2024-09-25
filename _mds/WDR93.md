@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.960<br>
                     Length: 126.<br>
                     Predicted Ligands:<br>
-                    fluoride - 14/20<br>
-                    SAM - 4/20<br>
-                    cobalamin - 2/20<br>         
+                    TPP - 20/20<br>
+                    <br>
+                    <br>         
             </td>
             <td>
                     RS: URS0000DA3C63_1904969<br>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA119722/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000DA3C63/1904969" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C792D2/1203605" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D94763/1805026" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000DA3C63/1904969" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C792D2/1203605" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D94763/1805026" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA119722     | URS0000DA3C63_1904969     | URS0000C792D2_1203605     | URS0000D94763_1805026     |
 | <span title="Length of the sequence in question">Length</span>  | 126.     |  122.    | 123.   |  127.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.960 | 0.958 | 0.969 |

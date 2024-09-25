@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.961<br>
                     Length: 144.<br>
                     Predicted Ligands:<br>
-                    TPP - 11/20<br>
-                    methionine - 6/20<br>
-                    homocysteine - 1/20<br>         
+                    TPP - 20/20<br>
+                    <br>
+                    <br>         
             </td>
             <td>
                     RS: URS0000BF143C_1262904<br>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA041102/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000BF143C/1262904" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C34E0B/1217655" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000DB3BBF/1797673" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000BF143C/1262904" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C34E0B/1217655" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000DB3BBF/1797673" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA041102     | URS0000BF143C_1262904     | URS0000C34E0B_1217655     | URS0000DB3BBF_1797673     |
 | <span title="Length of the sequence in question">Length</span>  | 144.     |  147.    | 145.   |  146.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.961 | 0.968 | 0.959 |

@@ -32,7 +32,7 @@ exclude: true
                     ENS: 0.976<br>
                     Length: 113.<br>
                     Predicted Ligands:<br>
-                    glycine - 20/20<br>
+                    methionine - 20/20<br>
                     <br>
                     <br>         
             </td>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA032829/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000BE6846/1408250" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000AB716A/1033810" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000BE9DE3/1588023" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000BE6846/1408250" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000AB716A/1033810" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000BE9DE3/1588023" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA032829     | URS0000BE6846_1408250     | URS0000AB716A_1033810     | URS0000BE9DE3_1588023     |
 | <span title="Length of the sequence in question">Length</span>  | 113.     |  116.    | 115.   |  114.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.976 | 0.979 | 0.976 |

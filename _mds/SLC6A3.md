@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.989<br>
                     Length: 58.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 11/20<br>
-                    FMN - 6/20<br>
-                    Mg2+ - 2/20<br>         
+                    fluoride - 20/20<br>
+                    <br>
+                    <br>         
             </td>
             <td>
                     RS: URS0000BF456D_497965<br>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA100651/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000BF456D/497965" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000BFF581/521045" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C462F6/1629717" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000BF456D/497965" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000BFF581/521045" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C462F6/1629717" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA100651     | URS0000BF456D_497965     | URS0000BFF581_521045     | URS0000C462F6_1629717     |
 | <span title="Length of the sequence in question">Length</span>  | 58.     |  58.    | 60.   |  57.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.989 | 0.985 | 0.985 |

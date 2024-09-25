@@ -32,7 +32,7 @@ exclude: true
                     ENS: 0.954<br>
                     Length: 180.<br>
                     Predicted Ligands:<br>
-                    FMN - 20/20<br>
+                    cobalamin - 20/20<br>
                     <br>
                     <br>         
             </td>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA093195/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C6B068/1209931" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000DB669D/1122930" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C133B0/1565991" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000C6B068/1209931" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000DB669D/1122930" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C133B0/1565991" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA093195     | URS0000C6B068_1209931     | URS0000DB669D_1122930     | URS0000C133B0_1565991     |
 | <span title="Length of the sequence in question">Length</span>  | 180.     |  181.    | 179.   |  182.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.954 | 0.950 | 0.951 |

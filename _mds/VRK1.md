@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.927<br>
                     Length: 131.<br>
                     Predicted Ligands:<br>
-                    SAM - 6/20<br>
-                    GMP - 4/20<br>
-                    cyclic-di-GMP - 3/20<br>         
+                    TPP - 20/20<br>
+                    <br>
+                    <br>         
             </td>
             <td>
                     RS: URS0000C51D48_1822250<br>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA118620/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C51D48/1822250" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS000232D4FC/1073325" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D47CF5/1891238" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000C51D48/1822250" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS000232D4FC/1073325" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D47CF5/1891238" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA118620     | URS0000C51D48_1822250     | URS000232D4FC_1073325     | URS0000D47CF5_1891238     |
 | <span title="Length of the sequence in question">Length</span>  | 131.     |  132.    | 131.   |  132.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.927 | 0.969 | 0.955 |

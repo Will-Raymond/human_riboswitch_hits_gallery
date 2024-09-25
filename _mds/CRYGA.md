@@ -32,8 +32,8 @@ exclude: true
                     ENS: 0.986<br>
                     Length: 42.<br>
                     Predicted Ligands:<br>
-                    TPP - 18/20<br>
-                    homocysteine - 2/20<br>
+                    preQ_1 - 20/20<br>
+                    <br>
                     <br>         
             </td>
             <td>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA025436/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000AB6584/315749" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000ABC001/89059" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C2252C/1261130" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000AB6584/315749" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000ABC001/89059" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C2252C/1261130" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA025436     | URS0000AB6584_315749     | URS0000ABC001_89059     | URS0000C2252C_1261130     |
 | <span title="Length of the sequence in question">Length</span>  | 42.     |  45.    | 45.   |  45.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.986 | 0.986 | 0.986 |

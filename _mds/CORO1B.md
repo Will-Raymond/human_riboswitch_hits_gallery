@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.971<br>
                     Length: 129.<br>
                     Predicted Ligands:<br>
-                    cyclic-di-GMP - 5/20<br>
-                    fluoride - 5/20<br>
-                    TPP - 3/20<br>         
+                    cobalamin - 20/20<br>
+                    <br>
+                    <br>         
             </td>
             <td>
                     RS: URS0000C53D73_1736511<br>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA024412/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C53D73/1736511" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000D80383/1904969" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0002325711/1519495" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000C53D73/1736511" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000D80383/1904969" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0002325711/1519495" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA024412     | URS0000C53D73_1736511     | URS0000D80383_1904969     | URS0002325711_1519495     |
 | <span title="Length of the sequence in question">Length</span>  | 129.     |  128.    | 126.   |  129.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.971 | 0.955 | 0.971 |

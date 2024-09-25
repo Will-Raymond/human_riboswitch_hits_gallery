@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.962<br>
                     Length: 155.<br>
                     Predicted Ligands:<br>
-                    SAM - 15/20<br>
-                    preQ_1 - 3/20<br>
-                    Ni/Co - 1/20<br>         
+                    cobalamin - 20/20<br>
+                    <br>
+                    <br>         
             </td>
             <td>
                     RS: URS0000AB43F0_272560<br>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA052165/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000AB43F0/272560" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0002312E6B/1160710" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS000232F31F/56956" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000AB43F0/272560" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0002312E6B/1160710" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS000232F31F/56956" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA052165     | URS0000AB43F0_272560     | URS0002312E6B_1160710     | URS000232F31F_56956     |
 | <span title="Length of the sequence in question">Length</span>  | 155.     |  154.    | 155.   |  154.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.962 | 0.961 | 0.955 |

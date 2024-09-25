@@ -32,7 +32,7 @@ exclude: true
                     ENS: 0.991<br>
                     Length: 51.<br>
                     Predicted Ligands:<br>
-                    FMN - 20/20<br>
+                    glutamine - 20/20<br>
                     <br>
                     <br>         
             </td>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA027729/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000D68C5A/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C49C25/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C7168F/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000D68C5A/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C49C25/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C7168F/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA027729     | URS0000D68C5A_12908     | URS0000C49C25_12908     | URS0000C7168F_12908     |
 | <span title="Length of the sequence in question">Length</span>  | 51.     |  52.    | 52.   |  48.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.991 | 0.989 | 0.985 |

@@ -32,7 +32,7 @@ exclude: true
                     ENS: 0.984<br>
                     Length: 61.<br>
                     Predicted Ligands:<br>
-                    glycine - 20/20<br>
+                    fluoride - 20/20<br>
                     <br>
                     <br>         
             </td>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA064252/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000D66F1A/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000E603E4/1408889" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000E60499/1523413" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000D66F1A/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000E603E4/1408889" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000E60499/1523413" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA064252     | URS0000D66F1A_12908     | URS0000E603E4_1408889     | URS0000E60499_1523413     |
 | <span title="Length of the sequence in question">Length</span>  | 61.     |  59.    | 59.   |  60.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.984 | 0.984 | 0.986 |

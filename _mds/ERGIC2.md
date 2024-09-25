@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.957<br>
                     Length: 158.<br>
                     Predicted Ligands:<br>
-                    TPP - 9/20<br>
-                    cobalamin - 5/20<br>
-                    zmp-ztp - 4/20<br>         
+                    glucosamine - 20/20<br>
+                    <br>
+                    <br>         
             </td>
             <td>
                     RS: URS0000D7C63E_329046<br>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA036513/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000D7C63E/329046" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000BEA55E/1129897" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000AB440B/401526" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000D7C63E/329046" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000BEA55E/1129897" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000AB440B/401526" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA036513     | URS0000D7C63E_329046     | URS0000BEA55E_1129897     | URS0000AB440B_401526     |
 | <span title="Length of the sequence in question">Length</span>  | 158.     |  155.    | 161.   |  159.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.957 | 0.951 | 0.944 |

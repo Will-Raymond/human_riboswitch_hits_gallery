@@ -32,7 +32,7 @@ exclude: true
                     ENS: 0.952<br>
                     Length: 180.<br>
                     Predicted Ligands:<br>
-                    Ni/Co - 20/20<br>
+                    cobalamin - 20/20<br>
                     <br>
                     <br>         
             </td>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA117211/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS000232C4FE/1230342" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0002330024/1121335" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS00023271AA/29313" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS000232C4FE/1230342" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0002330024/1121335" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS00023271AA/29313" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA117211     | URS000232C4FE_1230342     | URS0002330024_1121335     | URS00023271AA_29313     |
 | <span title="Length of the sequence in question">Length</span>  | 180.     |  181.    | 181.   |  177.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.952 | 0.951 | 0.928 |

@@ -32,7 +32,7 @@ exclude: true
                     ENS: 0.960<br>
                     Length: 148.<br>
                     Predicted Ligands:<br>
-                    GMP - 20/20<br>
+                    FMN - 20/20<br>
                     <br>
                     <br>         
             </td>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA089714/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000ABB374/491952" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000ABA44E/243365" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C65601/1736380" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000ABB374/491952" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000ABA44E/243365" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C65601/1736380" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA089714     | URS0000ABB374_491952     | URS0000ABA44E_243365     | URS0000C65601_1736380     |
 | <span title="Length of the sequence in question">Length</span>  | 148.     |  148.    | 148.   |  149.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.960 | 0.954 | 0.959 |

@@ -32,7 +32,7 @@ exclude: true
                     ENS: 0.988<br>
                     Length: 55.<br>
                     Predicted Ligands:<br>
-                    fluoride - 20/20<br>
+                    unknown - 20/20<br>
                     <br>
                     <br>         
             </td>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA008196/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000D4ACC6/1336806" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000BEBCB1/439481" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS000080DF4D/32630" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000D4ACC6/1336806" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000BEBCB1/439481" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS000080DF4D/32630" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA008196     | URS0000D4ACC6_1336806     | URS0000BEBCB1_439481     | URS000080DF4D_32630     |
 | <span title="Length of the sequence in question">Length</span>  | 55.     |  54.    | 59.   |  54.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.988 | 0.977 | 0.986 |

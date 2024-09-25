@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.981<br>
                     Length: 75.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 11/20<br>
-                    glucosamine - 3/20<br>
-                    lysine - 2/20<br>         
+                    SAM - 20/20<br>
+                    <br>
+                    <br>         
             </td>
             <td>
                     RS: URS0000BFF99F_1189611<br>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA064155/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000BFF99F/1189611" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C10111/1795631" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000BE5287/1384459" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000BFF99F/1189611" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C10111/1795631" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000BE5287/1384459" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA064155     | URS0000BFF99F_1189611     | URS0000C10111_1795631     | URS0000BE5287_1384459     |
 | <span title="Length of the sequence in question">Length</span>  | 75.     |  78.    | 76.   |  78.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.981 | 0.977 | 0.977 |

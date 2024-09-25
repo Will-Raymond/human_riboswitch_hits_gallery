@@ -32,7 +32,7 @@ exclude: true
                     ENS: 0.985<br>
                     Length: 60.<br>
                     Predicted Ligands:<br>
-                    SAM - 20/20<br>
+                    fluoride - 20/20<br>
                     <br>
                     <br>         
             </td>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA074976/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000DB43F4/225345" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000BFB71D/351607" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000DB3E7B/1797922" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000DB43F4/225345" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000BFB71D/351607" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000DB3E7B/1797922" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA074976     | URS0000DB43F4_225345     | URS0000BFB71D_351607     | URS0000DB3E7B_1797922     |
 | <span title="Length of the sequence in question">Length</span>  | 60.     |  60.    | 62.   |  62.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.985 | 0.982 | 0.982 |

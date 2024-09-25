@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.979<br>
                     Length: 104.<br>
                     Predicted Ligands:<br>
-                    fluoride - 11/20<br>
-                    cobalamin - 4/20<br>
-                    guanidine - 2/20<br>         
+                    purine - 20/20<br>
+                    <br>
+                    <br>         
             </td>
             <td>
                     RS: URS00007A8A34_1473546<br>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA040094/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS00007A8A34/1473546" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C5D1B2/333138" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C6AD3C/766136" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS00007A8A34/1473546" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C5D1B2/333138" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C6AD3C/766136" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA040094     | URS00007A8A34_1473546     | URS0000C5D1B2_333138     | URS0000C6AD3C_766136     |
 | <span title="Length of the sequence in question">Length</span>  | 104.     |  102.    | 102.   |  101.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.979 | 0.977 | 0.975 |

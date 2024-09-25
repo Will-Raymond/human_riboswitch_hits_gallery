@@ -32,7 +32,7 @@ exclude: true
                     ENS: 0.986<br>
                     Length: 91.<br>
                     Predicted Ligands:<br>
-                    SAM - 20/20<br>
+                    TPP - 20/20<br>
                     <br>
                     <br>         
             </td>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA047883-0/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C3A79E/1531966" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C3BD04/5601" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C32D33/1703392" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000C3A79E/1531966" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C3BD04/5601" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C32D33/1703392" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA047883-0     | URS0000C3A79E_1531966     | URS0000C3BD04_5601     | URS0000C32D33_1703392     |
 | <span title="Length of the sequence in question">Length</span>  | 91.     |  90.    | 91.   |  92.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.986 | 0.982 | 0.982 |

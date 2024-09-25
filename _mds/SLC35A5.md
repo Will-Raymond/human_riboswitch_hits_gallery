@@ -32,7 +32,7 @@ exclude: true
                     ENS: 0.953<br>
                     Length: 158.<br>
                     Predicted Ligands:<br>
-                    molybdenum - 20/20<br>
+                    SAM - 20/20<br>
                     <br>
                     <br>         
             </td>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA099878/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C5F770/1632865" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000AB5134/355249" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000AB2D86/465543" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000C5F770/1632865" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000AB5134/355249" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000AB2D86/465543" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA099878     | URS0000C5F770_1632865     | URS0000AB5134_355249     | URS0000AB2D86_465543     |
 | <span title="Length of the sequence in question">Length</span>  | 158.     |  157.    | 156.   |  156.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.953 | 0.952 | 0.952 |

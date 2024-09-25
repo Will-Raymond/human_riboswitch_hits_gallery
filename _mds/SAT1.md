@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.949<br>
                     Length: 190.<br>
                     Predicted Ligands:<br>
-                    SAM - 14/20<br>
-                    zmp-ztp - 3/20<br>
-                    guanidine - 2/20<br>         
+                    cobalamin - 20/20<br>
+                    <br>
+                    <br>         
             </td>
             <td>
                     RS: URS0002311F4B_338966<br>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA094521/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0002311F4B/338966" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS000231B7D5/1570360" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS00007D6ED6/1499687" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0002311F4B/338966" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS000231B7D5/1570360" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS00007D6ED6/1499687" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA094521     | URS0002311F4B_338966     | URS000231B7D5_1570360     | URS00007D6ED6_1499687     |
 | <span title="Length of the sequence in question">Length</span>  | 190.     |  192.    | 190.   |  191.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.949 | 0.949 | 0.937 |

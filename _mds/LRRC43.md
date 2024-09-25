@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.991<br>
                     Length: 50.<br>
                     Predicted Ligands:<br>
-                    TPP - 16/20<br>
-                    glycine - 2/20<br>
-                    fluoride - 1/20<br>         
+                    unknown - 20/20<br>
+                    <br>
+                    <br>         
             </td>
             <td>
                     RS: URS0000D6C9EA_397945<br>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA060547/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000D6C9EA/397945" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000D6BBBA/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000E601FC/1736487" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000D6C9EA/397945" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000D6BBBA/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000E601FC/1736487" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA060547     | URS0000D6C9EA_397945     | URS0000D6BBBA_12908     | URS0000E601FC_1736487     |
 | <span title="Length of the sequence in question">Length</span>  | 50.     |  51.    | 49.   |  52.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.991 | 0.990 | 0.989 |

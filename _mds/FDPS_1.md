@@ -32,7 +32,7 @@ exclude: true
                     ENS: 0.950<br>
                     Length: 159.<br>
                     Predicted Ligands:<br>
-                    FMN - 20/20<br>
+                    TPP - 20/20<br>
                     <br>
                     <br>         
             </td>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA040304/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS00023167D3/1834515" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0002331C40/1160719" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0002328FEA/1331668" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS00023167D3/1834515" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0002331C40/1160719" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0002328FEA/1331668" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA040304     | URS00023167D3_1834515     | URS0002331C40_1160719     | URS0002328FEA_1331668     |
 | <span title="Length of the sequence in question">Length</span>  | 159.     |  157.    | 160.   |  155.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.950 | 0.946 | 0.936 |

@@ -32,7 +32,7 @@ exclude: true
                     ENS: 0.982<br>
                     Length: 81.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
+                    zmp-ztp - 20/20<br>
                     <br>
                     <br>         
             </td>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA098304/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C05715/931276" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C2AFA1/272562" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C153E5/521098" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000C05715/931276" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C2AFA1/272562" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C153E5/521098" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA098304     | URS0000C05715_931276     | URS0000C2AFA1_272562     | URS0000C153E5_521098     |
 | <span title="Length of the sequence in question">Length</span>  | 81.     |  79.    | 81.   |  81.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.982 | 0.986 | 0.985 |

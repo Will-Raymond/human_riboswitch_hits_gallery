@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.973<br>
                     Length: 114.<br>
                     Predicted Ligands:<br>
-                    fluoride - 15/20<br>
-                    unknown - 3/20<br>
-                    Ni/Co - 1/20<br>         
+                    TPP - 20/20<br>
+                    <br>
+                    <br>         
             </td>
             <td>
                     RS: URS0000DB0CFA_1985174<br>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA094042/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000DB0CFA/1985174" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000D9FA9C/1305826" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D7BC9F/1434837" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000DB0CFA/1985174" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000D9FA9C/1305826" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D7BC9F/1434837" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA094042     | URS0000DB0CFA_1985174     | URS0000D9FA9C_1305826     | URS0000D7BC9F_1434837     |
 | <span title="Length of the sequence in question">Length</span>  | 114.     |  112.    | 113.   |  111.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.973 | 0.973 | 0.968 |

@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.902<br>
                     Length: 178.<br>
                     Predicted Ligands:<br>
-                    fluoride - 10/20<br>
-                    unknown - 5/20<br>
-                    cobalamin - 4/20<br>         
+                    Mg2+ - 20/20<br>
+                    <br>
+                    <br>         
             </td>
             <td>
                     RS: URS0000B4F75F_1234679<br>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA108988/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000B4F75F/1234679" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C06658/1856861" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000DB4791/1834139" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000B4F75F/1234679" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C06658/1856861" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000DB4791/1834139" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA108988     | URS0000B4F75F_1234679     | URS0000C06658_1856861     | URS0000DB4791_1834139     |
 | <span title="Length of the sequence in question">Length</span>  | 178.     |  175.    | 177.   |  176.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.902 | 0.949 | 0.946 |

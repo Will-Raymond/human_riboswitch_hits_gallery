@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.962<br>
                     Length: 111.<br>
                     Predicted Ligands:<br>
-                    lysine - 9/20<br>
-                    glucosamine - 4/20<br>
-                    Mg2+ - 3/20<br>         
+                    SAM - 20/20<br>
+                    <br>
+                    <br>         
             </td>
             <td>
                     RS: URS0000D8B43F_1121291<br>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA044081/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000D8B43F/1121291" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C5CB5A/1679169" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D8B09E/1797178" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000D8B43F/1121291" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C5CB5A/1679169" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D8B09E/1797178" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA044081     | URS0000D8B43F_1121291     | URS0000C5CB5A_1679169     | URS0000D8B09E_1797178     |
 | <span title="Length of the sequence in question">Length</span>  | 111.     |  112.    | 110.   |  112.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.962 | 0.972 | 0.963 |

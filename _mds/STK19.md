@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.989<br>
                     Length: 47.<br>
                     Predicted Ligands:<br>
-                    unknown - 18/20<br>
-                    cobalamin - 1/20<br>
-                    glutamine - 1/20<br>         
+                    unknown - 20/20<br>
+                    <br>
+                    <br>         
             </td>
             <td>
                     RS: URS0000C5A746_217031<br>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA105031/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C5A746/217031" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000E600B0/1255619" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000E5FB25/1911586" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000C5A746/217031" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000E600B0/1255619" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000E5FB25/1911586" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA105031     | URS0000C5A746_217031     | URS0000E600B0_1255619     | URS0000E5FB25_1911586     |
 | <span title="Length of the sequence in question">Length</span>  | 47.     |  47.    | 46.   |  47.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.989 | 0.990 | 0.990 |

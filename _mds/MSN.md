@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.916<br>
                     Length: 158.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 12/20<br>
-                    fluoride - 3/20<br>
-                    zmp-ztp - 2/20<br>         
+                    glucosamine - 20/20<br>
+                    <br>
+                    <br>         
             </td>
             <td>
                     RS: URS0000AB8002_662755<br>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA068073/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000AB8002/662755" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000AB7EA5/526227" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D9D0ED/999627" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000AB8002/662755" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000AB7EA5/526227" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D9D0ED/999627" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA068073     | URS0000AB8002_662755     | URS0000AB7EA5_526227     | URS0000D9D0ED_999627     |
 | <span title="Length of the sequence in question">Length</span>  | 158.     |  156.    | 154.   |  158.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.916 | 0.933 | 0.924 |

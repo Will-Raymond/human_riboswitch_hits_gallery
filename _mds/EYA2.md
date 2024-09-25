@@ -32,7 +32,7 @@ exclude: true
                     ENS: 0.957<br>
                     Length: 153.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
+                    cobalamin - 20/20<br>
                     <br>
                     <br>         
             </td>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA037408/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000DAB4C9/1122188" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0002326651/471854" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0002325715/1765722" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000DAB4C9/1122188" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0002326651/471854" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0002325715/1765722" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA037408     | URS0000DAB4C9_1122188     | URS0002326651_471854     | URS0002325715_1765722     |
 | <span title="Length of the sequence in question">Length</span>  | 153.     |  152.    | 155.   |  148.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.957 | 0.938 | 0.935 |

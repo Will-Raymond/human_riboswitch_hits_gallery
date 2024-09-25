@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.944<br>
                     Length: 160.<br>
                     Predicted Ligands:<br>
-                    SAM - 18/20<br>
-                    Ni/Co - 1/20<br>
-                    fluoride - 1/20<br>         
+                    cobalamin - 20/20<br>
+                    <br>
+                    <br>         
             </td>
             <td>
                     RS: URS000232387F_388467<br>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA022073/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS000232387F/388467" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0002264F74/1160" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0001DFD88C/59512" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS000232387F/388467" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0002264F74/1160" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0001DFD88C/59512" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA022073     | URS000232387F_388467     | URS0002264F74_1160     | URS0001DFD88C_59512     |
 | <span title="Length of the sequence in question">Length</span>  | 160.     |  164.    | 165.   |  165.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.944 | 0.935 | 0.935 |

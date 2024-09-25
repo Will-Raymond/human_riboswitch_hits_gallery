@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.939<br>
                     Length: 217.<br>
                     Predicted Ligands:<br>
-                    guanidine - 4/20<br>
-                    cobalamin - 3/20<br>
-                    Mg2+ - 3/20<br>         
+                    glucosamine - 20/20<br>
+                    <br>
+                    <br>         
             </td>
             <td>
                     RS: URS00003E42E5_283734<br>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA053969/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS00003E42E5/283734" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000AB239D/911238" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS00005F06FB/904749" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS00003E42E5/283734" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000AB239D/911238" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS00005F06FB/904749" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA053969     | URS00003E42E5_283734     | URS0000AB239D_911238     | URS00005F06FB_904749     |
 | <span title="Length of the sequence in question">Length</span>  | 217.     |  215.    | 217.   |  217.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.939 | 0.943 | 0.947 |

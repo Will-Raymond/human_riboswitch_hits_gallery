@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.949<br>
                     Length: 146.<br>
                     Predicted Ligands:<br>
-                    unknown - 9/20<br>
-                    glutamine - 9/20<br>
-                    cobalamin - 1/20<br>         
+                    FMN - 20/20<br>
+                    <br>
+                    <br>         
             </td>
             <td>
                     RS: URS0000DF3150_69539<br>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA119800/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000DF3150/69539" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C08690/1234679" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS000056CE6D/1097677" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000DF3150/69539" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C08690/1234679" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS000056CE6D/1097677" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA119800     | URS0000DF3150_69539     | URS0000C08690_1234679     | URS000056CE6D_1097677     |
 | <span title="Length of the sequence in question">Length</span>  | 146.     |  142.    | 148.   |  148.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.949 | 0.958 | 0.953 |

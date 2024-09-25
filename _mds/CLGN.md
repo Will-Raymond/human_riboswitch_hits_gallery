@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.902<br>
                     Length: 159.<br>
                     Predicted Ligands:<br>
-                    zmp-ztp - 4/20<br>
-                    glycine - 4/20<br>
-                    TPP - 3/20<br>         
+                    FMN - 20/20<br>
+                    <br>
+                    <br>         
             </td>
             <td>
                     RS: URS0000C29E29_1305675<br>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA022634/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C29E29/1305675" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000D7D36D/1324314" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000AB7E44/621372" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000C29E29/1305675" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000D7D36D/1324314" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000AB7E44/621372" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA022634     | URS0000C29E29_1305675     | URS0000D7D36D_1324314     | URS0000AB7E44_621372     |
 | <span title="Length of the sequence in question">Length</span>  | 159.     |  152.    | 158.   |  163.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.902 | 0.951 | 0.928 |

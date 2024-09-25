@@ -32,7 +32,7 @@ exclude: true
                     ENS: 0.980<br>
                     Length: 82.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
+                    glycine - 20/20<br>
                     <br>
                     <br>         
             </td>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA060921/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000ABD324/997347" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C03C20/157838" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000AB3A48/1263065" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000ABD324/997347" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C03C20/157838" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000AB3A48/1263065" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA060921     | URS0000ABD324_997347     | URS0000C03C20_157838     | URS0000AB3A48_1263065     |
 | <span title="Length of the sequence in question">Length</span>  | 82.     |  80.    | 84.   |  82.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.980 | 0.976 | 0.987 |

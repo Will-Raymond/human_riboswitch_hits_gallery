@@ -32,7 +32,7 @@ exclude: true
                     ENS: 0.971<br>
                     Length: 127.<br>
                     Predicted Ligands:<br>
-                    SAM - 20/20<br>
+                    guanidine - 20/20<br>
                     <br>
                     <br>         
             </td>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA029710/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0002313FEB/1206085" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000AB42FD/643648" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D93E1B/326476" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0002313FEB/1206085" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000AB42FD/643648" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D93E1B/326476" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA029710     | URS0002313FEB_1206085     | URS0000AB42FD_643648     | URS0000D93E1B_326476     |
 | <span title="Length of the sequence in question">Length</span>  | 127.     |  127.    | 125.   |  126.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.971 | 0.966 | 0.956 |

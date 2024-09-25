@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.922<br>
                     Length: 145.<br>
                     Predicted Ligands:<br>
-                    molybdenum - 10/20<br>
-                    SAM - 5/20<br>
-                    cobalamin - 2/20<br>         
+                    cobalamin - 20/20<br>
+                    <br>
+                    <br>         
             </td>
             <td>
                     RS: URS0002324B09_104336<br>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA024462/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0002324B09/104336" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS000231EFB2/100226" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS000231D4D2/398843" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0002324B09/104336" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS000231EFB2/100226" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS000231D4D2/398843" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA024462     | URS0002324B09_104336     | URS000231EFB2_100226     | URS000231D4D2_398843     |
 | <span title="Length of the sequence in question">Length</span>  | 145.     |  146.    | 143.   |  147.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.922 | 0.917 | 0.902 |

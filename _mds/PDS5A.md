@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.843<br>
                     Length: 221.<br>
                     Predicted Ligands:<br>
-                    TPP - 10/20<br>
-                    guanidine - 4/20<br>
-                    homocysteine - 3/20<br>         
+                    cobalamin - 20/20<br>
+                    <br>
+                    <br>         
             </td>
             <td>
                     RS: URS000232DB1B_1797840<br>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA078674/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS000232DB1B/1797840" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS000231C266/1736539" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0002323806/1955065" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS000232DB1B/1797840" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS000231C266/1736539" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0002323806/1955065" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA078674     | URS000232DB1B_1797840     | URS000231C266_1736539     | URS0002323806_1955065     |
 | <span title="Length of the sequence in question">Length</span>  | 221.     |  216.    | 221.   |  219.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.843 | 0.931 | 0.909 |

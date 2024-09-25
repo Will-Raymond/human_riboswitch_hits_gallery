@@ -32,8 +32,8 @@ exclude: true
                     ENS: 0.975<br>
                     Length: 116.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 18/20<br>
-                    lysine - 2/20<br>
+                    methionine - 20/20<br>
+                    <br>
                     <br>         
             </td>
             <td>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA116132/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000ABB0D7/1073574" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000D6A8A7/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D9D5B8/2003551" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000ABB0D7/1073574" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000D6A8A7/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D9D5B8/2003551" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA116132     | URS0000ABB0D7_1073574     | URS0000D6A8A7_12908     | URS0000D9D5B8_2003551     |
 | <span title="Length of the sequence in question">Length</span>  | 116.     |  116.    | 115.   |  114.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.975 | 0.973 | 0.968 |

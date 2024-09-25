@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.974<br>
                     Length: 121.<br>
                     Predicted Ligands:<br>
-                    TPP - 11/20<br>
-                    tetrahydrofolate - 6/20<br>
-                    zmp-ztp - 2/20<br>         
+                    FMN - 20/20<br>
+                    <br>
+                    <br>         
             </td>
             <td>
                     RS: URS0000ABAED9_386415<br>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA093061/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000ABAED9/386415" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000AB5C67/1042163" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C1E8C0/1423790" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000ABAED9/386415" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000AB5C67/1042163" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C1E8C0/1423790" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA093061     | URS0000ABAED9_386415     | URS0000AB5C67_1042163     | URS0000C1E8C0_1423790     |
 | <span title="Length of the sequence in question">Length</span>  | 121.     |  120.    | 121.   |  120.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.974 | 0.973 | 0.973 |

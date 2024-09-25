@@ -32,7 +32,7 @@ exclude: true
                     ENS: 0.970<br>
                     Length: 135.<br>
                     Predicted Ligands:<br>
-                    glycine - 20/20<br>
+                    molybdenum - 20/20<br>
                     <br>
                     <br>         
             </td>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA049620/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C851D4/1122185" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000DA7FAE/642227" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D8593D/83655" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000C851D4/1122185" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000DA7FAE/642227" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D8593D/83655" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA049620     | URS0000C851D4_1122185     | URS0000DA7FAE_642227     | URS0000D8593D_83655     |
 | <span title="Length of the sequence in question">Length</span>  | 135.     |  135.    | 138.   |  135.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.970 | 0.962 | 0.969 |

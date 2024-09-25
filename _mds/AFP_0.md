@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.975<br>
                     Length: 125.<br>
                     Predicted Ligands:<br>
-                    glycine - 8/20<br>
-                    TPP - 4/20<br>
-                    cobalamin - 3/20<br>         
+                    FMN - 20/20<br>
+                    <br>
+                    <br>         
             </td>
             <td>
                     RS: URS0000D945DF_1797196<br>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA002803/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000D945DF/1797196" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000ABC112/947828" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D81CA3/29385" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000D945DF/1797196" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000ABC112/947828" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D81CA3/29385" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA002803     | URS0000D945DF_1797196     | URS0000ABC112_947828     | URS0000D81CA3_29385     |
 | <span title="Length of the sequence in question">Length</span>  | 125.     |  126.    | 125.   |  132.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.975 | 0.974 | 0.930 |

@@ -32,7 +32,7 @@ exclude: true
                     ENS: 0.942<br>
                     Length: 194.<br>
                     Predicted Ligands:<br>
-                    zmp-ztp - 20/20<br>
+                    lysine - 20/20<br>
                     <br>
                     <br>         
             </td>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA056337/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000D8C45A/1163389" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000AB9806/525284" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D81AFF/46206" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000D8C45A/1163389" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000AB9806/525284" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D81AFF/46206" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA056337     | URS0000D8C45A_1163389     | URS0000AB9806_525284     | URS0000D81AFF_46206     |
 | <span title="Length of the sequence in question">Length</span>  | 194.     |  192.    | 192.   |  191.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.942 | 0.947 | 0.940 |

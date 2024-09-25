@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.928<br>
                     Length: 210.<br>
                     Predicted Ligands:<br>
-                    SAM - 11/20<br>
-                    fluoride - 6/20<br>
-                    homocysteine - 1/20<br>         
+                    cobalamin - 20/20<br>
+                    <br>
+                    <br>         
             </td>
             <td>
                     RS: URS0002322DE0_1795870<br>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA000498/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0002322DE0/1795870" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS000231E3BA/1798681" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS00023142B1/1042209" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0002322DE0/1795870" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS000231E3BA/1798681" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS00023142B1/1042209" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA000498     | URS0002322DE0_1795870     | URS000231E3BA_1798681     | URS00023142B1_1042209     |
 | <span title="Length of the sequence in question">Length</span>  | 210.     |  209.    | 209.   |  212.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.928 | 0.939 | 0.940 |

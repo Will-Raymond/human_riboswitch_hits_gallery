@@ -32,7 +32,7 @@ exclude: true
                     ENS: 0.982<br>
                     Length: 81.<br>
                     Predicted Ligands:<br>
-                    glycine - 20/20<br>
+                    zmp-ztp - 20/20<br>
                     <br>
                     <br>         
             </td>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA001798/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000DB0BE5/108015" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C5DC97/366602" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C3C22A/989370" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000DB0BE5/108015" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C5DC97/366602" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C3C22A/989370" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA001798     | URS0000DB0BE5_108015     | URS0000C5DC97_366602     | URS0000C3C22A_989370     |
 | <span title="Length of the sequence in question">Length</span>  | 81.     |  82.    | 80.   |  82.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.982 | 0.982 | 0.980 |

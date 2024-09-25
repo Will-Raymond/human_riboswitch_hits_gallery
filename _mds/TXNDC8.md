@@ -32,7 +32,7 @@ exclude: true
                     ENS: 0.991<br>
                     Length: 74.<br>
                     Predicted Ligands:<br>
-                    SAM - 20/20<br>
+                    purine - 20/20<br>
                     <br>
                     <br>         
             </td>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA115354/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000D9F08B/1419482" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000D65DDB/1121930" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C0AB04/1144275" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000D9F08B/1419482" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000D65DDB/1121930" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C0AB04/1144275" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA115354     | URS0000D9F08B_1419482     | URS0000D65DDB_1121930     | URS0000C0AB04_1144275     |
 | <span title="Length of the sequence in question">Length</span>  | 74.     |  74.    | 75.   |  73.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.991 | 0.986 | 0.982 |

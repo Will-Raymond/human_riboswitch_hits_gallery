@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.941<br>
                     Length: 184.<br>
                     Predicted Ligands:<br>
-                    SAM - 12/20<br>
-                    glycine - 5/20<br>
-                    Ni/Co - 2/20<br>         
+                    cobalamin - 20/20<br>
+                    <br>
+                    <br>         
             </td>
             <td>
                     RS: URS000231B553_891974<br>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA111480/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS000231B553/891974" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS000231CB24/1797341" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C88873/47917" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS000231B553/891974" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS000231CB24/1797341" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C88873/47917" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA111480     | URS000231B553_891974     | URS000231CB24_1797341     | URS0000C88873_47917     |
 | <span title="Length of the sequence in question">Length</span>  | 184.     |  181.    | 186.   |  187.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.941 | 0.924 | 0.945 |

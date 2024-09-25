@@ -32,7 +32,7 @@ exclude: true
                     ENS: 0.939<br>
                     Length: 176.<br>
                     Predicted Ligands:<br>
-                    glutamine - 20/20<br>
+                    cobalamin - 20/20<br>
                     <br>
                     <br>         
             </td>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA036688/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000ABAA32/714995" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C21448/1220589" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS000232D24D/1121306" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000ABAA32/714995" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C21448/1220589" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS000232D24D/1121306" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA036688     | URS0000ABAA32_714995     | URS0000C21448_1220589     | URS000232D24D_1121306     |
 | <span title="Length of the sequence in question">Length</span>  | 176.     |  177.    | 176.   |  173.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.939 | 0.937 | 0.937 |

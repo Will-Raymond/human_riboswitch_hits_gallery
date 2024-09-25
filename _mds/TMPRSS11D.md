@@ -32,7 +32,7 @@ exclude: true
                     ENS: 0.971<br>
                     Length: 90.<br>
                     Predicted Ligands:<br>
-                    fluoride - 20/20<br>
+                    TPP - 20/20<br>
                     <br>
                     <br>         
             </td>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA111672/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS000231F01C/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C868E4/123899" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C75D1B/1130798" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS000231F01C/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C868E4/123899" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C75D1B/1130798" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA111672     | URS000231F01C_12908     | URS0000C868E4_123899     | URS0000C75D1B_1130798     |
 | <span title="Length of the sequence in question">Length</span>  | 90.     |  93.    | 92.   |  93.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.971 | 0.974 | 0.971 |

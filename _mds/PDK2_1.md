@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.930<br>
                     Length: 186.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 15/20<br>
-                    SAM - 2/20<br>
-                    FMN - 1/20<br>         
+                    cobalamin - 20/20<br>
+                    <br>
+                    <br>         
             </td>
             <td>
                     RS: URS0002329CE9_1797492<br>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA078542/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0002329CE9/1797492" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0002323A21/1449350" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS000073BC23/1795" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0002329CE9/1797492" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0002323A21/1449350" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS000073BC23/1795" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA078542     | URS0002329CE9_1797492     | URS0002323A21_1449350     | URS000073BC23_1795     |
 | <span title="Length of the sequence in question">Length</span>  | 186.     |  188.    | 185.   |  187.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.930 | 0.949 | 0.945 |

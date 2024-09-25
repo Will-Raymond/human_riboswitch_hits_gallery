@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.961<br>
                     Length: 123.<br>
                     Predicted Ligands:<br>
-                    SAM - 8/20<br>
-                    GMP - 6/20<br>
-                    cobalamin - 4/20<br>         
+                    TPP - 20/20<br>
+                    <br>
+                    <br>         
             </td>
             <td>
                     RS: URS0000C0A19A_1635291<br>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA112915/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C0A19A/1635291" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000DA6644/1859473" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000DAABCE/573983" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000C0A19A/1635291" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000DA6644/1859473" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000DAABCE/573983" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA112915     | URS0000C0A19A_1635291     | URS0000DA6644_1859473     | URS0000DAABCE_573983     |
 | <span title="Length of the sequence in question">Length</span>  | 123.     |  121.    | 120.   |  124.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.961 | 0.947 | 0.952 |

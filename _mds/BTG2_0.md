@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.957<br>
                     Length: 141.<br>
                     Predicted Ligands:<br>
-                    cyclic-di-GMP - 15/20<br>
-                    GMP - 2/20<br>
-                    zmp-ztp - 1/20<br>         
+                    cobalamin - 20/20<br>
+                    <br>
+                    <br>         
             </td>
             <td>
                     RS: URS00023213DC_42234<br>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA011302/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS00023213DC/42234" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS000231B872/584657" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C0CE56/1069530" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS00023213DC/42234" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS000231B872/584657" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C0CE56/1069530" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA011302     | URS00023213DC_42234     | URS000231B872_584657     | URS0000C0CE56_1069530     |
 | <span title="Length of the sequence in question">Length</span>  | 141.     |  143.    | 135.   |  142.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.957 | 0.933 | 0.959 |

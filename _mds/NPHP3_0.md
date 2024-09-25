@@ -32,7 +32,7 @@ exclude: true
                     ENS: 0.978<br>
                     Length: 84.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
+                    GMP - 20/20<br>
                     <br>
                     <br>         
             </td>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA073044/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000ABBD20/1036672" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000D6AB90/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D7B313/1912795" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000ABBD20/1036672" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000D6AB90/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D7B313/1912795" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA073044     | URS0000ABBD20_1036672     | URS0000D6AB90_12908     | URS0000D7B313_1912795     |
 | <span title="Length of the sequence in question">Length</span>  | 84.     |  82.    | 85.   |  88.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.978 | 0.972 | 0.966 |

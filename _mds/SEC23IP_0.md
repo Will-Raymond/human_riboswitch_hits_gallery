@@ -32,7 +32,7 @@ exclude: true
                     ENS: 0.980<br>
                     Length: 101.<br>
                     Predicted Ligands:<br>
-                    lysine - 20/20<br>
+                    purine - 20/20<br>
                     <br>
                     <br>         
             </td>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA095764/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C38A05/1268072" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C81894/1131935" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C68DD4/1743146" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000C38A05/1268072" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C81894/1131935" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C68DD4/1743146" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA095764     | URS0000C38A05_1268072     | URS0000C81894_1131935     | URS0000C68DD4_1743146     |
 | <span title="Length of the sequence in question">Length</span>  | 101.     |  102.    | 101.   |  101.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.980 | 0.980 | 0.975 |

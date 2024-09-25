@@ -32,7 +32,7 @@ exclude: true
                     ENS: 0.978<br>
                     Length: 127.<br>
                     Predicted Ligands:<br>
-                    homocysteine - 20/20<br>
+                    glycine - 20/20<br>
                     <br>
                     <br>         
             </td>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA042021/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS00003CC219/1003195" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C23E2C/1449350" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D9DC97/1797561" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS00003CC219/1003195" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C23E2C/1449350" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D9DC97/1797561" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA042021     | URS00003CC219_1003195     | URS0000C23E2C_1449350     | URS0000D9DC97_1797561     |
 | <span title="Length of the sequence in question">Length</span>  | 127.     |  128.    | 124.   |  124.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.978 | 0.962 | 0.960 |

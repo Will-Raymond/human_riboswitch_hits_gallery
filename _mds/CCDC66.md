@@ -32,7 +32,7 @@ exclude: true
                     ENS: 0.976<br>
                     Length: 112.<br>
                     Predicted Ligands:<br>
-                    glutamine - 20/20<br>
+                    SAM - 20/20<br>
                     <br>
                     <br>         
             </td>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA018600/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C85588/880073" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000ABCBBA/457396" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C43506/1294142" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000C85588/880073" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000ABCBBA/457396" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C43506/1294142" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA018600     | URS0000C85588_880073     | URS0000ABCBBA_457396     | URS0000C43506_1294142     |
 | <span title="Length of the sequence in question">Length</span>  | 112.     |  113.    | 109.   |  109.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.976 | 0.970 | 0.967 |

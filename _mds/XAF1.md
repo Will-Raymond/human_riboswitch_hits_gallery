@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.983<br>
                     Length: 62.<br>
                     Predicted Ligands:<br>
-                    methionine - 7/20<br>
-                    FMN - 4/20<br>
-                    TPP - 3/20<br>         
+                    fluoride - 20/20<br>
+                    <br>
+                    <br>         
             </td>
             <td>
                     RS: URS0000C37375_376489<br>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA120087/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C37375/376489" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000CA35F2/1331910" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C3D101/649831" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000C37375/376489" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000CA35F2/1331910" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C3D101/649831" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA120087     | URS0000C37375_376489     | URS0000CA35F2_1331910     | URS0000C3D101_649831     |
 | <span title="Length of the sequence in question">Length</span>  | 62.     |  64.    | 63.   |  64.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.983 | 0.987 | 0.982 |

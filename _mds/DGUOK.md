@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.973<br>
                     Length: 110.<br>
                     Predicted Ligands:<br>
-                    fluoride - 6/20<br>
-                    zmp-ztp - 4/20<br>
-                    SAM - 3/20<br>         
+                    methionine - 20/20<br>
+                    <br>
+                    <br>         
             </td>
             <td>
                     RS: URS0000D8ED1D_284016<br>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA029879/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000D8ED1D/284016" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C6E6D3/376489" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C61EB5/487514" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000D8ED1D/284016" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C6E6D3/376489" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C61EB5/487514" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA029879     | URS0000D8ED1D_284016     | URS0000C6E6D3_376489     | URS0000C61EB5_487514     |
 | <span title="Length of the sequence in question">Length</span>  | 110.     |  109.    | 109.   |  112.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.973 | 0.970 | 0.970 |

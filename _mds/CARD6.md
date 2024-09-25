@@ -32,7 +32,7 @@ exclude: true
                     ENS: 0.980<br>
                     Length: 100.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
+                    purine - 20/20<br>
                     <br>
                     <br>         
             </td>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA016943/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C0FF48/748449" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000AB2DB4/469605" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D93677/1805003" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000C0FF48/748449" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000AB2DB4/469605" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D93677/1805003" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA016943     | URS0000C0FF48_748449     | URS0000AB2DB4_469605     | URS0000D93677_1805003     |
 | <span title="Length of the sequence in question">Length</span>  | 100.     |  100.    | 101.   |  97.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.980 | 0.980 | 0.974 |

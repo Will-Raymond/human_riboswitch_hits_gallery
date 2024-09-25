@@ -32,7 +32,7 @@ exclude: true
                     ENS: 0.954<br>
                     Length: 167.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
+                    FMN - 20/20<br>
                     <br>
                     <br>         
             </td>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA108945/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000AB9479/331869" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C28387/1263013" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C47177/1300222" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000AB9479/331869" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C28387/1263013" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C47177/1300222" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA108945     | URS0000AB9479_331869     | URS0000C28387_1263013     | URS0000C47177_1300222     |
 | <span title="Length of the sequence in question">Length</span>  | 167.     |  167.    | 166.   |  169.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.954 | 0.960 | 0.935 |

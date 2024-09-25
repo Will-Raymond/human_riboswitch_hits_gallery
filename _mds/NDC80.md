@@ -32,7 +32,7 @@ exclude: true
                     ENS: 0.936<br>
                     Length: 195.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
+                    cobalamin - 20/20<br>
                     <br>
                     <br>         
             </td>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA070715/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C7296F/1069985" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0002316B15/1622118" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS000231C149/556261" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000C7296F/1069985" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0002316B15/1622118" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS000231C149/556261" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA070715     | URS0000C7296F_1069985     | URS0002316B15_1622118     | URS000231C149_556261     |
 | <span title="Length of the sequence in question">Length</span>  | 195.     |  198.    | 192.   |  192.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.936 | 0.933 | 0.932 |

@@ -32,7 +32,7 @@ exclude: true
                     ENS: 0.937<br>
                     Length: 206.<br>
                     Predicted Ligands:<br>
-                    FMN - 20/20<br>
+                    cobalamin - 20/20<br>
                     <br>
                     <br>         
             </td>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA094532/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000D9E4EF/1805004" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000E60143/1262980" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS00007DEFB1/408180" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000D9E4EF/1805004" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000E60143/1262980" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS00007DEFB1/408180" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA094532     | URS0000D9E4EF_1805004     | URS0000E60143_1262980     | URS00007DEFB1_408180     |
 | <span title="Length of the sequence in question">Length</span>  | 206.     |  203.    | 205.   |  204.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.937 | 0.933 | 0.934 |

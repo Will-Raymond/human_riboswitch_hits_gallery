@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.987<br>
                     Length: 68.<br>
                     Predicted Ligands:<br>
-                    purine - 7/20<br>
-                    TPP - 5/20<br>
-                    SAM - 4/20<br>         
+                    homocysteine - 20/20<br>
+                    <br>
+                    <br>         
             </td>
             <td>
                     RS: URS0000ABA3A8_655186<br>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA085576/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000ABA3A8/655186" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000AB3540/76114" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C74CCF/1703391" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000ABA3A8/655186" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000AB3540/76114" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C74CCF/1703391" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA085576     | URS0000ABA3A8_655186     | URS0000AB3540_76114     | URS0000C74CCF_1703391     |
 | <span title="Length of the sequence in question">Length</span>  | 68.     |  67.    | 66.   |  70.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.987 | 0.984 | 0.983 |

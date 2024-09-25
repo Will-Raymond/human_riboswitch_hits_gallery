@@ -32,7 +32,7 @@ exclude: true
                     ENS: 0.957<br>
                     Length: 165.<br>
                     Predicted Ligands:<br>
-                    FMN - 20/20<br>
+                    SAM - 20/20<br>
                     <br>
                     <br>         
             </td>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA120172/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000E606C1/86332" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C6143F/1886670" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS000219213A/649161" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000E606C1/86332" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C6143F/1886670" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS000219213A/649161" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA120172     | URS0000E606C1_86332     | URS0000C6143F_1886670     | URS000219213A_649161     |
 | <span title="Length of the sequence in question">Length</span>  | 165.     |  163.    | 163.   |  166.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.957 | 0.953 | 0.959 |

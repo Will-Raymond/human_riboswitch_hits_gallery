@@ -32,8 +32,8 @@ exclude: true
                     ENS: 0.976<br>
                     Length: 87.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 19/20<br>
-                    Mn2+ - 1/20<br>
+                    cyclic-di-GMP - 20/20<br>
+                    <br>
                     <br>         
             </td>
             <td>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA086571/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C1E686/1144311" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C1DB08/1413210" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C786CD/1629550" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000C1E686/1144311" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C1DB08/1413210" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C786CD/1629550" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA086571     | URS0000C1E686_1144311     | URS0000C1DB08_1413210     | URS0000C786CD_1629550     |
 | <span title="Length of the sequence in question">Length</span>  | 87.     |  84.    | 85.   |  84.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.976 | 0.979 | 0.976 |

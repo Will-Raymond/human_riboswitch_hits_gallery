@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.869<br>
                     Length: 262.<br>
                     Predicted Ligands:<br>
-                    TPP - 16/20<br>
-                    methionine - 1/20<br>
-                    FMN - 1/20<br>         
+                    cobalamin - 20/20<br>
+                    <br>
+                    <br>         
             </td>
             <td>
                     RS: URS0002327005_264732<br>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA111468/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0002327005/264732" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS000232E71A/1391654" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0002323CF1/1089553" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0002327005/264732" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS000232E71A/1391654" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0002323CF1/1089553" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA111468     | URS0002327005_264732     | URS000232E71A_1391654     | URS0002323CF1_1089553     |
 | <span title="Length of the sequence in question">Length</span>  | 262.     |  255.    | 261.   |  262.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.869 | 0.910 | 0.920 |

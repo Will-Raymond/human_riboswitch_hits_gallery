@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.968<br>
                     Length: 107.<br>
                     Predicted Ligands:<br>
-                    homocysteine - 11/20<br>
-                    cobalamin - 5/20<br>
-                    fluoride - 4/20<br>         
+                    TPP - 20/20<br>
+                    <br>
+                    <br>         
             </td>
             <td>
                     RS: URS0000D66ED1_12908<br>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA033935/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000D66ED1/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000AB4D89/220664" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0002333733/996637" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000D66ED1/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000AB4D89/220664" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0002333733/996637" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA033935     | URS0000D66ED1_12908     | URS0000AB4D89_220664     | URS0002333733_996637     |
 | <span title="Length of the sequence in question">Length</span>  | 107.     |  109.    | 107.   |  109.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.968 | 0.964 | 0.971 |

@@ -32,7 +32,7 @@ exclude: true
                     ENS: 0.948<br>
                     Length: 187.<br>
                     Predicted Ligands:<br>
-                    purine - 20/20<br>
+                    cobalamin - 20/20<br>
                     <br>
                     <br>         
             </td>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA029894/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C4D8D7/1658172" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C17E55/1703770" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C133B0/1565991" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000C4D8D7/1658172" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C17E55/1703770" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C133B0/1565991" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA029894     | URS0000C4D8D7_1658172     | URS0000C17E55_1703770     | URS0000C133B0_1565991     |
 | <span title="Length of the sequence in question">Length</span>  | 187.     |  188.    | 185.   |  182.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.948 | 0.903 | 0.923 |

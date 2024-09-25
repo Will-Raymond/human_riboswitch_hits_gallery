@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.960<br>
                     Length: 142.<br>
                     Predicted Ligands:<br>
-                    unknown - 12/20<br>
-                    glutamine - 7/20<br>
-                    fluoride - 1/20<br>         
+                    cobalamin - 20/20<br>
+                    <br>
+                    <br>         
             </td>
             <td>
                     RS: URS0000DA7C7B_698762<br>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA043771/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000DA7C7B/698762" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0002331D87/1678637" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS000232886F/67386" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000DA7C7B/698762" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0002331D87/1678637" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS000232886F/67386" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA043771     | URS0000DA7C7B_698762     | URS0002331D87_1678637     | URS000232886F_67386     |
 | <span title="Length of the sequence in question">Length</span>  | 142.     |  144.    | 142.   |  145.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.960 | 0.964 | 0.955 |

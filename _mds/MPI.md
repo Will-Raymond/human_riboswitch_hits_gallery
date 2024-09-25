@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.973<br>
                     Length: 86.<br>
                     Predicted Ligands:<br>
-                    glutamine - 14/20<br>
-                    preQ_1 - 4/20<br>
-                    unknown - 2/20<br>         
+                    zmp-ztp - 20/20<br>
+                    <br>
+                    <br>         
             </td>
             <td>
                     RS: URS0000DAA9CE_1839759<br>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA067069-0/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000DAA9CE/1839759" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000AB573B/546414" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS000226EDF6/2773266" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000DAA9CE/1839759" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000AB573B/546414" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS000226EDF6/2773266" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA067069-0     | URS0000DAA9CE_1839759     | URS0000AB573B_546414     | URS000226EDF6_2773266     |
 | <span title="Length of the sequence in question">Length</span>  | 86.     |  86.    | 83.   |  82.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.973 | 0.977 | 0.973 |

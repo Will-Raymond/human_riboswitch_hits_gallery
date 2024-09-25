@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.993<br>
                     Length: 50.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 17/20<br>
-                    SAM - 1/20<br>
-                    glucosamine - 1/20<br>         
+                    SAM - 20/20<br>
+                    <br>
+                    <br>         
             </td>
             <td>
                     RS: URS0000AB6041_371731<br>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA049817/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000AB6041/371731" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C1E701/1792508" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000AB5383/314265" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000AB6041/371731" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C1E701/1792508" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000AB5383/314265" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA049817     | URS0000AB6041_371731     | URS0000C1E701_1792508     | URS0000AB5383_314265     |
 | <span title="Length of the sequence in question">Length</span>  | 50.     |  48.    | 49.   |  49.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.993 | 0.995 | 0.995 |

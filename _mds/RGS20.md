@@ -32,7 +32,7 @@ exclude: true
                     ENS: 0.955<br>
                     Length: 159.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
+                    Mg2+ - 20/20<br>
                     <br>
                     <br>         
             </td>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA090663/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000D88BF0/1529" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000D9BFF0/1797535" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS000232E81D/1801770" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000D88BF0/1529" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000D9BFF0/1797535" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS000232E81D/1801770" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA090663     | URS0000D88BF0_1529     | URS0000D9BFF0_1797535     | URS000232E81D_1801770     |
 | <span title="Length of the sequence in question">Length</span>  | 159.     |  162.    | 157.   |  156.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.955 | 0.957 | 0.949 |

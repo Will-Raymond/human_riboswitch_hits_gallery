@@ -32,7 +32,7 @@ exclude: true
                     ENS: 0.964<br>
                     Length: 149.<br>
                     Predicted Ligands:<br>
-                    fluoride - 20/20<br>
+                    cobalamin - 20/20<br>
                     <br>
                     <br>         
             </td>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA079606/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000AB486F/608534" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000DB3BBF/1797673" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS000056CE6D/1097677" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000AB486F/608534" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000DB3BBF/1797673" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS000056CE6D/1097677" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA079606     | URS0000AB486F_608534     | URS0000DB3BBF_1797673     | URS000056CE6D_1097677     |
 | <span title="Length of the sequence in question">Length</span>  | 149.     |  149.    | 146.   |  148.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.964 | 0.952 | 0.959 |

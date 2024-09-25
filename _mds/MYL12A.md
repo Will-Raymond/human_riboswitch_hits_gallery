@@ -32,7 +32,7 @@ exclude: true
                     ENS: 0.960<br>
                     Length: 147.<br>
                     Predicted Ligands:<br>
-                    Ni/Co - 20/20<br>
+                    FMN - 20/20<br>
                     <br>
                     <br>         
             </td>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA069191/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C6BCE2/520764" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000D911BE/1895813" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000ABCFFC/935547" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000C6BCE2/520764" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000D911BE/1895813" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000ABCFFC/935547" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA069191     | URS0000C6BCE2_520764     | URS0000D911BE_1895813     | URS0000ABCFFC_935547     |
 | <span title="Length of the sequence in question">Length</span>  | 147.     |  147.    | 146.   |  149.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.960 | 0.959 | 0.958 |

@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.963<br>
                     Length: 155.<br>
                     Predicted Ligands:<br>
-                    SAM - 13/20<br>
-                    TPP - 4/20<br>
-                    guanidine - 1/20<br>         
+                    cobalamin - 20/20<br>
+                    <br>
+                    <br>         
             </td>
             <td>
                     RS: URS0000BEAB77_1304275<br>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA090294/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000BEAB77/1304275" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS000231C65E/879308" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000AB3708/742159" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000BEAB77/1304275" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS000231C65E/879308" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000AB3708/742159" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA090294     | URS0000BEAB77_1304275     | URS000231C65E_879308     | URS0000AB3708_742159     |
 | <span title="Length of the sequence in question">Length</span>  | 155.     |  153.    | 154.   |  158.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.963 | 0.964 | 0.953 |

@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.980<br>
                     Length: 67.<br>
                     Predicted Ligands:<br>
-                    Ni/Co - 13/20<br>
-                    glycine - 3/20<br>
-                    purine - 2/20<br>         
+                    fluoride - 20/20<br>
+                    <br>
+                    <br>         
             </td>
             <td>
                     RS: URS0000DB163B_1797820<br>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA092481/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000DB163B/1797820" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000BF7652/1600" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000AB3CAB/365046" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000DB163B/1797820" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000BF7652/1600" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000AB3CAB/365046" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA092481     | URS0000DB163B_1797820     | URS0000BF7652_1600     | URS0000AB3CAB_365046     |
 | <span title="Length of the sequence in question">Length</span>  | 67.     |  69.    | 64.   |  69.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.980 | 0.976 | 0.979 |

@@ -32,7 +32,7 @@ exclude: true
                     ENS: 0.973<br>
                     Length: 104.<br>
                     Predicted Ligands:<br>
-                    fluoride - 20/20<br>
+                    SAM - 20/20<br>
                     <br>
                     <br>         
             </td>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA029831/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000D85B7D/1917422" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000D9CBF3/1218103" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C72224/1201288" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000D85B7D/1917422" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000D9CBF3/1218103" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C72224/1201288" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA029831     | URS0000D85B7D_1917422     | URS0000D9CBF3_1218103     | URS0000C72224_1201288     |
 | <span title="Length of the sequence in question">Length</span>  | 104.     |  102.    | 106.   |  104.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.973 | 0.970 | 0.973 |

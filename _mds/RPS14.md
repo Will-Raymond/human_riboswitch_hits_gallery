@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.964<br>
                     Length: 108.<br>
                     Predicted Ligands:<br>
-                    FMN - 10/20<br>
-                    cobalamin - 8/20<br>
-                    tetrahydrofolate - 1/20<br>         
+                    purine - 20/20<br>
+                    <br>
+                    <br>         
             </td>
             <td>
                     RS: URS0000ABAC6E_1116391<br>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA092865/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000ABAC6E/1116391" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000BEDCF0/1403540" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C76BE7/1078085" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000ABAC6E/1116391" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000BEDCF0/1403540" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C76BE7/1078085" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA092865     | URS0000ABAC6E_1116391     | URS0000BEDCF0_1403540     | URS0000C76BE7_1078085     |
 | <span title="Length of the sequence in question">Length</span>  | 108.     |  104.    | 109.   |  107.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.964 | 0.974 | 0.972 |

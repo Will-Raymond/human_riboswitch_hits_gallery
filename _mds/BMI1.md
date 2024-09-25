@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.961<br>
                     Length: 146.<br>
                     Predicted Ligands:<br>
-                    SAM - 8/20<br>
-                    TPP - 7/20<br>
-                    cobalamin - 3/20<br>         
+                    molybdenum - 20/20<br>
+                    <br>
+                    <br>         
             </td>
             <td>
                     RS: URS0000AB620F_373384<br>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA010717/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000AB620F/373384" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000D9FA75/1121425" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0002327BE1/1802474" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000AB620F/373384" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000D9FA75/1121425" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0002327BE1/1802474" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA010717     | URS0000AB620F_373384     | URS0000D9FA75_1121425     | URS0002327BE1_1802474     |
 | <span title="Length of the sequence in question">Length</span>  | 146.     |  146.    | 148.   |  144.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.961 | 0.960 | 0.958 |

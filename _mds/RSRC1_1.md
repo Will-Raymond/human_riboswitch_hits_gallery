@@ -32,8 +32,8 @@ exclude: true
                     ENS: 0.932<br>
                     Length: 174.<br>
                     Predicted Ligands:<br>
-                    glucosamine - 18/20<br>
-                    glucosamine-6-phosphate - 2/20<br>
+                    lysine - 20/20<br>
+                    <br>
                     <br>         
             </td>
             <td>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA093486/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS000232DC2C/1121420" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000D93C61/1158614" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0002326832/768704" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS000232DC2C/1121420" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000D93C61/1158614" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0002326832/768704" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA093486     | URS000232DC2C_1121420     | URS0000D93C61_1158614     | URS0002326832_768704     |
 | <span title="Length of the sequence in question">Length</span>  | 174.     |  173.    | 174.   |  174.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.932 | 0.938 | 0.943 |

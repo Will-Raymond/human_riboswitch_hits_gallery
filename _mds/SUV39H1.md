@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.983<br>
                     Length: 70.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 8/20<br>
-                    glycine - 5/20<br>
-                    molybdenum - 4/20<br>         
+                    homocysteine - 20/20<br>
+                    <br>
+                    <br>         
             </td>
             <td>
                     RS: URS0000AB7F62_378806<br>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA106117/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000AB7F62/378806" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000BFB91D/56193" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS000080E134/1423" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000AB7F62/378806" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000BFB91D/56193" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS000080E134/1423" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA106117     | URS0000AB7F62_378806     | URS0000BFB91D_56193     | URS000080E134_1423     |
 | <span title="Length of the sequence in question">Length</span>  | 70.     |  68.    | 71.   |  68.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.983 | 0.984 | 0.981 |

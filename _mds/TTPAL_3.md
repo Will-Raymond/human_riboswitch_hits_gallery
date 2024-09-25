@@ -32,7 +32,7 @@ exclude: true
                     ENS: 0.928<br>
                     Length: 145.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
+                    glycine - 20/20<br>
                     <br>
                     <br>         
             </td>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA114962/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0002320A2A/656024" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS000232DE92/574375" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C5ABD9/1761910" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0002320A2A/656024" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS000232DE92/574375" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C5ABD9/1761910" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA114962     | URS0002320A2A_656024     | URS000232DE92_574375     | URS0000C5ABD9_1761910     |
 | <span title="Length of the sequence in question">Length</span>  | 145.     |  143.    | 149.   |  143.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.928 | 0.949 | 0.964 |

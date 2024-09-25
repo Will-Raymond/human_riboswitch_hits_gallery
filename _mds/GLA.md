@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.960<br>
                     Length: 135.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 16/20<br>
-                    unknown - 2/20<br>
-                    zmp-ztp - 1/20<br>         
+                    cobalamin - 20/20<br>
+                    <br>
+                    <br>         
             </td>
             <td>
                     RS: URS0000DABA43_1805133<br>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA044277/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000DABA43/1805133" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS000232B406/1618734" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000AB2819/399742" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000DABA43/1805133" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS000232B406/1618734" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000AB2819/399742" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA044277     | URS0000DABA43_1805133     | URS000232B406_1618734     | URS0000AB2819_399742     |
 | <span title="Length of the sequence in question">Length</span>  | 135.     |  134.    | 137.   |  135.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.960 | 0.961 | 0.962 |

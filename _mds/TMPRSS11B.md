@@ -32,7 +32,7 @@ exclude: true
                     ENS: 0.953<br>
                     Length: 161.<br>
                     Predicted Ligands:<br>
-                    Mn2+ - 20/20<br>
+                    cobalamin - 20/20<br>
                     <br>
                     <br>         
             </td>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA111669/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS000009A3A5/35824" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS000232E64F/891968" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000BE41A6/520767" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS000009A3A5/35824" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS000232E64F/891968" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000BE41A6/520767" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA111669     | URS000009A3A5_35824     | URS000232E64F_891968     | URS0000BE41A6_520767     |
 | <span title="Length of the sequence in question">Length</span>  | 161.     |  162.    | 163.   |  162.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.953 | 0.943 | 0.952 |

@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.983<br>
                     Length: 72.<br>
                     Predicted Ligands:<br>
-                    TPP - 7/20<br>
-                    guanidine - 7/20<br>
-                    glycine - 5/20<br>         
+                    homocysteine - 20/20<br>
+                    <br>
+                    <br>         
             </td>
             <td>
                     RS: URS0000AB4AE6_519989<br>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA091409/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000AB4AE6/519989" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C5C846/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D7CCB0/1802374" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000AB4AE6/519989" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C5C846/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D7CCB0/1802374" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA091409     | URS0000AB4AE6_519989     | URS0000C5C846_12908     | URS0000D7CCB0_1802374     |
 | <span title="Length of the sequence in question">Length</span>  | 72.     |  74.    | 74.   |  71.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.983 | 0.985 | 0.984 |

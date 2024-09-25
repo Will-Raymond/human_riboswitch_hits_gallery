@@ -129,7 +129,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="%s" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="%s" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="%s" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="%s" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="%s" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="%s" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="%s" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | %s     | %s     | %s     | %s     |
 | <span title="Length of the sequence in question">Length</span>  | %s     |  %s    | %s   |  %s    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | %s | %s | %s |
@@ -679,7 +679,10 @@ if ens20 == True:
     rs3_descs = [rs3_descs[i] for i in range(len(ulist)) if i in keep_indexes]   
     
     utr_pls = [utr_pls[i] for i in range(len(ulist)) if i in keep_indexes]    
-    
+
+
+utr_pls = utr_pls[::2]
+
 sorted_genes = sorted(used_genes)
 
 sort_proba = np.sort(utr_probas)[::-1]
@@ -775,7 +778,9 @@ for i in range(len(ulist)):
 
     if len(utr_pl) == 2:
         utr_pl = [utr_pl[0], utr_pl[1], '']
-    
+
+    if len(utr_pl) == 3:
+        utr_pl = [utr_pl[0], utr_pl[1], utr_pl[2]]    
 
     utr_UBS, utr_BS, utr_ILL, utr_ILR, utr_H, utr_BL, utr_BR, utr_UN = utr_feats[i]
     rs1_UBS, rs1_BS, rs1_ILL, rs1_ILR, rs1_H, rs1_BL, rs1_BR, rs1_UN  = rs1_feats[i]
@@ -818,9 +823,9 @@ for i in range(len(ulist)):
            utr_id, k, rs1_id, k, rs2_id, k, rs3_id, k, # ss
            utr_id, k, rs1_id, k, rs2_id, k, rs3_id, k, # circ
            rs1_id, k, rs2_id, k, rs3_id, k, # feat
-           next_file, k, k, k,
+           next_file, k, k, k, #utr_link
            
-           utr_link, rs1_link, rs2_link,
+          rs1_link, rs2_link,
                         rs3_link, utr_id, rs1_id, rs2_id, rs3_id, 
                         utr_l, rs1_l, rs2_l, rs3_l, '{:.3f}'.format(rs1_sim), '{:.3f}'.format(rs2_sim), '{:.3f}'.format(rs3_sim), ens,
                         utr_mfe, rs1_mfe, rs2_mfe, rs3_mfe,

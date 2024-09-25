@@ -32,7 +32,7 @@ exclude: true
                     ENS: 0.983<br>
                     Length: 89.<br>
                     Predicted Ligands:<br>
-                    SAM - 20/20<br>
+                    TPP - 20/20<br>
                     <br>
                     <br>         
             </td>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA062370/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000D97763/1803434" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS000232C37A/1869300" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000BED8D1/247156" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000D97763/1803434" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS000232C37A/1869300" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000BED8D1/247156" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA062370     | URS0000D97763_1803434     | URS000232C37A_1869300     | URS0000BED8D1_247156     |
 | <span title="Length of the sequence in question">Length</span>  | 89.     |  90.    | 89.   |  90.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.983 | 0.981 | 0.979 |

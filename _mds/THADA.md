@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.918<br>
                     Length: 165.<br>
                     Predicted Ligands:<br>
-                    SAM - 5/20<br>
-                    fluoride - 3/20<br>
-                    GMP - 3/20<br>         
+                    TPP - 20/20<br>
+                    <br>
+                    <br>         
             </td>
             <td>
                     RS: URS0000C2D74B_5078<br>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA108940/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C2D74B/5078" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000BF3CAD/732165" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D9BBC8/1903704" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000C2D74B/5078" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000BF3CAD/732165" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D9BBC8/1903704" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA108940     | URS0000C2D74B_5078     | URS0000BF3CAD_732165     | URS0000D9BBC8_1903704     |
 | <span title="Length of the sequence in question">Length</span>  | 165.     |  170.    | 169.   |  164.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.918 | 0.929 | 0.955 |

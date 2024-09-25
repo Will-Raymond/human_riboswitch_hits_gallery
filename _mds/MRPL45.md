@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.967<br>
                     Length: 129.<br>
                     Predicted Ligands:<br>
-                    TPP - 5/20<br>
-                    zmp-ztp - 4/20<br>
-                    cobalamin - 4/20<br>         
+                    FMN - 20/20<br>
+                    <br>
+                    <br>         
             </td>
             <td>
                     RS: URS0000C10783_284581<br>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA067525/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C10783/284581" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0002328F57/767029" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000DBCCB8/256318" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000C10783/284581" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0002328F57/767029" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000DBCCB8/256318" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA067525     | URS0000C10783_284581     | URS0002328F57_767029     | URS0000DBCCB8_256318     |
 | <span title="Length of the sequence in question">Length</span>  | 129.     |  127.    | 127.   |  130.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.967 | 0.956 | 0.960 |

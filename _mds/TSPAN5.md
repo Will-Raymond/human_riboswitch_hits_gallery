@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.983<br>
                     Length: 81.<br>
                     Predicted Ligands:<br>
-                    TPP - 9/20<br>
-                    cobalamin - 4/20<br>
-                    molybdenum - 2/20<br>         
+                    cobalamin - 20/20<br>
+                    <br>
+                    <br>         
             </td>
             <td>
                     RS: URS0000C736A9_1423744<br>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA114421/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C736A9/1423744" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C4FEA2/1007676" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS000232CD19/1617427" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000C736A9/1423744" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C4FEA2/1007676" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS000232CD19/1617427" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA114421     | URS0000C736A9_1423744     | URS0000C4FEA2_1007676     | URS000232CD19_1617427     |
 | <span title="Length of the sequence in question">Length</span>  | 81.     |  81.    | 82.   |  83.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.983 | 0.984 | 0.981 |

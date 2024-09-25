@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.953<br>
                     Length: 155.<br>
                     Predicted Ligands:<br>
-                    zmp-ztp - 15/20<br>
-                    GMP - 2/20<br>
-                    fluoride - 1/20<br>         
+                    FMN - 20/20<br>
+                    <br>
+                    <br>         
             </td>
             <td>
                     RS: URS0000C62801_1609098<br>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA051937/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C62801/1609098" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000D9015A/1528693" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D863E7/1775675" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000C62801/1609098" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000D9015A/1528693" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D863E7/1775675" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA051937     | URS0000C62801_1609098     | URS0000D9015A_1528693     | URS0000D863E7_1775675     |
 | <span title="Length of the sequence in question">Length</span>  | 155.     |  157.    | 155.   |  154.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.953 | 0.962 | 0.933 |

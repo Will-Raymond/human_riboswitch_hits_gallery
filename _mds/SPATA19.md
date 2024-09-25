@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.984<br>
                     Length: 76.<br>
                     Predicted Ligands:<br>
-                    FMN - 9/20<br>
-                    methionine - 3/20<br>
-                    cobalamin - 3/20<br>         
+                    Ni/Co - 20/20<br>
+                    <br>
+                    <br>         
             </td>
             <td>
                     RS: URS0000C7AEA4_12908<br>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA102982/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C7AEA4/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000D66326/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C5E2FC/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000C7AEA4/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000D66326/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C5E2FC/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA102982     | URS0000C7AEA4_12908     | URS0000D66326_12908     | URS0000C5E2FC_12908     |
 | <span title="Length of the sequence in question">Length</span>  | 76.     |  75.    | 75.   |  80.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.984 | 0.984 | 0.971 |

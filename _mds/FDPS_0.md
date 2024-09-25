@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.925<br>
                     Length: 189.<br>
                     Predicted Ligands:<br>
-                    TPP - 12/20<br>
-                    glycine - 4/20<br>
-                    purine - 3/20<br>         
+                    cobalamin - 20/20<br>
+                    <br>
+                    <br>         
             </td>
             <td>
                     RS: URS000232D652_1203606<br>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA040293/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS000232D652/1203606" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS00019A8BCC/2653126" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0002323F42/1844478" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS000232D652/1203606" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS00019A8BCC/2653126" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0002323F42/1844478" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA040293     | URS000232D652_1203606     | URS00019A8BCC_2653126     | URS0002323F42_1844478     |
 | <span title="Length of the sequence in question">Length</span>  | 189.     |  191.    | 185.   |  187.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.925 | 0.911 | 0.943 |

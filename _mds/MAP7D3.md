@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.963<br>
                     Length: 116.<br>
                     Predicted Ligands:<br>
-                    SAM - 8/20<br>
-                    cobalamin - 5/20<br>
-                    FMN - 3/20<br>         
+                    methionine - 20/20<br>
+                    <br>
+                    <br>         
             </td>
             <td>
                     RS: URS0002334A90_1805131<br>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA063192/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0002334A90/1805131" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000D69BAB/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000BEC791/1571774" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0002334A90/1805131" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000D69BAB/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000BEC791/1571774" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA063192     | URS0002334A90_1805131     | URS0000D69BAB_12908     | URS0000BEC791_1571774     |
 | <span title="Length of the sequence in question">Length</span>  | 116.     |  115.    | 114.   |  117.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.963 | 0.971 | 0.971 |

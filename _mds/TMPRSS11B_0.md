@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.941<br>
                     Length: 187.<br>
                     Predicted Ligands:<br>
-                    Mn2+ - 7/20<br>
-                    purine - 5/20<br>
-                    TPP - 4/20<br>         
+                    cobalamin - 20/20<br>
+                    <br>
+                    <br>         
             </td>
             <td>
                     RS: URS0002332DCC_1121326<br>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA111670/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0002332DCC/1121326" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000BE2EF7/640938" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS000231B296/163877" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0002332DCC/1121326" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000BE2EF7/640938" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS000231B296/163877" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA111670     | URS0002332DCC_1121326     | URS0000BE2EF7_640938     | URS000231B296_163877     |
 | <span title="Length of the sequence in question">Length</span>  | 187.     |  191.    | 186.   |  183.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.941 | 0.957 | 0.933 |

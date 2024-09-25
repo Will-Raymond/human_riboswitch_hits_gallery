@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.983<br>
                     Length: 84.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 12/20<br>
-                    FMN - 6/20<br>
-                    TPP - 1/20<br>         
+                    zmp-ztp - 20/20<br>
+                    <br>
+                    <br>         
             </td>
             <td>
                     RS: URS0000BF8AA2_273057<br>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA096226/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000BF8AA2/273057" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C110CF/515622" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000DABB86/1978762" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000BF8AA2/273057" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C110CF/515622" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000DABB86/1978762" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA096226     | URS0000BF8AA2_273057     | URS0000C110CF_515622     | URS0000DABB86_1978762     |
 | <span title="Length of the sequence in question">Length</span>  | 84.     |  85.    | 86.   |  81.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.983 | 0.981 | 0.977 |

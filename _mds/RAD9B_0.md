@@ -32,7 +32,7 @@ exclude: true
                     ENS: 0.956<br>
                     Length: 124.<br>
                     Predicted Ligands:<br>
-                    glycine - 20/20<br>
+                    cobalamin - 20/20<br>
                     <br>
                     <br>         
             </td>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA088286/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C3ACA6/933944" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C0EDFB/1395513" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000DA7CBA/75922" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000C3ACA6/933944" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C0EDFB/1395513" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000DA7CBA/75922" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA088286     | URS0000C3ACA6_933944     | URS0000C0EDFB_1395513     | URS0000DA7CBA_75922     |
 | <span title="Length of the sequence in question">Length</span>  | 124.     |  120.    | 129.   |  124.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.956 | 0.951 | 0.962 |

@@ -32,7 +32,7 @@ exclude: true
                     ENS: 0.962<br>
                     Length: 148.<br>
                     Predicted Ligands:<br>
-                    lysine - 20/20<br>
+                    cobalamin - 20/20<br>
                     <br>
                     <br>         
             </td>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA121981/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0002318C8E/1641390" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C08690/1234679" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0002314CE1/32049" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0002318C8E/1641390" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C08690/1234679" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0002314CE1/32049" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA121981     | URS0002318C8E_1641390     | URS0000C08690_1234679     | URS0002314CE1_32049     |
 | <span title="Length of the sequence in question">Length</span>  | 148.     |  147.    | 148.   |  147.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.962 | 0.955 | 0.962 |

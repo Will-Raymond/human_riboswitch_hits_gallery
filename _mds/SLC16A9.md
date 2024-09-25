@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.964<br>
                     Length: 134.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 9/20<br>
-                    Mg2+ - 8/20<br>
-                    molybdenum - 1/20<br>         
+                    guanidine - 20/20<br>
+                    <br>
+                    <br>         
             </td>
             <td>
                     RS: URS0000AB203F_314608<br>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA098856/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000AB203F/314608" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C1F14E/200991" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C362C9/33936" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000AB203F/314608" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C1F14E/200991" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C362C9/33936" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA098856     | URS0000AB203F_314608     | URS0000C1F14E_200991     | URS0000C362C9_33936     |
 | <span title="Length of the sequence in question">Length</span>  | 134.     |  132.    | 131.   |  131.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.964 | 0.961 | 0.964 |

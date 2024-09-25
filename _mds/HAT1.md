@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.987<br>
                     Length: 78.<br>
                     Predicted Ligands:<br>
-                    zmp-ztp - 9/20<br>
-                    cyclic-di-GMP - 6/20<br>
-                    TPP - 2/20<br>         
+                    SAM - 20/20<br>
+                    <br>
+                    <br>         
             </td>
             <td>
                     RS: URS0000AB334A_287752<br>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA047880/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000AB334A/287752" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000DB5E33/1896170" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D2B623/2026799" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000AB334A/287752" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000DB5E33/1896170" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D2B623/2026799" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA047880     | URS0000AB334A_287752     | URS0000DB5E33_1896170     | URS0000D2B623_2026799     |
 | <span title="Length of the sequence in question">Length</span>  | 78.     |  78.    | 78.   |  80.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.987 | 0.987 | 0.984 |

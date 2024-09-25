@@ -32,7 +32,7 @@ exclude: true
                     ENS: 0.921<br>
                     Length: 171.<br>
                     Predicted Ligands:<br>
-                    glucosamine - 20/20<br>
+                    Mg2+ - 20/20<br>
                     <br>
                     <br>         
             </td>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA109525/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0002314AB4/710705" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000ABD47B/527026" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS000232EE66/357804" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0002314AB4/710705" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000ABD47B/527026" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS000232EE66/357804" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA109525     | URS0002314AB4_710705     | URS0000ABD47B_527026     | URS000232EE66_357804     |
 | <span title="Length of the sequence in question">Length</span>  | 171.     |  171.    | 166.   |  171.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.921 | 0.919 | 0.950 |

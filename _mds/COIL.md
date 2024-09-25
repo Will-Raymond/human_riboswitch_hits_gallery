@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.990<br>
                     Length: 56.<br>
                     Predicted Ligands:<br>
-                    SAM - 10/20<br>
-                    preQ_1 - 8/20<br>
-                    unknown - 1/20<br>         
+                    unknown - 20/20<br>
+                    <br>
+                    <br>         
             </td>
             <td>
                     RS: URS0000E6083E_1420583<br>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA023723/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000E6083E/1420583" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000E6042A/869719" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D6889F/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000E6083E/1420583" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000E6042A/869719" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D6889F/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA023723     | URS0000E6083E_1420583     | URS0000E6042A_869719     | URS0000D6889F_12908     |
 | <span title="Length of the sequence in question">Length</span>  | 56.     |  56.    | 56.   |  55.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.990 | 0.988 | 0.990 |

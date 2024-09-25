@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.950<br>
                     Length: 157.<br>
                     Predicted Ligands:<br>
-                    fluoride - 15/20<br>
-                    glycine - 4/20<br>
-                    SAM - 1/20<br>         
+                    TPP - 20/20<br>
+                    <br>
+                    <br>         
             </td>
             <td>
                     RS: URS0000B9402B_40578<br>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA029028/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000B9402B/40578" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C4D665/78410" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000BECDD1/701091" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000B9402B/40578" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C4D665/78410" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000BECDD1/701091" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA029028     | URS0000B9402B_40578     | URS0000C4D665_78410     | URS0000BECDD1_701091     |
 | <span title="Length of the sequence in question">Length</span>  | 157.     |  157.    | 157.   |  154.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.950 | 0.952 | 0.940 |

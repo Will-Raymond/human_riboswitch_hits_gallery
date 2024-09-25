@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.974<br>
                     Length: 92.<br>
                     Predicted Ligands:<br>
-                    preQ_1 - 8/20<br>
-                    SAM - 8/20<br>
-                    unknown - 1/20<br>         
+                    zmp-ztp - 20/20<br>
+                    <br>
+                    <br>         
             </td>
             <td>
                     RS: URS0000C250FA_1736322<br>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA108462/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C250FA/1736322" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS000231D2E5/1519495" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C234A0/479433" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000C250FA/1736322" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS000231D2E5/1519495" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C234A0/479433" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA108462     | URS0000C250FA_1736322     | URS000231D2E5_1519495     | URS0000C234A0_479433     |
 | <span title="Length of the sequence in question">Length</span>  | 92.     |  89.    | 91.   |  87.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.974 | 0.981 | 0.963 |

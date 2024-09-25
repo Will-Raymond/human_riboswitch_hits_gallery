@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.981<br>
                     Length: 89.<br>
                     Predicted Ligands:<br>
-                    unknown - 13/20<br>
-                    glutamine - 6/20<br>
-                    cobalamin - 1/20<br>         
+                    zmp-ztp - 20/20<br>
+                    <br>
+                    <br>         
             </td>
             <td>
                     RS: URS0000C621B3_1736380<br>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA084404/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C621B3/1736380" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000D97BF5/113562" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS000080DF21/210007" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000C621B3/1736380" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000D97BF5/113562" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS000080DF21/210007" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA084404     | URS0000C621B3_1736380     | URS0000D97BF5_113562     | URS000080DF21_210007     |
 | <span title="Length of the sequence in question">Length</span>  | 89.     |  88.    | 87.   |  89.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.981 | 0.974 | 0.978 |

@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.982<br>
                     Length: 84.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 15/20<br>
-                    TPP - 2/20<br>
-                    FMN - 2/20<br>         
+                    guanidine - 20/20<br>
+                    <br>
+                    <br>         
             </td>
             <td>
                     RS: URS00021EE126_12908<br>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA117210/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS00021EE126/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS00021EDBFF/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS00021EDABB/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS00021EE126/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS00021EDBFF/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS00021EDABB/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA117210     | URS00021EE126_12908     | URS00021EDBFF_12908     | URS00021EDABB_12908     |
 | <span title="Length of the sequence in question">Length</span>  | 84.     |  83.    | 82.   |  84.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.982 | 0.979 | 0.983 |

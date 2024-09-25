@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.963<br>
                     Length: 105.<br>
                     Predicted Ligands:<br>
-                    glutamine - 11/20<br>
-                    fluoride - 8/20<br>
-                    SAM - 1/20<br>         
+                    purine - 20/20<br>
+                    <br>
+                    <br>         
             </td>
             <td>
                     RS: URS0000D8CE78_1898736<br>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA120464/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000D8CE78/1898736" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000AB2711/573060" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D7CD8C/1285586" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000D8CE78/1898736" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000AB2711/573060" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D7CD8C/1285586" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA120464     | URS0000D8CE78_1898736     | URS0000AB2711_573060     | URS0000D7CD8C_1285586     |
 | <span title="Length of the sequence in question">Length</span>  | 105.     |  101.    | 106.   |  102.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.963 | 0.968 | 0.969 |

@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.964<br>
                     Length: 118.<br>
                     Predicted Ligands:<br>
-                    SAM - 8/20<br>
-                    TPP - 5/20<br>
-                    FMN - 4/20<br>         
+                    TPP - 20/20<br>
+                    <br>
+                    <br>         
             </td>
             <td>
                     RS: URS0000C3EAC9_408015<br>
@@ -106,7 +106,7 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA056517/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C3EAC9/408015" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0002331CDB/1609133" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C3796B/1679169" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000C3EAC9/408015" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0002331CDB/1609133" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C3796B/1679169" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA056517     | URS0000C3EAC9_408015     | URS0002331CDB_1609133     | URS0000C3796B_1679169     |
 | <span title="Length of the sequence in question">Length</span>  | 118.     |  114.    | 117.   |  118.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.964 | 0.971 | 0.971 |
