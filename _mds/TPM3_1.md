@@ -10,32 +10,109 @@ exclude: true
 
 <div> Detected as RS by 6 out of 20 classifiers </div>
 
+
+
 <div class="row" >
   <div class="column">
     <a href="../../_mds/RAB41/"><img src="../../icons/arrow_left.png" alt="arrow left" style="width:100%"></a>
   </div>
   <div class="column_center">
-    <img src="../../alns_10.27.23/aln_5HSAA112882_0.836.png?raw=true" alt="UTR-RS hit comparison" style="width:100%">
-  </div>
+    <table>
+      <tr>
+        <th>5HSAA112882</th>
+        <th>URS0000C0A19A_1635291 - Similarity: 0.963</th>
+        <th>URS0000DA6644_1859473 - Similarity: 0.951</th>
+        <th>URS0000ABD0A7_7375 - Similarity: 0.955</th>
+      </tr>
+        <tr>
+            <td>
+                    UTR: 5HSAA112882<br>
+                    Gene: TPM3_1<br>
+                    MFE: -35.364<br>
+                    ENS: 0.963<br>
+                    Length: 122.<br>
+                    Predicted Ligands:<br>
+                    SAM - 20/20<br>
+                    <br>
+                    <br>         
+            </td>
+            <td>
+                    RS: URS0000C0A19A_1635291<br>
+                    MFE: -31.777<br>
+                    Ligand: tetrahydrofolate<br>
+                    Species: Atribacteria bacterium 34_128 THF riboswitch<br>
+            </td>
+            <td>
+                    RS: URS0000DA6644_1859473<br>
+                    MFE: -26.944<br>
+                    Ligand: FMN<br>
+                    Species: Floricoccus tropicus FMN riboswitch (RFN element)<br>
+            </td>
+            <td>
+                    RS: URS0000ABD0A7_7375<br>
+                    MFE: -28.562<br>
+                    Ligand: TPP<br>
+                Species: Lucilia cuprina TPP riboswitch (THI element)<br>
+            </td>
+        </tr>
+      <tr>
+        <td><img src="../../alns/dot/UTR_5HSAA112882_1362.png" alt="UTR-RS hit comparison" style="width:100%"></td>
+        <td><img src="../../alns/dot/RS_URS0000C0A19A_1635291_1362.png" alt="UTR-RS hit comparison" style="width:100%"></td>
+        <td><img src="../../alns/dot/RS_URS0000DA6644_1859473_1362.png" alt="UTR-RS hit comparison" style="width:100%"></td>
+        <td><img src="../../alns/dot/RS_URS0000ABD0A7_7375_1362.png" alt="UTR-RS hit comparison" style="width:100%"></td>
+      </tr>
+      <tr>
+        <td><img src="../../alns/circ/circ_5HSAA112882_1362.png" alt="UTR-RS hit comparison" style="width:100%"></td>
+        <td><img src="../../alns/circ/circ_URS0000C0A19A_1635291_1362.png" alt="UTR-RS hit comparison" style="width:100%"></td>
+        <td><img src="../../alns/circ/circ_URS0000DA6644_1859473_1362.png" alt="UTR-RS hit comparison" style="width:100%"></td>
+        <td><img src="../../alns/circ/circ_URS0000ABD0A7_7375_1362.png" alt="UTR-RS hit comparison" style="width:100%"></td>
+      </tr>
+      <tr>
+        <td></td>
+        <td><img src="../../alns/feat/feat_URS0000C0A19A_1635291_1362.png" alt="UTR-RS hit comparison" style="width:100%"></td>
+        <td><img src="../../alns/feat/feat_URS0000DA6644_1859473_1362.png" alt="UTR-RS hit comparison" style="width:100%"></td>
+        <td><img src="../../alns/feat/feat_URS0000ABD0A7_7375_1362.png" alt="UTR-RS hit comparison" style="width:100%"></td>
+      </tr>
+    </table>
+    </div>
   <div class="column">
     <a href="../../_mds/HEYL/"><img src="../../icons/arrow_right.png" alt="arrow right" style="width:100%"></a>
   </div>
 </div>
 
 
+<div class="row" >
+    <div class="column_center">
+        <img src="../../alns/feat/featcomp_1362.png" alt="UTR-RS hit comparison" style="width:100%">
+    </div>
+</div>
+
+<div class="row" >
+    <div class="column_center">
+        <img src="../../alns/bpp/bpp_1362.png" alt="UTR-RS hit comparison" style="width:100%">
+    </div>
+</div>
+
+
+
+<div class="row">
+    <div class="column_center">
+        <img src="../../alns/ens/ens_1362.png" alt="ML ensemble output for the 5prime UTR" style="width:100%">
+    </div>
+</div>
 
 
 **Information**
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA112882/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000AB444A/406425" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000AB6566/1348852" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS00004AA15C/216591" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
-| <span title="ID within respective databases">ID</span>  | 5HSAA112882     | URS0000AB444A_406425     | URS0000AB6566_1348852     | URS00004AA15C_216591     |
-| <span title="Length of the sequence in question">Length</span>  | 122     |  122    | 122   |  122    |
-| <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.97 | 0.97 | 0.97 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.97 | - | - | - |
-| <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -35.36 | -42.79 | -46.49 | -47.29 |
-| <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | guanidine | guanidine | guanidine |
+| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA112882/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000C0A19A/1635291" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000DA6644/1859473" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000ABD0A7/7375" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="ID within respective databases">ID</span>  | 5HSAA112882     | URS0000C0A19A_1635291     | URS0000DA6644_1859473     | URS0000ABD0A7_7375     |
+| <span title="Length of the sequence in question">Length</span>  | 122.     |  121.    | 120.   |  119.    |
+| <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.963 | 0.951 | 0.955 |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.963 | - | - | - |
+| <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -35.364 | -31.777 | -26.944 | -28.562 |
+| <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | tetrahydrofolate | FMN | TPP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | TPM3 | - | - | - |
 | <span title="Link to the sequence source">Downstream protein</span>  | <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TPM3" target="_blank" rel="noopener noreferrer"> Genecard </a>   |    -    | -  | - |
 
@@ -44,17 +121,17 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Structural feature squared error">Struct SE</span> | - | 2 | 2 | 2 |
-| <span title="Length difference squared error">Length SE</span> | - | 0 | 0 | 0 |
-| <span title="Edit distance of both dot structures">Lev Distance</span> | - | 44 | 45 | 45 |
-| <span title="Unbranched stack count">UBS</span>| 10 | 10 | 10 | 10 |
-| <span title="Branched stack counts">BS</span> | 0 | 0 | 0 | 0 |
-| <span title="Inner loop left count">ILL</span> | 1 | 1 | 1 | 1 |
-| <span title="Inner loop right count">ILR</span> | 1 | 1 | 1 | 1 |
-| <span title="Hairpin counts">H</span> | 4 | 3 | 3 | 3 |
-| <span title="Bulges left count">BL</span> | 5 | 6 | 6 | 6 |
-| <span title="Bulges right count">BR</span> | 4 | 4 | 4 | 4 |
-| <span title="Unpaired nucleotide %">UN</span> | 0.16 | 0.14 | 0.14 | 0.14 |
+| <span title="Structural feature squared error">Struct SE</span> | - | 22. | 44. | 20.011 |
+| <span title="Length difference squared error">Length SE</span> | - | 1. | 4. | 9. |
+| <span title="Edit distance of both dot structures">Lev Distance</span> | - | 38. | 40. | 40. |
+| <span title="Unbranched stack count">UBS</span>| 10. | 8. | 7. | 9. |
+| <span title="Branched stack counts">BS</span> | 0. | 0. | 0. | 0. |
+| <span title="Inner loop left count">ILL</span> | 1. | 1. | 1. | 3. |
+| <span title="Inner loop right count">ILR</span> | 1. | 1. | 2. | 2. |
+| <span title="Hairpin counts">H</span> | 4. | 3. | 4. | 3. |
+| <span title="Bulges left count">BL</span> | 5. | 4. | 0. | 3. |
+| <span title="Bulges right count">BR</span> | 4. | 0. | 1. | 1. |
+| <span title="Unpaired nucleotide %">UN</span> | 0.156 | 0.140 | 0.150 | 0.050 |
 
 **Sequences**
 
@@ -86,42 +163,42 @@ exclude: true
 
 <tr>
 <td markdown="span">RS 1 seq </td>
-<td markdown="span"> UCUUAGGGUUGCUAGGGUUCCGGUUCAUCGAACGUCUGGUCCGAGAGCAGCCCGGCACGGGUUCACCCGAUCGCGAGACCGGAUGCGCACGUGCUACACGGCGGGACAAAAGCCCGGGAGAU
+<td markdown="span"> GUCAGAGUAGGUGGCAUGCGUUAAGUGUUAGAGAAUGGGACGUUGUCUCUAAACGAAAAGCCUAAAGAUUUUUUUUAGGAAUAAAAUUUUAGGCUUGCGGUAUGUCAUUGCGUCCGCUGCU
 </td>
 </tr>
 
 
 <tr>
 <td markdown="span">RS 1 dot </td>
-<td markdown="span"> .....((((((((.(((..((((............)))))))...))))))))((((((.((.((.(((.((....)).))).)).)).))))))......((((.(....)))))......
+<td markdown="span"> .......((((.((((.(((((..((........))..)))))))))))))......((((((.((((((((..........))))))))))))))((((.((((....))))))))....
 </td>
 </tr>
 
 
 <tr>
 <td markdown="span">RS 2 seq </td>
-<td markdown="span"> UCUUAGGGGUGCUAGGGUUCCGGUUCAUCGAACGUCUGGUCCGAGAGCAGCCCGGUGCGGGUUCGUCCGAUCGCGAGACCGGACGCACACGCGCUACACGGCGGGACAAAAGCCCGGGAGAU
+<td markdown="span"> GCACGUCUUCAGGGCGGGGUUUGUUUCCCCACUGGUGGUAUAGUCCAUGAACCGUUAAUUCGGCCGAACUGGUGAAAUUCCAGUACCAACUGUCAAAGUCAGGAUGAAGAGAAGACAGAG
 </td>
 </tr>
 
 
 <tr>
 <td markdown="span">RS 2 dot </td>
-<td markdown="span"> .....(((.((((.(((..((((............)))))))...)))).)))((((((.((.((((((.((....)).)))))).)).))))))......((((.(....)))))......
+<td markdown="span"> .......((((((((((((.......))))............)))).))))(((......)))....(((((.......))))).....(((((....((........))...)))))..
 </td>
 </tr>
 
 
 <tr>
 <td markdown="span">RS 3 seq </td>
-<td markdown="span"> UCUUAGGGGUGCUAGGGUUCCGGUUCAUCGAGCGUCUGGUCCGAGAGCAGCCCGGCGCGGGUUCAUCCGUUCGCGAGACCGGAUGCGCACGCGCUACACGGCGGGACAAAAGCCCGGGAGAU
+<td markdown="span"> ACUGUCUCAACGGGGUGCCGAAAUUAUUAUGCUCAGAGUAUGACGAGUAUAGGCUGAGAACUCACCCGUAGAACCUGAUCCGGGCAAUACCGGCGUAGGGAUUUGAGCUAUCAUCCAUG
 </td>
 </tr>
 
 
 <tr>
 <td markdown="span">RS 3 dot </td>
-<td markdown="span"> .....(((.((((.(((..((((............)))))))...)))).)))((((((.((.((((((.((....)).)))))).)).))))))......((((.(....)))))......
+<td markdown="span"> ...((.((.((.(((((.........((((((((..........))))))))..........))))))).))))(((..((((......))))..)))(((..(((....))))))...
 </td>
 </tr>
 

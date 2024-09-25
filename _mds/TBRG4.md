@@ -10,19 +10,96 @@ exclude: true
 
 <div> Detected as RS by 20 out of 20 classifiers </div>
 
+
+
 <div class="row" >
   <div class="column">
     <a href="../../_mds/HNF4G/"><img src="../../icons/arrow_left.png" alt="arrow left" style="width:100%"></a>
   </div>
   <div class="column_center">
-    <img src="../../alns_10.27.23/aln_5HSAA107535_0.967.png?raw=true" alt="UTR-RS hit comparison" style="width:100%">
-  </div>
+    <table>
+      <tr>
+        <th>5HSAA107535</th>
+        <th>URS0001A24B50_1907202 - Similarity: 0.975</th>
+        <th>URS0000D87AB1_1686310 - Similarity: 0.972</th>
+        <th>URS0001A24B6D_1907202 - Similarity: 0.977</th>
+      </tr>
+        <tr>
+            <td>
+                    UTR: 5HSAA107535<br>
+                    Gene: TBRG4<br>
+                    MFE: -7.848<br>
+                    ENS: 0.975<br>
+                    Length: 31.<br>
+                    Predicted Ligands:<br>
+                    TPP - 20/20<br>
+                    <br>
+                    <br>         
+            </td>
+            <td>
+                    RS: URS0001A24B50_1907202<br>
+                    MFE: -10.<br>
+                    Ligand: unknown<br>
+                    Species: Chains: A,C,F,I,M,O from Roseobacter sp. (PDB 6YLB, chain F)<br>
+            </td>
+            <td>
+                    RS: URS0000D87AB1_1686310<br>
+                    MFE: -13.459<br>
+                    Ligand: SAM<br>
+                    Species: Bartonella apis SAM riboswitch (alpha-proteobacteria)<br>
+            </td>
+            <td>
+                    RS: URS0001A24B6D_1907202<br>
+                    MFE: -12.438<br>
+                    Ligand: unknown<br>
+                Species: Chains: A,B,C,D,E,F,G,H,I,J,K,L from Roseobacter sp. (PDB 6YL5, chain G)<br>
+            </td>
+        </tr>
+      <tr>
+        <td><img src="../../alns/dot/UTR_5HSAA107535_1300.png" alt="UTR-RS hit comparison" style="width:100%"></td>
+        <td><img src="../../alns/dot/RS_URS0001A24B50_1907202_1300.png" alt="UTR-RS hit comparison" style="width:100%"></td>
+        <td><img src="../../alns/dot/RS_URS0000D87AB1_1686310_1300.png" alt="UTR-RS hit comparison" style="width:100%"></td>
+        <td><img src="../../alns/dot/RS_URS0001A24B6D_1907202_1300.png" alt="UTR-RS hit comparison" style="width:100%"></td>
+      </tr>
+      <tr>
+        <td><img src="../../alns/circ/circ_5HSAA107535_1300.png" alt="UTR-RS hit comparison" style="width:100%"></td>
+        <td><img src="../../alns/circ/circ_URS0001A24B50_1907202_1300.png" alt="UTR-RS hit comparison" style="width:100%"></td>
+        <td><img src="../../alns/circ/circ_URS0000D87AB1_1686310_1300.png" alt="UTR-RS hit comparison" style="width:100%"></td>
+        <td><img src="../../alns/circ/circ_URS0001A24B6D_1907202_1300.png" alt="UTR-RS hit comparison" style="width:100%"></td>
+      </tr>
+      <tr>
+        <td></td>
+        <td><img src="../../alns/feat/feat_URS0001A24B50_1907202_1300.png" alt="UTR-RS hit comparison" style="width:100%"></td>
+        <td><img src="../../alns/feat/feat_URS0000D87AB1_1686310_1300.png" alt="UTR-RS hit comparison" style="width:100%"></td>
+        <td><img src="../../alns/feat/feat_URS0001A24B6D_1907202_1300.png" alt="UTR-RS hit comparison" style="width:100%"></td>
+      </tr>
+    </table>
+    </div>
   <div class="column">
     <a href="../../_mds/ERP27/"><img src="../../icons/arrow_right.png" alt="arrow right" style="width:100%"></a>
   </div>
 </div>
 
 
+<div class="row" >
+    <div class="column_center">
+        <img src="../../alns/feat/featcomp_1300.png" alt="UTR-RS hit comparison" style="width:100%">
+    </div>
+</div>
+
+<div class="row" >
+    <div class="column_center">
+        <img src="../../alns/bpp/bpp_1300.png" alt="UTR-RS hit comparison" style="width:100%">
+    </div>
+</div>
+
+
+
+<div class="row">
+    <div class="column_center">
+        <img src="../../alns/ens/ens_1300.png" alt="ML ensemble output for the 5prime UTR" style="width:100%">
+    </div>
+</div>
 
 
 **Information**
@@ -31,10 +108,10 @@ exclude: true
 | ---- | ----------- | ----------- | ----------- | ----------- |
 | <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA107535/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0001A24B50/1907202" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000D87AB1/1686310" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0001A24B6D/1907202" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA107535     | URS0001A24B50_1907202     | URS0000D87AB1_1686310     | URS0001A24B6D_1907202     |
-| <span title="Length of the sequence in question">Length</span>  | 31     |  26    | 36   |  35    |
-| <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.99 | 0.99 | 0.99 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.99 | - | - | - |
-| <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -7.85 | -10.70 | -13.46 | -12.44 |
+| <span title="Length of the sequence in question">Length</span>  | 31.     |  26.    | 36.   |  35.    |
+| <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.975 | 0.972 | 0.977 |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.975 | - | - | - |
+| <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -7.848 | -10. | -13.459 | -12.438 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | unknown | SAM | unknown |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | TBRG4 | - | - | - |
 | <span title="Link to the sequence source">Downstream protein</span>  | <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TBRG4" target="_blank" rel="noopener noreferrer"> Genecard </a>   |    -    | -  | - |
@@ -44,17 +121,17 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Structural feature squared error">Struct SE</span> | - | 8 | 8 | 8.05 |
-| <span title="Length difference squared error">Length SE</span> | - | 25 | 25 | 16 |
-| <span title="Edit distance of both dot structures">Lev Distance</span> | - | 6 | 10 | 12 |
-| <span title="Unbranched stack count">UBS</span>| 3 | 2 | 2 | 2 |
-| <span title="Branched stack counts">BS</span> | 0 | 0 | 0 | 0 |
-| <span title="Inner loop left count">ILL</span> | 0 | 1 | 1 | 1 |
-| <span title="Inner loop right count">ILR</span> | 0 | 1 | 1 | 1 |
-| <span title="Hairpin counts">H</span> | 1 | 1 | 1 | 1 |
-| <span title="Bulges left count">BL</span> | 2 | 0 | 0 | 0 |
-| <span title="Bulges right count">BR</span> | 1 | 0 | 0 | 0 |
-| <span title="Unpaired nucleotide %">UN</span> | 0.03 | 0 | 0.06 | 0.26 |
+| <span title="Structural feature squared error">Struct SE</span> | - | 8.001 | 8.001 | 8.051 |
+| <span title="Length difference squared error">Length SE</span> | - | 25. | 25. | 16. |
+| <span title="Edit distance of both dot structures">Lev Distance</span> | - | 6. | 10. | 12. |
+| <span title="Unbranched stack count">UBS</span>| 3. | 2. | 2. | 2. |
+| <span title="Branched stack counts">BS</span> | 0. | 0. | 0. | 0. |
+| <span title="Inner loop left count">ILL</span> | 0. | 1. | 1. | 1. |
+| <span title="Inner loop right count">ILR</span> | 0. | 1. | 1. | 1. |
+| <span title="Hairpin counts">H</span> | 1. | 1. | 1. | 1. |
+| <span title="Bulges left count">BL</span> | 2. | 0. | 0. | 0. |
+| <span title="Bulges right count">BR</span> | 1. | 0. | 0. | 0. |
+| <span title="Unpaired nucleotide %">UN</span> | 0.032 | 0. | 0.056 | 0.257 |
 
 **Sequences**
 

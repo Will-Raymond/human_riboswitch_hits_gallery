@@ -10,19 +10,96 @@ exclude: true
 
 <div> Detected as RS by 16 out of 20 classifiers </div>
 
+
+
 <div class="row" >
   <div class="column">
     <a href="../../_mds/SLC10A4/"><img src="../../icons/arrow_left.png" alt="arrow left" style="width:100%"></a>
   </div>
   <div class="column_center">
-    <img src="../../alns_10.27.23/aln_5HSAA093794_0.908.png?raw=true" alt="UTR-RS hit comparison" style="width:100%">
-  </div>
+    <table>
+      <tr>
+        <th>5HSAA093794</th>
+        <th>URS0000AB8C73_887898 - Similarity: 0.975</th>
+        <th>URS0000D80EF9_1552123 - Similarity: 0.974</th>
+        <th>URS0000D87AB1_1686310 - Similarity: 0.979</th>
+      </tr>
+        <tr>
+            <td>
+                    UTR: 5HSAA093794<br>
+                    Gene: RUVBL2_1<br>
+                    MFE: -7.384<br>
+                    ENS: 0.975<br>
+                    Length: 40.<br>
+                    Predicted Ligands:<br>
+                    unknown - 20/20<br>
+                    <br>
+                    <br>         
+            </td>
+            <td>
+                    RS: URS0000AB8C73_887898<br>
+                    MFE: -9.546<br>
+                    Ligand: preQ_1<br>
+                    Species: Lautropia mirabilis ATCC 51599 PreQ1 riboswitch<br>
+            </td>
+            <td>
+                    RS: URS0000D80EF9_1552123<br>
+                    MFE: -6.806<br>
+                    Ligand: preQ_1<br>
+                    Species: Listeria booriae PreQ1 riboswitch<br>
+            </td>
+            <td>
+                    RS: URS0000D87AB1_1686310<br>
+                    MFE: -13.459<br>
+                    Ligand: SAM<br>
+                Species: Bartonella apis SAM riboswitch (alpha-proteobacteria)<br>
+            </td>
+        </tr>
+      <tr>
+        <td><img src="../../alns/dot/UTR_5HSAA093794_1136.png" alt="UTR-RS hit comparison" style="width:100%"></td>
+        <td><img src="../../alns/dot/RS_URS0000AB8C73_887898_1136.png" alt="UTR-RS hit comparison" style="width:100%"></td>
+        <td><img src="../../alns/dot/RS_URS0000D80EF9_1552123_1136.png" alt="UTR-RS hit comparison" style="width:100%"></td>
+        <td><img src="../../alns/dot/RS_URS0000D87AB1_1686310_1136.png" alt="UTR-RS hit comparison" style="width:100%"></td>
+      </tr>
+      <tr>
+        <td><img src="../../alns/circ/circ_5HSAA093794_1136.png" alt="UTR-RS hit comparison" style="width:100%"></td>
+        <td><img src="../../alns/circ/circ_URS0000AB8C73_887898_1136.png" alt="UTR-RS hit comparison" style="width:100%"></td>
+        <td><img src="../../alns/circ/circ_URS0000D80EF9_1552123_1136.png" alt="UTR-RS hit comparison" style="width:100%"></td>
+        <td><img src="../../alns/circ/circ_URS0000D87AB1_1686310_1136.png" alt="UTR-RS hit comparison" style="width:100%"></td>
+      </tr>
+      <tr>
+        <td></td>
+        <td><img src="../../alns/feat/feat_URS0000AB8C73_887898_1136.png" alt="UTR-RS hit comparison" style="width:100%"></td>
+        <td><img src="../../alns/feat/feat_URS0000D80EF9_1552123_1136.png" alt="UTR-RS hit comparison" style="width:100%"></td>
+        <td><img src="../../alns/feat/feat_URS0000D87AB1_1686310_1136.png" alt="UTR-RS hit comparison" style="width:100%"></td>
+      </tr>
+    </table>
+    </div>
   <div class="column">
     <a href="../../_mds/CAP2/"><img src="../../icons/arrow_right.png" alt="arrow right" style="width:100%"></a>
   </div>
 </div>
 
 
+<div class="row" >
+    <div class="column_center">
+        <img src="../../alns/feat/featcomp_1136.png" alt="UTR-RS hit comparison" style="width:100%">
+    </div>
+</div>
+
+<div class="row" >
+    <div class="column_center">
+        <img src="../../alns/bpp/bpp_1136.png" alt="UTR-RS hit comparison" style="width:100%">
+    </div>
+</div>
+
+
+
+<div class="row">
+    <div class="column_center">
+        <img src="../../alns/ens/ens_1136.png" alt="ML ensemble output for the 5prime UTR" style="width:100%">
+    </div>
+</div>
 
 
 **Information**
@@ -31,10 +108,10 @@ exclude: true
 | ---- | ----------- | ----------- | ----------- | ----------- |
 | <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA093794/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000AB8C73/887898" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000D80EF9/1552123" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000D87AB1/1686310" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
 | <span title="ID within respective databases">ID</span>  | 5HSAA093794     | URS0000AB8C73_887898     | URS0000D80EF9_1552123     | URS0000D87AB1_1686310     |
-| <span title="Length of the sequence in question">Length</span>  | 40     |  45    | 45   |  36    |
-| <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.99 | 0.99 | 0.99 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.99 | - | - | - |
-| <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -7.38 | -9.55 | -6.81 | -13.46 |
+| <span title="Length of the sequence in question">Length</span>  | 40.     |  45.    | 45.   |  36.    |
+| <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.975 | 0.974 | 0.979 |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.975 | - | - | - |
+| <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -7.384 | -9.546 | -6.806 | -13.459 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | preQ_1 | preQ_1 | SAM |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | RUVBL2 | - | - | - |
 | <span title="Link to the sequence source">Downstream protein</span>  | <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RUVBL2" target="_blank" rel="noopener noreferrer"> Genecard </a>   |    -    | -  | - |
@@ -44,17 +121,17 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Structural feature squared error">Struct SE</span> | - | 2 | 3 | 8 |
-| <span title="Length difference squared error">Length SE</span> | - | 25 | 25 | 16 |
-| <span title="Edit distance of both dot structures">Lev Distance</span> | - | 7 | 8 | 10 |
-| <span title="Unbranched stack count">UBS</span>| 4 | 3 | 3 | 2 |
-| <span title="Branched stack counts">BS</span> | 0 | 0 | 0 | 0 |
-| <span title="Inner loop left count">ILL</span> | 1 | 1 | 1 | 1 |
-| <span title="Inner loop right count">ILR</span> | 1 | 1 | 1 | 1 |
-| <span title="Hairpin counts">H</span> | 1 | 1 | 1 | 1 |
-| <span title="Bulges left count">BL</span> | 2 | 1 | 1 | 0 |
-| <span title="Bulges right count">BR</span> | 0 | 0 | 1 | 0 |
-| <span title="Unpaired nucleotide %">UN</span> | 0.10 | 0.16 | 0.09 | 0.06 |
+| <span title="Structural feature squared error">Struct SE</span> | - | 2.003 | 3. | 8.002 |
+| <span title="Length difference squared error">Length SE</span> | - | 25. | 25. | 16. |
+| <span title="Edit distance of both dot structures">Lev Distance</span> | - | 7. | 8. | 10. |
+| <span title="Unbranched stack count">UBS</span>| 4. | 3. | 3. | 2. |
+| <span title="Branched stack counts">BS</span> | 0. | 0. | 0. | 0. |
+| <span title="Inner loop left count">ILL</span> | 1. | 1. | 1. | 1. |
+| <span title="Inner loop right count">ILR</span> | 1. | 1. | 1. | 1. |
+| <span title="Hairpin counts">H</span> | 1. | 1. | 1. | 1. |
+| <span title="Bulges left count">BL</span> | 2. | 1. | 1. | 0. |
+| <span title="Bulges right count">BR</span> | 0. | 0. | 1. | 0. |
+| <span title="Unpaired nucleotide %">UN</span> | 0. | 0.156 | 0.089 | 0.056 |
 
 **Sequences**
 

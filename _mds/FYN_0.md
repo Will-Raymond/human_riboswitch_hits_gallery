@@ -10,31 +10,108 @@ exclude: true
 
 <div> Detected as RS by 10 out of 20 classifiers </div>
 
+
+
 <div class="row" >
   <div class="column">
     <a href="../../_mds/THAP6/"><img src="../../icons/arrow_left.png" alt="arrow left" style="width:100%"></a>
   </div>
   <div class="column_center">
-    <img src="../../alns_10.27.23/aln_5HSAA042351_0.858.png?raw=true" alt="UTR-RS hit comparison" style="width:100%">
-  </div>
+    <table>
+      <tr>
+        <th>5HSAA042351</th>
+        <th>URS0000BE6A87_1579316 - Similarity: 0.984</th>
+        <th>URS0000BE1F43_1123237 - Similarity: 0.981</th>
+        <th>URS0000DB11BA_1798282 - Similarity: 0.981</th>
+      </tr>
+        <tr>
+            <td>
+                    UTR: 5HSAA042351<br>
+                    Gene: FYN_0<br>
+                    MFE: -16.617<br>
+                    ENS: 0.984<br>
+                    Length: 79.<br>
+                    Predicted Ligands:<br>
+                    cobalamin - 20/20<br>
+                    <br>
+                    <br>         
+            </td>
+            <td>
+                    RS: URS0000BE6A87_1579316<br>
+                    MFE: -22.743<br>
+                    Ligand: SAM<br>
+                    Species: Halocynthiibacter arcticus SAM riboswitch (alpha-proteobacteria)<br>
+            </td>
+            <td>
+                    RS: URS0000BE1F43_1123237<br>
+                    MFE: -20.280<br>
+                    Ligand: SAM<br>
+                    Species: Salipiger mucosus DSM 16094 SAM riboswitch (alpha-proteobacteria)<br>
+            </td>
+            <td>
+                    RS: URS0000DB11BA_1798282<br>
+                    MFE: -19.002<br>
+                    Ligand: fluoride<br>
+                Species: Gammaproteobacteria bacterium RIFCSPHIGHO2_12_FULL_41_15 Fluoride riboswitch<br>
+            </td>
+        </tr>
+      <tr>
+        <td><img src="../../alns/dot/UTR_5HSAA042351_418.png" alt="UTR-RS hit comparison" style="width:100%"></td>
+        <td><img src="../../alns/dot/RS_URS0000BE6A87_1579316_418.png" alt="UTR-RS hit comparison" style="width:100%"></td>
+        <td><img src="../../alns/dot/RS_URS0000BE1F43_1123237_418.png" alt="UTR-RS hit comparison" style="width:100%"></td>
+        <td><img src="../../alns/dot/RS_URS0000DB11BA_1798282_418.png" alt="UTR-RS hit comparison" style="width:100%"></td>
+      </tr>
+      <tr>
+        <td><img src="../../alns/circ/circ_5HSAA042351_418.png" alt="UTR-RS hit comparison" style="width:100%"></td>
+        <td><img src="../../alns/circ/circ_URS0000BE6A87_1579316_418.png" alt="UTR-RS hit comparison" style="width:100%"></td>
+        <td><img src="../../alns/circ/circ_URS0000BE1F43_1123237_418.png" alt="UTR-RS hit comparison" style="width:100%"></td>
+        <td><img src="../../alns/circ/circ_URS0000DB11BA_1798282_418.png" alt="UTR-RS hit comparison" style="width:100%"></td>
+      </tr>
+      <tr>
+        <td></td>
+        <td><img src="../../alns/feat/feat_URS0000BE6A87_1579316_418.png" alt="UTR-RS hit comparison" style="width:100%"></td>
+        <td><img src="../../alns/feat/feat_URS0000BE1F43_1123237_418.png" alt="UTR-RS hit comparison" style="width:100%"></td>
+        <td><img src="../../alns/feat/feat_URS0000DB11BA_1798282_418.png" alt="UTR-RS hit comparison" style="width:100%"></td>
+      </tr>
+    </table>
+    </div>
   <div class="column">
     <a href="../../_mds/SLC25A32/"><img src="../../icons/arrow_right.png" alt="arrow right" style="width:100%"></a>
   </div>
 </div>
 
 
+<div class="row" >
+    <div class="column_center">
+        <img src="../../alns/feat/featcomp_418.png" alt="UTR-RS hit comparison" style="width:100%">
+    </div>
+</div>
+
+<div class="row" >
+    <div class="column_center">
+        <img src="../../alns/bpp/bpp_418.png" alt="UTR-RS hit comparison" style="width:100%">
+    </div>
+</div>
+
+
+
+<div class="row">
+    <div class="column_center">
+        <img src="../../alns/ens/ens_418.png" alt="ML ensemble output for the 5prime UTR" style="width:100%">
+    </div>
+</div>
 
 
 **Information**
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA042351/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000BE6A87/1579316" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000D7F4EA/1860089" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000DB11BA/1798282" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
-| <span title="ID within respective databases">ID</span>  | 5HSAA042351     | URS0000BE6A87_1579316     | URS0000D7F4EA_1860089     | URS0000DB11BA_1798282     |
-| <span title="Length of the sequence in question">Length</span>  | 79     |  79    | 79   |  77    |
-| <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.98 | 0.98 | 0.98 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.98 | - | - | - |
-| <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -16.62 | -22.74 | -18.07 | -19 |
+| <span title="Link to the sequence source">Link</span> | <a href="http://utrdb.ba.itb.cnr.it/getutr/5HSAA042351/1" target="_blank" rel="noopener noreferrer">UTRdb</a>   | <a href="https://rnacentral.org/rna/URS0000BE6A87/1579316" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000BE1F43/1123237" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000DB11BA/1798282" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="ID within respective databases">ID</span>  | 5HSAA042351     | URS0000BE6A87_1579316     | URS0000BE1F43_1123237     | URS0000DB11BA_1798282     |
+| <span title="Length of the sequence in question">Length</span>  | 79.     |  79.    | 78.   |  77.    |
+| <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.984 | 0.981 | 0.981 |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.984 | - | - | - |
+| <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -16.617 | -22.743 | -20.280 | -19.002 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | SAM | SAM | fluoride |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | FYN | - | - | - |
 | <span title="Link to the sequence source">Downstream protein</span>  | <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=FYN" target="_blank" rel="noopener noreferrer"> Genecard </a>   |    -    | -  | - |
@@ -44,17 +121,17 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Structural feature squared error">Struct SE</span> | - | 8 | 6 | 5 |
-| <span title="Length difference squared error">Length SE</span> | - | 0 | 0 | 4 |
-| <span title="Edit distance of both dot structures">Lev Distance</span> | - | 19 | 22 | 20 |
-| <span title="Unbranched stack count">UBS</span>| 6 | 6 | 6 | 6 |
-| <span title="Branched stack counts">BS</span> | 0 | 0 | 0 | 0 |
-| <span title="Inner loop left count">ILL</span> | 0 | 2 | 2 | 1 |
-| <span title="Inner loop right count">ILR</span> | 2 | 2 | 1 | 2 |
-| <span title="Hairpin counts">H</span> | 2 | 2 | 2 | 2 |
-| <span title="Bulges left count">BL</span> | 3 | 1 | 2 | 1 |
-| <span title="Bulges right count">BR</span> | 2 | 2 | 2 | 2 |
-| <span title="Unpaired nucleotide %">UN</span> | 0 | 0.03 | 0 | 0 |
+| <span title="Structural feature squared error">Struct SE</span> | - | 8.001 | 11.003 | 5. |
+| <span title="Length difference squared error">Length SE</span> | - | 0. | 1. | 4. |
+| <span title="Edit distance of both dot structures">Lev Distance</span> | - | 19. | 20. | 20. |
+| <span title="Unbranched stack count">UBS</span>| 6. | 6. | 5. | 6. |
+| <span title="Branched stack counts">BS</span> | 0. | 0. | 0. | 0. |
+| <span title="Inner loop left count">ILL</span> | 0. | 2. | 0. | 1. |
+| <span title="Inner loop right count">ILR</span> | 2. | 2. | 2. | 2. |
+| <span title="Hairpin counts">H</span> | 2. | 2. | 2. | 2. |
+| <span title="Bulges left count">BL</span> | 3. | 1. | 0. | 1. |
+| <span title="Bulges right count">BR</span> | 2. | 2. | 1. | 2. |
+| <span title="Unpaired nucleotide %">UN</span> | 0. | 0.025 | 0.051 | 0. |
 
 **Sequences**
 
@@ -100,14 +177,14 @@ exclude: true
 
 <tr>
 <td markdown="span">RS 2 seq </td>
-<td markdown="span"> UUCUUUGGACGUGGUAGAUUUGUAACCGGAUUGCGGGCCACGCAAAAUAUCCCGCUAAAGAGGUCAGGAUGUGAAGGAC
+<td markdown="span"> CCGACUGGGCGUGGCGAUUUGUUACCGGAUUGCGGGCCACGUUAAACACGCCGCUAAAGAGGUCGAAGGAAAGAGCCC
 </td>
 </tr>
 
 
 <tr>
 <td markdown="span">RS 2 dot </td>
-<td markdown="span"> ((((((((.((.((((..(((((..(((.....))).....))))).)))).))))))))))(((...........)))
+<td markdown="span"> .((((((((((((((((((((....)))))))).............)))))).)......)))))..((......)).
 </td>
 </tr>
 
