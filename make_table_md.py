@@ -106,13 +106,13 @@ exclude: true
 
 <div class="row" >
     <div class="column_center">
-        <img src="../../alns/feat/featcomp_%s.png" alt="UTR-RS hit comparison" style="width:100%%">
+        <img src="../../alns/feat/featcomp_%s.png" alt="UTR-RS hit comparison" style="width:60%%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
 <div class="row" >
     <div class="column_center">
-        <img src="../../alns/bpp/bpp_%s.png" alt="UTR-RS hit comparison" style="width:100%%">
+        <img src="../../alns/bpp/bpp_%s.png" alt="UTR-RS hit comparison" style="width:50%%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -120,7 +120,7 @@ exclude: true
 
 <div class="row">
     <div class="column_center">
-        <img src="../../alns/ens/ens_%s.png" alt="ML ensemble output for the 5prime UTR" style="width:100%%">
+        <img src="../../alns/ens/ens_%s.png" alt="ML ensemble output for the 5prime UTR" style="width:60%%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
