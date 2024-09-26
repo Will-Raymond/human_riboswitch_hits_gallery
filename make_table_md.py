@@ -43,9 +43,9 @@ exclude: true
     <table>
       <tr>
         <th>%s</th>
-        <th>%s - Similarity: %s</th>
-        <th>%s - Similarity: %s</th>
-        <th>%s - Similarity: %s</th>
+        <th>Similarity: %s</th>
+        <th>Similarity: %s</th>
+        <th>Similarity: %s</th>
       </tr>
         <tr>
             <td>
@@ -811,8 +811,8 @@ for i in range(len(ulist)):
     
     '''    
     k = str(i)
-    mst = [gene.upper(), gene.upper(), str(enscount), previous_file, utr_id, rs1_id, rs1_sim,
-           rs2_id, rs2_sim, rs3_id, rs3_sim,
+    mst = [gene.upper(), gene.upper(), str(enscount), previous_file, utr_id, rs1_id,
+          rs2_sim, rs3_sim,
            
            
            utr_id, gene.upper(), utr_mfe, ens, utr_l, utr_pl[0], utr_pl[1], utr_pl[2],
