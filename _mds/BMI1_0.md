@@ -20,7 +20,7 @@ exclude: true
     <table>
       <tr>
         <th>5HSAA010719</th>
-        <th>Similarity: URS0000C0D2E5_1237896</th>
+        <th>Similarity: 0.982</th>
         <th>Similarity: 0.982</th>
         <th>Similarity: 0.980</th>
       </tr>

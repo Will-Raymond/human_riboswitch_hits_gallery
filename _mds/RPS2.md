@@ -20,9 +20,9 @@ exclude: true
     <table>
       <tr>
         <th>5HSAA092933</th>
-        <th>URS00021EDC21_12908 - Similarity: 0.983</th>
-        <th>URS00021EDEB0_12908 - Similarity: 0.983</th>
-        <th>URS00021EDCFA_12908 - Similarity: 0.985</th>
+        <th>Similarity: 0.983</th>
+        <th>Similarity: 0.983</th>
+        <th>Similarity: 0.985</th>
       </tr>
         <tr>
             <td>

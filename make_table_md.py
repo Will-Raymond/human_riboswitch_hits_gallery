@@ -811,7 +811,7 @@ for i in range(len(ulist)):
     
     '''    
     k = str(i)
-    mst = [gene.upper(), gene.upper(), str(enscount), previous_file, utr_id, rs1_id,
+    mst = [gene.upper(), gene.upper(), str(enscount), previous_file, utr_id, rs1_sim,
           rs2_sim, rs3_sim,
            
            
