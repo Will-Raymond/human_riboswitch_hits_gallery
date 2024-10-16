@@ -116,6 +116,17 @@ exclude: true
     </div>
 </div>
 
+<div class="row" >
+    <div class="column">
+        <img src="../../alns/bpp/bpp_%s_unbound.png" alt="UTR-RS hit comparison" style="width:100%%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column_center">
+        <img src="../../alns/bpp/bpp_%s_merge.png" alt="UTR-RS hit comparison" style="width:100%%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_%s_bound.png" alt="UTR-RS hit comparison" style="width:100%%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+</div>
 
 
 <div class="row">
@@ -823,7 +834,7 @@ for i in range(len(ulist)):
            utr_id, k, rs1_id, k, rs2_id, k, rs3_id, k, # ss
            utr_id, k, rs1_id, k, rs2_id, k, rs3_id, k, # circ
            rs1_id, k, rs2_id, k, rs3_id, k, # feat
-           next_file, k, k, k, #utr_link
+           next_file, k, k, k, k, k, k,#utr_link
            
           rs1_link, rs2_link,
                         rs3_link, utr_id, rs1_id, rs2_id, rs3_id, 

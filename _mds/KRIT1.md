@@ -93,6 +93,17 @@ exclude: true
     </div>
 </div>
 
+<div class="row" >
+    <div class="column">
+        <img src="../../alns/bpp/bpp_597_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column_center">
+        <img src="../../alns/bpp/bpp_597_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_597_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+</div>
 
 
 <div class="row">
