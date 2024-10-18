@@ -14,7 +14,7 @@ exclude: true
 
 <div class="row" >
   <div class="column">
-    <a href="../../_mds/TMPRSS11B/"><img src="../../icons/arrow_left.png" alt="arrow left" style="width:100%"></a>
+    <a href="../../_mds/TMPRSS11B/"><img src="../../icons/arrow_left.png" alt="arrow left to previous 5prime UTR page" style="width:100%"></a>
   </div>
   <div class="column_center">
     <table>
@@ -56,52 +56,52 @@ exclude: true
             </td>
         </tr>
       <tr>
-        <td><img src="../../alns/dot/UTR_5HSAA041765_411.png" alt="UTR-RS hit comparison" style="width:100%"></td>
-        <td><img src="../../alns/dot/RS_URS000232F12A_1736478_411.png" alt="UTR-RS hit comparison" style="width:100%"></td>
-        <td><img src="../../alns/dot/RS_URS0000C3F1FD_1577792_411.png" alt="UTR-RS hit comparison" style="width:100%"></td>
-        <td><img src="../../alns/dot/RS_URS0000C2CD42_1581033_411.png" alt="UTR-RS hit comparison" style="width:100%"></td>
+        <td><img src="../../alns/dot/UTR_5HSAA041765_411.png" alt="image of 5prime UTR secondary structure" style="width:100%"></td>
+        <td><img src="../../alns/dot/RS_URS000232F12A_1736478_411.png" alt="image of the secondary structure of the first Riboswitch match" style="width:100%"></td>
+        <td><img src="../../alns/dot/RS_URS0000C3F1FD_1577792_411.png" alt="image of the secondary structure of the second Riboswitch match" style="width:100%"></td>
+        <td><img src="../../alns/dot/RS_URS0000C2CD42_1581033_411.png" alt="image of the secondary structure of the third Riboswitch match" style="width:100%"></td>
       </tr>
       <tr>
-        <td><img src="../../alns/circ/circ_5HSAA041765_411.png" alt="UTR-RS hit comparison" style="width:100%"></td>
-        <td><img src="../../alns/circ/circ_URS000232F12A_1736478_411.png" alt="UTR-RS hit comparison" style="width:100%"></td>
-        <td><img src="../../alns/circ/circ_URS0000C3F1FD_1577792_411.png" alt="UTR-RS hit comparison" style="width:100%"></td>
-        <td><img src="../../alns/circ/circ_URS0000C2CD42_1581033_411.png" alt="UTR-RS hit comparison" style="width:100%"></td>
+        <td><img src="../../alns/circ/circ_5HSAA041765_411.png" alt="circular plot of the 5prime UTR base pairs" style="width:100%"></td>
+        <td><img src="../../alns/circ/circ_URS000232F12A_1736478_411.png" alt="circular plot of the 5prime UTR base pairs compared with the first Riboswitch base pairs" style="width:100%"></td>
+        <td><img src="../../alns/circ/circ_URS0000C3F1FD_1577792_411.png" alt="circular plot of the 5prime UTR base pairs compared with the second Riboswitch base pairs" style="width:100%"></td>
+        <td><img src="../../alns/circ/circ_URS0000C2CD42_1581033_411.png" alt="circular plot of the 5prime UTR base pairs compared with the third Riboswitch base pairs" style="width:100%"></td>
       </tr>
       <tr>
         <td></td>
-        <td><img src="../../alns/feat/feat_URS000232F12A_1736478_411.png" alt="UTR-RS hit comparison" style="width:100%"></td>
-        <td><img src="../../alns/feat/feat_URS0000C3F1FD_1577792_411.png" alt="UTR-RS hit comparison" style="width:100%"></td>
-        <td><img src="../../alns/feat/feat_URS0000C2CD42_1581033_411.png" alt="UTR-RS hit comparison" style="width:100%"></td>
+        <td><img src="../../alns/feat/feat_URS000232F12A_1736478_411.png" alt="line plot comparing the structural features of the 5prime UTR with its first riboswitch match" style="width:100%"></td>
+        <td><img src="../../alns/feat/feat_URS0000C3F1FD_1577792_411.png" alt="line plot comparing the structural features of the 5prime UTR with its second riboswitch match" style="width:100%"></td>
+        <td><img src="../../alns/feat/feat_URS0000C2CD42_1581033_411.png" alt="line plot comparing the structural features of the 5prime UTR with its third riboswitch match" style="width:100%"></td>
       </tr>
     </table>
     </div>
   <div class="column">
-    <a href="../../_mds/YWHAB/"><img src="../../icons/arrow_right.png" alt="arrow right" style="width:100%"></a>
+    <a href="../../_mds/YWHAB/"><img src="../../icons/arrow_right.png" alt="arrow right to the next 5prime UTR page" style="width:100%"></a>
   </div>
 </div>
 
 
 <div class="row" >
     <div class="column_center">
-        <img src="../../alns/feat/featcomp_411.png" alt="UTR-RS hit comparison" style="width:60%; display:block; margin-left:auto; margin-right:auto;">
+        <img src="../../alns/feat/featcomp_411.png" alt="heatmap comparing sequence features of the 5prime UTR and top three riboswitch matches" style="width:60%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
 <div class="row" >
     <div class="column_center">
-        <img src="../../alns/bpp/bpp_411.png" alt="UTR-RS hit comparison" style="width:50%; display:block; margin-left:auto; margin-right:auto;">
+        <img src="../../alns/bpp/bpp_411.png" alt="Heatmap of base pair probabilities for 1000 computational NUPACK foldings of the 5prime UTR" style="width:50%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
 <div class="row" >
     <div class="column">
-        <img src="../../alns/bpp/bpp_411_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+        <img src="../../alns/bpp/bpp_411_unbound.png" alt="Heatmap of base pair probabilities for computational NUPACK foldings of the 5prime UTR that leave the start codon unbound" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
     <div class="column">
-        <img src="../../alns/bpp/bpp_411_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+        <img src="../../alns/bpp/bpp_411_bound.png" alt="Heatmap of base pair probabilities for computational NUPACK foldings of the 5prime UTR that leave the start codon bound" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
     <div class="column">
-        <img src="../../alns/bpp/bpp_411_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+        <img src="../../alns/bpp/bpp_411_merge.png" alt="Heatmap of base pair probabilities for computational NUPACK foldings of the 5prime UTR with the bound and unbound conformers overlaid" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
