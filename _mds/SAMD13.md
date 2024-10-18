@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA094053<br>
                     Gene: SAMD13<br>
                     MFE: -24.134<br>
-                    ENS: 0.969<br>
+                    ENS: 0.930<br>
                     Length: 125.<br>
                     Predicted Ligands:<br>
-                    glycine - 20/20<br>
-                    <br>
-                    <br>         
+                    glycine - 6/20<br>
+                    TPP - 5/20<br>
+                    guanidine - 3/20<br>         
             </td>
             <td>
                     RS: URS0000ABBB5A_656519<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1144_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1144_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1144_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1144_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA094053     | URS0000ABBB5A_656519     | URS0000C0A19A_1635291     | URS0000DAB8C8_1157616     |
 | <span title="Length of the sequence in question">Length</span>  | 125.     |  124.    | 121.   |  123.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.969 | 0.951 | 0.964 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.969 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.930 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -24.134 | -29.999 | -31.777 | -31.306 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | molybdenum | tetrahydrofolate | TPP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | SAMD13 | - | - | - |

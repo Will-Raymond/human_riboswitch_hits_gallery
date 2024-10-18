@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA108869<br>
                     Gene: TGIF2LX<br>
                     MFE: -19.449<br>
-                    ENS: 0.987<br>
+                    ENS: 0.902<br>
                     Length: 74.<br>
                     Predicted Ligands:<br>
-                    fluoride - 20/20<br>
-                    <br>
-                    <br>         
+                    fluoride - 11/20<br>
+                    cobalamin - 5/20<br>
+                    SAM - 3/20<br>         
             </td>
             <td>
                     RS: URS0000D92FA7_29540<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1309_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1309_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1309_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1309_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA108869     | URS0000D92FA7_29540     | URS000231B6D6_408172     | URS0002335240_1348662     |
 | <span title="Length of the sequence in question">Length</span>  | 74.     |  73.    | 75.   |  73.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.987 | 0.984 | 0.984 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.987 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.902 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -19.449 | -29.479 | -12.836 | -23.976 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | fluoride | cobalamin | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | TGIF2LX | - | - | - |

@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA076214<br>
                     Gene: PAFAH1B2<br>
                     MFE: -45.155<br>
-                    ENS: 0.930<br>
+                    ENS: 0.960<br>
                     Length: 127.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
-                    <br>
-                    <br>         
+                    TPP - 7/20<br>
+                    guanidine - 5/20<br>
+                    cobalamin - 4/20<br>         
             </td>
             <td>
                     RS: URS0000C76E10_28092<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_846_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_846_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_846_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_846_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA076214     | URS0000C76E10_28092     | URS0000D89833_1971621     | URS0000AB19CB_999541     |
 | <span title="Length of the sequence in question">Length</span>  | 127.     |  124.    | 127.   |  123.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.930 | 0.937 | 0.947 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.930 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.960 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -45.155 | -40.935 | -29.594 | -56.483 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | guanidine | TPP | guanidine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | PAFAH1B2 | - | - | - |

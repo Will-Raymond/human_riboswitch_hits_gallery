@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA083435<br>
                     Gene: PPM1B<br>
                     MFE: -5.795<br>
-                    ENS: 0.988<br>
+                    ENS: 0.869<br>
                     Length: 39.<br>
                     Predicted Ligands:<br>
-                    SAM - 20/20<br>
-                    <br>
-                    <br>         
+                    SAM - 11/20<br>
+                    preQ_1 - 6/20<br>
+                    guanidine - 1/20<br>         
             </td>
             <td>
                     RS: URS0000BE9AC2_1514904<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_930_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_930_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_930_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_930_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA083435     | URS0000BE9AC2_1514904     | URS0000BE9632_1514904     | URS0000CBFF2B_2021     |
 | <span title="Length of the sequence in question">Length</span>  | 39.     |  41.    | 41.   |  41.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.988 | 0.988 | 0.986 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.988 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.869 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -5.795 | -10.827 | -10.995 | -13.547 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | SAM | SAM | guanidine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | PPM1B | - | - | - |

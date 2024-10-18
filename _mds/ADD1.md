@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA002307<br>
                     Gene: ADD1<br>
                     MFE: -44.458<br>
-                    ENS: 0.968<br>
+                    ENS: 0.782<br>
                     Length: 135.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 7/20<br>
+                    homocysteine - 4/20<br>
+                    FMN - 4/20<br>         
             </td>
             <td>
                     RS: URS0000C76D8C_1074049<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_27_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_27_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_27_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_27_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA002307     | URS0000C76D8C_1074049     | URS0000C3B974_1232866     | URS0002329910_1519493     |
 | <span title="Length of the sequence in question">Length</span>  | 135.     |  134.    | 135.   |  135.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.968 | 0.959 | 0.966 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.968 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.782 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -44.458 | -43.834 | -50.534 | -55.970 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | homocysteine | homocysteine | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | ADD1 | - | - | - |

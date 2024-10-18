@@ -29,11 +29,11 @@ exclude: true
                     UTR: 5HSAA083309-1<br>
                     Gene: PPIA_1<br>
                     MFE: -31.933<br>
-                    ENS: 0.947<br>
+                    ENS: 0.897<br>
                     Length: 174.<br>
                     Predicted Ligands:<br>
-                    lysine - 20/20<br>
-                    <br>
+                    lysine - 12/20<br>
+                    cobalamin - 8/20<br>
                     <br>         
             </td>
             <td>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_926_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_926_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_926_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_926_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA083309-1     | URS0002312549_1321781     | URS0000C457B8_797515     | URS0000BF4B0C_646529     |
 | <span title="Length of the sequence in question">Length</span>  | 174.     |  172.    | 177.   |  176.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.947 | 0.946 | 0.950 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.947 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.897 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -31.933 | -52.557 | -43.681 | -43.244 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | lysine | lysine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | PPIA | - | - | - |

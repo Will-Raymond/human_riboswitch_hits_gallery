@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA075140<br>
                     Gene: OPCML<br>
                     MFE: -8.642<br>
-                    ENS: 0.982<br>
+                    ENS: 0.987<br>
                     Length: 34.<br>
                     Predicted Ligands:<br>
-                    SAM - 20/20<br>
-                    <br>
-                    <br>         
+                    SAM - 9/20<br>
+                    preQ_1 - 5/20<br>
+                    unknown - 2/20<br>         
             </td>
             <td>
                     RS: URS0000D87AB1_1686310<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_831_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_831_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_831_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_831_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA075140     | URS0000D87AB1_1686310     | URS0001A24B6D_1907202     | URS0000D92E6B_1802287     |
 | <span title="Length of the sequence in question">Length</span>  | 34.     |  36.    | 35.   |  38.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.982 | 0.984 | 0.975 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.982 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.987 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -8.642 | -13.459 | -12.438 | -9.182 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | SAM | unknown | fluoride |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | OPCML | - | - | - |

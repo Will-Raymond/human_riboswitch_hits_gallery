@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA047880<br>
                     Gene: HAT1<br>
                     MFE: -25.631<br>
-                    ENS: 0.987<br>
+                    ENS: 0.740<br>
                     Length: 78.<br>
                     Predicted Ligands:<br>
-                    SAM - 20/20<br>
-                    <br>
-                    <br>         
+                    SAM - 11/20<br>
+                    fluoride - 6/20<br>
+                    homocysteine - 1/20<br>         
             </td>
             <td>
                     RS: URS0000AB334A_287752<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_481_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_481_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_481_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_481_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA047880     | URS0000AB334A_287752     | URS0000DB5E33_1896170     | URS0000D2B623_2026799     |
 | <span title="Length of the sequence in question">Length</span>  | 78.     |  78.    | 78.   |  80.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.987 | 0.987 | 0.984 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.987 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.740 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -25.631 | -18.950 | -28.042 | -20.784 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | SAM | homocysteine | fluoride |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | HAT1 | - | - | - |

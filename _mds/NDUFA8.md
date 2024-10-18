@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA071188<br>
                     Gene: NDUFA8<br>
                     MFE: -8.986<br>
-                    ENS: 0.993<br>
+                    ENS: 0.988<br>
                     Length: 47.<br>
                     Predicted Ligands:<br>
-                    SAM - 20/20<br>
-                    <br>
-                    <br>         
+                    SAM - 15/20<br>
+                    preQ_1 - 3/20<br>
+                    unknown - 2/20<br>         
             </td>
             <td>
                     RS: URS00021EE0A1_12908<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_777_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_777_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_777_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_777_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA071188     | URS00021EE0A1_12908     | URS0000D6AF81_12908     | URS00021EDBA2_12908     |
 | <span title="Length of the sequence in question">Length</span>  | 47.     |  46.    | 47.   |  46.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.993 | 0.992 | 0.989 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.993 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.988 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -8.986 | -5.219 | -8.707 | -11.483 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | SAM | unknown | SAM |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | NDUFA8 | - | - | - |

@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA095244<br>
                     Gene: SCUBE2<br>
                     MFE: -37.082<br>
-                    ENS: 0.970<br>
+                    ENS: 0.807<br>
                     Length: 105.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
-                    <br>
-                    <br>         
+                    TPP - 11/20<br>
+                    cobalamin - 3/20<br>
+                    fluoride - 2/20<br>         
             </td>
             <td>
                     RS: URS0000DA092E_1881037<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1158_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1158_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1158_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1158_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA095244     | URS0000DA092E_1881037     | URS0000D6815C_12908     | URS0000C15446_1519490     |
 | <span title="Length of the sequence in question">Length</span>  | 105.     |  102.    | 110.   |  100.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.970 | 0.960 | 0.954 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.970 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.807 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -37.082 | -27.808 | -41.123 | -48.232 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | fluoride | GMP | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | SCUBE2 | - | - | - |

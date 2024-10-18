@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA119722<br>
                     Gene: WDR93<br>
                     MFE: -38.771<br>
-                    ENS: 0.960<br>
+                    ENS: 0.848<br>
                     Length: 126.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
-                    <br>
-                    <br>         
+                    TPP - 12/20<br>
+                    cobalamin - 4/20<br>
+                    FMN - 1/20<br>         
             </td>
             <td>
                     RS: URS0000DA3C63_1904969<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1455_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1455_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1455_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1455_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA119722     | URS0000DA3C63_1904969     | URS0000C792D2_1203605     | URS0000D94763_1805026     |
 | <span title="Length of the sequence in question">Length</span>  | 126.     |  122.    | 123.   |  127.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.960 | 0.958 | 0.969 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.960 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.848 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -38.771 | -50.848 | -50.020 | -48.134 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | TPP | TPP | TPP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | WDR93 | - | - | - |

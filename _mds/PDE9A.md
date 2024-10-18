@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA078322<br>
                     Gene: PDE9A<br>
                     MFE: -33.316<br>
-                    ENS: 0.983<br>
+                    ENS: 0.753<br>
                     Length: 88.<br>
                     Predicted Ligands:<br>
-                    glutamine - 20/20<br>
-                    <br>
-                    <br>         
+                    glutamine - 10/20<br>
+                    zmp-ztp - 6/20<br>
+                    SAM - 3/20<br>         
             </td>
             <td>
                     RS: URS0000BF7D36_388467<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_864_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_864_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_864_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_864_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA078322     | URS0000BF7D36_388467     | URS000211BA9F_1160     | URS0000D8A869_671068     |
 | <span title="Length of the sequence in question">Length</span>  | 88.     |  89.    | 89.   |  92.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.983 | 0.983 | 0.969 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.983 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.753 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -33.316 | -20.501 | -20.501 | -21.101 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | glutamine | glutamine | glutamine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | PDE9A | - | - | - |

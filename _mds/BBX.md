@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA010138<br>
                     Gene: BBX<br>
                     MFE: -10.706<br>
-                    ENS: 0.987<br>
+                    ENS: 0.970<br>
                     Length: 66.<br>
                     Predicted Ligands:<br>
-                    fluoride - 20/20<br>
-                    <br>
-                    <br>         
+                    fluoride - 10/20<br>
+                    glutamine - 6/20<br>
+                    cobalamin - 2/20<br>         
             </td>
             <td>
                     RS: URS0000BF8512_504472<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_109_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_109_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_109_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_109_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA010138     | URS0000BF8512_504472     | URS00009FBB07_1678841     | URS000080E2FB_1423     |
 | <span title="Length of the sequence in question">Length</span>  | 66.     |  64.    | 64.   |  67.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.987 | 0.986 | 0.987 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.987 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.970 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -10.706 | -9.322 | -10.069 | -16.338 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | fluoride | fluoride | guanine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | BBX | - | - | - |

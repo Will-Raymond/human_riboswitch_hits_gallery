@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA049035<br>
                     Gene: HEYL<br>
                     MFE: -25.848<br>
-                    ENS: 0.982<br>
+                    ENS: 0.836<br>
                     Length: 76.<br>
                     Predicted Ligands:<br>
-                    fluoride - 20/20<br>
-                    <br>
-                    <br>         
+                    fluoride - 6/20<br>
+                    SAM - 5/20<br>
+                    Ni/Co - 5/20<br>         
             </td>
             <td>
                     RS: URS0000C683E1_1736341<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_495_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_495_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_495_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_495_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA049035     | URS0000C683E1_1736341     | URS0000DAE31D_1986778     | URS0000DA0F3E_1797497     |
 | <span title="Length of the sequence in question">Length</span>  | 76.     |  75.    | 74.   |  76.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.982 | 0.979 | 0.982 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.982 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.836 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -25.848 | -27.715 | -17.125 | -31.268 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | fluoride | SAM | homocysteine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | HEYL | - | - | - |

@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA004840<br>
                     Gene: ANKRD45<br>
                     MFE: -24.323<br>
-                    ENS: 0.975<br>
+                    ENS: 0.870<br>
                     Length: 86.<br>
                     Predicted Ligands:<br>
-                    cyclic-di-GMP - 20/20<br>
-                    <br>
-                    <br>         
+                    cyclic-di-GMP - 15/20<br>
+                    GMP - 2/20<br>
+                    zmp-ztp - 1/20<br>         
             </td>
             <td>
                     RS: URS0000ABA0CE_1341692<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_63_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_63_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_63_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_63_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA004840     | URS0000ABA0CE_1341692     | URS0000C2D159_1341692     | URS0000C242EB_1734396     |
 | <span title="Length of the sequence in question">Length</span>  | 86.     |  84.    | 84.   |  84.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.975 | 0.977 | 0.976 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.975 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.870 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -24.323 | -11.219 | -15.339 | -17.913 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cyclic-di-GMP | cyclic-di-GMP | cyclic-di-GMP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | ANKRD45 | - | - | - |

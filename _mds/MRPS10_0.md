@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA067584<br>
                     Gene: MRPS10_0<br>
                     MFE: -32.942<br>
-                    ENS: 0.980<br>
+                    ENS: 0.990<br>
                     Length: 86.<br>
                     Predicted Ligands:<br>
-                    GMP - 20/20<br>
-                    <br>
-                    <br>         
+                    GMP - 5/20<br>
+                    cyclic-di-GMP - 4/20<br>
+                    glycine - 4/20<br>         
             </td>
             <td>
                     RS: URS0000D96BA2_1797809<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_735_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_735_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_735_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_735_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA067584     | URS0000D96BA2_1797809     | URS0000C6E1ED_1690815     | URS0000D90371_1121476     |
 | <span title="Length of the sequence in question">Length</span>  | 86.     |  88.    | 88.   |  84.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.980 | 0.971 | 0.979 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.980 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.990 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -32.942 | -21.937 | -28.085 | -18.794 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | zmp-ztp | zmp-ztp | cyclic-di-GMP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | MRPS10 | - | - | - |

@@ -29,11 +29,11 @@ exclude: true
                     UTR: 5HSAA105625<br>
                     Gene: STX4<br>
                     MFE: -116.612<br>
-                    ENS: 0.862<br>
+                    ENS: 0.845<br>
                     Length: 300.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
+                    cobalamin - 19/20<br>
+                    unknown - 1/20<br>
                     <br>         
             </td>
             <td>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1276_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1276_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1276_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1276_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA105625     | URS0002330151_1121476     | URS0000E60663_1393034     | URS0000DE37CC_164546     |
 | <span title="Length of the sequence in question">Length</span>  | 300.     |  301.    | 295.   |  293.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.862 | 0.786 | 0.765 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.862 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.845 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -116.612 | -82.873 | -97.029 | -131.833 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | unknown | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | STX4 | - | - | - |

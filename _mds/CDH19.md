@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA020479<br>
                     Gene: CDH19<br>
                     MFE: -23.890<br>
-                    ENS: 0.894<br>
+                    ENS: 0.821<br>
                     Length: 163.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
-                    <br>
-                    <br>         
+                    TPP - 10/20<br>
+                    glucosamine - 3/20<br>
+                    Mn2+ - 2/20<br>         
             </td>
             <td>
                     RS: URS000043EA4F_904296<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_173_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_173_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_173_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_173_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA020479     | URS000043EA4F_904296     | URS0000C569D6_1460663     | URS0002324B8D_698759     |
 | <span title="Length of the sequence in question">Length</span>  | 163.     |  156.    | 166.   |  161.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.894 | 0.950 | 0.948 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.894 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.821 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -23.890 | -30.029 | -52.213 | -59.951 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | glucosamine | TPP | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | CDH19 | - | - | - |

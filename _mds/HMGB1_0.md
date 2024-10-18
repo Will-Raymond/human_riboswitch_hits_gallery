@@ -29,10 +29,10 @@ exclude: true
                     UTR: 5HSAA049629<br>
                     Gene: HMGB1_0<br>
                     MFE: -55.963<br>
-                    ENS: 0.912<br>
+                    ENS: 0.957<br>
                     Length: 206.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
+                    cobalamin - 20/20 - 20/20<br>
                     <br>
                     <br>         
             </td>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_501_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_501_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_501_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_501_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA049629     | URS000232D000_1705730     | URS0000D40F96_1671868     | URS00023297FB_1932693     |
 | <span title="Length of the sequence in question">Length</span>  | 206.     |  201.    | 202.   |  205.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.912 | 0.926 | 0.930 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.912 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.957 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -55.963 | -26.005 | -44.410 | -46.886 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | cobalamin | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | HMGB1 | - | - | - |

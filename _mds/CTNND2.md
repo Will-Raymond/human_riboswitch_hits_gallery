@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA026336<br>
                     Gene: CTNND2<br>
                     MFE: -27.946<br>
-                    ENS: 0.970<br>
+                    ENS: 0.903<br>
                     Length: 109.<br>
                     Predicted Ligands:<br>
-                    methionine - 20/20<br>
-                    <br>
-                    <br>         
+                    methionine - 9/20<br>
+                    SAM - 7/20<br>
+                    TPP - 4/20<br>         
             </td>
             <td>
                     RS: URS0000AB1CA9_471853<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_254_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_254_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_254_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_254_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA026336     | URS0000AB1CA9_471853     | URS0000C37A3D_37332     | URS0000D9E775_861865     |
 | <span title="Length of the sequence in question">Length</span>  | 109.     |  112.    | 111.   |  109.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.970 | 0.971 | 0.973 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.970 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.903 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -27.946 | -45.569 | -42.604 | -42.353 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | methionine | methionine | SAM |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | CTNND2 | - | - | - |

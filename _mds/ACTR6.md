@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA001798<br>
                     Gene: ACTR6<br>
                     MFE: -24.432<br>
-                    ENS: 0.982<br>
+                    ENS: 0.992<br>
                     Length: 81.<br>
                     Predicted Ligands:<br>
-                    zmp-ztp - 20/20<br>
-                    <br>
-                    <br>         
+                    zmp-ztp - 6/20<br>
+                    homocysteine - 6/20<br>
+                    SAM - 2/20<br>         
             </td>
             <td>
                     RS: URS0000DB0BE5_108015<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_24_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_24_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_24_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_24_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA001798     | URS0000DB0BE5_108015     | URS0000C5DC97_366602     | URS0000C3C22A_989370     |
 | <span title="Length of the sequence in question">Length</span>  | 81.     |  82.    | 80.   |  82.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.982 | 0.982 | 0.980 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.982 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.992 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -24.432 | -28.138 | -33.132 | -27.938 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | zmp-ztp | zmp-ztp | zmp-ztp |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | ACTR6 | - | - | - |

@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA024094<br>
                     Gene: COPB1<br>
                     MFE: -58.766<br>
-                    ENS: 0.909<br>
+                    ENS: 0.834<br>
                     Length: 205.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 16/20<br>
+                    unknown - 2/20<br>
+                    zmp-ztp - 1/20<br>         
             </td>
             <td>
                     RS: URS0000E60985_1122219<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_221_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_221_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_221_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_221_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA024094     | URS0000E60985_1122219     | URS0002312B02_1633202     | URS0000E5FF8D_29363     |
 | <span title="Length of the sequence in question">Length</span>  | 205.     |  203.    | 202.   |  205.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.909 | 0.935 | 0.928 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.909 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.834 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -58.766 | -50.742 | -60.544 | -39.801 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | unknown | cobalamin | unknown |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | COPB1 | - | - | - |

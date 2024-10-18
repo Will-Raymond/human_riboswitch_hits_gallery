@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA042903<br>
                     Gene: GALNT3<br>
                     MFE: -18.257<br>
-                    ENS: 0.959<br>
+                    ENS: 0.844<br>
                     Length: 133.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 6/20<br>
+                    TPP - 5/20<br>
+                    molybdenum - 4/20<br>         
             </td>
             <td>
                     RS: URS0000D9C937_1797881<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_423_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_423_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_423_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_423_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA042903     | URS0000D9C937_1797881     | URS0000D85685_1805083     | URS0002327DA8_270498     |
 | <span title="Length of the sequence in question">Length</span>  | 133.     |  134.    | 131.   |  132.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.959 | 0.934 | 0.962 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.959 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.844 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -18.257 | -35.942 | -52.227 | -37.422 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | molybdenum | SAM | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | GALNT3 | - | - | - |

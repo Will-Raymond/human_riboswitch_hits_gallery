@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA058691<br>
                     Gene: LGALS2<br>
                     MFE: -37.789<br>
-                    ENS: 0.959<br>
+                    ENS: 0.881<br>
                     Length: 137.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 11/20<br>
+                    FMN - 8/20<br>
+                    TPP - 1/20<br>         
             </td>
             <td>
                     RS: URS000231EF1A_525903<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_614_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_614_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_614_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_614_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA058691     | URS000231EF1A_525903     | URS00019F6899_2653144     | URS000231CCC1_1415545     |
 | <span title="Length of the sequence in question">Length</span>  | 137.     |  135.    | 135.   |  134.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.959 | 0.951 | 0.960 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.959 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.881 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -37.789 | -60.560 | -55.385 | -61.014 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | FMN | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | LGALS2 | - | - | - |

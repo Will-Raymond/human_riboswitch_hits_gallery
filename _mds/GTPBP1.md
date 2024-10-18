@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA047398<br>
                     Gene: GTPBP1<br>
                     MFE: -14.227<br>
-                    ENS: 0.976<br>
+                    ENS: 0.806<br>
                     Length: 39.<br>
                     Predicted Ligands:<br>
-                    SAM - 20/20<br>
-                    <br>
-                    <br>         
+                    SAM - 8/20<br>
+                    preQ_1 - 8/20<br>
+                    unknown - 3/20<br>         
             </td>
             <td>
                     RS: URS0000E608F4_361041<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_471_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_471_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_471_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_471_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA047398     | URS0000E608F4_361041     | URS00021EDBDC_12908     | URS00021EE107_12908     |
 | <span title="Length of the sequence in question">Length</span>  | 39.     |  44.    | 41.   |  43.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.976 | 0.987 | 0.977 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.976 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.806 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -14.227 | -15.477 | -10.217 | -7.110 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | unknown | SAM | SAM |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | GTPBP1 | - | - | - |

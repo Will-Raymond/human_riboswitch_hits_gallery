@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA016684<br>
                     Gene: CAP2<br>
                     MFE: -20.835<br>
-                    ENS: 0.984<br>
+                    ENS: 0.908<br>
                     Length: 81.<br>
                     Predicted Ligands:<br>
-                    fluoride - 20/20<br>
-                    <br>
-                    <br>         
+                    fluoride - 6/20<br>
+                    zmp-ztp - 4/20<br>
+                    SAM - 3/20<br>         
             </td>
             <td>
                     RS: URS0000BF9FE4_32049<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_143_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_143_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_143_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_143_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA016684     | URS0000BF9FE4_32049     | URS0000DA428B_282676     | URS0002324038_12908     |
 | <span title="Length of the sequence in question">Length</span>  | 81.     |  80.    | 82.   |  80.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.984 | 0.982 | 0.978 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.984 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.908 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -20.835 | -19.044 | -24.359 | -13.434 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | fluoride | fluoride | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | CAP2 | - | - | - |

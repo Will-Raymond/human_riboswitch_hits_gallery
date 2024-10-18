@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA098304<br>
                     Gene: SIM2<br>
                     MFE: -31.676<br>
-                    ENS: 0.982<br>
+                    ENS: 0.807<br>
                     Length: 81.<br>
                     Predicted Ligands:<br>
-                    zmp-ztp - 20/20<br>
-                    <br>
-                    <br>         
+                    zmp-ztp - 16/20<br>
+                    TPP - 2/20<br>
+                    SAM - 2/20<br>         
             </td>
             <td>
                     RS: URS0000C05715_931276<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1188_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1188_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1188_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1188_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA098304     | URS0000C05715_931276     | URS0000C2AFA1_272562     | URS0000C153E5_521098     |
 | <span title="Length of the sequence in question">Length</span>  | 81.     |  79.    | 81.   |  81.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.982 | 0.986 | 0.985 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.982 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.807 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -31.676 | -18.870 | -16.998 | -26.122 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | zmp-ztp | zmp-ztp | zmp-ztp |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | SIM2 | - | - | - |

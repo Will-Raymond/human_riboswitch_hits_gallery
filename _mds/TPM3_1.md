@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA112882<br>
                     Gene: TPM3_1<br>
                     MFE: -35.364<br>
-                    ENS: 0.963<br>
+                    ENS: 0.836<br>
                     Length: 122.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
-                    <br>
-                    <br>         
+                    TPP - 6/20<br>
+                    guanidine - 5/20<br>
+                    glycine - 3/20<br>         
             </td>
             <td>
                     RS: URS0000C0A19A_1635291<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1362_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1362_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1362_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1362_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA112882     | URS0000C0A19A_1635291     | URS0000DA6644_1859473     | URS0000ABD0A7_7375     |
 | <span title="Length of the sequence in question">Length</span>  | 122.     |  121.    | 120.   |  119.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.963 | 0.951 | 0.955 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.963 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.836 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -35.364 | -31.777 | -26.944 | -28.562 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | tetrahydrofolate | FMN | TPP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | TPM3 | - | - | - |

@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA011292<br>
                     Gene: BTF3<br>
                     MFE: -10.314<br>
-                    ENS: 0.978<br>
+                    ENS: 0.923<br>
                     Length: 83.<br>
                     Predicted Ligands:<br>
-                    cyclic-di-GMP - 20/20<br>
-                    <br>
-                    <br>         
+                    cyclic-di-GMP - 9/20<br>
+                    GMP - 8/20<br>
+                    cobalamin - 1/20<br>         
             </td>
             <td>
                     RS: URS0000D6AA3C_12908<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_125_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_125_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_125_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_125_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA011292     | URS0000D6AA3C_12908     | URS0000D6A274_12908     | URS0000D859FC_1797290     |
 | <span title="Length of the sequence in question">Length</span>  | 83.     |  81.    | 84.   |  84.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.978 | 0.983 | 0.978 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.978 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.923 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -10.314 | -26.932 | -31.527 | -19.196 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cyclic-di-GMP | GMP | cyclic-di-GMP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | BTF3 | - | - | - |

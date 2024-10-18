@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA115466<br>
                     Gene: TYW1<br>
                     MFE: -79.742<br>
-                    ENS: 0.942<br>
+                    ENS: 0.923<br>
                     Length: 189.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 8/20<br>
+                    lysine - 4/20<br>
+                    TPP - 4/20<br>         
             </td>
             <td>
                     RS: URS0000C39E59_1262944<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1404_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1404_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1404_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1404_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA115466     | URS0000C39E59_1262944     | URS00023280BB_1797275     | URS0000ABABFE_290339     |
 | <span title="Length of the sequence in question">Length</span>  | 189.     |  188.    | 188.   |  184.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.942 | 0.943 | 0.917 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.942 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.923 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -79.742 | -41.879 | -69.548 | -56.874 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | lysine | cobalamin | FMN |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | TYW1 | - | - | - |

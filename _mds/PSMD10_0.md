@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA085629<br>
                     Gene: PSMD10_0<br>
                     MFE: -45.049<br>
-                    ENS: 0.966<br>
+                    ENS: 0.968<br>
                     Length: 149.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 13/20<br>
+                    molybdenum - 5/20<br>
+                    FMN - 2/20<br>         
             </td>
             <td>
                     RS: URS0002321465_102125<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_970_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_970_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_970_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_970_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA085629     | URS0002321465_102125     | URS0000ABA5F4_668336     | URS0000095309_376219     |
 | <span title="Length of the sequence in question">Length</span>  | 149.     |  147.    | 149.   |  147.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.966 | 0.968 | 0.966 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.966 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.968 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -45.049 | -35.118 | -29.369 | -44.775 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | molybdenum | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | PSMD10 | - | - | - |

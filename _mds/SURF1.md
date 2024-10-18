@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA106081<br>
                     Gene: SURF1<br>
                     MFE: -15.825<br>
-                    ENS: 0.988<br>
+                    ENS: 0.813<br>
                     Length: 57.<br>
                     Predicted Ligands:<br>
-                    glutamine - 20/20<br>
-                    <br>
-                    <br>         
+                    glutamine - 16/20<br>
+                    fluoride - 3/20<br>
+                    TPP - 1/20<br>         
             </td>
             <td>
                     RS: URS0000C1A4B0_12908<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1284_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1284_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1284_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1284_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA106081     | URS0000C1A4B0_12908     | URS0000C4D617_12908     | URS0000C419F5_12908     |
 | <span title="Length of the sequence in question">Length</span>  | 57.     |  59.    | 59.   |  56.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.988 | 0.987 | 0.988 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.988 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.813 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -15.825 | -12.923 | -12.060 | -13.223 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | glutamine | glutamine | glutamine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | SURF1 | - | - | - |

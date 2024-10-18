@@ -29,11 +29,11 @@ exclude: true
                     UTR: 5HSAA120087<br>
                     Gene: XAF1<br>
                     MFE: -12.201<br>
-                    ENS: 0.983<br>
+                    ENS: 0.738<br>
                     Length: 62.<br>
                     Predicted Ligands:<br>
-                    fluoride - 20/20<br>
-                    <br>
+                    fluoride - 12/20<br>
+                    cobalamin - 8/20<br>
                     <br>         
             </td>
             <td>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1461_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1461_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1461_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1461_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA120087     | URS0000C37375_376489     | URS0000CA35F2_1331910     | URS0000C3D101_649831     |
 | <span title="Length of the sequence in question">Length</span>  | 62.     |  64.    | 63.   |  64.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.983 | 0.987 | 0.982 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.983 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.738 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -12.201 | -20.271 | -20.329 | -26.497 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | fluoride | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | XAF1 | - | - | - |

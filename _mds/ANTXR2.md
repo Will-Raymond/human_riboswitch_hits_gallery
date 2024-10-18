@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA005023<br>
                     Gene: ANTXR2<br>
                     MFE: -50.484<br>
-                    ENS: 0.944<br>
+                    ENS: 0.861<br>
                     Length: 182.<br>
                     Predicted Ligands:<br>
-                    Mn2+ - 20/20<br>
-                    <br>
-                    <br>         
+                    Mn2+ - 18/20<br>
+                    glucosamine - 1/20<br>
+                    zmp-ztp - 1/20<br>         
             </td>
             <td>
                     RS: URS0000DA1417_1938441<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_64_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_64_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_64_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_64_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA005023     | URS0000DA1417_1938441     | URS0000C77A43_1763998     | URS0000AB318E_1030157     |
 | <span title="Length of the sequence in question">Length</span>  | 182.     |  180.    | 184.   |  182.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.944 | 0.934 | 0.948 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.944 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.861 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -50.484 | -89.196 | -81.718 | -101.929 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | Mn2+ | Mn2+ | Mn2+ |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | ANTXR2 | - | - | - |

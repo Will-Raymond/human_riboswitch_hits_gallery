@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA106832<br>
                     Gene: TANK_0<br>
                     MFE: -2.725<br>
-                    ENS: 0.990<br>
+                    ENS: 0.849<br>
                     Length: 47.<br>
                     Predicted Ligands:<br>
-                    preQ_1 - 20/20<br>
-                    <br>
-                    <br>         
+                    preQ_1 - 12/20<br>
+                    glutamine - 6/20<br>
+                    unknown - 2/20<br>         
             </td>
             <td>
                     RS: URS0000AB1925_71421<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1292_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1292_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1292_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1292_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA106832     | URS0000AB1925_71421     | URS0000CADC1E_1599     | URS0000AB61BC_411470     |
 | <span title="Length of the sequence in question">Length</span>  | 47.     |  45.    | 46.   |  45.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.990 | 0.989 | 0.987 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.990 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.849 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -2.725 | -2.490 | -5.720 | -5.272 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | preQ_1 | preQ_1 | preQ_1 |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | TANK | - | - | - |

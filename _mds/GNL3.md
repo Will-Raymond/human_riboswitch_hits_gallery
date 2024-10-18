@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA045369<br>
                     Gene: GNL3<br>
                     MFE: -64.821<br>
-                    ENS: 0.956<br>
+                    ENS: 0.773<br>
                     Length: 184.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 18/20<br>
+                    SAM - 1/20<br>
+                    Mn2+ - 1/20<br>         
             </td>
             <td>
                     RS: URS0002314980_393303<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_452_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_452_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_452_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_452_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA045369     | URS0002314980_393303     | URS000231D65C_756272     | URS0002333061_1857892     |
 | <span title="Length of the sequence in question">Length</span>  | 184.     |  185.    | 188.   |  189.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.956 | 0.935 | 0.924 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.956 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.773 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -64.821 | -82.037 | -59.172 | -80.017 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | cobalamin | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | GNL3 | - | - | - |

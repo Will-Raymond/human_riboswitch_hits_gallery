@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA085684<br>
                     Gene: PSMD6_2<br>
                     MFE: -12.501<br>
-                    ENS: 0.987<br>
+                    ENS: 0.884<br>
                     Length: 58.<br>
                     Predicted Ligands:<br>
-                    unknown - 20/20<br>
-                    <br>
-                    <br>         
+                    unknown - 14/20<br>
+                    glutamine - 3/20<br>
+                    fluoride - 2/20<br>         
             </td>
             <td>
                     RS: URS0000D6828C_12908<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_975_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_975_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_975_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_975_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA085684     | URS0000D6828C_12908     | URS0000D6CABE_94624     | URS0000C14F07_12908     |
 | <span title="Length of the sequence in question">Length</span>  | 58.     |  56.    | 57.   |  56.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.987 | 0.983 | 0.984 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.987 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.884 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -12.501 | -16.970 | -25.370 | -10.888 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | unknown | unknown | glutamine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | PSMD6 | - | - | - |

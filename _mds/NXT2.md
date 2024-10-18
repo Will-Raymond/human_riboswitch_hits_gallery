@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA074674<br>
                     Gene: NXT2<br>
                     MFE: -25.522<br>
-                    ENS: 0.975<br>
+                    ENS: 0.984<br>
                     Length: 118.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
-                    <br>
-                    <br>         
+                    TPP - 10/20<br>
+                    cobalamin - 5/20<br>
+                    SAM - 2/20<br>         
             </td>
             <td>
                     RS: URS0000AB774D_180281<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_818_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_818_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_818_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_818_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA074674     | URS0000AB774D_180281     | URS0002319E18_1895809     | URS0000C52759_1136941     |
 | <span title="Length of the sequence in question">Length</span>  | 118.     |  118.    | 118.   |  114.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.975 | 0.974 | 0.961 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.975 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.984 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -25.522 | -43.442 | -51.340 | -42.742 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | TPP | cobalamin | TPP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | NXT2 | - | - | - |

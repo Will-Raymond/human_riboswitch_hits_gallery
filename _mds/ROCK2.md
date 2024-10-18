@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA092039<br>
                     Gene: ROCK2<br>
                     MFE: -31.794<br>
-                    ENS: 0.938<br>
+                    ENS: 0.966<br>
                     Length: 191.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 15/20<br>
+                    glycine - 1/20<br>
+                    zmp-ztp - 1/20<br>         
             </td>
             <td>
                     RS: URS0000D84C66_1230338<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1078_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1078_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1078_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1078_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA092039     | URS0000D84C66_1230338     | URS0002317A7E_1532552     | URS00023279E3_637910     |
 | <span title="Length of the sequence in question">Length</span>  | 191.     |  194.    | 190.   |  194.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.938 | 0.892 | 0.919 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.938 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.966 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -31.794 | -33.984 | -37.092 | -47.835 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | glycine | cobalamin | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | ROCK2 | - | - | - |

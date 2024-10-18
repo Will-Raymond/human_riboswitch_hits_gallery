@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA106006-0<br>
                     Gene: SUPT5H_0<br>
                     MFE: -36.906<br>
-                    ENS: 0.969<br>
+                    ENS: 0.916<br>
                     Length: 126.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 14/20<br>
+                    TPP - 3/20<br>
+                    SAM - 1/20<br>         
             </td>
             <td>
                     RS: URS0000C23E2C_1449350<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1282_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1282_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1282_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1282_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA106006-0     | URS0000C23E2C_1449350     | URS0000D84A4C_1803481     | URS0000AB342B_12908     |
 | <span title="Length of the sequence in question">Length</span>  | 126.     |  124.    | 123.   |  131.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.969 | 0.962 | 0.950 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.969 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.916 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -36.906 | -45.229 | -51.281 | -31.378 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | SAM | cobalamin | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | SUPT5H | - | - | - |

@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA121017<br>
                     Gene: ZBTB46<br>
                     MFE: -10.627<br>
-                    ENS: 0.978<br>
+                    ENS: 0.888<br>
                     Length: 58.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 12/20<br>
+                    unknown - 6/20<br>
+                    fluoride - 2/20<br>         
             </td>
             <td>
                     RS: URS0000E5FF59_1817963<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1483_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1483_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1483_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1483_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA121017     | URS0000E5FF59_1817963     | URS0000D6AC7C_12908     | URS0000C7E9F2_1619033     |
 | <span title="Length of the sequence in question">Length</span>  | 58.     |  56.    | 56.   |  58.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.978 | 0.980 | 0.987 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.978 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.888 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -10.627 | -18.364 | -20.976 | -19.219 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | unknown | unknown | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | ZBTB46 | - | - | - |

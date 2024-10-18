@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA058553<br>
                     Gene: LDLRAD1<br>
                     MFE: -9.496<br>
-                    ENS: 0.990<br>
+                    ENS: 0.764<br>
                     Length: 43.<br>
                     Predicted Ligands:<br>
-                    preQ_1 - 20/20<br>
-                    <br>
-                    <br>         
+                    preQ_1 - 16/20<br>
+                    zmp-ztp - 1/20<br>
+                    glutamine - 1/20<br>         
             </td>
             <td>
                     RS: URS0000AB27BE_945021<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_611_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_611_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_611_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_611_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA058553     | URS0000AB27BE_945021     | URS0000AB32D9_362948     | URS0000AB1925_71421     |
 | <span title="Length of the sequence in question">Length</span>  | 43.     |  45.    | 45.   |  45.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.990 | 0.988 | 0.988 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.990 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.764 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -9.496 | -5.496 | -8.446 | -2.490 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | preQ_1 | preQ_1 | preQ_1 |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | LDLRAD1 | - | - | - |

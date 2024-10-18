@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA087515<br>
                     Gene: RAB3GAP1<br>
                     MFE: -10.455<br>
-                    ENS: 0.985<br>
+                    ENS: 0.755<br>
                     Length: 82.<br>
                     Predicted Ligands:<br>
-                    cyclic-di-GMP - 20/20<br>
-                    <br>
-                    <br>         
+                    cyclic-di-GMP - 8/20<br>
+                    SAM - 7/20<br>
+                    Ni/Co - 1/20<br>         
             </td>
             <td>
                     RS: URS0000AB9921_702450<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1011_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1011_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1011_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1011_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA087515     | URS0000AB9921_702450     | URS0000ABB332_913865     | URS0000DB4E38_1497     |
 | <span title="Length of the sequence in question">Length</span>  | 82.     |  83.    | 83.   |  83.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.985 | 0.981 | 0.982 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.985 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.755 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -10.455 | -11.781 | -14.765 | -15.398 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cyclic-di-GMP | cyclic-di-GMP | cyclic-di-GMP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | RAB3GAP1 | - | - | - |

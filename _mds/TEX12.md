@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA108462<br>
                     Gene: TEX12<br>
                     MFE: -21.231<br>
-                    ENS: 0.974<br>
+                    ENS: 0.977<br>
                     Length: 92.<br>
                     Predicted Ligands:<br>
-                    zmp-ztp - 20/20<br>
-                    <br>
-                    <br>         
+                    zmp-ztp - 16/20<br>
+                    cobalamin - 2/20<br>
+                    GMP - 1/20<br>         
             </td>
             <td>
                     RS: URS0000C250FA_1736322<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1307_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1307_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1307_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1307_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA108462     | URS0000C250FA_1736322     | URS000231D2E5_1519495     | URS0000C234A0_479433     |
 | <span title="Length of the sequence in question">Length</span>  | 92.     |  89.    | 91.   |  87.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.974 | 0.981 | 0.963 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.974 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.977 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -21.231 | -35.914 | -40.006 | -36.005 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | zmp-ztp | zmp-ztp |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | TEX12 | - | - | - |

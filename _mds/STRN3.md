@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA105418<br>
                     Gene: STRN3<br>
                     MFE: -27.492<br>
-                    ENS: 0.945<br>
+                    ENS: 0.859<br>
                     Length: 167.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
-                    <br>
-                    <br>         
+                    TPP - 7/20<br>
+                    Mg2+ - 5/20<br>
+                    cobalamin - 4/20<br>         
             </td>
             <td>
                     RS: URS0000AB6F14_256318<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1274_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1274_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1274_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1274_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA105418     | URS0000AB6F14_256318     | URS0000C2D74B_5078     | URS0002328847_1802354     |
 | <span title="Length of the sequence in question">Length</span>  | 167.     |  169.    | 170.   |  163.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.945 | 0.944 | 0.921 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.945 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.859 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -27.492 | -47.564 | -53.244 | -42.974 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | Mg2+ | TPP | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | STRN3 | - | - | - |

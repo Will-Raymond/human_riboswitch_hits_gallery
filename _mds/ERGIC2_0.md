@@ -29,11 +29,11 @@ exclude: true
                     UTR: 5HSAA036514<br>
                     Gene: ERGIC2_0<br>
                     MFE: -58.755<br>
-                    ENS: 0.950<br>
+                    ENS: 0.884<br>
                     Length: 194.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
+                    cobalamin - 19/20<br>
+                    glucosamine - 1/20<br>
                     <br>         
             </td>
             <td>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_354_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_354_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_354_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_354_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA036514     | URS0002317978_398511     | URS0002322863_1637974     | URS0002324C67_391589     |
 | <span title="Length of the sequence in question">Length</span>  | 194.     |  195.    | 192.   |  192.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.950 | 0.948 | 0.936 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.950 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.884 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -58.755 | -46.693 | -38.390 | -67.466 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | cobalamin | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | ERGIC2 | - | - | - |

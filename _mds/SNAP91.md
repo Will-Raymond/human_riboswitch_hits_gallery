@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA101765<br>
                     Gene: SNAP91<br>
                     MFE: -35.057<br>
-                    ENS: 0.967<br>
+                    ENS: 0.891<br>
                     Length: 124.<br>
                     Predicted Ligands:<br>
-                    molybdenum - 20/20<br>
-                    <br>
-                    <br>         
+                    molybdenum - 12/20<br>
+                    guanidine - 2/20<br>
+                    TPP - 2/20<br>         
             </td>
             <td>
                     RS: URS0000DABFFD_759412<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1228_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1228_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1228_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1228_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA101765     | URS0000DABFFD_759412     | URS0000C1EBBA_1635262     | URS0000D7ABF9_1797632     |
 | <span title="Length of the sequence in question">Length</span>  | 124.     |  122.    | 121.   |  122.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.967 | 0.960 | 0.964 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.967 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.891 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -35.057 | -41.030 | -29.639 | -38.295 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | molybdenum | molybdenum | molybdenum |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | SNAP91 | - | - | - |

@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA001023<br>
                     Gene: ACAP3<br>
                     MFE: -45.239<br>
-                    ENS: 0.952<br>
+                    ENS: 0.732<br>
                     Length: 128.<br>
                     Predicted Ligands:<br>
-                    glycine - 20/20<br>
-                    <br>
-                    <br>         
+                    glycine - 8/20<br>
+                    TPP - 4/20<br>
+                    cobalamin - 3/20<br>         
             </td>
             <td>
                     RS: URS0000AB728E_1003237<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_17_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_17_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_17_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_17_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA001023     | URS0000AB728E_1003237     | URS0000ABAC81_330879     | URS0000C1ED30_1703390     |
 | <span title="Length of the sequence in question">Length</span>  | 128.     |  125.    | 123.   |  126.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.952 | 0.946 | 0.955 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.952 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.732 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -45.239 | -66.905 | -29.162 | -50.438 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | Mn2+ | TPP | glycine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | ACAP3 | - | - | - |

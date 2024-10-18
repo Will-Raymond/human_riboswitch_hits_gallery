@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA022708<br>
                     Gene: CLIP4<br>
                     MFE: -42.130<br>
-                    ENS: 0.981<br>
+                    ENS: 0.823<br>
                     Length: 97.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
-                    <br>
-                    <br>         
+                    TPP - 14/20<br>
+                    glycine - 3/20<br>
+                    SAM - 3/20<br>         
             </td>
             <td>
                     RS: URS0000C60226_631454<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_202_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_202_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_202_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_202_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA022708     | URS0000C60226_631454     | URS0000DAD2AC_193     | URS0000D8F54C_1302250     |
 | <span title="Length of the sequence in question">Length</span>  | 97.     |  98.    | 98.   |  97.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.981 | 0.971 | 0.980 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.981 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.823 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -42.130 | -44.416 | -35.936 | -21.753 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | glycine | TPP | SAM |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | CLIP4 | - | - | - |

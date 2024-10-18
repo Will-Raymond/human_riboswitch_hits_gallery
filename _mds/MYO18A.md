@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA069346<br>
                     Gene: MYO18A<br>
                     MFE: -69.827<br>
-                    ENS: 0.945<br>
+                    ENS: 0.873<br>
                     Length: 183.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 8/20<br>
+                    TPP - 5/20<br>
+                    Mn2+ - 2/20<br>         
             </td>
             <td>
                     RS: URS0002315EB1_1337886<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_757_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_757_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_757_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_757_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA069346     | URS0002315EB1_1337886     | URS0000C42052_1628212     | URS000232EBA8_350688     |
 | <span title="Length of the sequence in question">Length</span>  | 183.     |  183.    | 183.   |  179.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.945 | 0.915 | 0.927 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.945 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.873 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -69.827 | -58.693 | -55.461 | -34.932 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | glycine | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | MYO18A | - | - | - |

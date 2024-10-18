@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA051102<br>
                     Gene: HSPA13<br>
                     MFE: -39.678<br>
-                    ENS: 0.974<br>
+                    ENS: 0.854<br>
                     Length: 94.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
-                    <br>
-                    <br>         
+                    TPP - 9/20<br>
+                    SAM - 5/20<br>
+                    glycine - 4/20<br>         
             </td>
             <td>
                     RS: URS0000AB5217_675635<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_524_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_524_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_524_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_524_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA051102     | URS0000AB5217_675635     | URS0000C605D6_1736316     | URS0000AB3FE9_550540     |
 | <span title="Length of the sequence in question">Length</span>  | 94.     |  92.    | 95.   |  93.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.974 | 0.979 | 0.973 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.974 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.854 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -39.678 | -34.020 | -32.647 | -26.197 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | SAM | glycine | glycine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | HSPA13 | - | - | - |

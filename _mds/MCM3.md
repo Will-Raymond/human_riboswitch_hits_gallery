@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA064232<br>
                     Gene: MCM3<br>
                     MFE: -50.214<br>
-                    ENS: 0.971<br>
+                    ENS: 0.848<br>
                     Length: 135.<br>
                     Predicted Ligands:<br>
-                    molybdenum - 20/20<br>
-                    <br>
-                    <br>         
+                    molybdenum - 16/20<br>
+                    cobalamin - 1/20<br>
+                    Mn2+ - 1/20<br>         
             </td>
             <td>
                     RS: URS0000DB654D_1926881<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_677_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_677_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_677_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_677_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA064232     | URS0000DB654D_1926881     | URS0000ABC775_419109     | URS0000AB5131_223926     |
 | <span title="Length of the sequence in question">Length</span>  | 135.     |  135.    | 134.   |  134.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.971 | 0.972 | 0.969 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.971 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.848 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -50.214 | -46.736 | -38.589 | -36.839 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | molybdenum | molybdenum | molybdenum |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | MCM3 | - | - | - |

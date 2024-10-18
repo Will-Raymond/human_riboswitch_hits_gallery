@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA074329<br>
                     Gene: NUP35<br>
                     MFE: -41.255<br>
-                    ENS: 0.960<br>
+                    ENS: 0.999<br>
                     Length: 128.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 6/20<br>
+                    TPP - 5/20<br>
+                    FMN - 5/20<br>         
             </td>
             <td>
                     RS: URS0002322623_1220578<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_814_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_814_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_814_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_814_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA074329     | URS0002322623_1220578     | URS000231F6F5_1435356     | URS0000AB88B5_561180     |
 | <span title="Length of the sequence in question">Length</span>  | 128.     |  131.    | 129.   |  126.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.960 | 0.964 | 0.963 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.960 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.999 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -41.255 | -36.262 | -66.688 | -35.684 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | cobalamin | TPP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | NUP35 | - | - | - |

@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA071434<br>
                     Gene: NEDD9<br>
                     MFE: -50.784<br>
-                    ENS: 0.948<br>
+                    ENS: 0.949<br>
                     Length: 175.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 8/20<br>
+                    FMN - 8/20<br>
+                    lysine - 3/20<br>         
             </td>
             <td>
                     RS: URS000232A60D_634503<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_790_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_790_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_790_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_790_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA071434     | URS000232A60D_634503     | URS0000C3F9B9_1178515     | URS0000AB72FB_1116391     |
 | <span title="Length of the sequence in question">Length</span>  | 175.     |  175.    | 173.   |  173.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.948 | 0.940 | 0.938 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.948 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.949 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -50.784 | -54.405 | -55.315 | -69.712 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | FMN | FMN |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | NEDD9 | - | - | - |

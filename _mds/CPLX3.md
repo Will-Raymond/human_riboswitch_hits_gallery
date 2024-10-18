@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA024689<br>
                     Gene: CPLX3<br>
                     MFE: -58.246<br>
-                    ENS: 0.967<br>
+                    ENS: 0.845<br>
                     Length: 119.<br>
                     Predicted Ligands:<br>
-                    SAM - 20/20<br>
-                    <br>
-                    <br>         
+                    SAM - 8/20<br>
+                    guanidine - 4/20<br>
+                    methionine - 3/20<br>         
             </td>
             <td>
                     RS: URS0000C7EA9E_167964<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_241_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_241_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_241_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_241_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA024689     | URS0000C7EA9E_167964     | URS0000DB21ED_1897634     | URS0000ABD094_658088     |
 | <span title="Length of the sequence in question">Length</span>  | 119.     |  121.    | 117.   |  120.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.967 | 0.968 | 0.969 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.967 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.845 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -58.246 | -36.542 | -53.806 | -18.466 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | SAM | methionine | glycine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | CPLX3 | - | - | - |

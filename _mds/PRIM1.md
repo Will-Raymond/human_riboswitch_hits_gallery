@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA084404<br>
                     Gene: PRIM1<br>
                     MFE: -20.675<br>
-                    ENS: 0.981<br>
+                    ENS: 0.965<br>
                     Length: 89.<br>
                     Predicted Ligands:<br>
-                    zmp-ztp - 20/20<br>
-                    <br>
-                    <br>         
+                    zmp-ztp - 7/20<br>
+                    SAM - 4/20<br>
+                    glycine - 3/20<br>         
             </td>
             <td>
                     RS: URS0000C621B3_1736380<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_941_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_941_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_941_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_941_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA084404     | URS0000C621B3_1736380     | URS0000D97BF5_113562     | URS000080DF21_210007     |
 | <span title="Length of the sequence in question">Length</span>  | 89.     |  88.    | 87.   |  89.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.981 | 0.974 | 0.978 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.981 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.965 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -20.675 | -30.397 | -34.438 | -26.393 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | glycine | zmp-ztp | tetrahydrofolate |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | PRIM1 | - | - | - |

@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA036089<br>
                     Gene: EPHA7<br>
                     MFE: -57.927<br>
-                    ENS: 0.859<br>
+                    ENS: 0.962<br>
                     Length: 266.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 14/20<br>
+                    unknown - 4/20<br>
+                    lysine - 1/20<br>         
             </td>
             <td>
                     RS: URS000232E25D_1632865<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_346_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_346_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_346_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_346_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA036089     | URS000232E25D_1632865     | URS000232B087_194439     | URS000231E47C_651661     |
 | <span title="Length of the sequence in question">Length</span>  | 266.     |  262.    | 268.   |  264.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.859 | 0.827 | 0.892 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.859 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.962 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -57.927 | -76.698 | -87.247 | -81.485 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | cobalamin | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | EPHA7 | - | - | - |

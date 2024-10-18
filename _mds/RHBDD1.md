@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA090749<br>
                     Gene: RHBDD1<br>
                     MFE: -39.382<br>
-                    ENS: 0.961<br>
+                    ENS: 0.888<br>
                     Length: 146.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 8/20<br>
+                    TPP - 5/20<br>
+                    FMN - 4/20<br>         
             </td>
             <td>
                     RS: URS0000BFACE8_755172<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1053_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1053_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1053_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1053_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA090749     | URS0000BFACE8_755172     | URS00023209B3_1867956     | URS0000D94C3F_1121353     |
 | <span title="Length of the sequence in question">Length</span>  | 146.     |  143.    | 147.   |  145.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.961 | 0.943 | 0.963 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.961 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.888 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -39.382 | -29.725 | -55.752 | -43.159 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | glucosamine | cobalamin | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | RHBDD1 | - | - | - |

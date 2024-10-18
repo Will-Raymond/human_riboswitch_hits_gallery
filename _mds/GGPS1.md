@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA044010<br>
                     Gene: GGPS1<br>
                     MFE: -29.960<br>
-                    ENS: 0.975<br>
+                    ENS: 0.945<br>
                     Length: 109.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
-                    <br>
-                    <br>         
+                    TPP - 10/20<br>
+                    guanidine - 4/20<br>
+                    homocysteine - 3/20<br>         
             </td>
             <td>
                     RS: URS0000C6D6C0_490759<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_435_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_435_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_435_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_435_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA044010     | URS0000C6D6C0_490759     | URS00023281BB_525366     | URS0000D865DF_28066     |
 | <span title="Length of the sequence in question">Length</span>  | 109.     |  106.    | 106.   |  112.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.975 | 0.973 | 0.973 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.975 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.945 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -29.960 | -27.057 | -16.867 | -37.566 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | guanidine | SAM | homocysteine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | GGPS1 | - | - | - |

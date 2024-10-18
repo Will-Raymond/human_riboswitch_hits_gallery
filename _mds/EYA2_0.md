@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA037412<br>
                     Gene: EYA2_0<br>
                     MFE: -37.140<br>
-                    ENS: 0.961<br>
+                    ENS: 0.878<br>
                     Length: 133.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
-                    <br>
-                    <br>         
+                    TPP - 5/20<br>
+                    zmp-ztp - 4/20<br>
+                    cobalamin - 4/20<br>         
             </td>
             <td>
                     RS: URS0000D802B4_1805091<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_365_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_365_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_365_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_365_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA037412     | URS0000D802B4_1805091     | URS0000BA9A40_1673631     | URS0000D92923_192843     |
 | <span title="Length of the sequence in question">Length</span>  | 133.     |  130.    | 133.   |  134.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.961 | 0.965 | 0.966 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.961 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.878 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -37.140 | -50.686 | -31.404 | -51.906 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | zmp-ztp | cobalamin | zmp-ztp |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | EYA2 | - | - | - |

@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA108260-1<br>
                     Gene: TDP1_0<br>
                     MFE: -40.207<br>
-                    ENS: 0.974<br>
+                    ENS: 0.942<br>
                     Length: 101.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
-                    <br>
-                    <br>         
+                    TPP - 13/20<br>
+                    zmp-ztp - 2/20<br>
+                    tetrahydrofolate - 2/20<br>         
             </td>
             <td>
                     RS: URS0000C1C2F9_1660131<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1305_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1305_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1305_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1305_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA108260-1     | URS0000C1C2F9_1660131     | URS0002330CB7_477245     | URS0000C75253_1678129     |
 | <span title="Length of the sequence in question">Length</span>  | 101.     |  100.    | 103.   |  101.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.974 | 0.974 | 0.976 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.974 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.942 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -40.207 | -42.399 | -56.923 | -32.688 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | TPP | zmp-ztp | TPP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | TDP1 | - | - | - |

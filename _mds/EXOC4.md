@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA037186<br>
                     Gene: EXOC4<br>
                     MFE: -50.809<br>
-                    ENS: 0.940<br>
+                    ENS: 0.752<br>
                     Length: 186.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 17/20<br>
+                    lysine - 2/20<br>
+                    Mn2+ - 1/20<br>         
             </td>
             <td>
                     RS: URS0002331BD0_1121895<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_358_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_358_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_358_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_358_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA037186     | URS0002331BD0_1121895     | URS00023122B7_1263010     | URS000232E6E9_1570360     |
 | <span title="Length of the sequence in question">Length</span>  | 186.     |  188.    | 188.   |  185.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.940 | 0.933 | 0.932 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.940 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.752 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -50.809 | -46.516 | -44.713 | -77.526 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | cobalamin | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | EXOC4 | - | - | - |

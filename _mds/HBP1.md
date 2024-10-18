@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA048031<br>
                     Gene: HBP1<br>
                     MFE: -26.485<br>
-                    ENS: 0.947<br>
+                    ENS: 0.971<br>
                     Length: 107.<br>
                     Predicted Ligands:<br>
-                    purine - 20/20<br>
-                    <br>
-                    <br>         
+                    purine - 7/20<br>
+                    TPP - 5/20<br>
+                    SAM - 4/20<br>         
             </td>
             <td>
                     RS: URS0000D7AC2D_1881060<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_483_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_483_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_483_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_483_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA048031     | URS0000D7AC2D_1881060     | URS0000ABA971_264732     | URS0000DAD15D_1450526     |
 | <span title="Length of the sequence in question">Length</span>  | 107.     |  101.    | 101.   |  105.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.947 | 0.942 | 0.967 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.947 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.971 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -26.485 | -17.233 | -43.739 | -16.096 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | purine | purine | SAM |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | HBP1 | - | - | - |

@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA034280<br>
                     Gene: EIF3I<br>
                     MFE: -24.004<br>
-                    ENS: 0.976<br>
+                    ENS: 0.984<br>
                     Length: 97.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
-                    <br>
-                    <br>         
+                    TPP - 15/20<br>
+                    glycine - 2/20<br>
+                    guanidine - 1/20<br>         
             </td>
             <td>
                     RS: URS0000DA0476_634771<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_329_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_329_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_329_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_329_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA034280     | URS0000DA0476_634771     | URS0000D85861_1419482     | URS0000AB1D15_525370     |
 | <span title="Length of the sequence in question">Length</span>  | 97.     |  95.    | 94.   |  97.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.976 | 0.975 | 0.978 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.976 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.984 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -24.004 | -23.256 | -23.389 | -31.272 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | TPP | TPP | TPP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | EIF3I | - | - | - |

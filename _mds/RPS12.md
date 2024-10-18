@@ -29,11 +29,11 @@ exclude: true
                     UTR: 5HSAA092848<br>
                     Gene: RPS12<br>
                     MFE: -37.185<br>
-                    ENS: 0.974<br>
+                    ENS: 0.944<br>
                     Length: 107.<br>
                     Predicted Ligands:<br>
-                    SAM - 20/20<br>
-                    <br>
+                    SAM - 19/20<br>
+                    glycine - 1/20<br>
                     <br>         
             </td>
             <td>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1106_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1106_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1106_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1106_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA092848     | URS0000DA81E3_885586     | URS0000D97968_1685010     | URS0000D95274_570947     |
 | <span title="Length of the sequence in question">Length</span>  | 107.     |  109.    | 107.   |  105.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.974 | 0.979 | 0.975 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.974 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.944 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -37.185 | -24.282 | -25.323 | -27.517 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | SAM | SAM | SAM |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | RPS12 | - | - | - |

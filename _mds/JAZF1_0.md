@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA054499<br>
                     Gene: JAZF1_0<br>
                     MFE: -14.895<br>
-                    ENS: 0.989<br>
+                    ENS: 0.927<br>
                     Length: 65.<br>
                     Predicted Ligands:<br>
-                    fluoride - 20/20<br>
-                    <br>
-                    <br>         
+                    fluoride - 15/20<br>
+                    unknown - 3/20<br>
+                    Ni/Co - 1/20<br>         
             </td>
             <td>
                     RS: URS0000D68140_12908<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_571_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_571_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_571_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_571_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA054499     | URS0000D68140_12908     | URS0000DAE5DE_518642     | URS0000C45865_1121324     |
 | <span title="Length of the sequence in question">Length</span>  | 65.     |  65.    | 64.   |  65.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.989 | 0.986 | 0.986 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.989 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.927 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -14.895 | -9.466 | -23.170 | -19.845 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | Ni/Co | fluoride | fluoride |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | JAZF1 | - | - | - |

@@ -29,10 +29,10 @@ exclude: true
                     UTR: 5HSAA114686<br>
                     Gene: TTC23<br>
                     MFE: -26.666<br>
-                    ENS: 0.977<br>
+                    ENS: 0.864<br>
                     Length: 114.<br>
                     Predicted Ligands:<br>
-                    FMN - 20/20<br>
+                    FMN - 20/20 - 20/20<br>
                     <br>
                     <br>         
             </td>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1381_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1381_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1381_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1381_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA114686     | URS0000C257DE_36849     | URS0000AB9DCC_591001     | URS0000AB1ED9_914141     |
 | <span title="Length of the sequence in question">Length</span>  | 114.     |  115.    | 113.   |  115.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.977 | 0.975 | 0.975 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.977 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.864 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -26.666 | -28.423 | -27.796 | -26.732 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | FMN | FMN | FMN |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | TTC23 | - | - | - |

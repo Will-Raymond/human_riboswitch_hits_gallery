@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA120172<br>
                     Gene: XPNPEP1<br>
                     MFE: -32.085<br>
-                    ENS: 0.957<br>
+                    ENS: 0.895<br>
                     Length: 165.<br>
                     Predicted Ligands:<br>
-                    SAM - 20/20<br>
-                    <br>
-                    <br>         
+                    SAM - 9/20<br>
+                    Mg2+ - 4/20<br>
+                    unknown - 2/20<br>         
             </td>
             <td>
                     RS: URS0000E606C1_86332<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1462_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1462_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1462_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1462_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA120172     | URS0000E606C1_86332     | URS0000C6143F_1886670     | URS000219213A_649161     |
 | <span title="Length of the sequence in question">Length</span>  | 165.     |  163.    | 163.   |  166.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.957 | 0.953 | 0.959 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.957 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.895 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -32.085 | -49.057 | -48.936 | -34.510 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | unknown | SAM | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | XPNPEP1 | - | - | - |

@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA051137<br>
                     Gene: HSPA4L<br>
                     MFE: -27.106<br>
-                    ENS: 0.963<br>
+                    ENS: 0.809<br>
                     Length: 154.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 12/20<br>
+                    FMN - 5/20<br>
+                    Mg2+ - 1/20<br>         
             </td>
             <td>
                     RS: URS00023133CA_167879<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_525_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_525_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_525_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_525_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA051137     | URS00023133CA_167879     | URS0002321A9E_479430     | URS0000ABA0F3_377431     |
 | <span title="Length of the sequence in question">Length</span>  | 154.     |  154.    | 155.   |  152.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.963 | 0.927 | 0.950 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.963 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.809 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -27.106 | -24.151 | -60.051 | -47. |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | cobalamin | FMN |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | HSPA4L | - | - | - |

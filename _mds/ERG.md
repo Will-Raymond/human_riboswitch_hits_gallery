@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA036507<br>
                     Gene: ERG<br>
                     MFE: -16.413<br>
-                    ENS: 0.964<br>
+                    ENS: 0.979<br>
                     Length: 149.<br>
                     Predicted Ligands:<br>
-                    FMN - 20/20<br>
-                    <br>
-                    <br>         
+                    FMN - 10/20<br>
+                    glucosamine - 4/20<br>
+                    cobalamin - 4/20<br>         
             </td>
             <td>
                     RS: URS0000C17D3E_1262955<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_352_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_352_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_352_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_352_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA036507     | URS0000C17D3E_1262955     | URS0000BF47B7_931626     | URS0000C7227F_1635294     |
 | <span title="Length of the sequence in question">Length</span>  | 149.     |  148.    | 152.   |  148.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.964 | 0.950 | 0.951 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.964 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.979 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -16.413 | -43.076 | -31.091 | -44.929 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | FMN | glucosamine | FMN |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | ERG | - | - | - |

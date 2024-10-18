@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA056635<br>
                     Gene: KIRREL3<br>
                     MFE: -24.316<br>
-                    ENS: 0.968<br>
+                    ENS: 0.<br>
                     Length: 111.<br>
                     Predicted Ligands:<br>
-                    SAM - 20/20<br>
-                    <br>
-                    <br>         
+                    SAM - 18/20<br>
+                    cobalamin - 1/20<br>
+                    methionine - 1/20<br>         
             </td>
             <td>
                     RS: URS0000DAE7B1_1304903<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_590_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_590_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_590_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_590_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA056635     | URS0000DAE7B1_1304903     | URS0000C731E8_1121877     | URS0000AB2BE4_283734     |
 | <span title="Length of the sequence in question">Length</span>  | 111.     |  114.    | 112.   |  112.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.968 | 0.974 | 0.974 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.968 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0. | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -24.316 | -37.048 | -41.720 | -21.801 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | methionine | SAM |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | KIRREL3 | - | - | - |

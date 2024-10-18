@@ -29,11 +29,11 @@ exclude: true
                     UTR: 5HSAA104330<br>
                     Gene: STAB2<br>
                     MFE: -45.778<br>
-                    ENS: 0.870<br>
+                    ENS: 0.792<br>
                     Length: 211.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
+                    cobalamin - 19/20<br>
+                    lysine - 1/20<br>
                     <br>         
             </td>
             <td>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1266_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1266_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1266_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1266_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA104330     | URS000231C5E1_1736531     | URS000232D976_945713     | URS0002329A5D_162209     |
 | <span title="Length of the sequence in question">Length</span>  | 211.     |  217.    | 207.   |  208.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.870 | 0.916 | 0.918 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.870 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.792 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -45.778 | -80.248 | -65.916 | -66. |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | cobalamin | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | STAB2 | - | - | - |

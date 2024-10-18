@@ -29,10 +29,10 @@ exclude: true
                     UTR: 5HSAA082403<br>
                     Gene: POLR2C<br>
                     MFE: -70.911<br>
-                    ENS: 0.919<br>
+                    ENS: 0.780<br>
                     Length: 218.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
+                    cobalamin - 20/20 - 20/20<br>
                     <br>
                     <br>         
             </td>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_917_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_917_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_917_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_917_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA082403     | URS0002334327_1775910     | URS000232361B_665126     | URS0002333EAE_1385625     |
 | <span title="Length of the sequence in question">Length</span>  | 218.     |  215.    | 222.   |  217.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.919 | 0.913 | 0.918 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.919 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.780 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -70.911 | -100.217 | -90.080 | -78.738 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | cobalamin | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | POLR2C | - | - | - |

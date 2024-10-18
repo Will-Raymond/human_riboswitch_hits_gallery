@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA118051<br>
                     Gene: VAT1<br>
                     MFE: -14.552<br>
-                    ENS: 0.978<br>
+                    ENS: 0.839<br>
                     Length: 64.<br>
                     Predicted Ligands:<br>
-                    fluoride - 20/20<br>
-                    <br>
-                    <br>         
+                    fluoride - 12/20<br>
+                    unknown - 5/20<br>
+                    cobalamin - 3/20<br>         
             </td>
             <td>
                     RS: URS0000D6AA31_12908<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1439_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1439_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1439_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1439_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA118051     | URS0000D6AA31_12908     | URS0000D9AF11_1797812     | URS0000BED510_316058     |
 | <span title="Length of the sequence in question">Length</span>  | 64.     |  64.    | 65.   |  61.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.978 | 0.985 | 0.975 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.978 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.839 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -14.552 | -31.902 | -20.336 | -18.185 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | unknown | fluoride | fluoride |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | VAT1 | - | - | - |

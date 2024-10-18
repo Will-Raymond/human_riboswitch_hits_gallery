@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA121852<br>
                     Gene: ZMAT4<br>
                     MFE: -18.888<br>
-                    ENS: 0.976<br>
+                    ENS: 0.843<br>
                     Length: 91.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
-                    <br>
-                    <br>         
+                    TPP - 8/20<br>
+                    glycine - 7/20<br>
+                    fluoride - 2/20<br>         
             </td>
             <td>
                     RS: URS0000C7162C_1736280<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1497_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1497_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1497_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1497_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA121852     | URS0000C7162C_1736280     | URS0000DAA642_2020130     | URS000225BAC6_2773266     |
 | <span title="Length of the sequence in question">Length</span>  | 91.     |  92.    | 89.   |  92.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.976 | 0.976 | 0.976 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.976 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.843 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -18.888 | -23.768 | -27.638 | -26.570 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | TPP | glycine | TPP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | ZMAT4 | - | - | - |

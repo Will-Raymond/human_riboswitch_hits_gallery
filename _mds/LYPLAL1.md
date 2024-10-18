@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA061186<br>
                     Gene: LYPLAL1<br>
                     MFE: -28.309<br>
-                    ENS: 0.984<br>
+                    ENS: 0.902<br>
                     Length: 66.<br>
                     Predicted Ligands:<br>
-                    fluoride - 20/20<br>
-                    <br>
-                    <br>         
+                    fluoride - 14/20<br>
+                    guanine - 3/20<br>
+                    unknown - 2/20<br>         
             </td>
             <td>
                     RS: URS0000E6028E_1457173<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_643_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_643_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_643_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_643_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA061186     | URS0000E6028E_1457173     | URS0000D87F9A_56779     | URS0002327791_665007     |
 | <span title="Length of the sequence in question">Length</span>  | 66.     |  64.    | 68.   |  66.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.984 | 0.980 | 0.986 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.984 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.902 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -28.309 | -24.016 | -16.335 | -25.102 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | unknown | fluoride | fluoride |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | LYPLAL1 | - | - | - |

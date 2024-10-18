@@ -29,11 +29,11 @@ exclude: true
                     UTR: 5HSAA039237<br>
                     Gene: FANCA_2<br>
                     MFE: -25.138<br>
-                    ENS: 0.986<br>
+                    ENS: 0.851<br>
                     Length: 59.<br>
                     Predicted Ligands:<br>
-                    glutamine - 20/20<br>
-                    <br>
+                    glutamine - 13/20<br>
+                    unknown - 7/20<br>
                     <br>         
             </td>
             <td>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_381_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_381_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_381_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_381_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA039237     | URS0000E60042_1122156     | URS0000C70F78_12908     | URS0000BEAA8E_1604020     |
 | <span title="Length of the sequence in question">Length</span>  | 59.     |  57.    | 59.   |  56.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.986 | 0.990 | 0.983 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.986 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.851 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -25.138 | -22.042 | -11.866 | -12.438 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | unknown | glutamine | glutamine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | FANCA | - | - | - |

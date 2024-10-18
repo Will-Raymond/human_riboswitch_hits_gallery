@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA100788<br>
                     Gene: SLC9A6<br>
                     MFE: -41.325<br>
-                    ENS: 0.974<br>
+                    ENS: 0.<br>
                     Length: 101.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
-                    <br>
-                    <br>         
+                    TPP - 11/20<br>
+                    glycine - 4/20<br>
+                    zmp-ztp - 3/20<br>         
             </td>
             <td>
                     RS: URS0000BFEA5F_1268622<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1213_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1213_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1213_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1213_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA100788     | URS0000BFEA5F_1268622     | URS0000AB55F9_350058     | URS0000ABCF57_596154     |
 | <span title="Length of the sequence in question">Length</span>  | 101.     |  102.    | 99.   |  103.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.974 | 0.977 | 0.975 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.974 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0. | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -41.325 | -33.257 | -28.076 | -37.807 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | TPP | glycine | TPP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | SLC9A6 | - | - | - |

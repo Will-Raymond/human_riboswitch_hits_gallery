@@ -29,11 +29,11 @@ exclude: true
                     UTR: 5HSAA120463<br>
                     Gene: XRCC4_1<br>
                     MFE: -75.763<br>
-                    ENS: 0.932<br>
+                    ENS: 0.930<br>
                     Length: 242.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
+                    cobalamin - 19/20<br>
+                    lysine - 1/20<br>
                     <br>         
             </td>
             <td>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1466_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1466_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1466_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1466_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA120463     | URS0002322663_688245     | URS0000214F2B_410659     | URS0002319E44_1978760     |
 | <span title="Length of the sequence in question">Length</span>  | 242.     |  242.    | 238.   |  245.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.932 | 0.899 | 0.913 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.932 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.930 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -75.763 | -95.432 | -91.956 | -53.581 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | cobalamin | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | XRCC4 | - | - | - |

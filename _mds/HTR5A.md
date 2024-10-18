@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA051339<br>
                     Gene: HTR5A<br>
                     MFE: -16.032<br>
-                    ENS: 0.968<br>
+                    ENS: 0.739<br>
                     Length: 89.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
-                    <br>
-                    <br>         
+                    TPP - 7/20<br>
+                    GMP - 5/20<br>
+                    glycine - 3/20<br>         
             </td>
             <td>
                     RS: URS0000C16BA1_1660125<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_531_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_531_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_531_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_531_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA051339     | URS0000C16BA1_1660125     | URS0000AB408B_1423807     | URS0000D6D371_12908     |
 | <span title="Length of the sequence in question">Length</span>  | 89.     |  88.    | 90.   |  86.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.968 | 0.968 | 0.965 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.968 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.739 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -16.032 | -22.638 | -16.226 | -31.320 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | glycine | TPP | GMP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | HTR5A | - | - | - |

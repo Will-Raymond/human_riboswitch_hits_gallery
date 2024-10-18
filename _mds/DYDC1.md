@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA032698<br>
                     Gene: DYDC1<br>
                     MFE: -19.573<br>
-                    ENS: 0.986<br>
+                    ENS: 0.826<br>
                     Length: 76.<br>
                     Predicted Ligands:<br>
-                    SAM - 20/20<br>
-                    <br>
-                    <br>         
+                    SAM - 9/20<br>
+                    fluoride - 7/20<br>
+                    homocysteine - 3/20<br>         
             </td>
             <td>
                     RS: URS0000B9B909_1519096<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_311_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_311_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_311_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_311_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA032698     | URS0000B9B909_1519096     | URS0000BFB2FB_675813     | URS0000BFA12C_1660125     |
 | <span title="Length of the sequence in question">Length</span>  | 76.     |  78.    | 74.   |  76.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.986 | 0.981 | 0.983 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.986 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.826 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -19.573 | -20.511 | -17.009 | -18.362 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | SAM | fluoride | SAM |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | DYDC1 | - | - | - |

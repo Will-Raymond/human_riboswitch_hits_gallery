@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA075588<br>
                     Gene: OSGEPL1<br>
                     MFE: -22.662<br>
-                    ENS: 0.953<br>
+                    ENS: 0.989<br>
                     Length: 111.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
-                    <br>
-                    <br>         
+                    TPP - 13/20<br>
+                    SAM - 5/20<br>
+                    glycine - 1/20<br>         
             </td>
             <td>
                     RS: URS0000AB28F0_1051632<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_838_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_838_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_838_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_838_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA075588     | URS0000AB28F0_1051632     | URS0000DA02D4_1797641     | URS0000AB76B4_869209     |
 | <span title="Length of the sequence in question">Length</span>  | 111.     |  106.    | 107.   |  110.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.953 | 0.959 | 0.969 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.953 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.989 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -22.662 | -33.864 | -27.033 | -27.587 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | TPP | glycine | TPP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | OSGEPL1 | - | - | - |

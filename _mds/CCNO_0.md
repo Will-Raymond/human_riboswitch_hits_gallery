@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA019091<br>
                     Gene: CCNO_0<br>
                     MFE: -42.284<br>
-                    ENS: 0.981<br>
+                    ENS: 0.925<br>
                     Length: 99.<br>
                     Predicted Ligands:<br>
-                    glycine - 20/20<br>
-                    <br>
-                    <br>         
+                    glycine - 10/20<br>
+                    purine - 4/20<br>
+                    zmp-ztp - 3/20<br>         
             </td>
             <td>
                     RS: URS0000AB7ED7_1263107<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_169_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_169_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_169_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_169_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA019091     | URS0000AB7ED7_1263107     | URS0000C3F5A9_1262869     | URS0000C10B03_1262869     |
 | <span title="Length of the sequence in question">Length</span>  | 99.     |  100.    | 101.   |  101.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.981 | 0.977 | 0.977 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.981 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.925 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -42.284 | -30.333 | -28.423 | -28.423 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | glycine | glycine | glycine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | CCNO | - | - | - |

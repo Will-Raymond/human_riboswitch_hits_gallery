@@ -29,11 +29,11 @@ exclude: true
                     UTR: 5HSAA091781<br>
                     Gene: RNF5_0<br>
                     MFE: -53.810<br>
-                    ENS: 0.962<br>
+                    ENS: 0.795<br>
                     Length: 183.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
+                    cobalamin - 18/20<br>
+                    FMN - 2/20<br>
                     <br>         
             </td>
             <td>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1070_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1070_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1070_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1070_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA091781     | URS0002329AB1_1078020     | URS0000B31B74_1183432     | URS0002331032_4572     |
 | <span title="Length of the sequence in question">Length</span>  | 183.     |  182.    | 183.   |  183.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.962 | 0.959 | 0.951 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.962 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.795 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -53.810 | -77.898 | -61.319 | -51.810 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | cobalamin | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | RNF5 | - | - | - |

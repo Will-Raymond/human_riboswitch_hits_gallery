@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA030939<br>
                     Gene: DNAJB8<br>
                     MFE: -17.713<br>
-                    ENS: 0.984<br>
+                    ENS: 0.857<br>
                     Length: 79.<br>
                     Predicted Ligands:<br>
-                    SAM - 20/20<br>
-                    <br>
-                    <br>         
+                    SAM - 7/20<br>
+                    cobalamin - 6/20<br>
+                    zmp-ztp - 3/20<br>         
             </td>
             <td>
                     RS: URS0000C853B8_1268237<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_300_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_300_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_300_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_300_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA030939     | URS0000C853B8_1268237     | URS0000D909D4_1798301     | URS0000D94E3C_1912961     |
 | <span title="Length of the sequence in question">Length</span>  | 79.     |  80.    | 77.   |  79.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.984 | 0.979 | 0.981 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.984 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.857 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -17.713 | -22.462 | -18.950 | -30.606 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | glycine | SAM | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | DNAJB8 | - | - | - |

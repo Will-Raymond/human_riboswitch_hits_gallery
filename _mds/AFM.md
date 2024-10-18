@@ -29,11 +29,11 @@ exclude: true
                     UTR: 5HSAA002793<br>
                     Gene: AFM<br>
                     MFE: -18.742<br>
-                    ENS: 0.976<br>
+                    ENS: 0.875<br>
                     Length: 118.<br>
                     Predicted Ligands:<br>
-                    FMN - 20/20<br>
-                    <br>
+                    FMN - 18/20<br>
+                    methionine - 2/20<br>
                     <br>         
             </td>
             <td>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_33_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_33_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_33_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_33_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA002793     | URS0000C09E10_1276221     | URS0000C84CFD_1574263     | URS0000C62861_1262996     |
 | <span title="Length of the sequence in question">Length</span>  | 118.     |  120.    | 119.   |  113.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.976 | 0.971 | 0.956 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.976 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.875 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -18.742 | -20.817 | -29.548 | -19.333 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | FMN | FMN | FMN |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | AFM | - | - | - |

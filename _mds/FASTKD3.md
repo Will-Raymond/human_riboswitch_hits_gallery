@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA039555<br>
                     Gene: FASTKD3<br>
                     MFE: -33.067<br>
-                    ENS: 0.955<br>
+                    ENS: 0.919<br>
                     Length: 162.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 11/20<br>
+                    FMN - 6/20<br>
+                    glucosamine - 1/20<br>         
             </td>
             <td>
                     RS: URS000231A00F_1317117<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_387_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_387_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_387_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_387_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA039555     | URS000231A00F_1317117     | URS0000C119E4_1886670     | URS0000C1D5AA_1294143     |
 | <span title="Length of the sequence in question">Length</span>  | 162.     |  160.    | 161.   |  161.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.955 | 0.955 | 0.952 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.955 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.919 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -33.067 | -64.084 | -44.853 | -62. |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | FMN | FMN |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | FASTKD3 | - | - | - |

@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA010788<br>
                     Gene: BMS1<br>
                     MFE: -20.498<br>
-                    ENS: 0.985<br>
+                    ENS: 0.874<br>
                     Length: 78.<br>
                     Predicted Ligands:<br>
-                    SAM - 20/20<br>
-                    <br>
-                    <br>         
+                    SAM - 10/20<br>
+                    GMP - 5/20<br>
+                    cobalamin - 3/20<br>         
             </td>
             <td>
                     RS: URS0000B464BB_475083<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_121_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_121_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_121_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_121_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA010788     | URS0000B464BB_475083     | URS0000D84304_1736535     | URS0000DB477A_1317121     |
 | <span title="Length of the sequence in question">Length</span>  | 78.     |  79.    | 76.   |  78.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.985 | 0.984 | 0.987 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.985 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.874 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -20.498 | -16.754 | -31.375 | -19.349 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | SAM | cobalamin | SAM |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | BMS1 | - | - | - |

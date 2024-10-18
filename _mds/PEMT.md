@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA078841<br>
                     Gene: PEMT<br>
                     MFE: -23.455<br>
-                    ENS: 0.984<br>
+                    ENS: 0.793<br>
                     Length: 92.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 9/20<br>
+                    SAM - 6/20<br>
+                    glycine - 2/20<br>         
             </td>
             <td>
                     RS: URS0000AB2144_457429<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_872_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_872_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_872_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_872_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA078841     | URS0000AB2144_457429     | URS0000C1769C_1423804     | URS0000C82921_1408889     |
 | <span title="Length of the sequence in question">Length</span>  | 92.     |  93.    | 90.   |  89.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.984 | 0.979 | 0.976 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.984 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.793 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -23.455 | -36.719 | -16.776 | -15.769 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | SAM | glycine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | PEMT | - | - | - |

@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA108945<br>
                     Gene: THAP10<br>
                     MFE: -71.013<br>
-                    ENS: 0.954<br>
+                    ENS: 0.817<br>
                     Length: 167.<br>
                     Predicted Ligands:<br>
-                    FMN - 20/20<br>
-                    <br>
-                    <br>         
+                    FMN - 11/20<br>
+                    Mg2+ - 3/20<br>
+                    cobalamin - 3/20<br>         
             </td>
             <td>
                     RS: URS0000AB9479_331869<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1312_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1312_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1312_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1312_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA108945     | URS0000AB9479_331869     | URS0000C28387_1263013     | URS0000C47177_1300222     |
 | <span title="Length of the sequence in question">Length</span>  | 167.     |  167.    | 166.   |  169.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.954 | 0.960 | 0.935 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.954 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.817 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -71.013 | -68.169 | -49.509 | -64.779 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | FMN | lysine | glucosamine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | THAP10 | - | - | - |

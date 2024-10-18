@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA087149<br>
                     Gene: QRICH1<br>
                     MFE: -11.554<br>
-                    ENS: 0.976<br>
+                    ENS: 0.813<br>
                     Length: 73.<br>
                     Predicted Ligands:<br>
-                    fluoride - 20/20<br>
-                    <br>
-                    <br>         
+                    fluoride - 9/20<br>
+                    cobalamin - 8/20<br>
+                    homocysteine - 1/20<br>         
             </td>
             <td>
                     RS: URS0000C17CE2_1262891<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_999_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_999_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_999_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_999_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA087149     | URS0000C17CE2_1262891     | URS0000C80BE4_1547516     | URS0000C615F9_1348852     |
 | <span title="Length of the sequence in question">Length</span>  | 73.     |  71.    | 73.   |  71.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.976 | 0.981 | 0.978 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.976 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.813 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -11.554 | -12.066 | -31.427 | -28.526 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | fluoride | fluoride | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | QRICH1 | - | - | - |

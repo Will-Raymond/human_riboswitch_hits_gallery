@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA090420<br>
                     Gene: RFX2<br>
                     MFE: -20.093<br>
-                    ENS: 0.958<br>
+                    ENS: 0.821<br>
                     Length: 130.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 8/20<br>
+                    Mn2+ - 4/20<br>
+                    TPP - 3/20<br>         
             </td>
             <td>
                     RS: URS0000BF56F1_568817<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1049_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1049_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1049_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1049_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA090420     | URS0000BF56F1_568817     | URS0000D9EE80_1121322     | URS0000BFA611_187101     |
 | <span title="Length of the sequence in question">Length</span>  | 130.     |  126.    | 132.   |  126.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.958 | 0.965 | 0.953 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.958 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.821 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -20.093 | -26.433 | -37.865 | -25.850 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | TPP | TPP | glucosamine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | RFX2 | - | - | - |

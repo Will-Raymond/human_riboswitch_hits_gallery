@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA108994<br>
                     Gene: THBD<br>
                     MFE: -17.<br>
-                    ENS: 0.983<br>
+                    ENS: 0.888<br>
                     Length: 52.<br>
                     Predicted Ligands:<br>
-                    unknown - 20/20<br>
-                    <br>
-                    <br>         
+                    unknown - 8/20<br>
+                    glutamine - 6/20<br>
+                    SAM - 4/20<br>         
             </td>
             <td>
                     RS: URS0000E60855_1294143<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1320_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1320_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1320_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1320_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA108994     | URS0000E60855_1294143     | URS0000D6D071_12908     | URS0000D68C5A_12908     |
 | <span title="Length of the sequence in question">Length</span>  | 52.     |  55.    | 51.   |  52.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.983 | 0.986 | 0.989 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.983 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.888 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -17. | -18.729 | -11.346 | -8.266 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | unknown | glutamine | glutamine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | THBD | - | - | - |

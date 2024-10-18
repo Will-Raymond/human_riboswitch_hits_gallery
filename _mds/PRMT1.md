@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA084852<br>
                     Gene: PRMT1<br>
                     MFE: -56.139<br>
-                    ENS: 0.954<br>
+                    ENS: 0.966<br>
                     Length: 154.<br>
                     Predicted Ligands:<br>
-                    glucosamine - 20/20<br>
-                    <br>
-                    <br>         
+                    glucosamine - 10/20<br>
+                    cobalamin - 7/20<br>
+                    FMN - 3/20<br>         
             </td>
             <td>
                     RS: URS0000DAD4A3_1261635<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_947_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_947_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_947_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_947_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA084852     | URS0000DAD4A3_1261635     | URS0000D7EA3C_1897028     | URS0000AB5036_585394     |
 | <span title="Length of the sequence in question">Length</span>  | 154.     |  152.    | 153.   |  152.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.954 | 0.957 | 0.953 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.954 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.966 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -56.139 | -41.413 | -61.426 | -45.138 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | glucosamine | glucosamine | glucosamine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | PRMT1 | - | - | - |

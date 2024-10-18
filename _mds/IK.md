@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA052164<br>
                     Gene: IK<br>
                     MFE: -41.591<br>
-                    ENS: 0.962<br>
+                    ENS: 0.843<br>
                     Length: 135.<br>
                     Predicted Ligands:<br>
-                    FMN - 20/20<br>
-                    <br>
-                    <br>         
+                    FMN - 12/20<br>
+                    cobalamin - 6/20<br>
+                    zmp-ztp - 1/20<br>         
             </td>
             <td>
                     RS: URS0000D85824_1930764<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_550_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_550_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_550_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_550_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA052164     | URS0000D85824_1930764     | URS000231794C_1415542     | URS0000C1D934_1384057     |
 | <span title="Length of the sequence in question">Length</span>  | 135.     |  135.    | 134.   |  134.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.962 | 0.964 | 0.958 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.962 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.843 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -41.591 | -35. | -50.897 | -32.982 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | FMN | cobalamin | FMN |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | IK | - | - | - |

@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA119746<br>
                     Gene: WDTC1<br>
                     MFE: -36.112<br>
-                    ENS: 0.961<br>
+                    ENS: 0.967<br>
                     Length: 150.<br>
                     Predicted Ligands:<br>
-                    FMN - 20/20<br>
-                    <br>
-                    <br>         
+                    FMN - 9/20<br>
+                    glucosamine - 5/20<br>
+                    TPP - 3/20<br>         
             </td>
             <td>
                     RS: URS0000AB643F_244592<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1456_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1456_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1456_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1456_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA119746     | URS0000AB643F_244592     | URS0000C075DD_188932     | URS0000C64FC8_1298598     |
 | <span title="Length of the sequence in question">Length</span>  | 150.     |  152.    | 148.   |  153.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.961 | 0.960 | 0.948 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.961 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.967 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -36.112 | -55.480 | -37.456 | -33.251 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | FMN | TPP | FMN |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | WDTC1 | - | - | - |

@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA051260<br>
                     Gene: HSPE1<br>
                     MFE: -23.511<br>
-                    ENS: 0.962<br>
+                    ENS: 0.966<br>
                     Length: 135.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
-                    <br>
-                    <br>         
+                    TPP - 10/20<br>
+                    cobalamin - 6/20<br>
+                    molybdenum - 1/20<br>         
             </td>
             <td>
                     RS: URS0000AB563C_768704<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_527_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_527_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_527_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_527_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA051260     | URS0000AB563C_768704     | URS0000C70D1D_40148     | URS0000D98BD7_1519565     |
 | <span title="Length of the sequence in question">Length</span>  | 135.     |  135.    | 134.   |  132.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.962 | 0.958 | 0.961 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.962 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.966 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -23.511 | -39.239 | -46.090 | -33.732 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | molybdenum | TPP | TPP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | HSPE1 | - | - | - |

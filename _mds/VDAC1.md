@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA118124<br>
                     Gene: VDAC1<br>
                     MFE: -33.798<br>
-                    ENS: 0.962<br>
+                    ENS: 0.805<br>
                     Length: 151.<br>
                     Predicted Ligands:<br>
-                    FMN - 20/20<br>
-                    <br>
-                    <br>         
+                    FMN - 12/20<br>
+                    glucosamine - 7/20<br>
+                    cobalamin - 1/20<br>         
             </td>
             <td>
                     RS: URS0000C5B08D_1536775<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1440_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1440_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1440_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1440_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA118124     | URS0000C5B08D_1536775     | URS0000DA51E5_1536774     | URS0000BF4A07_1262826     |
 | <span title="Length of the sequence in question">Length</span>  | 151.     |  149.    | 150.   |  150.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.962 | 0.959 | 0.964 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.962 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.805 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -33.798 | -41.621 | -45.483 | -30.613 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | FMN | FMN | glucosamine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | VDAC1 | - | - | - |

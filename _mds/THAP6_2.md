@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA108966<br>
                     Gene: THAP6_2<br>
                     MFE: -48.260<br>
-                    ENS: 0.947<br>
+                    ENS: 0.946<br>
                     Length: 156.<br>
                     Predicted Ligands:<br>
-                    FMN - 20/20<br>
-                    <br>
-                    <br>         
+                    FMN - 7/20<br>
+                    glycine - 6/20<br>
+                    cobalamin - 5/20<br>         
             </td>
             <td>
                     RS: URS0000C88D12_1682204<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1316_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1316_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1316_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1316_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA108966     | URS0000C88D12_1682204     | URS00023298AE_449447     | URS0000D96863_169427     |
 | <span title="Length of the sequence in question">Length</span>  | 156.     |  158.    | 156.   |  153.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.947 | 0.957 | 0.948 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.947 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.946 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -48.260 | -53. | -29.458 | -61.142 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | guanidine | cobalamin | glycine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | THAP6 | - | - | - |

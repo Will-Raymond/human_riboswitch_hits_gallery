@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA112818<br>
                     Gene: TPM3<br>
                     MFE: -52.687<br>
-                    ENS: 0.939<br>
+                    ENS: 0.889<br>
                     Length: 155.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 10/20<br>
+                    FMN - 6/20<br>
+                    TPP - 2/20<br>         
             </td>
             <td>
                     RS: URS0002331395_1564114<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1360_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1360_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1360_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1360_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA112818     | URS0002331395_1564114     | URS0000D7ADDB_1797195     | URS0002327EFF_1817772     |
 | <span title="Length of the sequence in question">Length</span>  | 155.     |  150.    | 153.   |  155.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.939 | 0.951 | 0.959 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.939 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.889 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -52.687 | -47.311 | -34.531 | -40.436 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | FMN | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | TPM3 | - | - | - |

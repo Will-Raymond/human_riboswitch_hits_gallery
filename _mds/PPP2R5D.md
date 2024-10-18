@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA083892<br>
                     Gene: PPP2R5D<br>
                     MFE: -43.479<br>
-                    ENS: 0.969<br>
+                    ENS: 0.<br>
                     Length: 111.<br>
                     Predicted Ligands:<br>
-                    SAM - 20/20<br>
-                    <br>
-                    <br>         
+                    SAM - 9/20<br>
+                    TPP - 6/20<br>
+                    glycine - 3/20<br>         
             </td>
             <td>
                     RS: URS0000C50400_1849176<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_934_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_934_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_934_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_934_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA083892     | URS0000C50400_1849176     | URS0000C2411E_574376     | URS0000C80277_1418104     |
 | <span title="Length of the sequence in question">Length</span>  | 111.     |  114.    | 113.   |  108.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.969 | 0.957 | 0.938 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.969 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0. | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -43.479 | -26.402 | -24.689 | -17.658 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | TPP | SAM | glycine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | PPP2R5D | - | - | - |

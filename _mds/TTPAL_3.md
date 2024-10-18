@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA114962<br>
                     Gene: TTPAL_3<br>
                     MFE: -70.635<br>
-                    ENS: 0.928<br>
+                    ENS: 0.760<br>
                     Length: 145.<br>
                     Predicted Ligands:<br>
-                    glycine - 20/20<br>
-                    <br>
-                    <br>         
+                    glycine - 6/20<br>
+                    cobalamin - 5/20<br>
+                    molybdenum - 3/20<br>         
             </td>
             <td>
                     RS: URS0002320A2A_656024<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1392_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1392_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1392_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1392_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA114962     | URS0002320A2A_656024     | URS000232DE92_574375     | URS0000C5ABD9_1761910     |
 | <span title="Length of the sequence in question">Length</span>  | 145.     |  143.    | 149.   |  143.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.928 | 0.949 | 0.964 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.928 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.760 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -70.635 | -59.073 | -28.386 | -38.828 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | cobalamin | molybdenum |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | TTPAL | - | - | - |

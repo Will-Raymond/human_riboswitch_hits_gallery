@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA091782<br>
                     Gene: RNF5_1<br>
                     MFE: -20.176<br>
-                    ENS: 0.986<br>
+                    ENS: 0.916<br>
                     Length: 79.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 9/20<br>
+                    SAM - 6/20<br>
+                    zmp-ztp - 1/20<br>         
             </td>
             <td>
                     RS: URS0000C721F4_480391<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1071_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1071_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1071_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1071_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA091782     | URS0000C721F4_480391     | URS0000D863A1_1697043     | URS000231C516_12908     |
 | <span title="Length of the sequence in question">Length</span>  | 79.     |  81.    | 79.   |  81.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.986 | 0.987 | 0.982 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.986 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.916 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -20.176 | -12.833 | -18.836 | -19.582 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | SAM | SAM | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | RNF5 | - | - | - |

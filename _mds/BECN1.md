@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA010470<br>
                     Gene: BECN1<br>
                     MFE: -95.720<br>
-                    ENS: 0.943<br>
+                    ENS: 0.877<br>
                     Length: 210.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 14/20<br>
+                    TPP - 2/20<br>
+                    lysine - 2/20<br>         
             </td>
             <td>
                     RS: URS0002322188_1121014<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_113_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_113_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_113_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_113_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA010470     | URS0002322188_1121014     | URS00023141C5_645465     | URS0002314983_1938836     |
 | <span title="Length of the sequence in question">Length</span>  | 210.     |  210.    | 209.   |  213.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.943 | 0.909 | 0.928 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.943 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.877 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -95.720 | -85.191 | -92.755 | -101.092 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | cobalamin | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | BECN1 | - | - | - |

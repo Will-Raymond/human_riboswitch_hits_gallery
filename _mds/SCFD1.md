@@ -29,11 +29,11 @@ exclude: true
                     UTR: 5HSAA094950<br>
                     Gene: SCFD1<br>
                     MFE: -40.891<br>
-                    ENS: 0.943<br>
+                    ENS: 0.952<br>
                     Length: 195.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
+                    cobalamin - 17/20<br>
+                    FMN - 3/20<br>
                     <br>         
             </td>
             <td>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1152_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1152_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1152_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1152_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA094950     | URS0002335854_1230466     | URS000231F20A_147645     | URS00023281E8_1263089     |
 | <span title="Length of the sequence in question">Length</span>  | 195.     |  195.    | 201.   |  194.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.943 | 0.898 | 0.942 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.943 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.952 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -40.891 | -68.137 | -90.589 | -35.970 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | cobalamin | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | SCFD1 | - | - | - |

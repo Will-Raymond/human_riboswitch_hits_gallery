@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA039401<br>
                     Gene: FANCM_0<br>
                     MFE: -41.136<br>
-                    ENS: 0.975<br>
+                    ENS: 0.999<br>
                     Length: 118.<br>
                     Predicted Ligands:<br>
-                    methionine - 20/20<br>
-                    <br>
-                    <br>         
+                    methionine - 11/20<br>
+                    TPP - 6/20<br>
+                    molybdenum - 3/20<br>         
             </td>
             <td>
                     RS: URS0000D9A7D3_2020377<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_384_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_384_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_384_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_384_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA039401     | URS0000D9A7D3_2020377     | URS0000C4FD7F_37927     | URS0000D93C1E_556325     |
 | <span title="Length of the sequence in question">Length</span>  | 118.     |  116.    | 117.   |  115.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.975 | 0.975 | 0.968 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.975 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.999 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -41.136 | -47.373 | -49.866 | -35.671 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | methionine | methionine | methionine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | FANCM | - | - | - |

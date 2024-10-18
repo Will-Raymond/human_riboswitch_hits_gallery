@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA079759<br>
                     Gene: PHF5A<br>
                     MFE: -26.294<br>
-                    ENS: 0.982<br>
+                    ENS: 0.968<br>
                     Length: 76.<br>
                     Predicted Ligands:<br>
-                    SAM - 20/20<br>
-                    <br>
-                    <br>         
+                    SAM - 7/20<br>
+                    fluoride - 6/20<br>
+                    homocysteine - 4/20<br>         
             </td>
             <td>
                     RS: URS0000BE5C89_1469613<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_881_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_881_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_881_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_881_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA079759     | URS0000BE5C89_1469613     | URS0000DA70B1_1344003     | URS0000D8DDA5_1803461     |
 | <span title="Length of the sequence in question">Length</span>  | 76.     |  78.    | 80.   |  73.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.982 | 0.974 | 0.978 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.982 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.968 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -26.294 | -21.108 | -28.936 | -26.072 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | SAM | fluoride | fluoride |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | PHF5A | - | - | - |

@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA035737<br>
                     Gene: EPB41L3<br>
                     MFE: -36.003<br>
-                    ENS: 0.970<br>
+                    ENS: 0.997<br>
                     Length: 111.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
-                    <br>
-                    <br>         
+                    TPP - 12/20<br>
+                    methionine - 3/20<br>
+                    homocysteine - 3/20<br>         
             </td>
             <td>
                     RS: URS0000D7F5F3_1385519<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_341_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_341_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_341_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_341_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA035737     | URS0000D7F5F3_1385519     | URS0000C5C415_1736413     | URS0000BF7C67_580166     |
 | <span title="Length of the sequence in question">Length</span>  | 111.     |  111.    | 111.   |  110.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.970 | 0.969 | 0.962 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.970 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.997 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -36.003 | -47.317 | -36.914 | -40.627 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | methionine | TPP | TPP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | EPB41L3 | - | - | - |

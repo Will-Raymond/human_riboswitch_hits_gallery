@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA092474<br>
                     Gene: RPL26<br>
                     MFE: -27.699<br>
-                    ENS: 0.967<br>
+                    ENS: 0.915<br>
                     Length: 121.<br>
                     Predicted Ligands:<br>
-                    molybdenum - 20/20<br>
-                    <br>
-                    <br>         
+                    molybdenum - 12/20<br>
+                    TPP - 5/20<br>
+                    cobalamin - 2/20<br>         
             </td>
             <td>
                     RS: URS0002321B89_1661583<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1096_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1096_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1096_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1096_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA092474     | URS0002321B89_1661583     | URS0000C3A014_84022     | URS0000C562DE_1515610     |
 | <span title="Length of the sequence in question">Length</span>  | 121.     |  123.    | 120.   |  121.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.967 | 0.972 | 0.972 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.967 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.915 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -27.699 | -47.534 | -31.561 | -50.738 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | molybdenum | TPP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | RPL26 | - | - | - |

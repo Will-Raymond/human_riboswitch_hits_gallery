@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA114752<br>
                     Gene: TTC30A<br>
                     MFE: -15.884<br>
-                    ENS: 0.989<br>
+                    ENS: 0.825<br>
                     Length: 43.<br>
                     Predicted Ligands:<br>
-                    SAM - 20/20<br>
-                    <br>
-                    <br>         
+                    SAM - 15/20<br>
+                    preQ_1 - 3/20<br>
+                    unknown - 2/20<br>         
             </td>
             <td>
                     RS: URS00021EDB67_12908<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1385_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1385_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1385_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1385_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA114752     | URS00021EDB67_12908     | URS00021EE168_12908     | URS00021EDBA2_12908     |
 | <span title="Length of the sequence in question">Length</span>  | 43.     |  45.    | 45.   |  46.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.989 | 0.988 | 0.985 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.989 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.825 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -15.884 | -10.783 | -9.183 | -11.483 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | SAM | SAM | SAM |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | TTC30A | - | - | - |

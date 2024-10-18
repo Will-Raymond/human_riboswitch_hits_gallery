@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA106934<br>
                     Gene: TARDBP<br>
                     MFE: -37.495<br>
-                    ENS: 0.970<br>
+                    ENS: 1.<br>
                     Length: 122.<br>
                     Predicted Ligands:<br>
-                    SAM - 20/20<br>
-                    <br>
-                    <br>         
+                    SAM - 5/20<br>
+                    TPP - 4/20<br>
+                    glycine - 4/20<br>         
             </td>
             <td>
                     RS: URS0000ABC007_573060<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1293_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1293_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1293_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1293_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA106934     | URS0000ABC007_573060     | URS0000C1E4A8_1655586     | URS0000DA22A8_880157     |
 | <span title="Length of the sequence in question">Length</span>  | 122.     |  121.    | 120.   |  124.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.970 | 0.965 | 0.958 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.970 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 1. | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -37.495 | -45.638 | -50. | -34.924 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | TPP | SAM | Mn2+ |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | TARDBP | - | - | - |

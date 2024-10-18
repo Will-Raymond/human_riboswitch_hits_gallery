@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA093964<br>
                     Gene: SAAL1_0<br>
                     MFE: -5.171<br>
-                    ENS: 0.986<br>
+                    ENS: 0.954<br>
                     Length: 37.<br>
                     Predicted Ligands:<br>
-                    SAM - 20/20<br>
-                    <br>
-                    <br>         
+                    SAM - 9/20<br>
+                    preQ_1 - 7/20<br>
+                    zmp-ztp - 1/20<br>         
             </td>
             <td>
                     RS: URS0000D87AB1_1686310<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1140_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1140_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1140_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1140_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA093964     | URS0000D87AB1_1686310     | URS00023316D7_471853     | URS00021EE107_12908     |
 | <span title="Length of the sequence in question">Length</span>  | 37.     |  36.    | 41.   |  43.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.986 | 0.975 | 0.963 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.986 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.954 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -5.171 | -13.459 | -15.636 | -7.110 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | SAM | zmp-ztp | SAM |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | SAAL1 | - | - | - |

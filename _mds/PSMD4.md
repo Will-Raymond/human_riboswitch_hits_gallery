@@ -29,11 +29,11 @@ exclude: true
                     UTR: 5HSAA085660<br>
                     Gene: PSMD4<br>
                     MFE: -31.021<br>
-                    ENS: 0.974<br>
+                    ENS: 0.912<br>
                     Length: 108.<br>
                     Predicted Ligands:<br>
-                    SAM - 20/20<br>
-                    <br>
+                    SAM - 14/20<br>
+                    methionine - 6/20<br>
                     <br>         
             </td>
             <td>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_971_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_971_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_971_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_971_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA085660     | URS0000C54841_1077972     | URS0000C681EB_1108045     | URS0000D7829B_1090615     |
 | <span title="Length of the sequence in question">Length</span>  | 108.     |  110.    | 113.   |  107.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.974 | 0.962 | 0.980 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.974 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.912 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -31.021 | -37.490 | -44.106 | -39.861 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | methionine | methionine | methionine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | PSMD4 | - | - | - |

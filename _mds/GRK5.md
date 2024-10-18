@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA046799<br>
                     Gene: GRK5<br>
                     MFE: -28.875<br>
-                    ENS: 0.953<br>
+                    ENS: 0.887<br>
                     Length: 166.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 8/20<br>
+                    glucosamine - 4/20<br>
+                    FMN - 2/20<br>         
             </td>
             <td>
                     RS: URS0002320E67_2754<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_465_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_465_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_465_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_465_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA046799     | URS0002320E67_2754     | URS0000ABC5B9_485913     | URS000232A60F_1386079     |
 | <span title="Length of the sequence in question">Length</span>  | 166.     |  164.    | 166.   |  165.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.953 | 0.952 | 0.943 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.953 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.887 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -28.875 | -41. | -60.093 | -50.137 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | glucosamine | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | GRK5 | - | - | - |

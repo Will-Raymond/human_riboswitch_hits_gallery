@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA100820<br>
                     Gene: SLCO1B1<br>
                     MFE: -20.892<br>
-                    ENS: 0.964<br>
+                    ENS: 0.899<br>
                     Length: 129.<br>
                     Predicted Ligands:<br>
-                    glycine - 20/20<br>
-                    <br>
-                    <br>         
+                    glycine - 5/20<br>
+                    guanidine - 4/20<br>
+                    cobalamin - 3/20<br>         
             </td>
             <td>
                     RS: URS0000AB3AEF_12908<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1214_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1214_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1214_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1214_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA100820     | URS0000AB3AEF_12908     | URS0000C0AF10_1095749     | URS0000AB6C21_767817     |
 | <span title="Length of the sequence in question">Length</span>  | 129.     |  131.    | 129.   |  128.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.964 | 0.961 | 0.968 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.964 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.899 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -20.892 | -28.827 | -27.740 | -35.367 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | glycine | FMN |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | SLCO1B1 | - | - | - |

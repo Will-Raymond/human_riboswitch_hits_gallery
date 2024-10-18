@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA004375<br>
                     Gene: ANAPC10_2<br>
                     MFE: -29.534<br>
-                    ENS: 0.973<br>
+                    ENS: 0.972<br>
                     Length: 120.<br>
                     Predicted Ligands:<br>
-                    SAM - 20/20<br>
-                    <br>
-                    <br>         
+                    SAM - 8/20<br>
+                    TPP - 7/20<br>
+                    cobalamin - 3/20<br>         
             </td>
             <td>
                     RS: URS00023290BA_1797836<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_58_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_58_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_58_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_58_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA004375     | URS00023290BA_1797836     | URS0000C14A46_1660161     | URS0000C5F3CF_1144311     |
 | <span title="Length of the sequence in question">Length</span>  | 120.     |  119.    | 122.   |  121.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.973 | 0.970 | 0.968 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.973 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.972 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -29.534 | -22.189 | -40.183 | -41.819 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | TPP | SAM |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | ANAPC10 | - | - | - |

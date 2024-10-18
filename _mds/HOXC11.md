@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA050596<br>
                     Gene: HOXC11<br>
                     MFE: -12.087<br>
-                    ENS: 0.987<br>
+                    ENS: 0.999<br>
                     Length: 52.<br>
                     Predicted Ligands:<br>
-                    unknown - 20/20<br>
-                    <br>
-                    <br>         
+                    unknown - 16/20<br>
+                    glutamine - 2/20<br>
+                    homocysteine - 1/20<br>         
             </td>
             <td>
                     RS: URS0000D68FF7_981327<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_516_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_516_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_516_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_516_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA050596     | URS0000D68FF7_981327     | URS000080DDCD_305     | URS0000E6035A_401562     |
 | <span title="Length of the sequence in question">Length</span>  | 52.     |  51.    | 54.   |  53.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.987 | 0.986 | 0.988 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.987 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.999 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -12.087 | -11.818 | -13.342 | -19.262 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | unknown | homocysteine | unknown |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | HOXC11 | - | - | - |

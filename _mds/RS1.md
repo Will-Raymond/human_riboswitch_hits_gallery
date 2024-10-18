@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA093391<br>
                     Gene: RS1<br>
                     MFE: -6.284<br>
-                    ENS: 0.987<br>
+                    ENS: 0.964<br>
                     Length: 60.<br>
                     Predicted Ligands:<br>
-                    unknown - 20/20<br>
-                    <br>
-                    <br>         
+                    unknown - 12/20<br>
+                    fluoride - 6/20<br>
+                    homocysteine - 1/20<br>         
             </td>
             <td>
                     RS: URS0000E605B4_1282363<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1124_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1124_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1124_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1124_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA093391     | URS0000E605B4_1282363     | URS0000E60499_1523413     | URS0000E5FE78_1449350     |
 | <span title="Length of the sequence in question">Length</span>  | 60.     |  58.    | 60.   |  60.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.987 | 0.988 | 0.987 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.987 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.964 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -6.284 | -17.692 | -28.579 | -27.742 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | unknown | unknown | unknown |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | RS1 | - | - | - |

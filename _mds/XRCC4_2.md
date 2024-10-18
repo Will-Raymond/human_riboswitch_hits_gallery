@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA120464<br>
                     Gene: XRCC4_2<br>
                     MFE: -20.599<br>
-                    ENS: 0.963<br>
+                    ENS: 0.987<br>
                     Length: 105.<br>
                     Predicted Ligands:<br>
-                    purine - 20/20<br>
-                    <br>
-                    <br>         
+                    purine - 10/20<br>
+                    TPP - 6/20<br>
+                    glycine - 2/20<br>         
             </td>
             <td>
                     RS: URS0000D8CE78_1898736<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1467_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1467_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1467_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1467_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA120464     | URS0000D8CE78_1898736     | URS0000AB2711_573060     | URS0000D7CD8C_1285586     |
 | <span title="Length of the sequence in question">Length</span>  | 105.     |  101.    | 106.   |  102.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.963 | 0.968 | 0.969 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.963 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.987 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -20.599 | -29.919 | -35.483 | -18.156 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | glycine | glycine | purine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | XRCC4 | - | - | - |

@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA024565<br>
                     Gene: COX6C<br>
                     MFE: -15.387<br>
-                    ENS: 0.983<br>
+                    ENS: 0.868<br>
                     Length: 85.<br>
                     Predicted Ligands:<br>
-                    zmp-ztp - 20/20<br>
-                    <br>
-                    <br>         
+                    zmp-ztp - 9/20<br>
+                    cyclic-di-GMP - 6/20<br>
+                    TPP - 2/20<br>         
             </td>
             <td>
                     RS: URS0000D8580B_1739479<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_240_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_240_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_240_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_240_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA024565     | URS0000D8580B_1739479     | URS0000C1FD53_12908     | URS0000C6B6CB_857340     |
 | <span title="Length of the sequence in question">Length</span>  | 85.     |  85.    | 82.   |  87.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.983 | 0.978 | 0.965 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.983 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.868 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -15.387 | -36.392 | -20.387 | -26.376 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | zmp-ztp | zmp-ztp | TPP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | COX6C | - | - | - |

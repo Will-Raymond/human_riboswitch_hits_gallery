@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA025433<br>
                     Gene: CRYBG3<br>
                     MFE: -31.060<br>
-                    ENS: 0.984<br>
+                    ENS: 0.844<br>
                     Length: 89.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
-                    <br>
-                    <br>         
+                    TPP - 9/20<br>
+                    glycine - 9/20<br>
+                    fluoride - 1/20<br>         
             </td>
             <td>
                     RS: URS0000AB2A3D_1696175<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_246_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_246_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_246_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_246_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA025433     | URS0000AB2A3D_1696175     | URS0000AB9243_693746     | URS0000D91CF1_454136     |
 | <span title="Length of the sequence in question">Length</span>  | 89.     |  87.    | 89.   |  89.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.984 | 0.983 | 0.982 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.984 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.844 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -31.060 | -15.474 | -18.749 | -20.397 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | TPP | glycine | fluoride |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | CRYBG3 | - | - | - |

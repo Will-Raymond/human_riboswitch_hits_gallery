@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA000404<br>
                     Gene: ABCD3<br>
                     MFE: -36.287<br>
-                    ENS: 0.984<br>
+                    ENS: 0.608<br>
                     Length: 91.<br>
                     Predicted Ligands:<br>
-                    glycine - 20/20<br>
-                    <br>
-                    <br>         
+                    glycine - 7/20<br>
+                    TPP - 4/20<br>
+                    tetrahydrofolate - 2/20<br>         
             </td>
             <td>
                     RS: URS0000AB258B_747682<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_12_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_12_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_12_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_12_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA000404     | URS0000AB258B_747682     | URS0000C04B85_1121324     | URS000232B10B_525282     |
 | <span title="Length of the sequence in question">Length</span>  | 91.     |  92.    | 91.   |  90.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.984 | 0.981 | 0.977 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.984 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.608 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -36.287 | -17.872 | -20.790 | -22.242 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | TPP | glycine | tetrahydrofolate |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | ABCD3 | - | - | - |

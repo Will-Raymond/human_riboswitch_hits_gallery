@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA057535<br>
                     Gene: KRTCAP2<br>
                     MFE: -14.992<br>
-                    ENS: 0.991<br>
+                    ENS: 0.998<br>
                     Length: 51.<br>
                     Predicted Ligands:<br>
-                    glutamine - 20/20<br>
-                    <br>
-                    <br>         
+                    glutamine - 14/20<br>
+                    unknown - 4/20<br>
+                    SAM - 1/20<br>         
             </td>
             <td>
                     RS: URS0000C70E60_12908<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_598_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_598_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_598_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_598_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA057535     | URS0000C70E60_12908     | URS0000C6A532_12908     | URS0000E6098E_150033     |
 | <span title="Length of the sequence in question">Length</span>  | 51.     |  52.    | 52.   |  48.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.991 | 0.991 | 0.987 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.991 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.998 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -14.992 | -9.622 | -9.622 | -9.981 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | glutamine | glutamine | unknown |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | KRTCAP2 | - | - | - |

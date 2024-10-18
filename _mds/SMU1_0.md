@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA101610<br>
                     Gene: SMU1_0<br>
                     MFE: -42.756<br>
-                    ENS: 0.940<br>
+                    ENS: 0.956<br>
                     Length: 137.<br>
                     Predicted Ligands:<br>
-                    FMN - 20/20<br>
-                    <br>
-                    <br>         
+                    FMN - 6/20<br>
+                    molybdenum - 5/20<br>
+                    cobalamin - 4/20<br>         
             </td>
             <td>
                     RS: URS0000D698A2_12908<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1225_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1225_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1225_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1225_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA101610     | URS0000D698A2_12908     | URS0000DA1817_573058     | URS0000AB8AF3_997350     |
 | <span title="Length of the sequence in question">Length</span>  | 137.     |  141.    | 139.   |  139.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.940 | 0.933 | 0.933 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.940 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.956 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -42.756 | -56.776 | -39.187 | -38.755 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | SAM | lysine | lysine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | SMU1 | - | - | - |

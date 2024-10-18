@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA093061<br>
                     Gene: RPS4Y2<br>
                     MFE: -29.760<br>
-                    ENS: 0.974<br>
+                    ENS: 0.947<br>
                     Length: 121.<br>
                     Predicted Ligands:<br>
-                    FMN - 20/20<br>
-                    <br>
-                    <br>         
+                    FMN - 17/20<br>
+                    TPP - 2/20<br>
+                    Mg2+ - 1/20<br>         
             </td>
             <td>
                     RS: URS0000ABAED9_386415<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1117_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1117_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1117_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1117_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA093061     | URS0000ABAED9_386415     | URS0000AB5C67_1042163     | URS0000C1E8C0_1423790     |
 | <span title="Length of the sequence in question">Length</span>  | 121.     |  120.    | 121.   |  120.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.974 | 0.973 | 0.973 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.974 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.947 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -29.760 | -30.454 | -34. | -30.694 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | FMN | Mg2+ | FMN |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | RPS4Y2 | - | - | - |

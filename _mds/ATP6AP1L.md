@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA008557<br>
                     Gene: ATP6AP1L<br>
                     MFE: -15.473<br>
-                    ENS: 0.987<br>
+                    ENS: 0.814<br>
                     Length: 80.<br>
                     Predicted Ligands:<br>
-                    SAM - 20/20<br>
-                    <br>
-                    <br>         
+                    SAM - 18/20<br>
+                    Ni/Co - 1/20<br>
+                    fluoride - 1/20<br>         
             </td>
             <td>
                     RS: URS0000BE3BC0_864051<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_96_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_96_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_96_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_96_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA008557     | URS0000BE3BC0_864051     | URS0000DA5796_1797490     | URS0000BEE4B1_1188319     |
 | <span title="Length of the sequence in question">Length</span>  | 80.     |  79.    | 78.   |  78.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.987 | 0.982 | 0.982 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.987 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.814 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -15.473 | -23.308 | -21.540 | -28.240 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | SAM | SAM | Ni/Co |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | ATP6AP1L | - | - | - |

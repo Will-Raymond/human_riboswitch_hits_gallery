@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA074860<br>
                     Gene: ODAM<br>
                     MFE: -2.449<br>
-                    ENS: 0.986<br>
+                    ENS: 0.926<br>
                     Length: 42.<br>
                     Predicted Ligands:<br>
-                    preQ_1 - 20/20<br>
-                    <br>
-                    <br>         
+                    preQ_1 - 18/20<br>
+                    glutamine - 1/20<br>
+                    SAM - 1/20<br>         
             </td>
             <td>
                     RS: URS0000C15779_1423744<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_823_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_823_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_823_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_823_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA074860     | URS0000C15779_1423744     | URS0000D6827E_12908     | URS0000C2252C_1261130     |
 | <span title="Length of the sequence in question">Length</span>  | 42.     |  45.    | 44.   |  45.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.986 | 0.988 | 0.985 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.986 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.926 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -2.449 | -5.430 | -5.592 | -4.387 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | preQ_1 | glutamine | preQ_1 |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | ODAM | - | - | - |

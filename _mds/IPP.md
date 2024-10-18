@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA053664<br>
                     Gene: IPP<br>
                     MFE: -18.866<br>
-                    ENS: 0.987<br>
+                    ENS: 0.928<br>
                     Length: 75.<br>
                     Predicted Ligands:<br>
-                    SAM - 20/20<br>
-                    <br>
-                    <br>         
+                    SAM - 8/20<br>
+                    guanidine - 6/20<br>
+                    fluoride - 2/20<br>         
             </td>
             <td>
                     RS: URS00021EDBD1_12908<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_560_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_560_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_560_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_560_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA053664     | URS00021EDBD1_12908     | URS000231CD96_229920     | URS00021EDC51_12908     |
 | <span title="Length of the sequence in question">Length</span>  | 75.     |  74.    | 78.   |  76.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.987 | 0.974 | 0.985 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.987 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.928 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -18.866 | -21.599 | -19.292 | -28.549 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | guanidine | cobalamin | guanidine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | IPP | - | - | - |

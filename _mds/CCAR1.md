@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA018083<br>
                     Gene: CCAR1<br>
                     MFE: -36.108<br>
-                    ENS: 0.969<br>
+                    ENS: 0.844<br>
                     Length: 133.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 13/20<br>
+                    molybdenum - 2/20<br>
+                    FMN - 2/20<br>         
             </td>
             <td>
                     RS: URS00023279E8_1618944<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_150_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_150_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_150_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_150_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA018083     | URS00023279E8_1618944     | URS0000DA81D4_505341     | URS000231CEA4_1609133     |
 | <span title="Length of the sequence in question">Length</span>  | 133.     |  131.    | 135.   |  131.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.969 | 0.963 | 0.962 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.969 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.844 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -36.108 | -26.750 | -31.980 | -48.265 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | molybdenum | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | CCAR1 | - | - | - |

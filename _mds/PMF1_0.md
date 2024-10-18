@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA081677<br>
                     Gene: PMF1_0<br>
                     MFE: -11.178<br>
-                    ENS: 0.990<br>
+                    ENS: 0.964<br>
                     Length: 53.<br>
                     Predicted Ligands:<br>
-                    unknown - 20/20<br>
-                    <br>
-                    <br>         
+                    unknown - 10/20<br>
+                    glutamine - 8/20<br>
+                    fluoride - 1/20<br>         
             </td>
             <td>
                     RS: URS0000E5FFAF_121290<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_901_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_901_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_901_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_901_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA081677     | URS0000E5FFAF_121290     | URS000050FA1E_321967     | URS0000D6ABFA_1144317     |
 | <span title="Length of the sequence in question">Length</span>  | 53.     |  54.    | 55.   |  53.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.990 | 0.988 | 0.990 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.990 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.964 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -11.178 | -18.641 | -10.740 | -19.793 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | unknown | fluoride | unknown |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | PMF1 | - | - | - |

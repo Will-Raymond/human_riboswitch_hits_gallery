@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA047212<br>
                     Gene: GTF2E2<br>
                     MFE: -42.901<br>
-                    ENS: 0.958<br>
+                    ENS: 0.786<br>
                     Length: 166.<br>
                     Predicted Ligands:<br>
-                    Mg2+ - 20/20<br>
-                    <br>
-                    <br>         
+                    Mg2+ - 11/20<br>
+                    cobalamin - 8/20<br>
+                    SAM - 1/20<br>         
             </td>
             <td>
                     RS: URS0000C7F3EF_1734396<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_469_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_469_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_469_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_469_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA047212     | URS0000C7F3EF_1734396     | URS0000D8D69B_1665556     | URS0000C0A7BA_1700846     |
 | <span title="Length of the sequence in question">Length</span>  | 166.     |  166.    | 166.   |  166.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.958 | 0.956 | 0.954 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.958 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.786 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -42.901 | -40.036 | -45.350 | -34.940 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | Mg2+ | SAM | Mg2+ |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | GTF2E2 | - | - | - |

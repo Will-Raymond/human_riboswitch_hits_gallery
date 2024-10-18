@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA058607<br>
                     Gene: LELP1<br>
                     MFE: -25.830<br>
-                    ENS: 0.967<br>
+                    ENS: 0.880<br>
                     Length: 135.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 16/20<br>
+                    FMN - 3/20<br>
+                    TPP - 1/20<br>         
             </td>
             <td>
                     RS: URS0000AB3EA7_880072<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_612_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_612_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_612_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_612_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA058607     | URS0000AB3EA7_880072     | URS0000DAA6B5_307121     | URS000231A838_1121400     |
 | <span title="Length of the sequence in question">Length</span>  | 135.     |  135.    | 139.   |  138.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.967 | 0.955 | 0.954 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.967 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.880 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -25.830 | -46.917 | -49.151 | -29.751 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | cobalamin | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | LELP1 | - | - | - |

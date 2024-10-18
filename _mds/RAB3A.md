@@ -29,10 +29,10 @@ exclude: true
                     UTR: 5HSAA087491<br>
                     Gene: RAB3A<br>
                     MFE: -71.154<br>
-                    ENS: 0.931<br>
+                    ENS: 0.839<br>
                     Length: 194.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
+                    cobalamin - 20/20 - 20/20<br>
                     <br>
                     <br>         
             </td>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1010_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1010_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1010_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1010_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA087491     | URS0002314A4C_1260251     | URS000233415A_1400053     | URS000231B370_1797316     |
 | <span title="Length of the sequence in question">Length</span>  | 194.     |  192.    | 194.   |  195.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.931 | 0.941 | 0.929 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.931 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.839 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -71.154 | -58.475 | -52.928 | -41.847 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | cobalamin | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | RAB3A | - | - | - |

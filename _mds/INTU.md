@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA053390<br>
                     Gene: INTU<br>
                     MFE: -33.847<br>
-                    ENS: 0.979<br>
+                    ENS: 0.512<br>
                     Length: 95.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
-                    <br>
-                    <br>         
+                    TPP - 11/20<br>
+                    tetrahydrofolate - 6/20<br>
+                    zmp-ztp - 2/20<br>         
             </td>
             <td>
                     RS: URS0000C6FDBB_1423351<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_558_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_558_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_558_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_558_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA053390     | URS0000C6FDBB_1423351     | URS0000D9A270_1108050     | URS0000BF0D75_1366046     |
 | <span title="Length of the sequence in question">Length</span>  | 95.     |  97.    | 97.   |  97.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.979 | 0.978 | 0.977 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.979 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.512 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -33.847 | -24.097 | -25.147 | -27.206 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | TPP | TPP | TPP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | INTU | - | - | - |

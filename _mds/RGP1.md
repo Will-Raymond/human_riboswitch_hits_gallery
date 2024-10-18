@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA090596<br>
                     Gene: RGP1<br>
                     MFE: -66.180<br>
-                    ENS: 0.960<br>
+                    ENS: 0.<br>
                     Length: 170.<br>
                     Predicted Ligands:<br>
-                    lysine - 20/20<br>
-                    <br>
-                    <br>         
+                    lysine - 9/20<br>
+                    cobalamin - 5/20<br>
+                    glucosamine - 3/20<br>         
             </td>
             <td>
                     RS: URS0000D8A079_1121919<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1050_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1050_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1050_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1050_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA090596     | URS0000D8A079_1121919     | URS000231EEB5_1895809     | URS0000C704D6_1437444     |
 | <span title="Length of the sequence in question">Length</span>  | 170.     |  170.    | 167.   |  167.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.960 | 0.946 | 0.950 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.960 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0. | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -66.180 | -44.951 | -71.288 | -73.588 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | glucosamine | cobalamin | zmp-ztp |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | RGP1 | - | - | - |

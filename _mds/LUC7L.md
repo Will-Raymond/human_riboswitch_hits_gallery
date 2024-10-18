@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA061047<br>
                     Gene: LUC7L<br>
                     MFE: -41.133<br>
-                    ENS: 0.965<br>
+                    ENS: 0.943<br>
                     Length: 136.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 8/20<br>
+                    glycine - 5/20<br>
+                    molybdenum - 4/20<br>         
             </td>
             <td>
                     RS: URS0002313E67_1895781<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_642_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_642_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_642_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_642_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA061047     | URS0002313E67_1895781     | URS0000C63C23_1286631     | URS000232B1B0_1703924     |
 | <span title="Length of the sequence in question">Length</span>  | 136.     |  133.    | 137.   |  131.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.965 | 0.967 | 0.944 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.965 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.943 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -41.133 | -33.210 | -52.903 | -53. |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | glycine | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | LUC7L | - | - | - |

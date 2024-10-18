@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA072652<br>
                     Gene: NOC3L<br>
                     MFE: -26.587<br>
-                    ENS: 0.973<br>
+                    ENS: 0.901<br>
                     Length: 113.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
-                    <br>
-                    <br>         
+                    TPP - 18/20<br>
+                    cobalamin - 1/20<br>
+                    FMN - 1/20<br>         
             </td>
             <td>
                     RS: URS0000D9662A_695939<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_794_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_794_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_794_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_794_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA072652     | URS0000D9662A_695939     | URS0000C0AF04_1165841     | URS0000D8319B_1660104     |
 | <span title="Length of the sequence in question">Length</span>  | 113.     |  113.    | 114.   |  115.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.973 | 0.972 | 0.973 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.973 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.901 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -26.587 | -36.703 | -24.448 | -42.977 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | TPP | TPP | TPP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | NOC3L | - | - | - |

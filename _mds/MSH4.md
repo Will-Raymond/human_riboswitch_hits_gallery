@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA067969<br>
                     Gene: MSH4<br>
                     MFE: -17.396<br>
-                    ENS: 0.987<br>
+                    ENS: 0.535<br>
                     Length: 66.<br>
                     Predicted Ligands:<br>
-                    fluoride - 20/20<br>
-                    <br>
-                    <br>         
+                    fluoride - 9/20<br>
+                    cobalamin - 6/20<br>
+                    guanine - 2/20<br>         
             </td>
             <td>
                     RS: URS0000DB6973_243061<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_742_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_742_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_742_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_742_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA067969     | URS0000DB6973_243061     | URS0000D876D8_1703929     | URS0002326A64_592678     |
 | <span title="Length of the sequence in question">Length</span>  | 66.     |  65.    | 69.   |  64.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.987 | 0.981 | 0.980 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.987 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.535 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -17.396 | -25.125 | -26.037 | -26.188 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | fluoride | cobalamin | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | MSH4 | - | - | - |

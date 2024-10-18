@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA083307<br>
                     Gene: PPIA<br>
                     MFE: -31.876<br>
-                    ENS: 0.979<br>
+                    ENS: 0.982<br>
                     Length: 108.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
-                    <br>
-                    <br>         
+                    TPP - 14/20<br>
+                    guanidine - 2/20<br>
+                    GMP - 2/20<br>         
             </td>
             <td>
                     RS: URS0000AB9D17_350058<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_924_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_924_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_924_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_924_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA083307     | URS0000AB9D17_350058     | URS0000C7EBA0_226910     | URS0000DA0693_1797572     |
 | <span title="Length of the sequence in question">Length</span>  | 108.     |  110.    | 106.   |  105.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.979 | 0.968 | 0.974 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.979 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.982 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -31.876 | -59.944 | -31.392 | -33.412 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | guanidine | TPP | TPP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | PPIA | - | - | - |

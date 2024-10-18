@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA021157<br>
                     Gene: CEP97<br>
                     MFE: -13.951<br>
-                    ENS: 0.988<br>
+                    ENS: 0.725<br>
                     Length: 52.<br>
                     Predicted Ligands:<br>
-                    glutamine - 20/20<br>
-                    <br>
-                    <br>         
+                    glutamine - 9/20<br>
+                    SAM - 7/20<br>
+                    unknown - 3/20<br>         
             </td>
             <td>
                     RS: URS0000C437D4_12908<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_178_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_178_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_178_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_178_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA021157     | URS0000C437D4_12908     | URS0000ABD68A_388739     | URS0000C2925D_1712645     |
 | <span title="Length of the sequence in question">Length</span>  | 52.     |  51.    | 49.   |  50.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.988 | 0.981 | 0.983 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.988 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.725 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -13.951 | -10.186 | -16.353 | -14.465 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | glutamine | SAM | SAM |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | CEP97 | - | - | - |

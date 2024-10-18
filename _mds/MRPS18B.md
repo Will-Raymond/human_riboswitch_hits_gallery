@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA067632<br>
                     Gene: MRPS18B<br>
                     MFE: -11.772<br>
-                    ENS: 0.990<br>
+                    ENS: 0.927<br>
                     Length: 39.<br>
                     Predicted Ligands:<br>
-                    SAM - 20/20<br>
-                    <br>
-                    <br>         
+                    SAM - 17/20<br>
+                    preQ_1 - 2/20<br>
+                    unknown - 1/20<br>         
             </td>
             <td>
                     RS: URS00021EDF1A_12908<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_739_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_739_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_739_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_739_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA067632     | URS00021EDF1A_12908     | URS00021EDD52_12908     | URS00021EE04F_12908     |
 | <span title="Length of the sequence in question">Length</span>  | 39.     |  41.    | 43.   |  43.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.990 | 0.982 | 0.981 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.990 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.927 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -11.772 | -9.296 | -5.529 | -6.329 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | SAM | SAM | SAM |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | MRPS18B | - | - | - |

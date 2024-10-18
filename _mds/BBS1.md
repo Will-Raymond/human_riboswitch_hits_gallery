@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA010075<br>
                     Gene: BBS1<br>
                     MFE: -9.428<br>
-                    ENS: 0.986<br>
+                    ENS: 0.775<br>
                     Length: 37.<br>
                     Predicted Ligands:<br>
-                    SAM - 20/20<br>
-                    <br>
-                    <br>         
+                    SAM - 10/20<br>
+                    preQ_1 - 8/20<br>
+                    unknown - 1/20<br>         
             </td>
             <td>
                     RS: URS0001A24B6D_1907202<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_107_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_107_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_107_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_107_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA010075     | URS0001A24B6D_1907202     | URS0000D92E6B_1802287     | URS000080E020_32630     |
 | <span title="Length of the sequence in question">Length</span>  | 37.     |  35.    | 38.   |  34.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.986 | 0.988 | 0.982 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.986 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.775 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -9.428 | -12.438 | -9.182 | -4.622 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | unknown | fluoride | preQ_1 |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | BBS1 | - | - | - |

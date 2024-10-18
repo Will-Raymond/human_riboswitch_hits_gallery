@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA099042<br>
                     Gene: SLC22A5<br>
                     MFE: -7.720<br>
-                    ENS: 0.980<br>
+                    ENS: 0.757<br>
                     Length: 34.<br>
                     Predicted Ligands:<br>
-                    SAM - 20/20<br>
-                    <br>
-                    <br>         
+                    SAM - 10/20<br>
+                    preQ_1 - 4/20<br>
+                    unknown - 2/20<br>         
             </td>
             <td>
                     RS: URS0000D87AB1_1686310<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1195_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1195_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1195_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1195_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA099042     | URS0000D87AB1_1686310     | URS0001A24B6D_1907202     | URS0000ABD446_1313296     |
 | <span title="Length of the sequence in question">Length</span>  | 34.     |  36.    | 35.   |  32.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.980 | 0.980 | 0.976 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.980 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.757 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -7.720 | -13.459 | -12.438 | -4.722 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | SAM | unknown | preQ_1 |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | SLC22A5 | - | - | - |

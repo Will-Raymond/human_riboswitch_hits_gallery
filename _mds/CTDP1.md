@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA026120<br>
                     Gene: CTDP1<br>
                     MFE: -71.870<br>
-                    ENS: 0.958<br>
+                    ENS: 0.712<br>
                     Length: 172.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 17/20<br>
+                    SAM - 1/20<br>
+                    glucosamine - 1/20<br>         
             </td>
             <td>
                     RS: URS0000D40A82_2043165<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_252_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_252_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_252_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_252_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA026120     | URS0000D40A82_2043165     | URS000029AA3F_1288971     | URS0002319714_1198245     |
 | <span title="Length of the sequence in question">Length</span>  | 172.     |  172.    | 172.   |  172.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.958 | 0.953 | 0.944 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.958 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.712 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -71.870 | -63.004 | -55.321 | -71.325 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | SAM | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | CTDP1 | - | - | - |

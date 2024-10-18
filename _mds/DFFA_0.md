@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA029710<br>
                     Gene: DFFA_0<br>
                     MFE: -59.252<br>
-                    ENS: 0.971<br>
+                    ENS: 0.961<br>
                     Length: 127.<br>
                     Predicted Ligands:<br>
-                    guanidine - 20/20<br>
-                    <br>
-                    <br>         
+                    guanidine - 4/20<br>
+                    cobalamin - 3/20<br>
+                    Mg2+ - 3/20<br>         
             </td>
             <td>
                     RS: URS0002313FEB_1206085<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_282_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_282_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_282_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_282_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA029710     | URS0002313FEB_1206085     | URS0000AB42FD_643648     | URS0000D93E1B_326476     |
 | <span title="Length of the sequence in question">Length</span>  | 127.     |  127.    | 125.   |  126.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.971 | 0.966 | 0.956 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.971 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.961 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -59.252 | -63.384 | -48.585 | -48.009 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | molybdenum | Mg2+ |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | DFFA | - | - | - |

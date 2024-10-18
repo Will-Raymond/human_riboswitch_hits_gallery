@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA065734<br>
                     Gene: MGST3<br>
                     MFE: -12.725<br>
-                    ENS: 0.981<br>
+                    ENS: 0.824<br>
                     Length: 72.<br>
                     Predicted Ligands:<br>
-                    fluoride - 20/20<br>
-                    <br>
-                    <br>         
+                    fluoride - 13/20<br>
+                    guanidine - 2/20<br>
+                    aminoglycoside - 2/20<br>         
             </td>
             <td>
                     RS: URS0000BECB54_755172<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_704_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_704_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_704_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_704_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA065734     | URS0000BECB54_755172     | URS00021EE188_12908     | URS0000D911FE_1798575     |
 | <span title="Length of the sequence in question">Length</span>  | 72.     |  69.    | 71.   |  71.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.981 | 0.986 | 0.986 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.981 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.824 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -12.725 | -9.009 | -26.575 | -12.409 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | fluoride | guanidine | fluoride |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | MGST3 | - | - | - |

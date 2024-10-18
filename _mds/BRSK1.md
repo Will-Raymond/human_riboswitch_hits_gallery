@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA011095<br>
                     Gene: BRSK1<br>
                     MFE: -43.573<br>
-                    ENS: 0.936<br>
+                    ENS: 0.865<br>
                     Length: 152.<br>
                     Predicted Ligands:<br>
-                    FMN - 20/20<br>
-                    <br>
-                    <br>         
+                    FMN - 8/20<br>
+                    cobalamin - 6/20<br>
+                    TPP - 6/20<br>         
             </td>
             <td>
                     RS: URS00023237B2_165597<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_124_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_124_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_124_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_124_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA011095     | URS00023237B2_165597     | URS0000C0766E_158787     | URS0000C4EFD1_1076     |
 | <span title="Length of the sequence in question">Length</span>  | 152.     |  152.    | 150.   |  150.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.936 | 0.949 | 0.951 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.936 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.865 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -43.573 | -33.275 | -56.740 | -53.943 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | FMN | TPP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | BRSK1 | - | - | - |

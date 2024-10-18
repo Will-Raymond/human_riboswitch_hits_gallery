@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA041765<br>
                     Gene: FOXP1<br>
                     MFE: -34.892<br>
-                    ENS: 0.946<br>
+                    ENS: 0.860<br>
                     Length: 179.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 7/20<br>
+                    lysine - 6/20<br>
+                    FMN - 2/20<br>         
             </td>
             <td>
                     RS: URS000232F12A_1736478<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_411_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_411_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_411_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_411_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA041765     | URS000232F12A_1736478     | URS0000C3F1FD_1577792     | URS0000C2CD42_1581033     |
 | <span title="Length of the sequence in question">Length</span>  | 179.     |  177.    | 182.   |  181.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.946 | 0.940 | 0.946 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.946 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.860 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -34.892 | -72.049 | -41.927 | -48.539 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | FMN | glucosamine | lysine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | FOXP1 | - | - | - |

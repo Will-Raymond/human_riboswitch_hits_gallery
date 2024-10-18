@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA119837<br>
                     Gene: WIPF2<br>
                     MFE: -40.917<br>
-                    ENS: 0.941<br>
+                    ENS: 0.938<br>
                     Length: 156.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 10/20<br>
+                    FMN - 6/20<br>
+                    zmp-ztp - 2/20<br>         
             </td>
             <td>
                     RS: URS00023280A4_1173022<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1458_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1458_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1458_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1458_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA119837     | URS00023280A4_1173022     | URS000232578E_40318     | URS0002323FD2_395961     |
 | <span title="Length of the sequence in question">Length</span>  | 156.     |  159.    | 155.   |  153.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.941 | 0.952 | 0.946 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.941 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.938 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -40.917 | -32.314 | -53.445 | -47.708 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | cobalamin | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | WIPF2 | - | - | - |

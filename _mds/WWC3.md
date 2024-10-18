@@ -29,10 +29,10 @@ exclude: true
                     UTR: 5HSAA119999<br>
                     Gene: WWC3<br>
                     MFE: -62.806<br>
-                    ENS: 0.887<br>
+                    ENS: 0.990<br>
                     Length: 223.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
+                    cobalamin - 20/20 - 20/20<br>
                     <br>
                     <br>         
             </td>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1460_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1460_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1460_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1460_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA119999     | URS0002332D70_5454     | URS000231C266_1736539     | URS0002333DDA_1801840     |
 | <span title="Length of the sequence in question">Length</span>  | 223.     |  224.    | 221.   |  223.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.887 | 0.933 | 0.933 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.887 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.990 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -62.806 | -87.369 | -97.241 | -61.567 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | cobalamin | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | WWC3 | - | - | - |

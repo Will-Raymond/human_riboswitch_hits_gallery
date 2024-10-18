@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA091823-12<br>
                     Gene: RNH1<br>
                     MFE: -77.722<br>
-                    ENS: 0.893<br>
+                    ENS: 0.898<br>
                     Length: 205.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 18/20<br>
+                    unknown - 1/20<br>
+                    TPP - 1/20<br>         
             </td>
             <td>
                     RS: URS000232208F_1860102<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1073_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1073_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1073_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1073_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA091823-12     | URS000232208F_1860102     | URS0002321F0A_1191298     | URS000231C9DD_292459     |
 | <span title="Length of the sequence in question">Length</span>  | 205.     |  208.    | 205.   |  204.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.893 | 0.910 | 0.878 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.893 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.898 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -77.722 | -74.491 | -45.591 | -79.199 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | cobalamin | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | RNH1 | - | - | - |

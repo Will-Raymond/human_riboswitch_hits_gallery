@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA047081-1<br>
                     Gene: GSTM1<br>
                     MFE: -24.258<br>
-                    ENS: 0.982<br>
+                    ENS: 0.740<br>
                     Length: 79.<br>
                     Predicted Ligands:<br>
-                    SAM - 20/20<br>
-                    <br>
-                    <br>         
+                    SAM - 16/20<br>
+                    cobalamin - 2/20<br>
+                    Ni/Co - 1/20<br>         
             </td>
             <td>
                     RS: URS000231804A_309807<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_467_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_467_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_467_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_467_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA047081-1     | URS000231804A_309807     | URS0000D932FC_1217970     | URS0000DA4C4F_1280950     |
 | <span title="Length of the sequence in question">Length</span>  | 79.     |  77.    | 80.   |  78.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.982 | 0.982 | 0.983 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.982 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.740 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -24.258 | -29.873 | -19.126 | -24.985 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | Ni/Co | SAM |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | GSTM1 | - | - | - |

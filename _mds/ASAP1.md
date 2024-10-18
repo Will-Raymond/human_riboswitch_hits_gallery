@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA007209<br>
                     Gene: ASAP1<br>
                     MFE: -9.466<br>
-                    ENS: 0.992<br>
+                    ENS: 0.897<br>
                     Length: 53.<br>
                     Predicted Ligands:<br>
-                    glutamine - 20/20<br>
-                    <br>
-                    <br>         
+                    glutamine - 18/20<br>
+                    SAM - 1/20<br>
+                    aminoglycoside - 1/20<br>         
             </td>
             <td>
                     RS: URS0000C73A20_12908<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_81_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_81_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_81_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_81_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA007209     | URS0000C73A20_12908     | URS0000D77952_335992     | URS0000C0834F_12908     |
 | <span title="Length of the sequence in question">Length</span>  | 53.     |  52.    | 53.   |  51.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.992 | 0.991 | 0.988 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.992 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.897 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -9.466 | -9.065 | -7.593 | -9.376 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | glutamine | SAM | glutamine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | ASAP1 | - | - | - |

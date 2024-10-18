@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA098856<br>
                     Gene: SLC16A9<br>
                     MFE: -35.543<br>
-                    ENS: 0.964<br>
+                    ENS: 0.788<br>
                     Length: 134.<br>
                     Predicted Ligands:<br>
-                    guanidine - 20/20<br>
-                    <br>
-                    <br>         
+                    guanidine - 13/20<br>
+                    glycine - 2/20<br>
+                    TPP - 2/20<br>         
             </td>
             <td>
                     RS: URS0000AB203F_314608<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1193_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1193_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1193_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1193_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA098856     | URS0000AB203F_314608     | URS0000C1F14E_200991     | URS0000C362C9_33936     |
 | <span title="Length of the sequence in question">Length</span>  | 134.     |  132.    | 131.   |  131.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.964 | 0.961 | 0.964 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.964 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.788 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -35.543 | -30.951 | -36.236 | -39.047 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | glycine | FMN | guanidine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | SLC16A9 | - | - | - |

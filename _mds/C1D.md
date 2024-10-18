@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA013475<br>
                     Gene: C1D<br>
                     MFE: -22.354<br>
-                    ENS: 0.983<br>
+                    ENS: 0.987<br>
                     Length: 88.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
-                    <br>
-                    <br>         
+                    TPP - 10/20<br>
+                    cobalamin - 6/20<br>
+                    fluoride - 2/20<br>         
             </td>
             <td>
                     RS: URS0000C70A7B_35841<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_131_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_131_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_131_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_131_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA013475     | URS0000C70A7B_35841     | URS0000ABA66D_102897     | URS0000D9196D_1344003     |
 | <span title="Length of the sequence in question">Length</span>  | 88.     |  89.    | 91.   |  86.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.983 | 0.976 | 0.975 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.983 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.987 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -22.354 | -19.165 | -41.396 | -30.424 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | TPP | cobalamin | fluoride |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | C1D | - | - | - |

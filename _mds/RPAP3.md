@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA092262<br>
                     Gene: RPAP3<br>
                     MFE: -17.518<br>
-                    ENS: 0.985<br>
+                    ENS: 0.946<br>
                     Length: 71.<br>
                     Predicted Ligands:<br>
-                    homocysteine - 20/20<br>
-                    <br>
-                    <br>         
+                    homocysteine - 8/20<br>
+                    fluoride - 5/20<br>
+                    glycine - 4/20<br>         
             </td>
             <td>
                     RS: URS0000BF836F_76731<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1081_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1081_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1081_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1081_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA092262     | URS0000BF836F_76731     | URS0000C41C98_1385510     | URS0000AB2419_296591     |
 | <span title="Length of the sequence in question">Length</span>  | 71.     |  70.    | 76.   |  73.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.985 | 0.971 | 0.983 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.985 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.946 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -17.518 | -18.318 | -16.559 | -15.554 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | SAM | glycine | homocysteine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | RPAP3 | - | - | - |

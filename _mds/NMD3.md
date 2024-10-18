@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA072526<br>
                     Gene: NMD3<br>
                     MFE: -32.340<br>
-                    ENS: 0.974<br>
+                    ENS: 0.795<br>
                     Length: 115.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
-                    <br>
-                    <br>         
+                    TPP - 13/20<br>
+                    guanidine - 4/20<br>
+                    glycine - 3/20<br>         
             </td>
             <td>
                     RS: URS0000C4C539_1538295<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_793_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_793_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_793_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_793_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA072526     | URS0000C4C539_1538295     | URS0000DB54E6_946333     | URS0000C3D7EE_990271     |
 | <span title="Length of the sequence in question">Length</span>  | 115.     |  116.    | 114.   |  112.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.974 | 0.973 | 0.967 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.974 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.795 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -32.340 | -44.653 | -51.360 | -28.599 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | guanidine | guanidine | glycine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | NMD3 | - | - | - |

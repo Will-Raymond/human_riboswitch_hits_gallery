@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA064227<br>
                     Gene: MCM2<br>
                     MFE: -21.093<br>
-                    ENS: 0.984<br>
+                    ENS: 0.815<br>
                     Length: 82.<br>
                     Predicted Ligands:<br>
-                    homocysteine - 20/20<br>
-                    <br>
-                    <br>         
+                    homocysteine - 10/20<br>
+                    cobalamin - 3/20<br>
+                    cyclic-di-GMP - 2/20<br>         
             </td>
             <td>
                     RS: URS0000D9A8B3_1906740<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_676_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_676_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_676_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_676_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA064227     | URS0000D9A8B3_1906740     | URS0000C7BA35_160660     | URS0000C6D68B_1736373     |
 | <span title="Length of the sequence in question">Length</span>  | 82.     |  83.    | 86.   |  82.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.984 | 0.973 | 0.983 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.984 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.815 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -21.093 | -34.747 | -31.990 | -19.157 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | homocysteine | homocysteine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | MCM2 | - | - | - |

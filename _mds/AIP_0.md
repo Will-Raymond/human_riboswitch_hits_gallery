@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA003228<br>
                     Gene: AIP_0<br>
                     MFE: -50.928<br>
-                    ENS: 0.950<br>
+                    ENS: 0.880<br>
                     Length: 137.<br>
                     Predicted Ligands:<br>
-                    glycine - 20/20<br>
-                    <br>
-                    <br>         
+                    glycine - 12/20<br>
+                    guanidine - 3/20<br>
+                    cobalamin - 2/20<br>         
             </td>
             <td>
                     RS: URS0000DA395D_147047<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_40_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_40_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_40_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_40_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA003228     | URS0000DA395D_147047     | URS0000DB5818_876364     | URS0000D88B37_28094     |
 | <span title="Length of the sequence in question">Length</span>  | 137.     |  138.    | 138.   |  137.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.950 | 0.937 | 0.964 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.950 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.880 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -50.928 | -65.402 | -56.159 | -52.742 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | glycine | glycine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | AIP | - | - | - |

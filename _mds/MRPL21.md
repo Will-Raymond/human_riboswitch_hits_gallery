@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA067399<br>
                     Gene: MRPL21<br>
                     MFE: -17.292<br>
-                    ENS: 0.988<br>
+                    ENS: 0.789<br>
                     Length: 50.<br>
                     Predicted Ligands:<br>
-                    glutamine - 20/20<br>
-                    <br>
-                    <br>         
+                    glutamine - 9/20<br>
+                    SAM - 6/20<br>
+                    unknown - 3/20<br>         
             </td>
             <td>
                     RS: URS00021EDC9D_690417<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_723_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_723_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_723_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_723_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA067399     | URS00021EDC9D_690417     | URS00021EE08A_388739     | URS0000D68C5A_12908     |
 | <span title="Length of the sequence in question">Length</span>  | 50.     |  49.    | 47.   |  52.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.988 | 0.985 | 0.986 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.988 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.789 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -17.292 | -11.692 | -14.042 | -8.266 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | SAM | SAM | glutamine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | MRPL21 | - | - | - |

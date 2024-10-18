@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA081247<br>
                     Gene: PLEKHA2<br>
                     MFE: -37.504<br>
-                    ENS: 0.969<br>
+                    ENS: 0.910<br>
                     Length: 113.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
-                    <br>
-                    <br>         
+                    TPP - 7/20<br>
+                    SAM - 5/20<br>
+                    FMN - 5/20<br>         
             </td>
             <td>
                     RS: URS0000C3A3B5_268407<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_896_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_896_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_896_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_896_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA081247     | URS0000C3A3B5_268407     | URS0000C7A333_1224163     | URS0000D927C6_1231340     |
 | <span title="Length of the sequence in question">Length</span>  | 113.     |  111.    | 114.   |  110.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.969 | 0.971 | 0.966 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.969 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.910 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -37.504 | -22.121 | -37.468 | -37.507 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | purine | TPP | SAM |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | PLEKHA2 | - | - | - |

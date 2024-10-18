@@ -29,11 +29,11 @@ exclude: true
                     UTR: 5HSAA061041<br>
                     Gene: LTK<br>
                     MFE: -45.075<br>
-                    ENS: 0.974<br>
+                    ENS: 0.889<br>
                     Length: 112.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
-                    <br>
+                    TPP - 19/20<br>
+                    preQ_1 - 1/20<br>
                     <br>         
             </td>
             <td>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_641_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_641_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_641_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_641_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA061041     | URS0000DB405F_2030     | URS0000D9351F_1858794     | URS0000AB1717_553973     |
 | <span title="Length of the sequence in question">Length</span>  | 112.     |  114.    | 112.   |  110.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.974 | 0.973 | 0.972 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.974 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.889 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -45.075 | -44.920 | -39.741 | -29.290 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | TPP | TPP | TPP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | LTK | - | - | - |

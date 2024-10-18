@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA114958<br>
                     Gene: TTPAL_1<br>
                     MFE: -65.273<br>
-                    ENS: 0.949<br>
+                    ENS: 0.972<br>
                     Length: 149.<br>
                     Predicted Ligands:<br>
-                    FMN - 20/20<br>
-                    <br>
-                    <br>         
+                    FMN - 8/20<br>
+                    cobalamin - 7/20<br>
+                    TPP - 2/20<br>         
             </td>
             <td>
                     RS: URS0000C27231_1215092<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1390_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1390_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1390_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1390_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA114958     | URS0000C27231_1215092     | URS0000D8A337_1775951     | URS0000C789A1_1576605     |
 | <span title="Length of the sequence in question">Length</span>  | 149.     |  145.    | 146.   |  145.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.949 | 0.944 | 0.949 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.949 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.972 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -65.273 | -48.596 | -67.563 | -55.982 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | FMN | FMN | TPP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | TTPAL | - | - | - |

@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA067069-2<br>
                     Gene: MPI_1<br>
                     MFE: -30.091<br>
-                    ENS: 0.982<br>
+                    ENS: 0.689<br>
                     Length: 86.<br>
                     Predicted Ligands:<br>
-                    SAM - 20/20<br>
-                    <br>
-                    <br>         
+                    SAM - 6/20<br>
+                    GMP - 4/20<br>
+                    cyclic-di-GMP - 3/20<br>         
             </td>
             <td>
                     RS: URS0000C669FC_1515610<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_721_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_721_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_721_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_721_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA067069-2     | URS0000C669FC_1515610     | URS0000DAA9CE_1839759     | URS0000C5BC88_87541     |
 | <span title="Length of the sequence in question">Length</span>  | 86.     |  88.    | 86.   |  87.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.982 | 0.966 | 0.982 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.982 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.689 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -30.091 | -28.814 | -40.557 | -16.555 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | SAM | zmp-ztp | TPP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | MPI | - | - | - |

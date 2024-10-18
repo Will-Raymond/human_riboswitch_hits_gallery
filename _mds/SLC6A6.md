@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA100661<br>
                     Gene: SLC6A6<br>
                     MFE: -31.<br>
-                    ENS: 0.962<br>
+                    ENS: 0.815<br>
                     Length: 107.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
-                    <br>
-                    <br>         
+                    TPP - 12/20<br>
+                    purine - 5/20<br>
+                    zmp-ztp - 2/20<br>         
             </td>
             <td>
                     RS: URS0000D930CE_85682<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1212_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1212_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1212_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1212_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA100661     | URS0000D930CE_85682     | URS0000C2C894_1714344     | URS0000C223F1_157733     |
 | <span title="Length of the sequence in question">Length</span>  | 107.     |  102.    | 105.   |  102.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.962 | 0.969 | 0.961 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.962 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.815 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -31. | -19.231 | -43.543 | -18.750 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | purine | homocysteine | purine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | SLC6A6 | - | - | - |

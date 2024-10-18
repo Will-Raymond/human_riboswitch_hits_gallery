@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA004354<br>
                     Gene: AMZ2_0<br>
                     MFE: -33.297<br>
-                    ENS: 0.967<br>
+                    ENS: 0.748<br>
                     Length: 127.<br>
                     Predicted Ligands:<br>
-                    FMN - 20/20<br>
-                    <br>
-                    <br>         
+                    FMN - 8/20<br>
+                    cobalamin - 7/20<br>
+                    TPP - 4/20<br>         
             </td>
             <td>
                     RS: URS0000AB5A53_392500<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_54_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_54_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_54_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_54_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA004354     | URS0000AB5A53_392500     | URS0000AB88B5_561180     | URS0000DAE884_1704590     |
 | <span title="Length of the sequence in question">Length</span>  | 127.     |  130.    | 126.   |  130.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.967 | 0.969 | 0.963 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.967 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.748 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -33.297 | -36.268 | -35.684 | -53.234 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | glycine | TPP | FMN |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | AMZ2 | - | - | - |

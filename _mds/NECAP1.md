@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA071391<br>
                     Gene: NECAP1<br>
                     MFE: -34.811<br>
-                    ENS: 0.978<br>
+                    ENS: 0.724<br>
                     Length: 103.<br>
                     Predicted Ligands:<br>
-                    purine - 20/20<br>
-                    <br>
-                    <br>         
+                    purine - 8/20<br>
+                    TPP - 5/20<br>
+                    SAM - 2/20<br>         
             </td>
             <td>
                     RS: URS0000C20FD2_1564681<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_787_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_787_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_787_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_787_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA071391     | URS0000C20FD2_1564681     | URS0000C2AA14_1402860     | URS0000ABA4FA_439292     |
 | <span title="Length of the sequence in question">Length</span>  | 103.     |  103.    | 102.   |  103.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.978 | 0.978 | 0.975 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.978 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.724 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -34.811 | -23.066 | -20.329 | -29.241 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | tetrahydrofolate | purine | TPP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | NECAP1 | - | - | - |

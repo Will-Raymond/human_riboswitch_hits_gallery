@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA052057<br>
                     Gene: IGF2BP2_0<br>
                     MFE: -17.724<br>
-                    ENS: 0.981<br>
+                    ENS: 0.958<br>
                     Length: 95.<br>
                     Predicted Ligands:<br>
-                    Ni/Co - 20/20<br>
-                    <br>
-                    <br>         
+                    Ni/Co - 13/20<br>
+                    glycine - 3/20<br>
+                    purine - 2/20<br>         
             </td>
             <td>
                     RS: URS0000C0A6A3_1609098<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_548_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_548_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_548_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_548_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA052057     | URS0000C0A6A3_1609098     | URS0000D67582_12908     | URS000025D787_1229780     |
 | <span title="Length of the sequence in question">Length</span>  | 95.     |  95.    | 94.   |  97.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.981 | 0.979 | 0.977 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.981 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.958 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -17.724 | -30.373 | -31.835 | -40.828 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | TPP | Ni/Co | glycine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | IGF2BP2 | - | - | - |

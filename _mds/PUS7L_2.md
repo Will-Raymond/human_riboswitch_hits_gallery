@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA086863<br>
                     Gene: PUS7L_2<br>
                     MFE: -26.019<br>
-                    ENS: 0.976<br>
+                    ENS: 0.901<br>
                     Length: 118.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
-                    <br>
-                    <br>         
+                    TPP - 12/20<br>
+                    FMN - 3/20<br>
+                    glycine - 2/20<br>         
             </td>
             <td>
                     RS: URS0002316DE9_512564<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_996_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_996_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_996_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_996_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA086863     | URS0002316DE9_512564     | URS0000DA7056_1817761     | URS0000C1563B_284581     |
 | <span title="Length of the sequence in question">Length</span>  | 118.     |  117.    | 121.   |  116.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.976 | 0.963 | 0.968 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.976 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.901 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -26.019 | -16.957 | -40.324 | -27.473 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | FMN | guanidine | TPP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | PUS7L | - | - | - |

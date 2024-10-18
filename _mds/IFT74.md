@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA051909<br>
                     Gene: IFT74<br>
                     MFE: -61.982<br>
-                    ENS: 0.895<br>
+                    ENS: 0.903<br>
                     Length: 188.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 9/20<br>
+                    lysine - 5/20<br>
+                    FMN - 4/20<br>         
             </td>
             <td>
                     RS: URS000231AA7F_349161<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_544_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_544_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_544_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_544_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA051909     | URS000231AA7F_349161     | URS0000BF5572_33936     | URS000232E3B4_394503     |
 | <span title="Length of the sequence in question">Length</span>  | 188.     |  182.    | 193.   |  191.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.895 | 0.923 | 0.926 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.895 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.903 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -61.982 | -47.266 | -59.554 | -44.604 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | lysine | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | IFT74 | - | - | - |

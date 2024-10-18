@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA018290<br>
                     Gene: CCDC127<br>
                     MFE: -40.376<br>
-                    ENS: 0.972<br>
+                    ENS: 0.997<br>
                     Length: 125.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
-                    <br>
-                    <br>         
+                    TPP - 12/20<br>
+                    cobalamin - 3/20<br>
+                    SAM - 2/20<br>         
             </td>
             <td>
                     RS: URS0000AB79A0_12908<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_154_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_154_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_154_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_154_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA018290     | URS0000AB79A0_12908     | URS0000C78A52_1423817     | URS0000D7B635_1528693     |
 | <span title="Length of the sequence in question">Length</span>  | 125.     |  125.    | 123.   |  125.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.972 | 0.966 | 0.959 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.972 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.997 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -40.376 | -23.208 | -22.904 | -45.867 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | SAM | TPP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | CCDC127 | - | - | - |

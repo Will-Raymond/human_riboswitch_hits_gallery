@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA039195<br>
                     Gene: FANCA<br>
                     MFE: -26.392<br>
-                    ENS: 0.985<br>
+                    ENS: 0.724<br>
                     Length: 67.<br>
                     Predicted Ligands:<br>
-                    fluoride - 20/20<br>
-                    <br>
-                    <br>         
+                    fluoride - 13/20<br>
+                    unknown - 3/20<br>
+                    cobalamin - 2/20<br>         
             </td>
             <td>
                     RS: URS0000868543_32630<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_378_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_378_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_378_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_378_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA039195     | URS0000868543_32630     | URS0000BFE97D_206672     | URS0000BEAA5F_272568     |
 | <span title="Length of the sequence in question">Length</span>  | 67.     |  67.    | 70.   |  64.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.985 | 0.982 | 0.980 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.985 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.724 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -26.392 | -16.818 | -12.014 | -16.448 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | unknown | fluoride | fluoride |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | FANCA | - | - | - |

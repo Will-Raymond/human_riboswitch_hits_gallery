@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA010113<br>
                     Gene: BBS9<br>
                     MFE: -27.084<br>
-                    ENS: 0.952<br>
+                    ENS: 0.793<br>
                     Length: 171.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 9/20<br>
+                    FMN - 5/20<br>
+                    Mg2+ - 3/20<br>         
             </td>
             <td>
                     RS: URS0000C1735B_291594<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_108_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_108_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_108_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_108_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA010113     | URS0000C1735B_291594     | URS0002329603_1880991     | URS0000C5551B_1538294     |
 | <span title="Length of the sequence in question">Length</span>  | 171.     |  171.    | 173.   |  173.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.952 | 0.955 | 0.933 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.952 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.793 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -27.084 | -76.956 | -34.016 | -77.323 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | FMN | cobalamin | FMN |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | BBS9 | - | - | - |

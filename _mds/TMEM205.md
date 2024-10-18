@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA110919<br>
                     Gene: TMEM205<br>
                     MFE: -34.554<br>
-                    ENS: 0.975<br>
+                    ENS: 0.908<br>
                     Length: 95.<br>
                     Predicted Ligands:<br>
-                    glycine - 20/20<br>
-                    <br>
-                    <br>         
+                    glycine - 10/20<br>
+                    TPP - 8/20<br>
+                    purine - 1/20<br>         
             </td>
             <td>
                     RS: URS0000AB44F7_887062<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1333_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1333_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1333_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1333_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA110919     | URS0000AB44F7_887062     | URS0000C6C9C1_1897044     | URS0000C4A206_1094558     |
 | <span title="Length of the sequence in question">Length</span>  | 95.     |  96.    | 96.   |  92.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.975 | 0.978 | 0.974 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.975 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.908 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -34.554 | -28.102 | -24.608 | -23.968 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | glycine | glycine | glycine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | TMEM205 | - | - | - |

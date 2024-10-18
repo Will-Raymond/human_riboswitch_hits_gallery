@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA121443<br>
                     Gene: ZDHHC6<br>
                     MFE: -21.817<br>
-                    ENS: 0.984<br>
+                    ENS: 0.708<br>
                     Length: 87.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
-                    <br>
-                    <br>         
+                    TPP - 6/20<br>
+                    glycine - 3/20<br>
+                    GMP - 3/20<br>         
             </td>
             <td>
                     RS: URS0000AB358D_908337<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1490_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1490_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1490_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1490_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA121443     | URS0000AB358D_908337     | URS0000C34999_1144318     | URS0000C5A6A1_316274     |
 | <span title="Length of the sequence in question">Length</span>  | 87.     |  87.    | 88.   |  86.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.984 | 0.983 | 0.981 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.984 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.708 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -21.817 | -17.849 | -24.355 | -28.211 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | TPP | glycine | zmp-ztp |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | ZDHHC6 | - | - | - |

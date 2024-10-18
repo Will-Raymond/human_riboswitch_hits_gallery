@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA064252<br>
                     Gene: MCM3AP<br>
                     MFE: -3.166<br>
-                    ENS: 0.984<br>
+                    ENS: 0.911<br>
                     Length: 61.<br>
                     Predicted Ligands:<br>
-                    fluoride - 20/20<br>
-                    <br>
-                    <br>         
+                    fluoride - 10/20<br>
+                    unknown - 6/20<br>
+                    cobalamin - 3/20<br>         
             </td>
             <td>
                     RS: URS0000D66F1A_12908<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_678_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_678_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_678_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_678_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA064252     | URS0000D66F1A_12908     | URS0000E603E4_1408889     | URS0000E60499_1523413     |
 | <span title="Length of the sequence in question">Length</span>  | 61.     |  59.    | 59.   |  60.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.984 | 0.984 | 0.986 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.984 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.911 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -3.166 | -12.516 | -12.516 | -28.579 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | unknown | unknown | unknown |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | MCM3AP | - | - | - |

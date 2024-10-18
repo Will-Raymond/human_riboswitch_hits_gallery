@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA064999<br>
                     Gene: MEIG1<br>
                     MFE: -47.516<br>
-                    ENS: 0.959<br>
+                    ENS: 0.992<br>
                     Length: 173.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 7/20<br>
+                    glycine - 5/20<br>
+                    lysine - 4/20<br>         
             </td>
             <td>
                     RS: URS0002328656_1535422<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_698_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_698_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_698_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_698_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA064999     | URS0002328656_1535422     | URS000231FD61_225345     | URS0000AB2173_411463     |
 | <span title="Length of the sequence in question">Length</span>  | 173.     |  173.    | 173.   |  170.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.959 | 0.949 | 0.943 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.959 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.992 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -47.516 | -33.661 | -23.458 | -41.576 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | cobalamin | Mg2+ |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | MEIG1 | - | - | - |

@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA049207<br>
                     Gene: HIP1R<br>
                     MFE: -28.177<br>
-                    ENS: 0.983<br>
+                    ENS: 0.846<br>
                     Length: 84.<br>
                     Predicted Ligands:<br>
-                    zmp-ztp - 20/20<br>
-                    <br>
-                    <br>         
+                    zmp-ztp - 10/20<br>
+                    TPP - 3/20<br>
+                    homocysteine - 2/20<br>         
             </td>
             <td>
                     RS: URS00023156B1_1736553<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_497_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_497_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_497_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_497_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA049207     | URS00023156B1_1736553     | URS00023325DA_53376     | URS0000C89504_69370     |
 | <span title="Length of the sequence in question">Length</span>  | 84.     |  84.    | 85.   |  85.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.983 | 0.982 | 0.981 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.983 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.846 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -28.177 | -36.235 | -26.081 | -30.025 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | zmp-ztp | TPP | zmp-ztp |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | HIP1R | - | - | - |

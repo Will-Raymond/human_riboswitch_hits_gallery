@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA083315<br>
                     Gene: PPIA_2<br>
                     MFE: -14.839<br>
-                    ENS: 0.986<br>
+                    ENS: 0.987<br>
                     Length: 65.<br>
                     Predicted Ligands:<br>
-                    fluoride - 20/20<br>
-                    <br>
-                    <br>         
+                    fluoride - 18/20<br>
+                    unknown - 1/20<br>
+                    homocysteine - 1/20<br>         
             </td>
             <td>
                     RS: URS0000BF9777_226186<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_927_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_927_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_927_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_927_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA083315     | URS0000BF9777_226186     | URS0000D9BDC4_1882406     | URS0000D793EF_214095     |
 | <span title="Length of the sequence in question">Length</span>  | 65.     |  63.    | 64.   |  62.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.986 | 0.987 | 0.982 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.986 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.987 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -14.839 | -11.669 | -14.359 | -11.864 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | fluoride | fluoride | fluoride |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | PPIA | - | - | - |

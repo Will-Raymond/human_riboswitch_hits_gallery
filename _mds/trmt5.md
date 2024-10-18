@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA113890<br>
                     Gene: TRMT5<br>
                     MFE: -36.722<br>
-                    ENS: 0.973<br>
+                    ENS: 0.941<br>
                     Length: 116.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
-                    <br>
-                    <br>         
+                    TPP - 17/20<br>
+                    methionine - 1/20<br>
+                    SAM - 1/20<br>         
             </td>
             <td>
                     RS: URS0000AB8BA5_999541<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1371_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1371_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1371_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1371_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA113890     | URS0000AB8BA5_999541     | URS0000ABB1CA_431241     | URS0000C758F3_67373     |
 | <span title="Length of the sequence in question">Length</span>  | 116.     |  117.    | 116.   |  113.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.973 | 0.974 | 0.966 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.973 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.941 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -36.722 | -43.291 | -33.481 | -45.874 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | TPP | TPP | TPP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | TRMT5 | - | - | - |

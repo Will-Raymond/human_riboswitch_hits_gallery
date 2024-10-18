@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA108863<br>
                     Gene: TGIF2<br>
                     MFE: -44.618<br>
-                    ENS: 0.970<br>
+                    ENS: 0.791<br>
                     Length: 111.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
-                    <br>
-                    <br>         
+                    TPP - 18/20<br>
+                    cobalamin - 1/20<br>
+                    Ni/Co - 1/20<br>         
             </td>
             <td>
                     RS: URS0000C5D44F_1759557<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1308_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1308_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1308_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1308_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA108863     | URS0000C5D44F_1759557     | URS0000C5DD40_1739114     | URS0000D97515_252474     |
 | <span title="Length of the sequence in question">Length</span>  | 111.     |  109.    | 108.   |  107.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.970 | 0.969 | 0.965 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.970 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.791 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -44.618 | -27.944 | -42.622 | -40.392 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | TPP | TPP | TPP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | TGIF2 | - | - | - |

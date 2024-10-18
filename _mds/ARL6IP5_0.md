@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA006680<br>
                     Gene: ARL6IP5_0<br>
                     MFE: -22.378<br>
-                    ENS: 0.975<br>
+                    ENS: 0.987<br>
                     Length: 89.<br>
                     Predicted Ligands:<br>
-                    guanidine - 20/20<br>
-                    <br>
-                    <br>         
+                    guanidine - 17/20<br>
+                    zmp-ztp - 1/20<br>
+                    fluoride - 1/20<br>         
             </td>
             <td>
                     RS: URS00021EE040_12908<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_77_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_77_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_77_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_77_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA006680     | URS00021EE040_12908     | URS0001A0562A_2653173     | URS00021EDF57_12908     |
 | <span title="Length of the sequence in question">Length</span>  | 89.     |  88.    | 86.   |  86.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.975 | 0.975 | 0.972 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.975 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.987 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -22.378 | -33.483 | -25.005 | -36.356 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | guanidine | zmp-ztp | guanidine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | ARL6IP5 | - | - | - |

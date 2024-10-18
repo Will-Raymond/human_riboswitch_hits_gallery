@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA024367<br>
                     Gene: COQ7_2<br>
                     MFE: -9.344<br>
-                    ENS: 0.992<br>
+                    ENS: 0.902<br>
                     Length: 44.<br>
                     Predicted Ligands:<br>
-                    preQ_1 - 20/20<br>
-                    <br>
-                    <br>         
+                    preQ_1 - 17/20<br>
+                    SAM - 2/20<br>
+                    glutamine - 1/20<br>         
             </td>
             <td>
                     RS: URS0000AB877A_272558<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_229_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_229_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_229_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_229_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA024367     | URS0000AB877A_272558     | URS0000DF2C5A_44250     | URS0000DB5D0C_1852522     |
 | <span title="Length of the sequence in question">Length</span>  | 44.     |  44.    | 44.   |  44.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.992 | 0.991 | 0.991 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.992 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.902 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -9.344 | -6.509 | -10.175 | -10.175 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | preQ_1 | preQ_1 | preQ_1 |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | COQ7 | - | - | - |

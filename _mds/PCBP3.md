@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA077434<br>
                     Gene: PCBP3<br>
                     MFE: -33.020<br>
-                    ENS: 0.951<br>
+                    ENS: 0.846<br>
                     Length: 150.<br>
                     Predicted Ligands:<br>
-                    SAM - 20/20<br>
-                    <br>
-                    <br>         
+                    SAM - 12/20<br>
+                    FMN - 4/20<br>
+                    cobalamin - 2/20<br>         
             </td>
             <td>
                     RS: URS000231D534_582680<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_856_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_856_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_856_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_856_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA077434     | URS000231D534_582680     | URS0000D8D8BE_1547283     | URS0000D96B03_1968532     |
 | <span title="Length of the sequence in question">Length</span>  | 150.     |  150.    | 147.   |  147.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.951 | 0.948 | 0.952 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.951 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.846 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -33.020 | -54.082 | -36.716 | -43.770 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | FMN | SAM | FMN |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | PCBP3 | - | - | - |

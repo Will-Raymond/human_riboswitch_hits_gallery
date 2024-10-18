@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA077087<br>
                     Gene: PBLD<br>
                     MFE: -34.832<br>
-                    ENS: 0.952<br>
+                    ENS: 0.886<br>
                     Length: 169.<br>
                     Predicted Ligands:<br>
-                    lysine - 20/20<br>
-                    <br>
-                    <br>         
+                    lysine - 8/20<br>
+                    cobalamin - 6/20<br>
+                    Mg2+ - 5/20<br>         
             </td>
             <td>
                     RS: URS000232B5EB_61635<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_855_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_855_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_855_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_855_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA077087     | URS000232B5EB_61635     | URS0002334815_36809     | URS0000BE91D9_97139     |
 | <span title="Length of the sequence in question">Length</span>  | 169.     |  171.    | 171.   |  171.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.952 | 0.945 | 0.950 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.952 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.886 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -34.832 | -37.254 | -33.969 | -46.377 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | cobalamin | lysine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | PBLD | - | - | - |

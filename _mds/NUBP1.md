@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA073880<br>
                     Gene: NUBP1<br>
                     MFE: -11.625<br>
-                    ENS: 0.989<br>
+                    ENS: 0.915<br>
                     Length: 48.<br>
                     Predicted Ligands:<br>
-                    SAM - 20/20<br>
-                    <br>
-                    <br>         
+                    SAM - 12/20<br>
+                    unknown - 4/20<br>
+                    preQ_1 - 3/20<br>         
             </td>
             <td>
                     RS: URS0000C3C0C6_1715693<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_808_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_808_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_808_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_808_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA073880     | URS0000C3C0C6_1715693     | URS00021EE08A_388739     | URS00021EDCFA_12908     |
 | <span title="Length of the sequence in question">Length</span>  | 48.     |  49.    | 47.   |  46.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.989 | 0.988 | 0.987 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.989 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.915 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -11.625 | -14.998 | -14.042 | -7.492 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | SAM | SAM | SAM |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | NUBP1 | - | - | - |

@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA121705<br>
                     Gene: ZFPM2<br>
                     MFE: -19.247<br>
-                    ENS: 0.985<br>
+                    ENS: 0.725<br>
                     Length: 48.<br>
                     Predicted Ligands:<br>
-                    glutamine - 20/20<br>
-                    <br>
-                    <br>         
+                    glutamine - 7/20<br>
+                    unknown - 5/20<br>
+                    preQ_1 - 5/20<br>         
             </td>
             <td>
                     RS: URS0000D6D32C_12908<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1493_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1493_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1493_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1493_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA121705     | URS0000D6D32C_12908     | URS0000D672BF_12908     | URS0000C6D8FD_408170     |
 | <span title="Length of the sequence in question">Length</span>  | 48.     |  51.    | 51.   |  46.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.985 | 0.985 | 0.988 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.985 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.725 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -19.247 | -14.890 | -14.190 | -13.609 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | unknown | unknown | Ni/Co |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | ZFPM2 | - | - | - |

@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA074675<br>
                     Gene: NXT2_0<br>
                     MFE: -60.409<br>
-                    ENS: 0.883<br>
+                    ENS: 0.826<br>
                     Length: 247.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 18/20<br>
+                    Mn2+ - 1/20<br>
+                    lysine - 1/20<br>         
             </td>
             <td>
                     RS: URS000231FC74_29486<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_819_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_819_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_819_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_819_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA074675     | URS000231FC74_29486     | URS00023223EC_1144307     | URS00023253C0_1805219     |
 | <span title="Length of the sequence in question">Length</span>  | 247.     |  242.    | 245.   |  245.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.883 | 0.898 | 0.875 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.883 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.826 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -60.409 | -65.499 | -95.394 | -81.451 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | cobalamin | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | NXT2 | - | - | - |

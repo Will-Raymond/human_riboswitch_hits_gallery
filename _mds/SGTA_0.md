@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA097766<br>
                     Gene: SGTA_0<br>
                     MFE: -89.471<br>
-                    ENS: 0.901<br>
+                    ENS: 0.926<br>
                     Length: 187.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 8/20<br>
+                    lysine - 4/20<br>
+                    glucosamine - 3/20<br>         
             </td>
             <td>
                     RS: URS0000AB156C_2653175<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1184_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1184_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1184_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1184_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA097766     | URS0000AB156C_2653175     | URS0002321027_499207     | URS0000C01C30_1214101     |
 | <span title="Length of the sequence in question">Length</span>  | 187.     |  181.    | 186.   |  183.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.901 | 0.946 | 0.930 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.901 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.926 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -89.471 | -56.839 | -47.464 | -100.591 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | glucosamine-6-phosphate | cobalamin | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | SGTA | - | - | - |

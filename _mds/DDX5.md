@@ -29,11 +29,11 @@ exclude: true
                     UTR: 5HSAA029178<br>
                     Gene: DDX5<br>
                     MFE: -110.327<br>
-                    ENS: 0.829<br>
+                    ENS: 0.739<br>
                     Length: 300.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
+                    cobalamin - 18/20<br>
+                    glucosamine - 2/20<br>
                     <br>         
             </td>
             <td>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_277_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_277_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_277_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_277_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA029178     | URS0002330151_1121476     | URS0002313A16_338966     | URS0002324485_326475     |
 | <span title="Length of the sequence in question">Length</span>  | 300.     |  301.    | 303.   |  297.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.829 | 0.737 | 0.741 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.829 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.739 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -110.327 | -82.873 | -100.545 | -117.569 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | cobalamin | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | DDX5 | - | - | - |

@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA105596<br>
                     Gene: STX18<br>
                     MFE: -49.306<br>
-                    ENS: 0.966<br>
+                    ENS: 0.696<br>
                     Length: 109.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
-                    <br>
-                    <br>         
+                    TPP - 16/20<br>
+                    guanidine - 3/20<br>
+                    SAM - 1/20<br>         
             </td>
             <td>
                     RS: URS0000615719_1288971<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1275_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1275_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1275_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1275_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA105596     | URS0000615719_1288971     | URS0000B6A9B7_1183436     | URS0000D6A86B_12908     |
 | <span title="Length of the sequence in question">Length</span>  | 109.     |  112.    | 111.   |  109.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.966 | 0.974 | 0.971 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.966 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.696 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -49.306 | -36.603 | -31.224 | -40.221 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | TPP | TPP | SAM |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | STX18 | - | - | - |

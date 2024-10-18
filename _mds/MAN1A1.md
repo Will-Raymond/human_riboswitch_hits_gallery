@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA062043<br>
                     Gene: MAN1A1<br>
                     MFE: -23.418<br>
-                    ENS: 0.984<br>
+                    ENS: 0.987<br>
                     Length: 91.<br>
                     Predicted Ligands:<br>
-                    GMP - 20/20<br>
-                    <br>
-                    <br>         
+                    GMP - 6/20<br>
+                    TPP - 6/20<br>
+                    glycine - 3/20<br>         
             </td>
             <td>
                     RS: URS0000D67F2B_12908<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_652_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_652_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_652_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_652_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA062043     | URS0000D67F2B_12908     | URS0000ABB19F_1227275     | URS0000D674D4_12908     |
 | <span title="Length of the sequence in question">Length</span>  | 91.     |  91.    | 89.   |  92.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.984 | 0.979 | 0.981 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.984 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.987 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -23.418 | -38.683 | -19.953 | -35.575 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | GMP | tetrahydrofolate | GMP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | MAN1A1 | - | - | - |

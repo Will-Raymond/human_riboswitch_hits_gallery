@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA068073<br>
                     Gene: MSN<br>
                     MFE: -38.353<br>
-                    ENS: 0.916<br>
+                    ENS: 0.675<br>
                     Length: 158.<br>
                     Predicted Ligands:<br>
-                    glucosamine - 20/20<br>
-                    <br>
-                    <br>         
+                    glucosamine - 7/20<br>
+                    SAM - 4/20<br>
+                    cobalamin - 4/20<br>         
             </td>
             <td>
                     RS: URS0000AB8002_662755<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_743_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_743_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_743_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_743_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA068073     | URS0000AB8002_662755     | URS0000AB7EA5_526227     | URS0000D9D0ED_999627     |
 | <span title="Length of the sequence in question">Length</span>  | 158.     |  156.    | 154.   |  158.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.916 | 0.933 | 0.924 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.916 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.675 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -38.353 | -47.901 | -63.284 | -61.274 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | TPP | SAM | FMN |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | MSN | - | - | - |

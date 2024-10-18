@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA098485<br>
                     Gene: SIRT6_0<br>
                     MFE: -34.<br>
-                    ENS: 0.981<br>
+                    ENS: 0.894<br>
                     Length: 90.<br>
                     Predicted Ligands:<br>
-                    glycine - 20/20<br>
-                    <br>
-                    <br>         
+                    glycine - 15/20<br>
+                    cobalamin - 2/20<br>
+                    Mg2+ - 1/20<br>         
             </td>
             <td>
                     RS: URS0000DA2052_887144<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1191_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1191_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1191_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1191_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA098485     | URS0000DA2052_887144     | URS00022BF738_2845820     | URS0000C34B9A_1125979     |
 | <span title="Length of the sequence in question">Length</span>  | 90.     |  88.    | 88.   |  88.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.981 | 0.981 | 0.981 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.981 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.894 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -34. | -24.729 | -26.529 | -26.529 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | glycine | glycine | glycine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | SIRT6 | - | - | - |

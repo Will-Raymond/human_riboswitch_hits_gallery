@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA096639<br>
                     Gene: SERPINB13<br>
                     MFE: -8.250<br>
-                    ENS: 0.992<br>
+                    ENS: 0.772<br>
                     Length: 44.<br>
                     Predicted Ligands:<br>
-                    preQ_1 - 20/20<br>
-                    <br>
-                    <br>         
+                    preQ_1 - 15/20<br>
+                    unknown - 2/20<br>
+                    glutamine - 1/20<br>         
             </td>
             <td>
                     RS: URS0000AB4DC1_362948<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1176_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1176_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1176_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1176_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA096639     | URS0000AB4DC1_362948     | URS0000C7415F_1423769     | URS0000C2DD64_67855     |
 | <span title="Length of the sequence in question">Length</span>  | 44.     |  45.    | 46.   |  44.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.992 | 0.987 | 0.990 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.992 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.772 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -8.250 | -4.776 | -10.735 | -8.833 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | preQ_1 | preQ_1 | preQ_1 |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | SERPINB13 | - | - | - |

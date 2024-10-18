@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA024280<br>
                     Gene: COPS7B<br>
                     MFE: -38.486<br>
-                    ENS: 0.957<br>
+                    ENS: 0.862<br>
                     Length: 128.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
-                    <br>
-                    <br>         
+                    TPP - 8/20<br>
+                    Mn2+ - 6/20<br>
+                    SAM - 4/20<br>         
             </td>
             <td>
                     RS: URS0000C1DA18_1004785<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_224_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_224_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_224_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_224_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA024280     | URS0000C1DA18_1004785     | URS0000DA0B07_683354     | URS00008DA22F_273526     |
 | <span title="Length of the sequence in question">Length</span>  | 128.     |  127.    | 127.   |  125.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.957 | 0.961 | 0.953 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.957 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.862 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -38.486 | -31.455 | -58.341 | -38.831 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | Mn2+ | Mn2+ | TPP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | COPS7B | - | - | - |

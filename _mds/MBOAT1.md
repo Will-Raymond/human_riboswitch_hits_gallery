@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA064122<br>
                     Gene: MBOAT1<br>
                     MFE: -21.972<br>
-                    ENS: 0.982<br>
+                    ENS: 0.891<br>
                     Length: 88.<br>
                     Predicted Ligands:<br>
-                    SAM - 20/20<br>
-                    <br>
-                    <br>         
+                    SAM - 12/20<br>
+                    glycine - 5/20<br>
+                    Ni/Co - 2/20<br>         
             </td>
             <td>
                     RS: URS0000D69F34_883113<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_670_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_670_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_670_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_670_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA064122     | URS0000D69F34_883113     | URS0000D65731_12908     | URS0000D683A2_908337     |
 | <span title="Length of the sequence in question">Length</span>  | 88.     |  89.    | 89.   |  92.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.982 | 0.983 | 0.972 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.982 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.891 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -21.972 | -23.839 | -15.585 | -27.017 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | Ni/Co | SAM | Ni/Co |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | MBOAT1 | - | - | - |

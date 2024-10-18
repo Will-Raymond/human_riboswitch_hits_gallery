@@ -29,11 +29,11 @@ exclude: true
                     UTR: 5HSAA092644<br>
                     Gene: RPL9<br>
                     MFE: -19.430<br>
-                    ENS: 0.984<br>
+                    ENS: 0.983<br>
                     Length: 84.<br>
                     Predicted Ligands:<br>
-                    cyclic-di-GMP - 20/20<br>
-                    <br>
+                    cyclic-di-GMP - 12/20<br>
+                    GMP - 8/20<br>
                     <br>         
             </td>
             <td>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1104_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1104_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1104_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1104_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA092644     | URS00003AC1AB_212717     | URS0000C041FA_1695218     | URS0000C6EDBB_1415775     |
 | <span title="Length of the sequence in question">Length</span>  | 84.     |  83.    | 83.   |  84.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.984 | 0.982 | 0.984 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.984 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.983 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -19.430 | -10.395 | -17.088 | -13.378 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cyclic-di-GMP | cyclic-di-GMP | cyclic-di-GMP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | RPL9 | - | - | - |

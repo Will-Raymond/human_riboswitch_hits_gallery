@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA000178<br>
                     Gene: AASDH_0<br>
                     MFE: -41.821<br>
-                    ENS: 0.935<br>
+                    ENS: 0.830<br>
                     Length: 190.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 11/20<br>
+                    lysine - 6/20<br>
+                    SAM - 1/20<br>         
             </td>
             <td>
                     RS: URS0000C1CF60_33936<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_4_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_4_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_4_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_4_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA000178     | URS0000C1CF60_33936     | URS0002332576_1297750     | URS0002331F84_1121429     |
 | <span title="Length of the sequence in question">Length</span>  | 190.     |  192.    | 187.   |  184.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.935 | 0.934 | 0.894 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.935 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.830 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -41.821 | -45.202 | -33.654 | -56.648 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | SAM | cobalamin | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | AASDH | - | - | - |

@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA112400<br>
                     Gene: TOP3B<br>
                     MFE: -59.164<br>
-                    ENS: 0.958<br>
+                    ENS: 0.764<br>
                     Length: 183.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 12/20<br>
+                    Mn2+ - 5/20<br>
+                    FMN - 3/20<br>         
             </td>
             <td>
                     RS: URS0000D95654_1797542<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1356_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1356_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1356_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1356_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA112400     | URS0000D95654_1797542     | URS0002318964_1358423     | URS0002330BA7_1168065     |
 | <span title="Length of the sequence in question">Length</span>  | 183.     |  182.    | 186.   |  181.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.958 | 0.942 | 0.942 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.958 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.764 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -59.164 | -66.842 | -33.608 | -57.918 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | FMN | cobalamin | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | TOP3B | - | - | - |

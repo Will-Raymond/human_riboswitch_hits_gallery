@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA054181<br>
                     Gene: ITGB6<br>
                     MFE: -2.695<br>
-                    ENS: 0.984<br>
+                    ENS: 0.883<br>
                     Length: 41.<br>
                     Predicted Ligands:<br>
-                    preQ_1 - 20/20<br>
-                    <br>
-                    <br>         
+                    preQ_1 - 12/20<br>
+                    SAM - 7/20<br>
+                    guanidine - 1/20<br>         
             </td>
             <td>
                     RS: URS0000DA5DE4_459472<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_566_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_566_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_566_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_566_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA054181     | URS0000DA5DE4_459472     | URS0000C32ABE_1476     | URS0000BE9632_1514904     |
 | <span title="Length of the sequence in question">Length</span>  | 41.     |  44.    | 44.   |  41.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.984 | 0.984 | 0.990 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.984 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.883 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -2.695 | -6.002 | -6.002 | -10.995 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | preQ_1 | preQ_1 | SAM |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | ITGB6 | - | - | - |

@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA058926<br>
                     Gene: LIG3<br>
                     MFE: -44.964<br>
-                    ENS: 0.963<br>
+                    ENS: 0.793<br>
                     Length: 133.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 8/20<br>
+                    FMN - 3/20<br>
+                    TPP - 3/20<br>         
             </td>
             <td>
                     RS: URS0000D83D4A_134849<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_623_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_623_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_623_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_623_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA058926     | URS0000D83D4A_134849     | URS0002317B58_700597     | URS0000C394F0_1629719     |
 | <span title="Length of the sequence in question">Length</span>  | 133.     |  132.    | 131.   |  135.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.963 | 0.960 | 0.965 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.963 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.793 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -44.964 | -59.592 | -51.947 | -35.848 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | methionine | cobalamin | FMN |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | LIG3 | - | - | - |

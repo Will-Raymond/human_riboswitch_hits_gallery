@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA017840<br>
                     Gene: CAST<br>
                     MFE: -28.728<br>
-                    ENS: 0.975<br>
+                    ENS: 0.847<br>
                     Length: 104.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
-                    <br>
-                    <br>         
+                    TPP - 17/20<br>
+                    purine - 1/20<br>
+                    methionine - 1/20<br>         
             </td>
             <td>
                     RS: URS0000C2C535_1736381<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_148_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_148_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_148_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_148_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA017840     | URS0000C2C535_1736381     | URS0000C456D0_1502851     | URS0000DAC93F_1316679     |
 | <span title="Length of the sequence in question">Length</span>  | 104.     |  102.    | 105.   |  106.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.975 | 0.973 | 0.974 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.975 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.847 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -28.728 | -39.837 | -33.007 | -40.799 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | TPP | TPP | TPP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | CAST | - | - | - |

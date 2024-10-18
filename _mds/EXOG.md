@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA037262<br>
                     Gene: EXOG<br>
                     MFE: -10.492<br>
-                    ENS: 0.991<br>
+                    ENS: 0.960<br>
                     Length: 48.<br>
                     Predicted Ligands:<br>
-                    glutamine - 20/20<br>
-                    <br>
-                    <br>         
+                    glutamine - 14/20<br>
+                    preQ_1 - 4/20<br>
+                    unknown - 2/20<br>         
             </td>
             <td>
                     RS: URS0000DB6390_708126<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_359_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_359_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_359_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_359_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA037262     | URS0000DB6390_708126     | URS0000D6ADBA_12908     | URS0000C7DE01_12908     |
 | <span title="Length of the sequence in question">Length</span>  | 48.     |  46.    | 49.   |  47.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.991 | 0.990 | 0.988 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.991 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.960 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -10.492 | -8.606 | -13. | -8.438 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | preQ_1 | glutamine | glutamine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | EXOG | - | - | - |

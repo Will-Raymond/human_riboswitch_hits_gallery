@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA103232<br>
                     Gene: SPDYA_0<br>
                     MFE: -58.254<br>
-                    ENS: 0.958<br>
+                    ENS: 0.955<br>
                     Length: 157.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 7/20<br>
+                    SAM - 5/20<br>
+                    glycine - 2/20<br>         
             </td>
             <td>
                     RS: URS0000DA7FB8_225345<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1252_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1252_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1252_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1252_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA103232     | URS0000DA7FB8_225345     | URS0000C5F770_1632865     | URS0000C761FE_1262887     |
 | <span title="Length of the sequence in question">Length</span>  | 157.     |  159.    | 157.   |  155.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.958 | 0.946 | 0.947 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.958 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.955 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -58.254 | -31.234 | -56.690 | -37.469 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | glycine | glycine | SAM |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | SPDYA | - | - | - |

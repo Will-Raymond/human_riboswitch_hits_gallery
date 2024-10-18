@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA096226<br>
                     Gene: SENP2_0<br>
                     MFE: -16.335<br>
-                    ENS: 0.983<br>
+                    ENS: 0.811<br>
                     Length: 84.<br>
                     Predicted Ligands:<br>
-                    zmp-ztp - 20/20<br>
-                    <br>
-                    <br>         
+                    zmp-ztp - 6/20<br>
+                    cyclic-di-GMP - 4/20<br>
+                    glycine - 3/20<br>         
             </td>
             <td>
                     RS: URS0000BF8AA2_273057<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1173_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1173_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1173_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1173_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA096226     | URS0000BF8AA2_273057     | URS0000C110CF_515622     | URS0000DABB86_1978762     |
 | <span title="Length of the sequence in question">Length</span>  | 84.     |  85.    | 86.   |  81.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.983 | 0.981 | 0.977 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.983 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.811 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -16.335 | -29.144 | -19.766 | -32.026 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | fluoride | zmp-ztp | zmp-ztp |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | SENP2 | - | - | - |

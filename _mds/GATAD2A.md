@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA043346<br>
                     Gene: GATAD2A<br>
                     MFE: -95.782<br>
-                    ENS: 0.878<br>
+                    ENS: 0.730<br>
                     Length: 220.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 18/20<br>
+                    lysine - 1/20<br>
+                    TPP - 1/20<br>         
             </td>
             <td>
                     RS: URS0002322EDD_1895795<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_429_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_429_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_429_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_429_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA043346     | URS0002322EDD_1895795     | URS0002325BE1_1470557     | URS00023129C4_89968     |
 | <span title="Length of the sequence in question">Length</span>  | 220.     |  219.    | 223.   |  224.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.878 | 0.893 | 0.833 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.878 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.730 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -95.782 | -81.629 | -92.877 | -70.528 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | cobalamin | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | GATAD2A | - | - | - |

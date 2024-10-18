@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA083495<br>
                     Gene: PPME1<br>
                     MFE: -45.708<br>
-                    ENS: 0.951<br>
+                    ENS: 0.792<br>
                     Length: 124.<br>
                     Predicted Ligands:<br>
-                    FMN - 20/20<br>
-                    <br>
-                    <br>         
+                    FMN - 8/20<br>
+                    TPP - 5/20<br>
+                    cobalamin - 3/20<br>         
             </td>
             <td>
                     RS: URS0000C1771C_1227261<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_931_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_931_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_931_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_931_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA083495     | URS0000C1771C_1227261     | URS0000AB28DC_765420     | URS0002331370_1108812     |
 | <span title="Length of the sequence in question">Length</span>  | 124.     |  119.    | 125.   |  126.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.951 | 0.960 | 0.956 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.951 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.792 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -45.708 | -44.085 | -39.532 | -47.538 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | FMN | FMN | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | PPME1 | - | - | - |

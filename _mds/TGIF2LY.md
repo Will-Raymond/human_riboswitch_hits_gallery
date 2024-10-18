@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA108870<br>
                     Gene: TGIF2LY<br>
                     MFE: -21.343<br>
-                    ENS: 0.979<br>
+                    ENS: 0.811<br>
                     Length: 89.<br>
                     Predicted Ligands:<br>
-                    zmp-ztp - 20/20<br>
-                    <br>
-                    <br>         
+                    zmp-ztp - 7/20<br>
+                    TPP - 5/20<br>
+                    GMP - 2/20<br>         
             </td>
             <td>
                     RS: URS0000DB26FC_1179773<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1310_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1310_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1310_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1310_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA108870     | URS0000DB26FC_1179773     | URS0000C3A79E_1531966     | URS0000C32A28_298654     |
 | <span title="Length of the sequence in question">Length</span>  | 89.     |  87.    | 90.   |  87.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.979 | 0.984 | 0.980 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.979 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.811 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -21.343 | -32.826 | -21.662 | -37.396 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | zmp-ztp | TPP | zmp-ztp |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | TGIF2LY | - | - | - |

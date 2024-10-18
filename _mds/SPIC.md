@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA103295<br>
                     Gene: SPIC<br>
                     MFE: -5.525<br>
-                    ENS: 0.980<br>
+                    ENS: 0.691<br>
                     Length: 51.<br>
                     Predicted Ligands:<br>
-                    unknown - 20/20<br>
-                    <br>
-                    <br>         
+                    unknown - 13/20<br>
+                    SAM - 3/20<br>
+                    Ni/Co - 1/20<br>         
             </td>
             <td>
                     RS: URS0000D6993C_12908<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1254_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1254_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1254_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1254_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA103295     | URS0000D6993C_12908     | URS0000D6AF81_12908     | URS0000E5FE2F_1423763     |
 | <span title="Length of the sequence in question">Length</span>  | 51.     |  55.    | 47.   |  51.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.980 | 0.979 | 0.990 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.980 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.691 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -5.525 | -25.158 | -8.707 | -6.778 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | unknown | unknown | unknown |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | SPIC | - | - | - |

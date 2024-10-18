@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA112083<br>
                     Gene: TNNI3K_0<br>
                     MFE: -5.137<br>
-                    ENS: 0.989<br>
+                    ENS: 0.938<br>
                     Length: 41.<br>
                     Predicted Ligands:<br>
-                    SAM - 20/20<br>
-                    <br>
-                    <br>         
+                    SAM - 11/20<br>
+                    preQ_1 - 7/20<br>
+                    zmp-ztp - 1/20<br>         
             </td>
             <td>
                     RS: URS00021EE109_12908<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1354_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1354_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1354_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1354_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA112083     | URS00021EE109_12908     | URS00023316D7_471853     | URS00021EDCF9_12908     |
 | <span title="Length of the sequence in question">Length</span>  | 41.     |  43.    | 41.   |  43.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.989 | 0.991 | 0.988 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.989 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.938 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -5.137 | -5.992 | -15.636 | -8.392 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | SAM | zmp-ztp | SAM |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | TNNI3K | - | - | - |

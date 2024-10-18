@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA032829<br>
                     Gene: DYNC1LI1<br>
                     MFE: -49.730<br>
-                    ENS: 0.976<br>
+                    ENS: 0.978<br>
                     Length: 113.<br>
                     Predicted Ligands:<br>
-                    methionine - 20/20<br>
-                    <br>
-                    <br>         
+                    methionine - 12/20<br>
+                    TPP - 3/20<br>
+                    cobalamin - 2/20<br>         
             </td>
             <td>
                     RS: URS0000BE6846_1408250<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_312_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_312_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_312_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_312_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA032829     | URS0000BE6846_1408250     | URS0000AB716A_1033810     | URS0000BE9DE3_1588023     |
 | <span title="Length of the sequence in question">Length</span>  | 113.     |  116.    | 115.   |  114.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.976 | 0.979 | 0.976 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.976 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.978 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -49.730 | -55.683 | -30.083 | -56.431 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | methionine | tetrahydrofolate | methionine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | DYNC1LI1 | - | - | - |

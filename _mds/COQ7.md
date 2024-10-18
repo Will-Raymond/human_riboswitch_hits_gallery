@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA024360<br>
                     Gene: COQ7<br>
                     MFE: -19.822<br>
-                    ENS: 0.980<br>
+                    ENS: 0.957<br>
                     Length: 85.<br>
                     Predicted Ligands:<br>
-                    cyclic-di-GMP - 20/20<br>
-                    <br>
-                    <br>         
+                    cyclic-di-GMP - 11/20<br>
+                    guanidine - 5/20<br>
+                    Mg2+ - 1/20<br>         
             </td>
             <td>
                     RS: URS0000D689A1_290402<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_226_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_226_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_226_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_226_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA024360     | URS0000D689A1_290402     | URS0000AB2F94_1042163     | URS0000D816C4_225345     |
 | <span title="Length of the sequence in question">Length</span>  | 85.     |  83.    | 86.   |  83.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.980 | 0.984 | 0.979 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.980 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.957 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -19.822 | -11.678 | -25.745 | -10.096 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cyclic-di-GMP | Mg2+ | cyclic-di-GMP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | COQ7 | - | - | - |

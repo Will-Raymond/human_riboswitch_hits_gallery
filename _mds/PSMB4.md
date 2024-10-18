@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA085512<br>
                     Gene: PSMB4<br>
                     MFE: -16.685<br>
-                    ENS: 0.992<br>
+                    ENS: 0.915<br>
                     Length: 48.<br>
                     Predicted Ligands:<br>
-                    SAM - 20/20<br>
-                    <br>
-                    <br>         
+                    SAM - 15/20<br>
+                    glutamine - 2/20<br>
+                    unknown - 2/20<br>         
             </td>
             <td>
                     RS: URS0000DA9B35_163877<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_959_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_959_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_959_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_959_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA085512     | URS0000DA9B35_163877     | URS00021EDC9D_690417     | URS00021EE08A_388739     |
 | <span title="Length of the sequence in question">Length</span>  | 48.     |  48.    | 49.   |  47.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.992 | 0.990 | 0.988 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.992 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.915 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -16.685 | -9.292 | -11.692 | -14.042 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | preQ_1 | SAM | SAM |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | PSMB4 | - | - | - |

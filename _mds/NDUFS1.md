@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA071289<br>
                     Gene: NDUFS1<br>
                     MFE: -60.199<br>
-                    ENS: 0.954<br>
+                    ENS: 0.820<br>
                     Length: 152.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 10/20<br>
+                    FMN - 6/20<br>
+                    glucosamine - 4/20<br>         
             </td>
             <td>
                     RS: URS00023142FE_1655575<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_784_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_784_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_784_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_784_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA071289     | URS00023142FE_1655575     | URS000231267C_560556     | URS000048C33A_1095750     |
 | <span title="Length of the sequence in question">Length</span>  | 152.     |  149.    | 151.   |  153.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.954 | 0.961 | 0.955 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.954 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.820 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -60.199 | -44.840 | -58.239 | -31.343 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | cobalamin | glucosamine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | NDUFS1 | - | - | - |

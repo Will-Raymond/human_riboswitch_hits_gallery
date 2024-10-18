@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA113975<br>
                     Gene: TRPC3<br>
                     MFE: -36.479<br>
-                    ENS: 0.984<br>
+                    ENS: 0.645<br>
                     Length: 99.<br>
                     Predicted Ligands:<br>
-                    guanidine - 20/20<br>
-                    <br>
-                    <br>         
+                    guanidine - 10/20<br>
+                    TPP - 5/20<br>
+                    purine - 2/20<br>         
             </td>
             <td>
                     RS: URS0000C39470_1158610<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1373_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1373_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1373_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1373_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA113975     | URS0000C39470_1158610     | URS0000AB223C_1300150     | URS0000C6174B_27334     |
 | <span title="Length of the sequence in question">Length</span>  | 99.     |  98.    | 98.   |  97.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.984 | 0.981 | 0.971 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.984 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.645 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -36.479 | -25.345 | -22.385 | -17.809 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | guanidine | TPP | TPP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | TRPC3 | - | - | - |

@@ -29,10 +29,10 @@ exclude: true
                     UTR: 5HSAA006140<br>
                     Gene: ARHGAP11B<br>
                     MFE: -47.415<br>
-                    ENS: 0.939<br>
+                    ENS: 0.850<br>
                     Length: 170.<br>
                     Predicted Ligands:<br>
-                    Mg2+ - 20/20<br>
+                    Mg2+ - 20/20 - 20/20<br>
                     <br>
                     <br>         
             </td>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_69_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_69_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_69_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_69_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA006140     | URS0000C7F3EF_1734396     | URS0000C1DC63_1536651     | URS0000ABC7B3_387344     |
 | <span title="Length of the sequence in question">Length</span>  | 170.     |  166.    | 166.   |  167.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.939 | 0.929 | 0.950 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.939 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.850 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -47.415 | -40.036 | -43.292 | -39.707 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | Mg2+ | Mg2+ | Mg2+ |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | ARHGAP11B | - | - | - |

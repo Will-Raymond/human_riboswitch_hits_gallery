@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA087150<br>
                     Gene: QRICH1_0<br>
                     MFE: -26.819<br>
-                    ENS: 0.965<br>
+                    ENS: 0.655<br>
                     Length: 140.<br>
                     Predicted Ligands:<br>
-                    SAM - 20/20<br>
-                    <br>
-                    <br>         
+                    SAM - 7/20<br>
+                    cobalamin - 4/20<br>
+                    glucosamine - 3/20<br>         
             </td>
             <td>
                     RS: URS000073D46C_1032505<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1000_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1000_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1000_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1000_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA087150     | URS000073D46C_1032505     | URS0000AB3E8A_906968     | URS0000C1BF51_1519464     |
 | <span title="Length of the sequence in question">Length</span>  | 140.     |  139.    | 143.   |  137.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.965 | 0.956 | 0.949 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.965 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.655 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -26.819 | -27.304 | -30.391 | -37.751 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | glucosamine | purine | SAM |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | QRICH1 | - | - | - |

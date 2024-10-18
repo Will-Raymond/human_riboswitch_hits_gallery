@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA051412<br>
                     Gene: HYLS1<br>
                     MFE: -48.726<br>
-                    ENS: 0.973<br>
+                    ENS: 0.867<br>
                     Length: 125.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
-                    <br>
-                    <br>         
+                    TPP - 7/20<br>
+                    molybdenum - 7/20<br>
+                    glucosamine - 1/20<br>         
             </td>
             <td>
                     RS: URS0000C0D256_948458<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_532_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_532_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_532_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_532_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA051412     | URS0000C0D256_948458     | URS0000DA7347_1963862     | URS0000ABA35C_429009     |
 | <span title="Length of the sequence in question">Length</span>  | 125.     |  124.    | 122.   |  125.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.973 | 0.965 | 0.966 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.973 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.867 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -48.726 | -52.458 | -42.863 | -48.079 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | TPP | molybdenum | molybdenum |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | HYLS1 | - | - | - |

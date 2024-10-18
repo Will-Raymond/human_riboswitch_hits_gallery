@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA067525<br>
                     Gene: MRPL45<br>
                     MFE: -19.645<br>
-                    ENS: 0.967<br>
+                    ENS: 0.832<br>
                     Length: 129.<br>
                     Predicted Ligands:<br>
-                    FMN - 20/20<br>
-                    <br>
-                    <br>         
+                    FMN - 12/20<br>
+                    SAM - 4/20<br>
+                    cobalamin - 3/20<br>         
             </td>
             <td>
                     RS: URS0000C10783_284581<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_731_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_731_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_731_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_731_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA067525     | URS0000C10783_284581     | URS0002328F57_767029     | URS0000DBCCB8_256318     |
 | <span title="Length of the sequence in question">Length</span>  | 129.     |  127.    | 127.   |  130.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.967 | 0.956 | 0.960 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.967 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.832 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -19.645 | -35. | -39.272 | -47.409 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | SAM | cobalamin | FMN |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | MRPL45 | - | - | - |

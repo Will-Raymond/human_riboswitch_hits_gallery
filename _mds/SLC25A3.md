@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA099252<br>
                     Gene: SLC25A3<br>
                     MFE: -55.845<br>
-                    ENS: 0.967<br>
+                    ENS: 0.976<br>
                     Length: 145.<br>
                     Predicted Ligands:<br>
-                    FMN - 20/20<br>
-                    <br>
-                    <br>         
+                    FMN - 14/20<br>
+                    cobalamin - 5/20<br>
+                    TPP - 1/20<br>         
             </td>
             <td>
                     RS: URS0002327C7E_1895848<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1198_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1198_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1198_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1198_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA099252     | URS0002327C7E_1895848     | URS0000C2B060_1712029     | URS0000ABC41E_360911     |
 | <span title="Length of the sequence in question">Length</span>  | 145.     |  145.    | 148.   |  143.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.967 | 0.959 | 0.962 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.967 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.976 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -55.845 | -54.805 | -36.415 | -45.638 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | FMN | FMN |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | SLC25A3 | - | - | - |

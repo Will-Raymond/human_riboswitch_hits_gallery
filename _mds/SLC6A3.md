@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA100651<br>
                     Gene: SLC6A3<br>
                     MFE: -9.915<br>
-                    ENS: 0.989<br>
+                    ENS: 0.976<br>
                     Length: 58.<br>
                     Predicted Ligands:<br>
-                    fluoride - 20/20<br>
-                    <br>
-                    <br>         
+                    fluoride - 10/20<br>
+                    glutamine - 5/20<br>
+                    unknown - 4/20<br>         
             </td>
             <td>
                     RS: URS0000BF456D_497965<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1211_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1211_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1211_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1211_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA100651     | URS0000BF456D_497965     | URS0000BFF581_521045     | URS0000C462F6_1629717     |
 | <span title="Length of the sequence in question">Length</span>  | 58.     |  58.    | 60.   |  57.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.989 | 0.985 | 0.985 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.989 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.976 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -9.915 | -11.973 | -17.971 | -16.930 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | glutamine | fluoride | fluoride |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | SLC6A3 | - | - | - |

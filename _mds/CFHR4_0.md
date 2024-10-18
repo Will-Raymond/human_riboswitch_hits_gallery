@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA021326<br>
                     Gene: CFHR4_0<br>
                     MFE: -29.157<br>
-                    ENS: 0.957<br>
+                    ENS: 0.894<br>
                     Length: 162.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 13/20<br>
+                    Mg2+ - 3/20<br>
+                    FMN - 3/20<br>         
             </td>
             <td>
                     RS: URS00023254C3_1240678<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_188_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_188_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_188_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_188_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA021326     | URS00023254C3_1240678     | URS0000D8905F_1897011     | URS000231FF39_1736486     |
 | <span title="Length of the sequence in question">Length</span>  | 162.     |  162.    | 163.   |  161.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.957 | 0.957 | 0.930 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.957 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.894 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -29.157 | -67.113 | -45.726 | -69.614 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | Mg2+ | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | CFHR4 | - | - | - |

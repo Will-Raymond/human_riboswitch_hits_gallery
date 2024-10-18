@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA031117-20<br>
                     Gene: DNAJC7<br>
                     MFE: -29.808<br>
-                    ENS: 0.948<br>
+                    ENS: 0.898<br>
                     Length: 107.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
-                    <br>
-                    <br>         
+                    TPP - 14/20<br>
+                    purine - 3/20<br>
+                    guanidine - 2/20<br>         
             </td>
             <td>
                     RS: URS0000C5BF6B_1131935<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_303_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_303_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_303_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_303_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA031117-20     | URS0000C5BF6B_1131935     | URS0000D9799E_1450648     | URS00019D5B5C_434008     |
 | <span title="Length of the sequence in question">Length</span>  | 107.     |  102.    | 104.   |  107.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.948 | 0.956 | 0.971 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.948 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.898 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -29.808 | -18. | -23.293 | -34.620 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | purine | TPP | TPP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | DNAJC7 | - | - | - |

@@ -29,10 +29,10 @@ exclude: true
                     UTR: 5HSAA076074<br>
                     Gene: PACRGL<br>
                     MFE: -79.219<br>
-                    ENS: 0.944<br>
+                    ENS: 0.762<br>
                     Length: 195.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
+                    cobalamin - 20/20 - 20/20<br>
                     <br>
                     <br>         
             </td>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_843_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_843_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_843_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_843_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA076074     | URS0002332912_1799653     | URS00023219C0_485916     | URS00023238F7_1801705     |
 | <span title="Length of the sequence in question">Length</span>  | 195.     |  194.    | 194.   |  192.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.944 | 0.936 | 0.924 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.944 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.762 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -79.219 | -75.332 | -65.210 | -54.807 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | cobalamin | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | PACRGL | - | - | - |

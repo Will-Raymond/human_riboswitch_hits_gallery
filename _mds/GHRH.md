@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA044098<br>
                     Gene: GHRH<br>
                     MFE: -19.521<br>
-                    ENS: 0.987<br>
+                    ENS: 0.703<br>
                     Length: 62.<br>
                     Predicted Ligands:<br>
-                    fluoride - 20/20<br>
-                    <br>
-                    <br>         
+                    fluoride - 14/20<br>
+                    unknown - 3/20<br>
+                    glutamine - 2/20<br>         
             </td>
             <td>
                     RS: URS0000DA4003_1121425<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_439_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_439_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_439_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_439_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA044098     | URS0000DA4003_1121425     | URS0000BEFB3E_426355     | URS00008FED37_32046     |
 | <span title="Length of the sequence in question">Length</span>  | 62.     |  62.    | 62.   |  61.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.987 | 0.987 | 0.988 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.987 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.703 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -19.521 | -18.535 | -20.263 | -21.917 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | fluoride | fluoride | glutamine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | GHRH | - | - | - |

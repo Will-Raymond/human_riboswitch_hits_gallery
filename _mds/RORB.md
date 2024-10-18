@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA092113<br>
                     Gene: RORB<br>
                     MFE: -14.135<br>
-                    ENS: 0.986<br>
+                    ENS: 0.895<br>
                     Length: 74.<br>
                     Predicted Ligands:<br>
-                    fluoride - 20/20<br>
-                    <br>
-                    <br>         
+                    fluoride - 12/20<br>
+                    cobalamin - 6/20<br>
+                    homocysteine - 1/20<br>         
             </td>
             <td>
                     RS: URS0000DB308C_1797823<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1080_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1080_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1080_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1080_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA092113     | URS0000DB308C_1797823     | URS0000C34D89_1715989     | URS000232F9E5_61635     |
 | <span title="Length of the sequence in question">Length</span>  | 74.     |  76.    | 72.   |  75.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.986 | 0.986 | 0.987 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.986 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.895 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -14.135 | -20.366 | -20.266 | -12.616 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | fluoride | fluoride | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | RORB | - | - | - |

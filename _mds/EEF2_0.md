@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA033474<br>
                     Gene: EEF2_0<br>
                     MFE: -34.267<br>
-                    ENS: 0.982<br>
+                    ENS: 0.949<br>
                     Length: 109.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
-                    <br>
-                    <br>         
+                    TPP - 18/20<br>
+                    glycine - 1/20<br>
+                    cobalamin - 1/20<br>         
             </td>
             <td>
                     RS: URS0000D8DEFD_1928617<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_318_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_318_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_318_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_318_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA033474     | URS0000D8DEFD_1928617     | URS00023346D4_411471     | URS0000C7FC8A_931626     |
 | <span title="Length of the sequence in question">Length</span>  | 109.     |  110.    | 109.   |  108.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.982 | 0.976 | 0.977 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.982 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.949 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -34.267 | -29.099 | -29.299 | -17.757 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | TPP | TPP | glycine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | EEF2 | - | - | - |

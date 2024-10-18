@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA093228<br>
                     Gene: RPSA_0<br>
                     MFE: -36.501<br>
-                    ENS: 0.961<br>
+                    ENS: 0.930<br>
                     Length: 134.<br>
                     Predicted Ligands:<br>
-                    FMN - 20/20<br>
-                    <br>
-                    <br>         
+                    FMN - 12/20<br>
+                    cobalamin - 3/20<br>
+                    molybdenum - 2/20<br>         
             </td>
             <td>
                     RS: URS0000D7DA9F_393763<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1120_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1120_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1120_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1120_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA093228     | URS0000D7DA9F_393763     | URS0000C84DB1_1262892     | URS0000D97884_1917422     |
 | <span title="Length of the sequence in question">Length</span>  | 134.     |  134.    | 133.   |  131.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.961 | 0.969 | 0.960 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.961 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.930 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -36.501 | -30. | -30.284 | -28.317 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | SAM | zmp-ztp | FMN |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | RPSA | - | - | - |

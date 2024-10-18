@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA059278<br>
                     Gene: LLPH<br>
                     MFE: -17.548<br>
-                    ENS: 0.978<br>
+                    ENS: 0.939<br>
                     Length: 81.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 6/20<br>
+                    SAM - 5/20<br>
+                    zmp-ztp - 4/20<br>         
             </td>
             <td>
                     RS: URS0002332722_12908<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_628_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_628_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_628_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_628_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA059278     | URS0002332722_12908     | URS0000D67EE2_12908     | URS0000C02E9B_1620421     |
 | <span title="Length of the sequence in question">Length</span>  | 81.     |  81.    | 83.   |  79.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.978 | 0.978 | 0.976 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.978 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.939 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -17.548 | -20.657 | -26.851 | -25.195 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | GMP | SAM |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | LLPH | - | - | - |

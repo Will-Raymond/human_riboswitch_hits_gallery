@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA047453<br>
                     Gene: GTSE1<br>
                     MFE: -64.057<br>
-                    ENS: 0.944<br>
+                    ENS: 0.876<br>
                     Length: 180.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 14/20<br>
+                    lysine - 4/20<br>
+                    molybdenum - 1/20<br>         
             </td>
             <td>
                     RS: URS0002326339_1801750<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_473_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_473_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_473_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_473_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA047453     | URS0002326339_1801750     | URS00003668B0_1266370     | URS0002324788_1797908     |
 | <span title="Length of the sequence in question">Length</span>  | 180.     |  183.    | 183.   |  180.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.944 | 0.924 | 0.940 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.944 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.876 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -64.057 | -37.150 | -51.862 | -62.394 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | cobalamin | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | GTSE1 | - | - | - |

@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA080646<br>
                     Gene: PKD2L2<br>
                     MFE: -33.113<br>
-                    ENS: 0.983<br>
+                    ENS: 0.911<br>
                     Length: 81.<br>
                     Predicted Ligands:<br>
-                    zmp-ztp - 20/20<br>
-                    <br>
-                    <br>         
+                    zmp-ztp - 6/20<br>
+                    homocysteine - 5/20<br>
+                    TPP - 4/20<br>         
             </td>
             <td>
                     RS: URS0002323A18_1538294<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_891_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_891_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_891_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_891_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA080646     | URS0002323A18_1538294     | URS000231FF35_560556     | URS0000BF2FE6_1714344     |
 | <span title="Length of the sequence in question">Length</span>  | 81.     |  83.    | 82.   |  80.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.983 | 0.984 | 0.983 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.983 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.911 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -33.113 | -36.330 | -33.203 | -19.682 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | zmp-ztp | zmp-ztp | SAM |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | PKD2L2 | - | - | - |

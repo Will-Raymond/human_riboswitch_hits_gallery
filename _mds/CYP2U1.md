@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA027729<br>
                     Gene: CYP2U1<br>
                     MFE: -20.977<br>
-                    ENS: 0.991<br>
+                    ENS: 0.852<br>
                     Length: 51.<br>
                     Predicted Ligands:<br>
-                    glutamine - 20/20<br>
-                    <br>
-                    <br>         
+                    glutamine - 9/20<br>
+                    unknown - 7/20<br>
+                    SAM - 2/20<br>         
             </td>
             <td>
                     RS: URS0000D68C5A_12908<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_260_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_260_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_260_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_260_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA027729     | URS0000D68C5A_12908     | URS0000C49C25_12908     | URS0000C7168F_12908     |
 | <span title="Length of the sequence in question">Length</span>  | 51.     |  52.    | 52.   |  48.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.991 | 0.989 | 0.985 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.991 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.852 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -20.977 | -8.266 | -13.116 | -6.675 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | glutamine | glutamine | glutamine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | CYP2U1 | - | - | - |

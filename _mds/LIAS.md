@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA058897<br>
                     Gene: LIAS<br>
                     MFE: -26.171<br>
-                    ENS: 0.983<br>
+                    ENS: 0.868<br>
                     Length: 98.<br>
                     Predicted Ligands:<br>
-                    purine - 20/20<br>
-                    <br>
-                    <br>         
+                    purine - 18/20<br>
+                    TPP - 1/20<br>
+                    cobalamin - 1/20<br>         
             </td>
             <td>
                     RS: URS0000C6E6FF_1262961<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_621_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_621_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_621_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_621_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA058897     | URS0000C6E6FF_1262961     | URS0000AB988A_272621     | URS0000AB9E09_526218     |
 | <span title="Length of the sequence in question">Length</span>  | 98.     |  99.    | 98.   |  98.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.983 | 0.983 | 0.982 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.983 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.868 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -26.171 | -24.440 | -14.939 | -19.199 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | purine | purine | purine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | LIAS | - | - | - |

@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA047488<br>
                     Gene: GUCY2D<br>
                     MFE: -44.146<br>
-                    ENS: 0.975<br>
+                    ENS: 0.917<br>
                     Length: 99.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
-                    <br>
-                    <br>         
+                    TPP - 11/20<br>
+                    glycine - 3/20<br>
+                    zmp-ztp - 2/20<br>         
             </td>
             <td>
                     RS: URS0000AB764C_910954<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_476_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_476_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_476_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_476_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA047488     | URS0000AB764C_910954     | URS0000C84446_1666909     | URS0000C1EEA0_1523621     |
 | <span title="Length of the sequence in question">Length</span>  | 99.     |  97.    | 96.   |  98.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.975 | 0.966 | 0.970 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.975 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.917 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -44.146 | -36.601 | -25.306 | -34.772 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | glycine | TPP | TPP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | GUCY2D | - | - | - |

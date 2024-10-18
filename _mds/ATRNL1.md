@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA008901<br>
                     Gene: ATRNL1<br>
                     MFE: -22.029<br>
-                    ENS: 0.981<br>
+                    ENS: 0.953<br>
                     Length: 85.<br>
                     Predicted Ligands:<br>
-                    zmp-ztp - 20/20<br>
-                    <br>
-                    <br>         
+                    zmp-ztp - 4/20<br>
+                    glycine - 4/20<br>
+                    TPP - 3/20<br>         
             </td>
             <td>
                     RS: URS0000D96938_1805400<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_100_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_100_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_100_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_100_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA008901     | URS0000D96938_1805400     | URS0000C06979_1704277     | URS0000DA2A69_1121306     |
 | <span title="Length of the sequence in question">Length</span>  | 85.     |  84.    | 86.   |  88.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.981 | 0.981 | 0.977 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.981 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.953 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -22.029 | -16.617 | -30.970 | -17.931 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cyclic-di-GMP | zmp-ztp | TPP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | ATRNL1 | - | - | - |

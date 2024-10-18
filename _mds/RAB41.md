@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA087598<br>
                     Gene: RAB41<br>
                     MFE: -20.503<br>
-                    ENS: 0.985<br>
+                    ENS: 0.836<br>
                     Length: 71.<br>
                     Predicted Ligands:<br>
-                    homocysteine - 20/20<br>
-                    <br>
-                    <br>         
+                    homocysteine - 12/20<br>
+                    fluoride - 2/20<br>
+                    SAM - 2/20<br>         
             </td>
             <td>
                     RS: URS0000D7CCB0_1802374<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1013_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1013_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1013_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1013_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA087598     | URS0000D7CCB0_1802374     | URS0000ABD55F_292415     | URS0000D921CB_1660145     |
 | <span title="Length of the sequence in question">Length</span>  | 71.     |  71.    | 71.   |  71.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.985 | 0.984 | 0.984 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.985 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.836 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -20.503 | -23.069 | -21.619 | -19.969 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | homocysteine | homocysteine | homocysteine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | RAB41 | - | - | - |

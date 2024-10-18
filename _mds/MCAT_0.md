@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA064155<br>
                     Gene: MCAT_0<br>
                     MFE: -29.<br>
-                    ENS: 0.981<br>
+                    ENS: 0.990<br>
                     Length: 75.<br>
                     Predicted Ligands:<br>
-                    SAM - 20/20<br>
-                    <br>
-                    <br>         
+                    SAM - 8/20<br>
+                    homocysteine - 6/20<br>
+                    fluoride - 3/20<br>         
             </td>
             <td>
                     RS: URS0000BFF99F_1189611<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_673_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_673_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_673_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_673_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA064155     | URS0000BFF99F_1189611     | URS0000C10111_1795631     | URS0000BE5287_1384459     |
 | <span title="Length of the sequence in question">Length</span>  | 75.     |  78.    | 76.   |  78.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.981 | 0.977 | 0.977 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.981 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.990 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -29. | -21.154 | -33.225 | -26.825 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | SAM | homocysteine | SAM |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | MCAT | - | - | - |

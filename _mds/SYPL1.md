@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA106394<br>
                     Gene: SYPL1<br>
                     MFE: -44.579<br>
-                    ENS: 0.975<br>
+                    ENS: 0.930<br>
                     Length: 107.<br>
                     Predicted Ligands:<br>
-                    glycine - 20/20<br>
-                    <br>
-                    <br>         
+                    glycine - 6/20<br>
+                    SAM - 5/20<br>
+                    purine - 3/20<br>         
             </td>
             <td>
                     RS: URS0000D7BC52_235985<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1290_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1290_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1290_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1290_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA106394     | URS0000D7BC52_235985     | URS0000C41E64_12930     | URS0000C08833_586416     |
 | <span title="Length of the sequence in question">Length</span>  | 107.     |  106.    | 108.   |  106.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.975 | 0.972 | 0.976 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.975 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.930 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -44.579 | -38.920 | -25.643 | -27.529 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | methionine | glycine | SAM |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | SYPL1 | - | - | - |

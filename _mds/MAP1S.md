@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA062246<br>
                     Gene: MAP1S<br>
                     MFE: -7.249<br>
-                    ENS: 0.989<br>
+                    ENS: 0.815<br>
                     Length: 34.<br>
                     Predicted Ligands:<br>
-                    preQ_1 - 20/20<br>
-                    <br>
-                    <br>         
+                    preQ_1 - 8/20<br>
+                    SAM - 8/20<br>
+                    unknown - 1/20<br>         
             </td>
             <td>
                     RS: URS000080E32E_119072<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_653_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_653_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_653_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_653_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA062246     | URS000080E32E_119072     | URS000080E020_32630     | URS000080E037_32630     |
 | <span title="Length of the sequence in question">Length</span>  | 34.     |  33.    | 34.   |  34.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.989 | 0.989 | 0.989 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.989 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.815 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -7.249 | -6.098 | -4.622 | -4.622 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | preQ_1 | preQ_1 | preQ_1 |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | MAP1S | - | - | - |

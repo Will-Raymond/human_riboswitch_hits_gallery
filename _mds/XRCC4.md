@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA120460<br>
                     Gene: XRCC4<br>
                     MFE: -34.424<br>
-                    ENS: 0.950<br>
+                    ENS: 0.951<br>
                     Length: 153.<br>
                     Predicted Ligands:<br>
-                    SAM - 20/20<br>
-                    <br>
-                    <br>         
+                    SAM - 6/20<br>
+                    cobalamin - 4/20<br>
+                    FMN - 4/20<br>         
             </td>
             <td>
                     RS: URS0002324815_1173263<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1464_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1464_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1464_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1464_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA120460     | URS0002324815_1173263     | URS0000AB7000_266265     | URS0000B32DC1_442121     |
 | <span title="Length of the sequence in question">Length</span>  | 153.     |  153.    | 148.   |  150.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.950 | 0.920 | 0.950 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.950 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.951 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -34.424 | -28.511 | -49.829 | -59.186 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | guanidine | FMN |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | XRCC4 | - | - | - |

@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA104362<br>
                     Gene: STAG2<br>
                     MFE: -38.996<br>
-                    ENS: 0.891<br>
+                    ENS: 0.743<br>
                     Length: 199.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 14/20<br>
+                    Mn2+ - 2/20<br>
+                    TPP - 1/20<br>         
             </td>
             <td>
                     RS: URS0000855EA2_1499688<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1268_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1268_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1268_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1268_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA104362     | URS0000855EA2_1499688     | URS0002313E0D_1798452     | URS0000DA8090_1801713     |
 | <span title="Length of the sequence in question">Length</span>  | 199.     |  192.    | 202.   |  203.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.891 | 0.933 | 0.915 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.891 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.743 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -38.996 | -45.866 | -53.169 | -56.653 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | cobalamin | TPP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | STAG2 | - | - | - |

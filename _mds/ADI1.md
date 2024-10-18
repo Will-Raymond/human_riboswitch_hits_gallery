@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA002484<br>
                     Gene: ADI1<br>
                     MFE: -36.181<br>
-                    ENS: 0.972<br>
+                    ENS: 0.922<br>
                     Length: 117.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
-                    <br>
-                    <br>         
+                    TPP - 15/20<br>
+                    FMN - 4/20<br>
+                    SAM - 1/20<br>         
             </td>
             <td>
                     RS: URS0000ABBB2D_997350<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_29_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_29_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_29_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_29_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA002484     | URS0000ABBB2D_997350     | URS0000D869F4_573058     | URS0000C50400_1849176     |
 | <span title="Length of the sequence in question">Length</span>  | 117.     |  116.    | 115.   |  114.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.972 | 0.971 | 0.967 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.972 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.922 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -36.181 | -28.195 | -24.980 | -26.402 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | FMN | FMN | TPP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | ADI1 | - | - | - |

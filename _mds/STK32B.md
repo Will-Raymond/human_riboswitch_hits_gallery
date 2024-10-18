@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA105097<br>
                     Gene: STK32B<br>
                     MFE: -54.857<br>
-                    ENS: 0.936<br>
+                    ENS: 0.807<br>
                     Length: 137.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 9/20<br>
+                    FMN - 4/20<br>
+                    glycine - 3/20<br>         
             </td>
             <td>
                     RS: URS0000DDC5E8_96344<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1273_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1273_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1273_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1273_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA105097     | URS0000DDC5E8_96344     | URS0000DABA43_1805133     | URS0000D8C01F_1121025     |
 | <span title="Length of the sequence in question">Length</span>  | 137.     |  138.    | 134.   |  137.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.936 | 0.948 | 0.960 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.936 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.807 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -54.857 | -42.011 | -45.221 | -19.874 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | glycine | cobalamin | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | STK32B | - | - | - |

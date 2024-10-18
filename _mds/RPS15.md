@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA092872<br>
                     Gene: RPS15<br>
                     MFE: -25.647<br>
-                    ENS: 0.982<br>
+                    ENS: 0.736<br>
                     Length: 87.<br>
                     Predicted Ligands:<br>
-                    guanidine - 20/20<br>
-                    <br>
-                    <br>         
+                    guanidine - 9/20<br>
+                    zmp-ztp - 8/20<br>
+                    GMP - 1/20<br>         
             </td>
             <td>
                     RS: URS0000D92743_1844478<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1108_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1108_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1108_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1108_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA092872     | URS0000D92743_1844478     | URS0000DAAB67_1043493     | URS0000C86E9D_1751294     |
 | <span title="Length of the sequence in question">Length</span>  | 87.     |  85.    | 89.   |  86.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.982 | 0.976 | 0.982 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.982 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.736 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -25.647 | -32.718 | -39.103 | -36.166 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | zmp-ztp | zmp-ztp | zmp-ztp |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | RPS15 | - | - | - |

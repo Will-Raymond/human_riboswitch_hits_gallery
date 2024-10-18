@@ -29,11 +29,11 @@ exclude: true
                     UTR: 5HSAA051619<br>
                     Gene: IDH3G<br>
                     MFE: -85.853<br>
-                    ENS: 0.909<br>
+                    ENS: 0.855<br>
                     Length: 211.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
+                    cobalamin - 19/20<br>
+                    FMN - 1/20<br>
                     <br>         
             </td>
             <td>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_539_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_539_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_539_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_539_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA051619     | URS0000CF003A_408     | URS0002318714_1902     | URS00023254A1_1029756     |
 | <span title="Length of the sequence in question">Length</span>  | 211.     |  211.    | 214.   |  213.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.909 | 0.934 | 0.929 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.909 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.855 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -85.853 | -79.402 | -88.786 | -96.125 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | cobalamin | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | IDH3G | - | - | - |

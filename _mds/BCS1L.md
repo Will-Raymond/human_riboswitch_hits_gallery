@@ -29,11 +29,11 @@ exclude: true
                     UTR: 5HSAA010379<br>
                     Gene: BCS1L<br>
                     MFE: -49.595<br>
-                    ENS: 0.956<br>
+                    ENS: 0.857<br>
                     Length: 162.<br>
                     Predicted Ligands:<br>
-                    SAM - 20/20<br>
-                    <br>
+                    SAM - 19/20<br>
+                    Mg2+ - 1/20<br>
                     <br>         
             </td>
             <td>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_112_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_112_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_112_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_112_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA010379     | URS0000C7D157_1609095     | URS0000C04F1B_1160718     | URS0000D7AD2A_1415554     |
 | <span title="Length of the sequence in question">Length</span>  | 162.     |  159.    | 162.   |  159.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.956 | 0.964 | 0.955 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.956 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.857 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -49.595 | -71.950 | -75.233 | -68.750 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | SAM | SAM | SAM |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | BCS1L | - | - | - |

@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA086603<br>
                     Gene: PTRH2<br>
                     MFE: -42.850<br>
-                    ENS: 0.949<br>
+                    ENS: 0.863<br>
                     Length: 150.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 7/20<br>
+                    FMN - 6/20<br>
+                    zmp-ztp - 2/20<br>         
             </td>
             <td>
                     RS: URS000231A6A5_43989<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_988_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_988_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_988_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_988_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA086603     | URS000231A6A5_43989     | URS0000C195AD_1114972     | URS0000D8A4DD_1123282     |
 | <span title="Length of the sequence in question">Length</span>  | 150.     |  150.    | 150.   |  151.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.949 | 0.956 | 0.956 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.949 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.863 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -42.850 | -32.263 | -44.210 | -52.349 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | cobalamin | molybdenum |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | PTRH2 | - | - | - |

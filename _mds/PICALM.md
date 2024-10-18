@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA080133<br>
                     Gene: PICALM<br>
                     MFE: -47.452<br>
-                    ENS: 0.955<br>
+                    ENS: 0.965<br>
                     Length: 172.<br>
                     Predicted Ligands:<br>
-                    Mg2+ - 20/20<br>
-                    <br>
-                    <br>         
+                    Mg2+ - 10/20<br>
+                    lysine - 4/20<br>
+                    TPP - 3/20<br>         
             </td>
             <td>
                     RS: URS0000BF4933_694068<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_883_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_883_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_883_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_883_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA080133     | URS0000BF4933_694068     | URS0000DB6628_1798316     | URS0000C61A0E_1385513     |
 | <span title="Length of the sequence in question">Length</span>  | 172.     |  173.    | 167.   |  175.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.955 | 0.924 | 0.927 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.955 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.965 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -47.452 | -52.450 | -36. | -43.999 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | TPP | Mg2+ | lysine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | PICALM | - | - | - |

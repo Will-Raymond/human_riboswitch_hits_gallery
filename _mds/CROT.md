@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA025378<br>
                     Gene: CROT<br>
                     MFE: -20.459<br>
-                    ENS: 0.951<br>
+                    ENS: 0.833<br>
                     Length: 171.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 8/20<br>
+                    lysine - 4/20<br>
+                    Mg2+ - 4/20<br>         
             </td>
             <td>
                     RS: URS0000DA026C_1965603<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_245_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_245_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_245_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_245_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA025378     | URS0000DA026C_1965603     | URS0000DA9E7F_1834189     | URS00023336D0_1641393     |
 | <span title="Length of the sequence in question">Length</span>  | 171.     |  173.    | 169.   |  172.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.951 | 0.949 | 0.949 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.951 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.833 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -20.459 | -39.497 | -31.422 | -39.572 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | lysine | Mg2+ | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | CROT | - | - | - |

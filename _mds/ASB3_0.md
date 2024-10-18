@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA007257<br>
                     Gene: ASB3_0<br>
                     MFE: -94.427<br>
-                    ENS: 0.875<br>
+                    ENS: 0.951<br>
                     Length: 227.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 9/20<br>
+                    TPP - 4/20<br>
+                    glucosamine - 3/20<br>         
             </td>
             <td>
                     RS: URS0000C303A0_90371<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_85_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_85_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_85_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_85_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA007257     | URS0000C303A0_90371     | URS0001BFC999_90371     | URS000049975C_1196322     |
 | <span title="Length of the sequence in question">Length</span>  | 227.     |  225.    | 225.   |  227.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.875 | 0.875 | 0.934 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.875 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.951 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -94.427 | -79.176 | -78.476 | -57.703 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | TPP | TPP | glucosamine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | ASB3 | - | - | - |

@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA058889<br>
                     Gene: LHX3<br>
                     MFE: -53.890<br>
-                    ENS: 0.973<br>
+                    ENS: 0.863<br>
                     Length: 122.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
-                    <br>
-                    <br>         
+                    TPP - 12/20<br>
+                    preQ_1 - 3/20<br>
+                    FMN - 2/20<br>         
             </td>
             <td>
                     RS: URS0000AB3EB5_617121<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_620_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_620_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_620_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_620_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA058889     | URS0000AB3EB5_617121     | URS0000C890D0_1660159     | URS0000AB8380_663952     |
 | <span title="Length of the sequence in question">Length</span>  | 122.     |  120.    | 120.   |  120.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.973 | 0.970 | 0.971 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.973 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.863 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -53.890 | -27.561 | -45.560 | -27.016 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | preQ_1 | TPP | preQ_1 |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | LHX3 | - | - | - |

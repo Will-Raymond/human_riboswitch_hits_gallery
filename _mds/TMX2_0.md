@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA111796<br>
                     Gene: TMX2_0<br>
                     MFE: -35.832<br>
-                    ENS: 0.964<br>
+                    ENS: 0.994<br>
                     Length: 121.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
-                    <br>
-                    <br>         
+                    TPP - 12/20<br>
+                    SAM - 4/20<br>
+                    methionine - 2/20<br>         
             </td>
             <td>
                     RS: URS0000C3E428_97097<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1348_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1348_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1348_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1348_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA111796     | URS0000C3E428_97097     | URS0000ABB696_526986     | URS0000AB7E38_1670800     |
 | <span title="Length of the sequence in question">Length</span>  | 121.     |  117.    | 116.   |  122.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.964 | 0.955 | 0.972 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.964 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.994 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -35.832 | -22.657 | -29.426 | -46.422 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | glycine | TPP | TPP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | TMX2 | - | - | - |

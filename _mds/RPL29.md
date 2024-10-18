@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA092526<br>
                     Gene: RPL29<br>
                     MFE: -57.947<br>
-                    ENS: 0.963<br>
+                    ENS: 0.838<br>
                     Length: 138.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 9/20<br>
+                    FMN - 7/20<br>
+                    homocysteine - 3/20<br>         
             </td>
             <td>
                     RS: URS0000DAC045_1612551<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1100_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1100_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1100_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1100_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA092526     | URS0000DAC045_1612551     | URS0000D968EF_1470176     | URS0000C4EA48_242163     |
 | <span title="Length of the sequence in question">Length</span>  | 138.     |  136.    | 136.   |  138.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.963 | 0.961 | 0.966 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.963 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.838 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -57.947 | -61.370 | -60.120 | -48.583 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | FMN | FMN | homocysteine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | RPL29 | - | - | - |

@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA051436<br>
                     Gene: HYOU1<br>
                     MFE: -51.028<br>
-                    ENS: 0.916<br>
+                    ENS: 0.828<br>
                     Length: 146.<br>
                     Predicted Ligands:<br>
-                    FMN - 20/20<br>
-                    <br>
-                    <br>         
+                    FMN - 15/20<br>
+                    cobalamin - 4/20<br>
+                    glutamine - 1/20<br>         
             </td>
             <td>
                     RS: URS0000C638AD_12908<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_533_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_533_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_533_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_533_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA051436     | URS0000C638AD_12908     | URS0000C29601_1460636     | URS0000C130D4_47763     |
 | <span title="Length of the sequence in question">Length</span>  | 146.     |  139.    | 146.   |  147.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.916 | 0.960 | 0.955 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.916 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.828 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -51.028 | -35.030 | -37.956 | -57.563 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | glutamine | FMN | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | HYOU1 | - | - | - |

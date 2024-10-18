@@ -29,11 +29,11 @@ exclude: true
                     UTR: 5HSAA078669<br>
                     Gene: PDRG1<br>
                     MFE: -58.557<br>
-                    ENS: 0.970<br>
+                    ENS: 0.879<br>
                     Length: 144.<br>
                     Predicted Ligands:<br>
-                    molybdenum - 20/20<br>
-                    <br>
+                    molybdenum - 19/20<br>
+                    cobalamin - 1/20<br>
                     <br>         
             </td>
             <td>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_869_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_869_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_869_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_869_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA078669     | URS0000AB498F_264732     | URS0000DA1911_1797645     | URS0000AB82E7_411467     |
 | <span title="Length of the sequence in question">Length</span>  | 144.     |  142.    | 140.   |  142.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.970 | 0.951 | 0.961 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.970 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.879 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -58.557 | -56.699 | -38.236 | -57.820 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | molybdenum | molybdenum | molybdenum |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | PDRG1 | - | - | - |

@@ -29,11 +29,11 @@ exclude: true
                     UTR: 5HSAA058734<br>
                     Gene: LGALS8<br>
                     MFE: -25.339<br>
-                    ENS: 0.964<br>
+                    ENS: 0.896<br>
                     Length: 150.<br>
                     Predicted Ligands:<br>
-                    FMN - 20/20<br>
-                    <br>
+                    FMN - 11/20<br>
+                    glucosamine - 9/20<br>
                     <br>         
             </td>
             <td>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_615_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_615_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_615_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_615_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA058734     | URS0000BEF2D4_1048380     | URS0000D9360E_1895746     | URS0000AB20BD_62153     |
 | <span title="Length of the sequence in question">Length</span>  | 150.     |  148.    | 149.   |  148.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.964 | 0.967 | 0.960 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.964 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.896 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -25.339 | -37.931 | -36.181 | -40.465 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | glucosamine | glucosamine | FMN |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | LGALS8 | - | - | - |

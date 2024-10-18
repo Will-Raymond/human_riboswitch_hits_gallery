@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA095135<br>
                     Gene: SCOC<br>
                     MFE: -10.542<br>
-                    ENS: 0.989<br>
+                    ENS: 0.880<br>
                     Length: 70.<br>
                     Predicted Ligands:<br>
-                    fluoride - 20/20<br>
-                    <br>
-                    <br>         
+                    fluoride - 15/20<br>
+                    homocysteine - 3/20<br>
+                    preQ_1 - 1/20<br>         
             </td>
             <td>
                     RS: URS0000D66FB4_12908<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1156_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1156_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1156_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1156_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA095135     | URS0000D66FB4_12908     | URS0000ABA857_85643     | URS0000BEE004_134537     |
 | <span title="Length of the sequence in question">Length</span>  | 70.     |  70.    | 75.   |  71.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.989 | 0.971 | 0.987 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.989 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.880 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -10.542 | -13. | -25.242 | -20.340 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | preQ_1 | homocysteine | fluoride |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | SCOC | - | - | - |

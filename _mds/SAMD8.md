@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA094086<br>
                     Gene: SAMD8<br>
                     MFE: -65.169<br>
-                    ENS: 0.957<br>
+                    ENS: 0.811<br>
                     Length: 132.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 9/20<br>
+                    homocysteine - 4/20<br>
+                    glycine - 2/20<br>         
             </td>
             <td>
                     RS: URS00023354B5_1609103<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1146_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1146_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1146_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1146_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA094086     | URS00023354B5_1609103     | URS0000AB5D74_256318     | URS0000D47CF5_1891238     |
 | <span title="Length of the sequence in question">Length</span>  | 132.     |  132.    | 130.   |  132.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.957 | 0.963 | 0.960 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.957 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.811 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -65.169 | -45.813 | -55.601 | -53.557 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | homocysteine | glycine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | SAMD8 | - | - | - |

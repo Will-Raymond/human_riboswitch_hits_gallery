@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA075086<br>
                     Gene: OMA1<br>
                     MFE: -35.848<br>
-                    ENS: 0.974<br>
+                    ENS: 0.882<br>
                     Length: 113.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
-                    <br>
-                    <br>         
+                    TPP - 11/20<br>
+                    guanidine - 3/20<br>
+                    glycine - 3/20<br>         
             </td>
             <td>
                     RS: URS0000D82390_1972445<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_827_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_827_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_827_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_827_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA075086     | URS0000D82390_1972445     | URS0000BEB43A_1736354     | URS0000DA23B6_1798318     |
 | <span title="Length of the sequence in question">Length</span>  | 113.     |  111.    | 113.   |  116.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.974 | 0.977 | 0.968 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.974 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.882 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -35.848 | -33.943 | -56.275 | -41.817 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | TPP | methionine | molybdenum |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | OMA1 | - | - | - |

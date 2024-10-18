@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA095308<br>
                     Gene: SCYL2<br>
                     MFE: -16.357<br>
-                    ENS: 0.985<br>
+                    ENS: 0.986<br>
                     Length: 75.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 6/20<br>
+                    GMP - 6/20<br>
+                    Ni/Co - 4/20<br>         
             </td>
             <td>
                     RS: URS0000D9050D_642780<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1160_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1160_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1160_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1160_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA095308     | URS0000D9050D_642780     | URS0000D66689_12908     | URS0000D66A63_12908     |
 | <span title="Length of the sequence in question">Length</span>  | 75.     |  74.    | 76.   |  74.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.985 | 0.984 | 0.983 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.985 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.986 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -16.357 | -35.674 | -35.113 | -24.796 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | GMP | Ni/Co |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | SCYL2 | - | - | - |

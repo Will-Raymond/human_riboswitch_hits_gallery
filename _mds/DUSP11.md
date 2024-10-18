@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA032605<br>
                     Gene: DUSP11<br>
                     MFE: -25.329<br>
-                    ENS: 0.984<br>
+                    ENS: 0.894<br>
                     Length: 67.<br>
                     Predicted Ligands:<br>
-                    fluoride - 20/20<br>
-                    <br>
-                    <br>         
+                    fluoride - 13/20<br>
+                    homocysteine - 5/20<br>
+                    cobalamin - 2/20<br>         
             </td>
             <td>
                     RS: URS000231F5D2_1150591<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_309_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_309_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_309_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_309_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA032605     | URS000231F5D2_1150591     | URS0000C543C7_477245     | URS0000D91D15_62153     |
 | <span title="Length of the sequence in question">Length</span>  | 67.     |  67.    | 70.   |  65.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.984 | 0.981 | 0.984 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.984 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.894 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -25.329 | -24.121 | -30.458 | -15.665 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | fluoride | cobalamin | fluoride |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | DUSP11 | - | - | - |

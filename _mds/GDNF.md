@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA043771<br>
                     Gene: GDNF<br>
                     MFE: -43.853<br>
-                    ENS: 0.960<br>
+                    ENS: 0.911<br>
                     Length: 142.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 11/20<br>
+                    molybdenum - 3/20<br>
+                    glycine - 2/20<br>         
             </td>
             <td>
                     RS: URS0000DA7C7B_698762<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_431_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_431_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_431_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_431_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA043771     | URS0000DA7C7B_698762     | URS0002331D87_1678637     | URS000232886F_67386     |
 | <span title="Length of the sequence in question">Length</span>  | 142.     |  144.    | 142.   |  145.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.960 | 0.964 | 0.955 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.960 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.911 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -43.853 | -60.029 | -50.852 | -47.802 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | molybdenum | cobalamin | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | GDNF | - | - | - |

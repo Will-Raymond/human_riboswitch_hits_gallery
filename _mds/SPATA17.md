@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA102962<br>
                     Gene: SPATA17<br>
                     MFE: -19.891<br>
-                    ENS: 0.979<br>
+                    ENS: 0.851<br>
                     Length: 80.<br>
                     Predicted Ligands:<br>
-                    fluoride - 20/20<br>
-                    <br>
-                    <br>         
+                    fluoride - 9/20<br>
+                    SAM - 5/20<br>
+                    zmp-ztp - 4/20<br>         
             </td>
             <td>
                     RS: URS0000D9F231_1121322<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1248_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1248_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1248_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1248_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA102962     | URS0000D9F231_1121322     | URS0000C59388_1262825     | URS0000D804F0_1123756     |
 | <span title="Length of the sequence in question">Length</span>  | 80.     |  77.    | 82.   |  77.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.979 | 0.976 | 0.977 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.979 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.851 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -19.891 | -11.729 | -20.434 | -17.326 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | fluoride | zmp-ztp | SAM |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | SPATA17 | - | - | - |

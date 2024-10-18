@@ -29,11 +29,11 @@ exclude: true
                     UTR: 5HSAA010948<br>
                     Gene: BRD1<br>
                     MFE: -37.437<br>
-                    ENS: 0.972<br>
+                    ENS: 0.918<br>
                     Length: 107.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
-                    <br>
+                    TPP - 18/20<br>
+                    homocysteine - 2/20<br>
                     <br>         
             </td>
             <td>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_123_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_123_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_123_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_123_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA010948     | URS0000BF22B9_1308866     | URS0000BEE637_645517     | URS0000C2B0B1_169760     |
 | <span title="Length of the sequence in question">Length</span>  | 107.     |  110.    | 108.   |  103.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.972 | 0.978 | 0.965 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.972 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.918 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -37.437 | -28.365 | -44.281 | -26.704 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | TPP | TPP | TPP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | BRD1 | - | - | - |

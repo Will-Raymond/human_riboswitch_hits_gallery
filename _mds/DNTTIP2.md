@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA031733<br>
                     Gene: DNTTIP2<br>
                     MFE: -15.101<br>
-                    ENS: 0.988<br>
+                    ENS: 0.860<br>
                     Length: 63.<br>
                     Predicted Ligands:<br>
-                    fluoride - 20/20<br>
-                    <br>
-                    <br>         
+                    fluoride - 18/20<br>
+                    Ni/Co - 1/20<br>
+                    unknown - 1/20<br>         
             </td>
             <td>
                     RS: URS0000D68140_12908<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_304_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_304_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_304_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_304_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA031733     | URS0000D68140_12908     | URS0000E5FD86_1315974     | URS0000C3EC64_1660156     |
 | <span title="Length of the sequence in question">Length</span>  | 63.     |  65.    | 62.   |  61.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.988 | 0.990 | 0.987 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.988 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.860 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -15.101 | -9.466 | -16.785 | -16.059 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | Ni/Co | unknown | fluoride |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | DNTTIP2 | - | - | - |

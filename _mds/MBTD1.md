@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA064134<br>
                     Gene: MBTD1<br>
                     MFE: -20.265<br>
-                    ENS: 0.961<br>
+                    ENS: 0.822<br>
                     Length: 107.<br>
                     Predicted Ligands:<br>
-                    Mn2+ - 20/20<br>
-                    <br>
-                    <br>         
+                    Mn2+ - 7/20<br>
+                    purine - 5/20<br>
+                    TPP - 4/20<br>         
             </td>
             <td>
                     RS: URS0000C88571_473781<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_671_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_671_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_671_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_671_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA064134     | URS0000C88571_473781     | URS0000AB7282_1929488     | URS0000AB5D62_650150     |
 | <span title="Length of the sequence in question">Length</span>  | 107.     |  111.    | 110.   |  103.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.961 | 0.969 | 0.956 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.961 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.822 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -20.265 | -47.223 | -20.479 | -16.634 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | Mn2+ | SAM | purine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | MBTD1 | - | - | - |

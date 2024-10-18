@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA117212<br>
                     Gene: UQCRQ<br>
                     MFE: -34.119<br>
-                    ENS: 0.980<br>
+                    ENS: 0.996<br>
                     Length: 99.<br>
                     Predicted Ligands:<br>
-                    glycine - 20/20<br>
-                    <br>
-                    <br>         
+                    glycine - 13/20<br>
+                    fluoride - 3/20<br>
+                    TPP - 2/20<br>         
             </td>
             <td>
                     RS: URS0000D8C975_1780378<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1427_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1427_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1427_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1427_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA117212     | URS0000D8C975_1780378     | URS0000C0C09C_1005048     | URS0000DAAE19_398512     |
 | <span title="Length of the sequence in question">Length</span>  | 99.     |  97.    | 99.   |  100.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.980 | 0.977 | 0.981 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.980 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.996 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -34.119 | -22.118 | -33.420 | -26.384 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | glycine | fluoride | glycine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | UQCRQ | - | - | - |

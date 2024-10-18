@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA096469<br>
                     Gene: SERF2<br>
                     MFE: -40.358<br>
-                    ENS: 0.960<br>
+                    ENS: 1.<br>
                     Length: 123.<br>
                     Predicted Ligands:<br>
-                    SAM - 20/20<br>
-                    <br>
-                    <br>         
+                    SAM - 5/20<br>
+                    cobalamin - 4/20<br>
+                    molybdenum - 2/20<br>         
             </td>
             <td>
                     RS: URS000232B619_1803466<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1174_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1174_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1174_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1174_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA096469     | URS000232B619_1803466     | URS0000AB5B62_428126     | URS0000AB3BFF_861360     |
 | <span title="Length of the sequence in question">Length</span>  | 123.     |  126.    | 123.   |  122.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.960 | 0.967 | 0.971 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.960 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 1. | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -40.358 | -44.096 | -23.332 | -40.599 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | cobalamin | methionine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | SERF2 | - | - | - |

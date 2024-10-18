@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA110421<br>
                     Gene: TMEM117<br>
                     MFE: -22.223<br>
-                    ENS: 0.975<br>
+                    ENS: 0.998<br>
                     Length: 91.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
-                    <br>
-                    <br>         
+                    TPP - 8/20<br>
+                    glycine - 6/20<br>
+                    GMP - 2/20<br>         
             </td>
             <td>
                     RS: URS0000D67F2B_12908<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1329_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1329_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1329_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1329_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA110421     | URS0000D67F2B_12908     | URS0000C1AFB0_158607     | URS00023139CD_1357508     |
 | <span title="Length of the sequence in question">Length</span>  | 91.     |  91.    | 88.   |  90.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.975 | 0.972 | 0.976 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.975 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.998 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -22.223 | -38.683 | -19. | -21.923 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | GMP | TPP | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | TMEM117 | - | - | - |

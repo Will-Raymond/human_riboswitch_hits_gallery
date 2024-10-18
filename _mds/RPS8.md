@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA093195<br>
                     Gene: RPS8<br>
                     MFE: -62.671<br>
-                    ENS: 0.954<br>
+                    ENS: 0.858<br>
                     Length: 180.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 12/20<br>
+                    lysine - 7/20<br>
+                    TPP - 1/20<br>         
             </td>
             <td>
                     RS: URS0000C6B068_1209931<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1118_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1118_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1118_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1118_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA093195     | URS0000C6B068_1209931     | URS0000DB669D_1122930     | URS0000C133B0_1565991     |
 | <span title="Length of the sequence in question">Length</span>  | 180.     |  181.    | 179.   |  182.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.954 | 0.950 | 0.951 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.954 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.858 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -62.671 | -51.625 | -61.974 | -53.555 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | TPP | lysine | lysine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | RPS8 | - | - | - |

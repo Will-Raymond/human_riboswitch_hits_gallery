@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA040304<br>
                     Gene: FDPS_1<br>
                     MFE: -62.177<br>
-                    ENS: 0.950<br>
+                    ENS: 0.767<br>
                     Length: 159.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
-                    <br>
-                    <br>         
+                    TPP - 10/20<br>
+                    cobalamin - 5/20<br>
+                    FMN - 2/20<br>         
             </td>
             <td>
                     RS: URS00023167D3_1834515<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_402_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_402_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_402_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_402_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA040304     | URS00023167D3_1834515     | URS0002331C40_1160719     | URS0002328FEA_1331668     |
 | <span title="Length of the sequence in question">Length</span>  | 159.     |  157.    | 160.   |  155.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.950 | 0.946 | 0.936 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.950 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.767 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -62.177 | -68.712 | -68.933 | -64.607 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | cobalamin | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | FDPS | - | - | - |

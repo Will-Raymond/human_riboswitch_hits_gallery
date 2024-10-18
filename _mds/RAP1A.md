@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA088674<br>
                     Gene: RAP1A<br>
                     MFE: -32.940<br>
-                    ENS: 0.964<br>
+                    ENS: 0.875<br>
                     Length: 143.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 10/20<br>
+                    FMN - 9/20<br>
+                    molybdenum - 1/20<br>         
             </td>
             <td>
                     RS: URS000232D785_1679168<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1023_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1023_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1023_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1023_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA088674     | URS000232D785_1679168     | URS000231823E_696747     | URS000231EF14_1839754     |
 | <span title="Length of the sequence in question">Length</span>  | 143.     |  143.    | 145.   |  145.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.964 | 0.964 | 0.961 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.964 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.875 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -32.940 | -36.448 | -42.504 | -50.006 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | cobalamin | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | RAP1A | - | - | - |

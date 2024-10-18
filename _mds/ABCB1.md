@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA000291<br>
                     Gene: ABCB1<br>
                     MFE: -17.171<br>
-                    ENS: 0.970<br>
+                    ENS: 0.894<br>
                     Length: 75.<br>
                     Predicted Ligands:<br>
-                    SAM - 20/20<br>
-                    <br>
-                    <br>         
+                    SAM - 11/20<br>
+                    fluoride - 6/20<br>
+                    homocysteine - 1/20<br>         
             </td>
             <td>
                     RS: URS0000BFDBD0_1660163<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_7_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_7_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_7_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_7_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA000291     | URS0000BFDBD0_1660163     | URS0000BF9E3C_454194     | URS0000BE9263_391623     |
 | <span title="Length of the sequence in question">Length</span>  | 75.     |  75.    | 76.   |  76.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.970 | 0.959 | 0.973 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.970 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.894 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -17.171 | -21.381 | -19.559 | -30.562 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | SAM | SAM | fluoride |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | ABCB1 | - | - | - |

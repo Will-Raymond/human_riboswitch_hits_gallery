@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA043037<br>
                     Gene: GAPDHS<br>
                     MFE: -48.459<br>
-                    ENS: 0.963<br>
+                    ENS: 0.884<br>
                     Length: 141.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
-                    <br>
-                    <br>         
+                    TPP - 12/20<br>
+                    cobalamin - 6/20<br>
+                    zmp-ztp - 1/20<br>         
             </td>
             <td>
                     RS: URS00007D9883_408184<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_425_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_425_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_425_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_425_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA043037     | URS00007D9883_408184     | URS000232EB4D_56427     | URS0000AB8CD4_695850     |
 | <span title="Length of the sequence in question">Length</span>  | 141.     |  142.    | 141.   |  140.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.963 | 0.964 | 0.960 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.963 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.884 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -48.459 | -66.999 | -53.293 | -54.530 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | TPP | cobalamin | TPP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | GAPDHS | - | - | - |

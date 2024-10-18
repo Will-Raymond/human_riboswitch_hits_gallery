@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA059111<br>
                     Gene: LINGO1<br>
                     MFE: -21.856<br>
-                    ENS: 0.977<br>
+                    ENS: 0.669<br>
                     Length: 77.<br>
                     Predicted Ligands:<br>
-                    GMP - 20/20<br>
-                    <br>
-                    <br>         
+                    GMP - 8/20<br>
+                    SAM - 3/20<br>
+                    cobalamin - 3/20<br>         
             </td>
             <td>
                     RS: URS0000B464BB_475083<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_625_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_625_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_625_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_625_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA059111     | URS0000B464BB_475083     | URS0000D6BAEF_12908     | URS0000C0CDA2_1300347     |
 | <span title="Length of the sequence in question">Length</span>  | 77.     |  79.    | 76.   |  73.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.977 | 0.970 | 0.963 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.977 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.669 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -21.856 | -16.754 | -12.358 | -26.321 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | SAM | GMP | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | LINGO1 | - | - | - |

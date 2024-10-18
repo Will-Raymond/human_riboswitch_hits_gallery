@@ -29,11 +29,11 @@ exclude: true
                     UTR: 5HSAA080751<br>
                     Gene: PKP3<br>
                     MFE: -38.941<br>
-                    ENS: 0.982<br>
+                    ENS: 0.833<br>
                     Length: 101.<br>
                     Predicted Ligands:<br>
-                    purine - 20/20<br>
-                    <br>
+                    purine - 19/20<br>
+                    tetrahydrofolate - 1/20<br>
                     <br>         
             </td>
             <td>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_893_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_893_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_893_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_893_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA080751     | URS0000AB354B_264732     | URS0000ABB51E_398579     | URS0000C6AD43_646529     |
 | <span title="Length of the sequence in question">Length</span>  | 101.     |  102.    | 100.   |  100.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.982 | 0.982 | 0.978 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.982 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.833 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -38.941 | -29.646 | -15.507 | -29.951 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | purine | purine | purine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | PKP3 | - | - | - |

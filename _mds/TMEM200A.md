@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA110907<br>
                     Gene: TMEM200A<br>
                     MFE: -19.362<br>
-                    ENS: 0.970<br>
+                    ENS: 0.903<br>
                     Length: 120.<br>
                     Predicted Ligands:<br>
-                    SAM - 20/20<br>
-                    <br>
-                    <br>         
+                    SAM - 8/20<br>
+                    glycine - 5/20<br>
+                    FMN - 3/20<br>         
             </td>
             <td>
                     RS: URS0000C550F2_1423794<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1332_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1332_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1332_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1332_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA110907     | URS0000C550F2_1423794     | URS0000C6A3AC_319501     | URS0000C38B2D_1635257     |
 | <span title="Length of the sequence in question">Length</span>  | 120.     |  117.    | 119.   |  121.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.970 | 0.966 | 0.973 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.970 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.903 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -19.362 | -22.742 | -29.652 | -34.087 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | SAM | glycine | guanidine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | TMEM200A | - | - | - |

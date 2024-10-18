@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA066728<br>
                     Gene: MMP7_0<br>
                     MFE: -15.993<br>
-                    ENS: 0.988<br>
+                    ENS: 0.<br>
                     Length: 77.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 9/20<br>
+                    cyclic-di-GMP - 5/20<br>
+                    Ni/Co - 3/20<br>         
             </td>
             <td>
                     RS: URS0002333667_1618461<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_714_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_714_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_714_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_714_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA066728     | URS0002333667_1618461     | URS000231B676_1618826     | URS0000D68389_12908     |
 | <span title="Length of the sequence in question">Length</span>  | 77.     |  77.    | 80.   |  76.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.988 | 0.979 | 0.985 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.988 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0. | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -15.993 | -11.026 | -10.770 | -19.946 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | cobalamin | Ni/Co |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | MMP7 | - | - | - |

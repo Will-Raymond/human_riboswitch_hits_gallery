@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA115019<br>
                     Gene: TUBA1B<br>
                     MFE: -32.125<br>
-                    ENS: 0.974<br>
+                    ENS: 0.753<br>
                     Length: 120.<br>
                     Predicted Ligands:<br>
-                    SAM - 20/20<br>
-                    <br>
-                    <br>         
+                    SAM - 4/20<br>
+                    methionine - 4/20<br>
+                    guanidine - 4/20<br>         
             </td>
             <td>
                     RS: URS0000D8EE47_1798705<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1394_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1394_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1394_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1394_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA115019     | URS0000D8EE47_1798705     | URS0000D7D07A_1802172     | URS0000D69CEB_12908     |
 | <span title="Length of the sequence in question">Length</span>  | 120.     |  119.    | 122.   |  122.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.974 | 0.968 | 0.965 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.974 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.753 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -32.125 | -34.640 | -42.613 | -32.551 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | glycine | SAM |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | TUBA1B | - | - | - |

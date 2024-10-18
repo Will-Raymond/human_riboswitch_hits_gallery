@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA069208<br>
                     Gene: MYL12B<br>
                     MFE: -22.440<br>
-                    ENS: 0.970<br>
+                    ENS: 0.956<br>
                     Length: 106.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
-                    <br>
-                    <br>         
+                    TPP - 13/20<br>
+                    purine - 4/20<br>
+                    GMP - 1/20<br>         
             </td>
             <td>
                     RS: URS0000C2E562_1144311<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_755_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_755_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_755_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_755_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA069208     | URS0000C2E562_1144311     | URS0000C25F47_861266     | URS0000D68E53_12908     |
 | <span title="Length of the sequence in question">Length</span>  | 106.     |  103.    | 108.   |  104.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.970 | 0.970 | 0.973 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.970 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.956 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -22.440 | -26.907 | -36.702 | -25.673 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | purine | TPP | GMP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | MYL12B | - | - | - |

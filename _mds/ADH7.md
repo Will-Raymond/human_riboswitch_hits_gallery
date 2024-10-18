@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA002475<br>
                     Gene: ADH7<br>
                     MFE: -13.842<br>
-                    ENS: 0.984<br>
+                    ENS: 0.838<br>
                     Length: 55.<br>
                     Predicted Ligands:<br>
-                    unknown - 20/20<br>
-                    <br>
-                    <br>         
+                    unknown - 15/20<br>
+                    FMN - 2/20<br>
+                    glutamine - 1/20<br>         
             </td>
             <td>
                     RS: URS0000C64CFB_12908<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_28_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_28_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_28_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_28_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA002475     | URS0000C64CFB_12908     | URS0000D6993C_12908     | URS0001A16A85_1683     |
 | <span title="Length of the sequence in question">Length</span>  | 55.     |  57.    | 55.   |  55.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.984 | 0.987 | 0.986 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.984 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.838 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -13.842 | -9.936 | -25.158 | -18.075 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | glutamine | unknown | unknown |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | ADH7 | - | - | - |

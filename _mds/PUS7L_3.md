@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA086864<br>
                     Gene: PUS7L_3<br>
                     MFE: -57.728<br>
-                    ENS: 0.883<br>
+                    ENS: 0.964<br>
                     Length: 234.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 14/20<br>
+                    FMN - 2/20<br>
+                    TPP - 1/20<br>         
             </td>
             <td>
                     RS: URS0000AB870B_171101<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_997_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_997_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_997_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_997_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA086864     | URS0000AB870B_171101     | URS0000C027EE_745277     | URS000232F7A5_1848038     |
 | <span title="Length of the sequence in question">Length</span>  | 234.     |  235.    | 230.   |  232.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.883 | 0.865 | 0.927 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.883 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.964 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -57.728 | -62.082 | -75. | -73.451 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | FMN | TPP | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | PUS7L | - | - | - |

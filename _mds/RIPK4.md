@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA091137<br>
                     Gene: RIPK4<br>
                     MFE: -26.592<br>
-                    ENS: 0.988<br>
+                    ENS: 0.946<br>
                     Length: 73.<br>
                     Predicted Ligands:<br>
-                    SAM - 20/20<br>
-                    <br>
-                    <br>         
+                    SAM - 8/20<br>
+                    fluoride - 5/20<br>
+                    cobalamin - 2/20<br>         
             </td>
             <td>
                     RS: URS0000DA3FD3_1804758<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1058_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1058_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1058_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1058_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA091137     | URS0000DA3FD3_1804758     | URS0000DB6896_1817868     | URS0000ABAEAC_491952     |
 | <span title="Length of the sequence in question">Length</span>  | 73.     |  72.    | 75.   |  76.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.988 | 0.984 | 0.974 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.988 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.946 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -26.592 | -30.931 | -14.976 | -12.234 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | SAM | SAM |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | RIPK4 | - | - | - |

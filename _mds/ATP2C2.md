@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA008426<br>
                     Gene: ATP2C2<br>
                     MFE: -56.751<br>
-                    ENS: 0.971<br>
+                    ENS: 0.776<br>
                     Length: 114.<br>
                     Predicted Ligands:<br>
-                    guanidine - 20/20<br>
-                    <br>
-                    <br>         
+                    guanidine - 11/20<br>
+                    glycine - 7/20<br>
+                    TPP - 1/20<br>         
             </td>
             <td>
                     RS: URS0000C862FB_1333998<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_95_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_95_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_95_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_95_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA008426     | URS0000C862FB_1333998     | URS0002314070_1902     | URS000056AE66_316056     |
 | <span title="Length of the sequence in question">Length</span>  | 114.     |  112.    | 118.   |  112.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.971 | 0.961 | 0.971 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.971 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.776 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -56.751 | -41.168 | -49.686 | -48.762 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | glycine | glycine | guanidine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | ATP2C2 | - | - | - |

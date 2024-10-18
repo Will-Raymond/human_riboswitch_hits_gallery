@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA072345<br>
                     Gene: NKAIN2<br>
                     MFE: -17.410<br>
-                    ENS: 0.975<br>
+                    ENS: 0.849<br>
                     Length: 87.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 5/20<br>
+                    SAM - 4/20<br>
+                    TPP - 3/20<br>         
             </td>
             <td>
                     RS: URS0000C42B85_1385510<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_792_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_792_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_792_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_792_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA072345     | URS0000C42B85_1385510     | URS0000D82DC2_1048205     | URS000080E23F_32630     |
 | <span title="Length of the sequence in question">Length</span>  | 87.     |  83.    | 86.   |  87.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.975 | 0.984 | 0.978 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.975 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.849 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -17.410 | -13.496 | -39.449 | -28.237 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cyclic-di-GMP | cobalamin | unknown |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | NKAIN2 | - | - | - |

@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA085243<br>
                     Gene: PRRX1<br>
                     MFE: -23.577<br>
-                    ENS: 0.986<br>
+                    ENS: 0.841<br>
                     Length: 72.<br>
                     Predicted Ligands:<br>
-                    fluoride - 20/20<br>
-                    <br>
-                    <br>         
+                    fluoride - 8/20<br>
+                    homocysteine - 7/20<br>
+                    2'-dG-II - 1/20<br>         
             </td>
             <td>
                     RS: URS0002329798_256318<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_950_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_950_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_950_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_950_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA085243     | URS0002329798_256318     | URS0000BF01F4_754252     | URS0000DA7F66_1121301     |
 | <span title="Length of the sequence in question">Length</span>  | 72.     |  72.    | 72.   |  74.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.986 | 0.983 | 0.984 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.986 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.841 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -23.577 | -20.294 | -21.992 | -13.712 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | homocysteine | fluoride | fluoride |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | PRRX1 | - | - | - |

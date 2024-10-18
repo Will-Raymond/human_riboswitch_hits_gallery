@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA036513<br>
                     Gene: ERGIC2<br>
                     MFE: -49.213<br>
-                    ENS: 0.957<br>
+                    ENS: 0.983<br>
                     Length: 158.<br>
                     Predicted Ligands:<br>
-                    glucosamine - 20/20<br>
-                    <br>
-                    <br>         
+                    glucosamine - 11/20<br>
+                    FMN - 7/20<br>
+                    TPP - 1/20<br>         
             </td>
             <td>
                     RS: URS0000D7C63E_329046<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_353_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_353_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_353_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_353_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA036513     | URS0000D7C63E_329046     | URS0000BEA55E_1129897     | URS0000AB440B_401526     |
 | <span title="Length of the sequence in question">Length</span>  | 158.     |  155.    | 161.   |  159.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.957 | 0.951 | 0.944 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.957 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.983 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -49.213 | -36.442 | -60.372 | -62.359 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | TPP | glucosamine | glucosamine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | ERGIC2 | - | - | - |

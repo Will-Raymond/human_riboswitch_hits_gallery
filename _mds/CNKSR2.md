@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA023262<br>
                     Gene: CNKSR2<br>
                     MFE: -13.626<br>
-                    ENS: 0.988<br>
+                    ENS: 0.921<br>
                     Length: 61.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 16/20<br>
+                    unknown - 3/20<br>
+                    fluoride - 1/20<br>         
             </td>
             <td>
                     RS: URS0000C4130C_927083<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_210_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_210_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_210_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_210_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA023262     | URS0000C4130C_927083     | URS0002324396_309807     | URS0002332F0A_1797661     |
 | <span title="Length of the sequence in question">Length</span>  | 61.     |  61.    | 59.   |  61.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.988 | 0.984 | 0.986 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.988 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.921 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -13.626 | -23.370 | -14.615 | -25.769 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | cobalamin | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | CNKSR2 | - | - | - |

@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA117188<br>
                     Gene: UQCRC2<br>
                     MFE: -52.107<br>
-                    ENS: 0.962<br>
+                    ENS: 0.881<br>
                     Length: 161.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
-                    <br>
-                    <br>         
+                    TPP - 15/20<br>
+                    glucosamine - 2/20<br>
+                    Mn2+ - 1/20<br>         
             </td>
             <td>
                     RS: URS0000C19EA5_253628<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1424_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1424_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1424_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1424_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA117188     | URS0000C19EA5_253628     | URS0000DB306F_106004     | URS0000BEA63A_1391699     |
 | <span title="Length of the sequence in question">Length</span>  | 161.     |  159.    | 161.   |  165.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.962 | 0.961 | 0.938 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.962 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.881 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -52.107 | -54.981 | -59.705 | -47.967 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | TPP | TPP | TPP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | UQCRC2 | - | - | - |

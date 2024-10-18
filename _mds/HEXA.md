@@ -29,11 +29,11 @@ exclude: true
                     UTR: 5HSAA048995<br>
                     Gene: HEXA<br>
                     MFE: -99.514<br>
-                    ENS: 0.922<br>
+                    ENS: 0.746<br>
                     Length: 232.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
+                    cobalamin - 19/20<br>
+                    Mn2+ - 1/20<br>
                     <br>         
             </td>
             <td>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_493_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_493_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_493_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_493_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA048995     | URS000232B30C_1461752     | URS000231E303_1802168     | URS000231523B_1736436     |
 | <span title="Length of the sequence in question">Length</span>  | 232.     |  231.    | 231.   |  231.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.922 | 0.932 | 0.938 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.922 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.746 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -99.514 | -84.941 | -87.307 | -99.360 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | cobalamin | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | HEXA | - | - | - |

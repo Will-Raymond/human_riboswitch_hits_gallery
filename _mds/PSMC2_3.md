@@ -29,11 +29,11 @@ exclude: true
                     UTR: 5HSAA085570<br>
                     Gene: PSMC2_3<br>
                     MFE: -85.<br>
-                    ENS: 0.892<br>
+                    ENS: 0.713<br>
                     Length: 300.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
+                    cobalamin - 19/20<br>
+                    FMN - 1/20<br>
                     <br>         
             </td>
             <td>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_964_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_964_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_964_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_964_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA085570     | URS000232FFF2_1777139     | URS0002330151_1121476     | URS0002330988_198822     |
 | <span title="Length of the sequence in question">Length</span>  | 300.     |  300.    | 301.   |  300.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.892 | 0.884 | 0.825 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.892 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.713 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -85. | -121.229 | -82.873 | -115.343 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | cobalamin | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | PSMC2 | - | - | - |

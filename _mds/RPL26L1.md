@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA092481<br>
                     Gene: RPL26L1<br>
                     MFE: -22.166<br>
-                    ENS: 0.980<br>
+                    ENS: 0.949<br>
                     Length: 67.<br>
                     Predicted Ligands:<br>
-                    fluoride - 20/20<br>
-                    <br>
-                    <br>         
+                    fluoride - 7/20<br>
+                    cobalamin - 5/20<br>
+                    homocysteine - 3/20<br>         
             </td>
             <td>
                     RS: URS0000DB163B_1797820<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1097_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1097_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1097_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1097_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA092481     | URS0000DB163B_1797820     | URS0000BF7652_1600     | URS0000AB3CAB_365046     |
 | <span title="Length of the sequence in question">Length</span>  | 67.     |  69.    | 64.   |  69.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.980 | 0.976 | 0.979 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.980 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.949 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -22.166 | -29.468 | -11.431 | -18.584 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | fluoride | fluoride | homocysteine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | RPL26L1 | - | - | - |

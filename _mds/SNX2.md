@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA102206<br>
                     Gene: SNX2<br>
                     MFE: -26.305<br>
-                    ENS: 0.989<br>
+                    ENS: 0.959<br>
                     Length: 74.<br>
                     Predicted Ligands:<br>
-                    2'-dG-II - 20/20<br>
-                    <br>
-                    <br>         
+                    2'-dG-II - 8/20<br>
+                    fluoride - 7/20<br>
+                    cobalamin - 3/20<br>         
             </td>
             <td>
                     RS: URS0000C566F9_1804984<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1237_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1237_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1237_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1237_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA102206     | URS0000C566F9_1804984     | URS0000D662CB_12908     | URS0000D67D89_12908     |
 | <span title="Length of the sequence in question">Length</span>  | 74.     |  72.    | 71.   |  71.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.989 | 0.982 | 0.979 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.989 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.959 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -26.305 | -22.842 | -22.925 | -31.128 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | fluoride | 2'-dG-II | 2'-dG-II |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | SNX2 | - | - | - |

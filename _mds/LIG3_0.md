@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA058928<br>
                     Gene: LIG3_0<br>
                     MFE: -31.638<br>
-                    ENS: 0.974<br>
+                    ENS: 0.835<br>
                     Length: 115.<br>
                     Predicted Ligands:<br>
-                    FMN - 20/20<br>
-                    <br>
-                    <br>         
+                    FMN - 9/20<br>
+                    methionine - 3/20<br>
+                    cobalamin - 3/20<br>         
             </td>
             <td>
                     RS: URS0000C47F37_1127134<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_624_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_624_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_624_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_624_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA058928     | URS0000C47F37_1127134     | URS0000BEC403_197221     | URS0000C0D7E0_1341157     |
 | <span title="Length of the sequence in question">Length</span>  | 115.     |  115.    | 113.   |  115.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.974 | 0.973 | 0.972 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.974 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.835 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -31.638 | -46.094 | -33.051 | -32.136 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | methionine | glutamine | FMN |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | LIG3 | - | - | - |

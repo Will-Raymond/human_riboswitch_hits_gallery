@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA067084<br>
                     Gene: MPI_2<br>
                     MFE: -32.341<br>
-                    ENS: 0.969<br>
+                    ENS: 0.836<br>
                     Length: 86.<br>
                     Predicted Ligands:<br>
-                    GMP - 20/20<br>
-                    <br>
-                    <br>         
+                    GMP - 6/20<br>
+                    zmp-ztp - 5/20<br>
+                    SAM - 4/20<br>         
             </td>
             <td>
                     RS: URS0000DAA9CE_1839759<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_722_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_722_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_722_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_722_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA067084     | URS0000DAA9CE_1839759     | URS0000D6600A_12908     | URS0000D69C60_12908     |
 | <span title="Length of the sequence in question">Length</span>  | 86.     |  86.    | 86.   |  85.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.969 | 0.984 | 0.983 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.969 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.836 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -32.341 | -40.557 | -38.937 | -28.686 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | zmp-ztp | GMP | GMP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | MPI | - | - | - |

@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA096224<br>
                     Gene: SENP2<br>
                     MFE: -28.555<br>
-                    ENS: 0.986<br>
+                    ENS: 0.855<br>
                     Length: 78.<br>
                     Predicted Ligands:<br>
-                    homocysteine - 20/20<br>
-                    <br>
-                    <br>         
+                    homocysteine - 10/20<br>
+                    SAM - 4/20<br>
+                    cobalamin - 2/20<br>         
             </td>
             <td>
                     RS: URS000232483E_1449976<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1172_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1172_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1172_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1172_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA096224     | URS000232483E_1449976     | URS0000C10E4A_1348657     | URS0000DB663F_1895728     |
 | <span title="Length of the sequence in question">Length</span>  | 78.     |  79.    | 77.   |  80.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.986 | 0.985 | 0.984 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.986 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.855 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -28.555 | -42.456 | -24.101 | -34.847 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | zmp-ztp | homocysteine | homocysteine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | SENP2 | - | - | - |

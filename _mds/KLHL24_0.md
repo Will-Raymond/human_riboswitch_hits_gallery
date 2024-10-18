@@ -29,11 +29,11 @@ exclude: true
                     UTR: 5HSAA056952<br>
                     Gene: KLHL24_0<br>
                     MFE: -86.213<br>
-                    ENS: 0.<br>
+                    ENS: 0.745<br>
                     Length: 300.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
+                    cobalamin - 19/20<br>
+                    unknown - 1/20<br>
                     <br>         
             </td>
             <td>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_594_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_594_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_594_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_594_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA056952     | URS000232E33F_1777132     | URS000231BE10_1141662     | URS0002331D3E_1926494     |
 | <span title="Length of the sequence in question">Length</span>  | 300.     |  300.    | 296.   |  297.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.900 | 0.878 | 0.890 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0. | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.745 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -86.213 | -117.733 | -56.070 | -134.697 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | cobalamin | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | KLHL24 | - | - | - |

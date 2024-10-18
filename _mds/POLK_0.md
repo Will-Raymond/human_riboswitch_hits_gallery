@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA082294<br>
                     Gene: POLK_0<br>
                     MFE: -7.637<br>
-                    ENS: 0.991<br>
+                    ENS: 0.815<br>
                     Length: 55.<br>
                     Predicted Ligands:<br>
-                    SAM - 20/20<br>
-                    <br>
-                    <br>         
+                    SAM - 12/20<br>
+                    unknown - 5/20<br>
+                    homocysteine - 1/20<br>         
             </td>
             <td>
                     RS: URS0000E5FF72_1801945<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_914_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_914_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_914_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_914_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA082294     | URS0000E5FF72_1801945     | URS0000C4DEF6_1545044     | URS0000D7D027_53463     |
 | <span title="Length of the sequence in question">Length</span>  | 55.     |  55.    | 51.   |  51.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.991 | 0.979 | 0.979 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.991 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.815 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -7.637 | -22.581 | -16.644 | -14.544 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | unknown | SAM | SAM |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | POLK | - | - | - |

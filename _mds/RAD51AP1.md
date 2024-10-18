@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA088118<br>
                     Gene: RAD51AP1<br>
                     MFE: -49.914<br>
-                    ENS: 0.932<br>
+                    ENS: 0.832<br>
                     Length: 181.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 12/20<br>
+                    lysine - 6/20<br>
+                    zmp-ztp - 1/20<br>         
             </td>
             <td>
                     RS: URS0002312E88_84022<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1020_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1020_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1020_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1020_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA088118     | URS0002312E88_84022     | URS0000D82635_1123012     | URS000231436F_1121301     |
 | <span title="Length of the sequence in question">Length</span>  | 181.     |  179.    | 178.   |  184.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.932 | 0.923 | 0.939 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.932 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.832 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -49.914 | -33.756 | -50.009 | -36.206 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | lysine | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | RAD51AP1 | - | - | - |

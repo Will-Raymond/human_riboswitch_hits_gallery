@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA048932<br>
                     Gene: HERC3<br>
                     MFE: -62.192<br>
-                    ENS: 0.947<br>
+                    ENS: 0.675<br>
                     Length: 199.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 14/20<br>
+                    lysine - 5/20<br>
+                    Mg2+ - 1/20<br>         
             </td>
             <td>
                     RS: URS000232526A_1406840<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_490_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_490_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_490_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_490_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA048932     | URS000232526A_1406840     | URS0000C35CEB_1635262     | URS000232550E_1965546     |
 | <span title="Length of the sequence in question">Length</span>  | 199.     |  197.    | 194.   |  197.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.947 | 0.913 | 0.946 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.947 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.675 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -62.192 | -63.179 | -80.760 | -80.136 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | lysine | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | HERC3 | - | - | - |

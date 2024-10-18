@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA065303<br>
                     Gene: METTL5<br>
                     MFE: -46.697<br>
-                    ENS: 0.969<br>
+                    ENS: 0.987<br>
                     Length: 132.<br>
                     Predicted Ligands:<br>
-                    SAM - 20/20<br>
-                    <br>
-                    <br>         
+                    SAM - 5/20<br>
+                    cobalamin - 4/20<br>
+                    Mn2+ - 4/20<br>         
             </td>
             <td>
                     RS: URS0000AB9CC7_12908<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_701_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_701_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_701_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_701_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA065303     | URS0000AB9CC7_12908     | URS0000C74820_1262955     | URS0000AB4563_182337     |
 | <span title="Length of the sequence in question">Length</span>  | 132.     |  131.    | 132.   |  131.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.969 | 0.971 | 0.967 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.969 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.987 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -46.697 | -27.881 | -47.756 | -36.320 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | tetrahydrofolate | molybdenum |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | METTL5 | - | - | - |

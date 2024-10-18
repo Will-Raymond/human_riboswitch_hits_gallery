@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA107133<br>
                     Gene: TBC1D16<br>
                     MFE: -79.676<br>
-                    ENS: 0.966<br>
+                    ENS: 0.864<br>
                     Length: 141.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 7/20<br>
+                    FMN - 6/20<br>
+                    TPP - 2/20<br>         
             </td>
             <td>
                     RS: URS0000C1A4BB_1795630<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1294_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1294_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1294_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1294_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA107133     | URS0000C1A4BB_1795630     | URS000231E535_1971623     | URS000231EEC3_1305826     |
 | <span title="Length of the sequence in question">Length</span>  | 141.     |  139.    | 139.   |  142.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.966 | 0.959 | 0.967 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.966 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.864 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -79.676 | -54.085 | -47.266 | -64.396 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | FMN | cobalamin | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | TBC1D16 | - | - | - |

@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA004193<br>
                     Gene: AMELX<br>
                     MFE: -14.905<br>
-                    ENS: 0.987<br>
+                    ENS: 0.831<br>
                     Length: 93.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
-                    <br>
-                    <br>         
+                    TPP - 8/20<br>
+                    zmp-ztp - 5/20<br>
+                    glycine - 4/20<br>         
             </td>
             <td>
                     RS: URS0000C61D36_1469144<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_50_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_50_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_50_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_50_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA004193     | URS0000C61D36_1469144     | URS0000D86A2A_1895831     | URS00023162FC_944560     |
 | <span title="Length of the sequence in question">Length</span>  | 93.     |  93.    | 97.   |  90.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.987 | 0.973 | 0.977 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.987 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.831 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -14.905 | -42.686 | -40.078 | -41.413 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | glycine | TPP | zmp-ztp |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | AMELX | - | - | - |

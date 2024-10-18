@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA039444<br>
                     Gene: FARP2<br>
                     MFE: -52.971<br>
-                    ENS: 0.968<br>
+                    ENS: 0.903<br>
                     Length: 142.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
-                    <br>
-                    <br>         
+                    TPP - 9/20<br>
+                    cobalamin - 8/20<br>
+                    molybdenum - 1/20<br>         
             </td>
             <td>
                     RS: URS0000DA3AB6_3775<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_386_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_386_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_386_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_386_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA039444     | URS0000DA3AB6_3775     | URS0000D8F7DB_210143     | URS000231E144_1857892     |
 | <span title="Length of the sequence in question">Length</span>  | 142.     |  140.    | 139.   |  139.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.968 | 0.960 | 0.952 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.968 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.903 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -52.971 | -51.576 | -51.006 | -53.553 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | TPP | TPP | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | FARP2 | - | - | - |

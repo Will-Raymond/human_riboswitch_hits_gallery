@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA071239<br>
                     Gene: NDUFAF4_0<br>
                     MFE: -40.932<br>
-                    ENS: 0.955<br>
+                    ENS: 0.816<br>
                     Length: 118.<br>
                     Predicted Ligands:<br>
-                    FMN - 20/20<br>
-                    <br>
-                    <br>         
+                    FMN - 8/20<br>
+                    TPP - 5/20<br>
+                    SAM - 5/20<br>         
             </td>
             <td>
                     RS: URS0000C79A0B_411475<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_780_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_780_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_780_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_780_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA071239     | URS0000C79A0B_411475     | URS0000C0C91E_61635     | URS0000DAB0CB_134962     |
 | <span title="Length of the sequence in question">Length</span>  | 118.     |  113.    | 117.   |  117.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.955 | 0.973 | 0.967 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.955 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.816 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -40.932 | -35.526 | -23.124 | -47.958 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | TPP | FMN | methionine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | NDUFAF4 | - | - | - |

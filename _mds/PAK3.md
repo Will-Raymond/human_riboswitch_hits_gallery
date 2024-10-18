@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA076340<br>
                     Gene: PAK3<br>
                     MFE: -5.699<br>
-                    ENS: 0.991<br>
+                    ENS: 0.826<br>
                     Length: 52.<br>
                     Predicted Ligands:<br>
-                    unknown - 20/20<br>
-                    <br>
-                    <br>         
+                    unknown - 15/20<br>
+                    glutamine - 4/20<br>
+                    cobalamin - 1/20<br>         
             </td>
             <td>
                     RS: URS0000D66804_12908<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_848_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_848_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_848_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_848_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA076340     | URS0000D66804_12908     | URS0000D69992_311402     | URS0000E5FF62_1881059     |
 | <span title="Length of the sequence in question">Length</span>  | 52.     |  52.    | 53.   |  53.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.991 | 0.990 | 0.990 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.991 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.826 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -5.699 | -18.335 | -15.321 | -19.927 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | unknown | unknown | unknown |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | PAK3 | - | - | - |

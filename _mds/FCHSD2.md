@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA040128<br>
                     Gene: FCHSD2<br>
                     MFE: -58.899<br>
-                    ENS: 0.925<br>
+                    ENS: 0.985<br>
                     Length: 191.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 8/20<br>
+                    FMN - 5/20<br>
+                    TPP - 3/20<br>         
             </td>
             <td>
                     RS: URS0000D79814_1918948<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_394_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_394_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_394_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_394_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA040128     | URS0000D79814_1918948     | URS0000D7CC13_1802409     | URS0000C097BD_1178482     |
 | <span title="Length of the sequence in question">Length</span>  | 191.     |  188.    | 186.   |  197.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.925 | 0.911 | 0.909 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.925 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.985 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -58.899 | -51.558 | -48.916 | -71.485 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | TPP | TPP | FMN |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | FCHSD2 | - | - | - |

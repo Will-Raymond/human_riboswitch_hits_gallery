@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA008643<br>
                     Gene: ATP6V1C1<br>
                     MFE: -48.809<br>
-                    ENS: 0.944<br>
+                    ENS: 0.720<br>
                     Length: 174.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 15/20<br>
+                    lysine - 2/20<br>
+                    FMN - 2/20<br>         
             </td>
             <td>
                     RS: URS0000AB2A9F_392500<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_98_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_98_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_98_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_98_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA008643     | URS0000AB2A9F_392500     | URS0000D821D0_1038921     | URS000232A5F8_40571     |
 | <span title="Length of the sequence in question">Length</span>  | 174.     |  175.    | 172.   |  175.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.944 | 0.936 | 0.948 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.944 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.720 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -48.809 | -41.332 | -64.650 | -76.799 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | lysine | FMN | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | ATP6V1C1 | - | - | - |

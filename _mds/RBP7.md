@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA089750<br>
                     Gene: RBP7<br>
                     MFE: -31.478<br>
-                    ENS: 0.988<br>
+                    ENS: 0.996<br>
                     Length: 87.<br>
                     Predicted Ligands:<br>
-                    zmp-ztp - 20/20<br>
-                    <br>
-                    <br>         
+                    zmp-ztp - 16/20<br>
+                    homocysteine - 3/20<br>
+                    Ni/Co - 1/20<br>         
             </td>
             <td>
                     RS: URS0000C4024C_12908<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1043_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1043_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1043_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1043_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA089750     | URS0000C4024C_12908     | URS0000D68F53_12908     | URS0000C89123_1703384     |
 | <span title="Length of the sequence in question">Length</span>  | 87.     |  87.    | 84.   |  87.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.988 | 0.979 | 0.985 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.988 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.996 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -31.478 | -27.345 | -27.345 | -28.505 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | zmp-ztp | zmp-ztp | homocysteine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | RBP7 | - | - | - |

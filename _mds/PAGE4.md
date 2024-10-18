@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA076250<br>
                     Gene: PAGE4<br>
                     MFE: -21.391<br>
-                    ENS: 0.980<br>
+                    ENS: 0.974<br>
                     Length: 92.<br>
                     Predicted Ligands:<br>
-                    glycine - 20/20<br>
-                    <br>
-                    <br>         
+                    glycine - 6/20<br>
+                    TPP - 3/20<br>
+                    cobalamin - 3/20<br>         
             </td>
             <td>
                     RS: URS0000C1769C_1423804<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_847_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_847_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_847_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_847_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA076250     | URS0000C1769C_1423804     | URS0000C224B2_1461693     | URS0000D91832_40571     |
 | <span title="Length of the sequence in question">Length</span>  | 92.     |  90.    | 90.   |  92.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.980 | 0.978 | 0.978 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.980 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.974 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -21.391 | -16.776 | -37.373 | -27.994 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | SAM | glycine | glycine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | PAGE4 | - | - | - |

@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA076812<br>
                     Gene: PARP2<br>
                     MFE: -27.772<br>
-                    ENS: 0.979<br>
+                    ENS: 0.704<br>
                     Length: 85.<br>
                     Predicted Ligands:<br>
-                    GMP - 20/20<br>
-                    <br>
-                    <br>         
+                    GMP - 10/20<br>
+                    zmp-ztp - 3/20<br>
+                    glycine - 2/20<br>         
             </td>
             <td>
                     RS: URS0000AB8D2C_292415<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_852_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_852_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_852_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_852_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA076812     | URS0000AB8D2C_292415     | URS0000D68CBD_12908     | URS0000D68EE8_12908     |
 | <span title="Length of the sequence in question">Length</span>  | 85.     |  87.    | 85.   |  84.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.979 | 0.978 | 0.977 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.979 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.704 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -27.772 | -23.094 | -43.538 | -37.060 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | glycine | GMP | GMP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | PARP2 | - | - | - |

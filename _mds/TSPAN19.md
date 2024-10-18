@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA114379<br>
                     Gene: TSPAN19<br>
                     MFE: -18.255<br>
-                    ENS: 0.968<br>
+                    ENS: 0.986<br>
                     Length: 126.<br>
                     Predicted Ligands:<br>
-                    SAM - 20/20<br>
-                    <br>
-                    <br>         
+                    SAM - 18/20<br>
+                    GMP - 1/20<br>
+                    cobalamin - 1/20<br>         
             </td>
             <td>
                     RS: URS0000D6A33B_12908<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1376_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1376_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1376_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1376_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA114379     | URS0000D6A33B_12908     | URS0000C7B242_1402860     | URS0000D8C6ED_1193682     |
 | <span title="Length of the sequence in question">Length</span>  | 126.     |  125.    | 123.   |  128.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.968 | 0.961 | 0.964 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.968 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.986 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -18.255 | -48.167 | -41.029 | -55.193 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | GMP | SAM | SAM |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | TSPAN19 | - | - | - |

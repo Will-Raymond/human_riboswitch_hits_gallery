@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA008196<br>
                     Gene: ATL2<br>
                     MFE: -8.225<br>
-                    ENS: 0.988<br>
+                    ENS: 0.961<br>
                     Length: 55.<br>
                     Predicted Ligands:<br>
-                    unknown - 20/20<br>
-                    <br>
-                    <br>         
+                    unknown - 10/20<br>
+                    glutamine - 4/20<br>
+                    fluoride - 3/20<br>         
             </td>
             <td>
                     RS: URS0000D4ACC6_1336806<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_94_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_94_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_94_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_94_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA008196     | URS0000D4ACC6_1336806     | URS0000BEBCB1_439481     | URS000080DF4D_32630     |
 | <span title="Length of the sequence in question">Length</span>  | 55.     |  54.    | 59.   |  54.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.988 | 0.977 | 0.986 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.988 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.961 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -8.225 | -12.742 | -14.159 | -13.591 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | TPP | fluoride | FMN |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | ATL2 | - | - | - |

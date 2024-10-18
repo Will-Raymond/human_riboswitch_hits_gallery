@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA058361<br>
                     Gene: LBR<br>
                     MFE: -65.994<br>
-                    ENS: 0.954<br>
+                    ENS: 0.987<br>
                     Length: 168.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 11/20<br>
+                    FMN - 6/20<br>
+                    Mg2+ - 2/20<br>         
             </td>
             <td>
                     RS: URS0000AB3109_585503<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_605_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_605_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_605_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_605_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA058361     | URS0000AB3109_585503     | URS0002329603_1880991     | URS0000DA6C3F_1958950     |
 | <span title="Length of the sequence in question">Length</span>  | 168.     |  167.    | 173.   |  168.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.954 | 0.933 | 0.944 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.954 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.987 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -65.994 | -44.108 | -34.016 | -53.206 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | molybdenum | cobalamin | FMN |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | LBR | - | - | - |

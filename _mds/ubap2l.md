@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA115803<br>
                     Gene: UBAP2L<br>
                     MFE: -43.564<br>
-                    ENS: 0.927<br>
+                    ENS: 0.941<br>
                     Length: 192.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 15/20<br>
+                    TPP - 1/20<br>
+                    glycine - 1/20<br>         
             </td>
             <td>
                     RS: URS000232F323_1348163<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1408_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1408_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1408_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1408_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA115803     | URS000232F323_1348163     | URS0000D893F3_1801714     | URS0000C0DDDC_1354301     |
 | <span title="Length of the sequence in question">Length</span>  | 192.     |  194.    | 191.   |  186.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.927 | 0.940 | 0.911 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.927 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.941 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -43.564 | -63.450 | -62.926 | -35.944 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | TPP | glycine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | UBAP2L | - | - | - |

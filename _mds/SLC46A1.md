@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA100489<br>
                     Gene: SLC46A1<br>
                     MFE: -71.552<br>
-                    ENS: 0.874<br>
+                    ENS: 0.862<br>
                     Length: 211.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 18/20<br>
+                    glucosamine - 1/20<br>
+                    unknown - 1/20<br>         
             </td>
             <td>
                     RS: URS00023167CF_384765<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1210_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1210_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1210_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1210_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA100489     | URS00023167CF_384765     | URS0002322CF6_1305675     | URS000232ABAC_1263002     |
 | <span title="Length of the sequence in question">Length</span>  | 211.     |  210.    | 210.   |  211.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.874 | 0.935 | 0.919 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.874 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.862 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -71.552 | -71.137 | -55.977 | -86.830 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | cobalamin | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | SLC46A1 | - | - | - |

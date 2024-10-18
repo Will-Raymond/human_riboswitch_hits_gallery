@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA047102<br>
                     Gene: GSTO1<br>
                     MFE: -5.775<br>
-                    ENS: 0.989<br>
+                    ENS: 0.913<br>
                     Length: 34.<br>
                     Predicted Ligands:<br>
-                    SAM - 20/20<br>
-                    <br>
-                    <br>         
+                    SAM - 10/20<br>
+                    preQ_1 - 5/20<br>
+                    unknown - 2/20<br>         
             </td>
             <td>
                     RS: URS0001A24B6D_1907202<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_468_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_468_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_468_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_468_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA047102     | URS0001A24B6D_1907202     | URS0000D87AB1_1686310     | URS0000ABD446_1313296     |
 | <span title="Length of the sequence in question">Length</span>  | 34.     |  35.    | 36.   |  32.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.989 | 0.986 | 0.984 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.989 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.913 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -5.775 | -12.438 | -13.459 | -4.722 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | unknown | SAM | preQ_1 |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | GSTO1 | - | - | - |

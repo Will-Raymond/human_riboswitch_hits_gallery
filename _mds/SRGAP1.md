@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA103832<br>
                     Gene: SRGAP1<br>
                     MFE: -10.719<br>
-                    ENS: 0.973<br>
+                    ENS: 0.986<br>
                     Length: 81.<br>
                     Predicted Ligands:<br>
-                    GMP - 20/20<br>
-                    <br>
-                    <br>         
+                    GMP - 8/20<br>
+                    zmp-ztp - 4/20<br>
+                    cobalamin - 3/20<br>         
             </td>
             <td>
                     RS: URS0000D68F64_12908<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1259_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1259_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1259_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1259_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA103832     | URS0000D68F64_12908     | URS0000AB6B79_227882     | URS0000D69732_12908     |
 | <span title="Length of the sequence in question">Length</span>  | 81.     |  85.    | 84.   |  85.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.973 | 0.977 | 0.972 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.973 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.986 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -10.719 | -27.918 | -28.674 | -35.923 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | GMP | cobalamin | GMP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | SRGAP1 | - | - | - |

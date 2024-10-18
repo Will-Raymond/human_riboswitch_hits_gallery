@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA049005<br>
                     Gene: HEXB<br>
                     MFE: -61.503<br>
-                    ENS: 0.956<br>
+                    ENS: 0.847<br>
                     Length: 140.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 10/20<br>
+                    SAM - 4/20<br>
+                    molybdenum - 1/20<br>         
             </td>
             <td>
                     RS: URS0000ABA9F1_471881<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_494_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_494_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_494_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_494_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA049005     | URS0000ABA9F1_471881     | URS0002315D4D_1822263     | URS0000C25C26_1385511     |
 | <span title="Length of the sequence in question">Length</span>  | 140.     |  143.    | 141.   |  144.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.956 | 0.965 | 0.939 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.956 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.847 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -61.503 | -30.302 | -32.538 | -42.482 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | molybdenum | cobalamin | FMN |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | HEXB | - | - | - |

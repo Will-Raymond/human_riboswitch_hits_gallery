@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA105736<br>
                     Gene: SUB1<br>
                     MFE: -16.884<br>
-                    ENS: 0.977<br>
+                    ENS: 1.<br>
                     Length: 81.<br>
                     Predicted Ligands:<br>
-                    zmp-ztp - 20/20<br>
-                    <br>
-                    <br>         
+                    zmp-ztp - 7/20<br>
+                    SAM - 6/20<br>
+                    cobalamin - 2/20<br>         
             </td>
             <td>
                     RS: URS000231B470_1661<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1278_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1278_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1278_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1278_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA105736     | URS000231B470_1661     | URS0002314AB8_59561     | URS0000D84B4C_29367     |
 | <span title="Length of the sequence in question">Length</span>  | 81.     |  83.    | 83.   |  83.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.977 | 0.977 | 0.982 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.977 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 1. | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -16.884 | -27.301 | -28.801 | -11.968 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | zmp-ztp | zmp-ztp | cyclic-di-GMP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | SUB1 | - | - | - |

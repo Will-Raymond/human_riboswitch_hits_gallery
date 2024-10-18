@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA081676<br>
                     Gene: PMF1<br>
                     MFE: -11.178<br>
-                    ENS: 0.993<br>
+                    ENS: 0.986<br>
                     Length: 48.<br>
                     Predicted Ligands:<br>
-                    unknown - 20/20<br>
-                    <br>
-                    <br>         
+                    unknown - 7/20<br>
+                    preQ_1 - 6/20<br>
+                    glutamine - 3/20<br>         
             </td>
             <td>
                     RS: URS0000C526CF_1227363<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_900_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_900_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_900_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_900_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA081676     | URS0000C526CF_1227363     | URS0000D68714_12908     | URS0000D6CE9A_12908     |
 | <span title="Length of the sequence in question">Length</span>  | 48.     |  48.    | 49.   |  46.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.993 | 0.990 | 0.989 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.993 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.986 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -11.178 | -9.360 | -12.035 | -19.243 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | preQ_1 | unknown | unknown |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | PMF1 | - | - | - |

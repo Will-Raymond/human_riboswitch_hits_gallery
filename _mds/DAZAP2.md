@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA028160<br>
                     Gene: DAZAP2<br>
                     MFE: -69.240<br>
-                    ENS: 0.904<br>
+                    ENS: 0.956<br>
                     Length: 209.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 16/20<br>
+                    glucosamine - 2/20<br>
+                    TPP - 1/20<br>         
             </td>
             <td>
                     RS: URS000231D2F5_1263061<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_261_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_261_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_261_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_261_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA028160     | URS000231D2F5_1263061     | URS0000C7B980_1740090     | URS000232D508_1641875     |
 | <span title="Length of the sequence in question">Length</span>  | 209.     |  210.    | 206.   |  206.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.904 | 0.900 | 0.932 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.904 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.956 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -69.240 | -42.368 | -55.108 | -54.274 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | TPP | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | DAZAP2 | - | - | - |

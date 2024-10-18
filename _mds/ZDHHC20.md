@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA121384<br>
                     Gene: ZDHHC20<br>
                     MFE: -24.779<br>
-                    ENS: 0.970<br>
+                    ENS: 0.862<br>
                     Length: 121.<br>
                     Predicted Ligands:<br>
-                    methionine - 20/20<br>
-                    <br>
-                    <br>         
+                    methionine - 7/20<br>
+                    TPP - 3/20<br>
+                    FMN - 3/20<br>         
             </td>
             <td>
                     RS: URS0001E88DDE_2055160<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1489_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1489_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1489_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1489_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA121384     | URS0001E88DDE_2055160     | URS0000D8894E_1960125     | URS0000C228F8_1220926     |
 | <span title="Length of the sequence in question">Length</span>  | 121.     |  122.    | 123.   |  119.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.970 | 0.963 | 0.958 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.970 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.862 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -24.779 | -48.478 | -45.571 | -24.280 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | TPP | Mn2+ | TPP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | ZDHHC20 | - | - | - |

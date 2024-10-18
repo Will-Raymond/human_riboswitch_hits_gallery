@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA063487<br>
                     Gene: MAPRE1_1<br>
                     MFE: -23.760<br>
-                    ENS: 0.986<br>
+                    ENS: 0.950<br>
                     Length: 71.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 9/20<br>
+                    SAM - 4/20<br>
+                    fluoride - 3/20<br>         
             </td>
             <td>
                     RS: URS0000BE60FD_1179773<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_663_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_663_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_663_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_663_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA063487     | URS0000BE60FD_1179773     | URS0000DA82C2_1701573     | URS0000C543C7_477245     |
 | <span title="Length of the sequence in question">Length</span>  | 71.     |  71.    | 70.   |  70.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.986 | 0.978 | 0.984 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.986 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.950 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -23.760 | -30.278 | -23.241 | -30.458 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | fluoride | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | MAPRE1 | - | - | - |

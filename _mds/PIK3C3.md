@@ -29,11 +29,11 @@ exclude: true
                     UTR: 5HSAA080336<br>
                     Gene: PIK3C3<br>
                     MFE: -17.563<br>
-                    ENS: 0.990<br>
+                    ENS: 0.870<br>
                     Length: 63.<br>
                     Predicted Ligands:<br>
-                    fluoride - 20/20<br>
-                    <br>
+                    fluoride - 17/20<br>
+                    cobalamin - 3/20<br>
                     <br>         
             </td>
             <td>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_889_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_889_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_889_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_889_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA080336     | URS0000DB1040_560556     | URS0000D7ABA7_1955065     | URS000083C1CE_281456     |
 | <span title="Length of the sequence in question">Length</span>  | 63.     |  62.    | 64.   |  65.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.990 | 0.988 | 0.985 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.990 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.870 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -17.563 | -24.178 | -23.894 | -15.872 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | cobalamin | fluoride |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | PIK3C3 | - | - | - |

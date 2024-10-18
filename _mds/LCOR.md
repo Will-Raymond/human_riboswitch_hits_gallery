@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA058481<br>
                     Gene: LCOR<br>
                     MFE: -15.773<br>
-                    ENS: 0.984<br>
+                    ENS: 0.814<br>
                     Length: 75.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 6/20<br>
+                    fluoride - 6/20<br>
+                    SAM - 5/20<br>         
             </td>
             <td>
                     RS: URS0000AB2AD9_700597<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_608_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_608_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_608_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_608_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA058481     | URS0000AB2AD9_700597     | URS0000AB38E1_754252     | URS0000ABC479_553973     |
 | <span title="Length of the sequence in question">Length</span>  | 75.     |  74.    | 76.   |  76.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.984 | 0.981 | 0.983 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.984 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.814 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -15.773 | -27.707 | -30.919 | -14.451 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | cobalamin | glycine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | LCOR | - | - | - |

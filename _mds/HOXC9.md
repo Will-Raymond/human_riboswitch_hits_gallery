@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA050599<br>
                     Gene: HOXC9<br>
                     MFE: -25.617<br>
-                    ENS: 0.975<br>
+                    ENS: 0.992<br>
                     Length: 121.<br>
                     Predicted Ligands:<br>
-                    methionine - 20/20<br>
-                    <br>
-                    <br>         
+                    methionine - 5/20<br>
+                    FMN - 5/20<br>
+                    SAM - 3/20<br>         
             </td>
             <td>
                     RS: URS0002329114_1797513<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_517_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_517_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_517_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_517_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA050599     | URS0002329114_1797513     | URS0000C45151_408170     | URS0000C107A9_690567     |
 | <span title="Length of the sequence in question">Length</span>  | 121.     |  120.    | 121.   |  119.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.975 | 0.975 | 0.966 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.975 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.992 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -25.617 | -21.438 | -27.193 | -23.548 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | Ni/Co | molybdenum |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | HOXC9 | - | - | - |

@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA087932<br>
                     Gene: RACGAP1<br>
                     MFE: -31.996<br>
-                    ENS: 0.969<br>
+                    ENS: 0.872<br>
                     Length: 136.<br>
                     Predicted Ligands:<br>
-                    molybdenum - 20/20<br>
-                    <br>
-                    <br>         
+                    molybdenum - 8/20<br>
+                    cobalamin - 8/20<br>
+                    glycine - 2/20<br>         
             </td>
             <td>
                     RS: URS00004B7D39_1432552<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1016_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1016_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1016_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1016_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA087932     | URS00004B7D39_1432552     | URS000231661F_1736397     | URS000081C612_141349     |
 | <span title="Length of the sequence in question">Length</span>  | 136.     |  139.    | 136.   |  137.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.969 | 0.966 | 0.969 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.969 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.872 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -31.996 | -42.318 | -54.807 | -43.725 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | molybdenum | cobalamin | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | RACGAP1 | - | - | - |

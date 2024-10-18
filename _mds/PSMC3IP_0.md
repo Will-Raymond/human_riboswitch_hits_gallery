@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA085577<br>
                     Gene: PSMC3IP_0<br>
                     MFE: -63.545<br>
-                    ENS: 0.947<br>
+                    ENS: 0.816<br>
                     Length: 170.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 8/20<br>
+                    FMN - 7/20<br>
+                    lysine - 3/20<br>         
             </td>
             <td>
                     RS: URS000231C0C8_649349<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_968_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_968_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_968_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_968_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA085577     | URS000231C0C8_649349     | URS0002323DFC_568872     | URS0002329603_1880991     |
 | <span title="Length of the sequence in question">Length</span>  | 170.     |  170.    | 172.   |  173.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.947 | 0.949 | 0.936 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.947 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.816 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -63.545 | -41.981 | -85.768 | -34.016 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | FMN | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | PSMC3IP | - | - | - |

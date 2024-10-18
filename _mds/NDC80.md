@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA070715<br>
                     Gene: NDC80<br>
                     MFE: -62.478<br>
-                    ENS: 0.936<br>
+                    ENS: 0.806<br>
                     Length: 195.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 13/20<br>
+                    molybdenum - 3/20<br>
+                    TPP - 1/20<br>         
             </td>
             <td>
                     RS: URS0000C7296F_1069985<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_772_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_772_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_772_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_772_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA070715     | URS0000C7296F_1069985     | URS0002316B15_1622118     | URS000231C149_556261     |
 | <span title="Length of the sequence in question">Length</span>  | 195.     |  198.    | 192.   |  192.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.936 | 0.933 | 0.932 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.936 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.806 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -62.478 | -56.121 | -33.860 | -53.656 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | TPP | cobalamin | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | NDC80 | - | - | - |

@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA045625<br>
                     Gene: GOLM1<br>
                     MFE: -50.923<br>
-                    ENS: 0.946<br>
+                    ENS: 0.871<br>
                     Length: 190.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 16/20<br>
+                    lysine - 3/20<br>
+                    TPP - 1/20<br>         
             </td>
             <td>
                     RS: URS0002323E07_420246<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_456_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_456_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_456_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_456_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA045625     | URS0002323E07_420246     | URS00023335E6_235909     | URS0002329B2D_1802187     |
 | <span title="Length of the sequence in question">Length</span>  | 190.     |  192.    | 192.   |  184.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.946 | 0.941 | 0.912 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.946 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.871 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -50.923 | -66.261 | -67.238 | -31.398 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | cobalamin | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | GOLM1 | - | - | - |

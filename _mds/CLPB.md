@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA022946<br>
                     Gene: CLPB<br>
                     MFE: -29.451<br>
-                    ENS: 0.986<br>
+                    ENS: 0.868<br>
                     Length: 75.<br>
                     Predicted Ligands:<br>
-                    homocysteine - 20/20<br>
-                    <br>
-                    <br>         
+                    homocysteine - 8/20<br>
+                    SAM - 5/20<br>
+                    fluoride - 5/20<br>         
             </td>
             <td>
                     RS: URS0000D94A6C_1860102<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_207_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_207_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_207_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_207_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA022946     | URS0000D94A6C_1860102     | URS0000DB4B1C_505252     | URS0000D7A703_2008440     |
 | <span title="Length of the sequence in question">Length</span>  | 75.     |  73.    | 77.   |  75.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.986 | 0.986 | 0.988 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.986 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.868 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -29.451 | -24.494 | -22.644 | -29.029 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | homocysteine | SAM | fluoride |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | CLPB | - | - | - |

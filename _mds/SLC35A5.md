@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA099878<br>
                     Gene: SLC35A5<br>
                     MFE: -56.469<br>
-                    ENS: 0.953<br>
+                    ENS: 0.876<br>
                     Length: 158.<br>
                     Predicted Ligands:<br>
-                    SAM - 20/20<br>
-                    <br>
-                    <br>         
+                    SAM - 13/20<br>
+                    glucosamine - 4/20<br>
+                    glycine - 1/20<br>         
             </td>
             <td>
                     RS: URS0000C5F770_1632865<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1206_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1206_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1206_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1206_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA099878     | URS0000C5F770_1632865     | URS0000AB5134_355249     | URS0000AB2D86_465543     |
 | <span title="Length of the sequence in question">Length</span>  | 158.     |  157.    | 156.   |  156.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.953 | 0.952 | 0.952 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.953 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.876 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -56.469 | -56.690 | -67.150 | -66.150 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | glycine | SAM | SAM |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | SLC35A5 | - | - | - |

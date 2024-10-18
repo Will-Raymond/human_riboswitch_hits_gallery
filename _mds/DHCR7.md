@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA029894<br>
                     Gene: DHCR7<br>
                     MFE: -54.963<br>
-                    ENS: 0.948<br>
+                    ENS: 0.708<br>
                     Length: 187.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 12/20<br>
+                    lysine - 3/20<br>
+                    TPP - 2/20<br>         
             </td>
             <td>
                     RS: URS0000C4D8D7_1658172<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_288_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_288_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_288_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_288_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA029894     | URS0000C4D8D7_1658172     | URS0000C17E55_1703770     | URS0000C133B0_1565991     |
 | <span title="Length of the sequence in question">Length</span>  | 187.     |  188.    | 185.   |  182.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.948 | 0.903 | 0.923 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.948 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.708 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -54.963 | -53.597 | -70.903 | -53.555 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | TPP | FMN | lysine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | DHCR7 | - | - | - |

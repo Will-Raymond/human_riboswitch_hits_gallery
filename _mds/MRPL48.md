@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA067533<br>
                     Gene: MRPL48<br>
                     MFE: -46.142<br>
-                    ENS: 0.975<br>
+                    ENS: 0.882<br>
                     Length: 125.<br>
                     Predicted Ligands:<br>
-                    molybdenum - 20/20<br>
-                    <br>
-                    <br>         
+                    molybdenum - 11/20<br>
+                    cobalamin - 3/20<br>
+                    tetrahydrofolate - 3/20<br>         
             </td>
             <td>
                     RS: URS0000AB3B19_743525<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_732_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_732_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_732_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_732_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA067533     | URS0000AB3B19_743525     | URS0000C11D76_499207     | URS0000DA9C89_1817879     |
 | <span title="Length of the sequence in question">Length</span>  | 125.     |  124.    | 119.   |  127.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.975 | 0.945 | 0.971 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.975 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.882 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -46.142 | -64.779 | -37.004 | -36.322 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | molybdenum | molybdenum | molybdenum |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | MRPL48 | - | - | - |

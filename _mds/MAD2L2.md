@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA061397<br>
                     Gene: MAD2L2<br>
                     MFE: -36.576<br>
-                    ENS: 0.961<br>
+                    ENS: 0.809<br>
                     Length: 97.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
-                    <br>
-                    <br>         
+                    TPP - 9/20<br>
+                    purine - 6/20<br>
+                    zmp-ztp - 4/20<br>         
             </td>
             <td>
                     RS: URS0000C59620_517011<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_648_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_648_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_648_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_648_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA061397     | URS0000C59620_517011     | URS0000DAC8B3_1839759     | URS0000C7CADA_1423727     |
 | <span title="Length of the sequence in question">Length</span>  | 97.     |  94.    | 95.   |  97.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.961 | 0.962 | 0.962 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.961 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.809 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -36.576 | -31.329 | -49.333 | -23.266 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | glycine | zmp-ztp | TPP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | MAD2L2 | - | - | - |

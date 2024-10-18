@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA065945<br>
                     Gene: MIOS<br>
                     MFE: -14.171<br>
-                    ENS: 0.981<br>
+                    ENS: 0.970<br>
                     Length: 85.<br>
                     Predicted Ligands:<br>
-                    GMP - 20/20<br>
-                    <br>
-                    <br>         
+                    GMP - 7/20<br>
+                    cyclic-di-GMP - 7/20<br>
+                    glycine - 3/20<br>         
             </td>
             <td>
                     RS: URS0000C0CE26_1628212<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_706_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_706_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_706_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_706_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA065945     | URS0000C0CE26_1628212     | URS0000D663DB_12908     | URS0000ABBA00_1003200     |
 | <span title="Length of the sequence in question">Length</span>  | 85.     |  87.    | 85.   |  87.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.981 | 0.982 | 0.981 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.981 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.970 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -14.171 | -24.577 | -27.846 | -29.617 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | glycine | GMP | glycine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | MIOS | - | - | - |

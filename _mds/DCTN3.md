@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA028453<br>
                     Gene: DCTN3<br>
                     MFE: -23.962<br>
-                    ENS: 0.992<br>
+                    ENS: 0.873<br>
                     Length: 60.<br>
                     Predicted Ligands:<br>
-                    unknown - 20/20<br>
-                    <br>
-                    <br>         
+                    unknown - 13/20<br>
+                    fluoride - 4/20<br>
+                    glutamine - 3/20<br>         
             </td>
             <td>
                     RS: URS0000C1FE2F_1455638<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_264_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_264_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_264_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_264_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA028453     | URS0000C1FE2F_1455638     | URS0000E5FEE5_1552     | URS00014045C5_2584084     |
 | <span title="Length of the sequence in question">Length</span>  | 60.     |  60.    | 58.   |  63.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.992 | 0.989 | 0.985 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.992 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.873 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -23.962 | -15.805 | -15.710 | -25.734 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | fluoride | unknown | fluoride |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | DCTN3 | - | - | - |

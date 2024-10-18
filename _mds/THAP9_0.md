@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA108987<br>
                     Gene: THAP9_0<br>
                     MFE: -42.216<br>
-                    ENS: 0.952<br>
+                    ENS: 0.996<br>
                     Length: 125.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 9/20<br>
+                    glycine - 3/20<br>
+                    methionine - 2/20<br>         
             </td>
             <td>
                     RS: URS0000AB53D0_767817<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1318_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1318_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1318_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1318_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA108987     | URS0000AB53D0_767817     | URS0000AB19FC_378753     | URS0000D7891F_1803494     |
 | <span title="Length of the sequence in question">Length</span>  | 125.     |  121.    | 121.   |  128.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.952 | 0.955 | 0.954 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.952 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.996 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -42.216 | -40.688 | -42.597 | -52.323 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | molybdenum | TPP | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | THAP9 | - | - | - |

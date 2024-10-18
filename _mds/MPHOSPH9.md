@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA067066<br>
                     Gene: MPHOSPH9<br>
                     MFE: -30.442<br>
-                    ENS: 0.952<br>
+                    ENS: 0.826<br>
                     Length: 132.<br>
                     Predicted Ligands:<br>
-                    FMN - 20/20<br>
-                    <br>
-                    <br>         
+                    FMN - 12/20<br>
+                    cobalamin - 4/20<br>
+                    TPP - 3/20<br>         
             </td>
             <td>
                     RS: URS0000D92CF0_1123012<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_718_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_718_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_718_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_718_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA067066     | URS0000D92CF0_1123012     | URS0000AB7C72_315750     | URS0000E0E49F_561879     |
 | <span title="Length of the sequence in question">Length</span>  | 132.     |  135.    | 132.   |  131.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.952 | 0.943 | 0.942 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.952 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.826 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -30.442 | -37.234 | -35.604 | -35.304 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | FMN | FMN | FMN |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | MPHOSPH9 | - | - | - |

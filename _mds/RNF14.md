@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA091409<br>
                     Gene: RNF14<br>
                     MFE: -23.886<br>
-                    ENS: 0.983<br>
+                    ENS: 0.848<br>
                     Length: 72.<br>
                     Predicted Ligands:<br>
-                    homocysteine - 20/20<br>
-                    <br>
-                    <br>         
+                    homocysteine - 12/20<br>
+                    glutamine - 2/20<br>
+                    glycine - 2/20<br>         
             </td>
             <td>
                     RS: URS0000AB4AE6_519989<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1061_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1061_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1061_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1061_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA091409     | URS0000AB4AE6_519989     | URS0000C5C846_12908     | URS0000D7CCB0_1802374     |
 | <span title="Length of the sequence in question">Length</span>  | 72.     |  74.    | 74.   |  71.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.983 | 0.985 | 0.984 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.983 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.848 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -23.886 | -28.954 | -20.388 | -23.069 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | homocysteine | glutamine | homocysteine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | RNF14 | - | - | - |

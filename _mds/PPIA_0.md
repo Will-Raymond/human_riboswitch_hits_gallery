@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA083309-0<br>
                     Gene: PPIA_0<br>
                     MFE: -63.792<br>
-                    ENS: 0.959<br>
+                    ENS: 0.984<br>
                     Length: 174.<br>
                     Predicted Ligands:<br>
-                    Mg2+ - 20/20<br>
-                    <br>
-                    <br>         
+                    Mg2+ - 10/20<br>
+                    cobalamin - 6/20<br>
+                    lysine - 2/20<br>         
             </td>
             <td>
                     RS: URS0002312886_443254<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_925_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_925_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_925_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_925_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA083309-0     | URS0002312886_443254     | URS0000D81D44_1941208     | URS00023202D1_997347     |
 | <span title="Length of the sequence in question">Length</span>  | 174.     |  176.    | 172.   |  181.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.959 | 0.954 | 0.911 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.959 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.984 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -63.792 | -56.866 | -37.083 | -32.488 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | Mg2+ | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | PPIA | - | - | - |

@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA010608<br>
                     Gene: BHMT_0<br>
                     MFE: -25.373<br>
-                    ENS: 0.979<br>
+                    ENS: 0.954<br>
                     Length: 84.<br>
                     Predicted Ligands:<br>
-                    cyclic-di-GMP - 20/20<br>
-                    <br>
-                    <br>         
+                    cyclic-di-GMP - 5/20<br>
+                    fluoride - 5/20<br>
+                    TPP - 3/20<br>         
             </td>
             <td>
                     RS: URS0000C388DB_1402860<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_115_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_115_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_115_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_115_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA010608     | URS0000C388DB_1402860     | URS0000D6A901_12908     | URS0000D98B6B_1797640     |
 | <span title="Length of the sequence in question">Length</span>  | 84.     |  82.    | 86.   |  83.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.979 | 0.979 | 0.981 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.979 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.954 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -25.373 | -19.330 | -22.932 | -23.860 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cyclic-di-GMP | cyclic-di-GMP | fluoride |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | BHMT | - | - | - |

@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA020573<br>
                     Gene: CDK5<br>
                     MFE: -30.799<br>
-                    ENS: 0.982<br>
+                    ENS: 0.995<br>
                     Length: 86.<br>
                     Predicted Ligands:<br>
-                    zmp-ztp - 20/20<br>
-                    <br>
-                    <br>         
+                    zmp-ztp - 7/20<br>
+                    GMP - 4/20<br>
+                    SAM - 3/20<br>         
             </td>
             <td>
                     RS: URS0000D6808A_12908<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_174_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_174_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_174_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_174_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA020573     | URS0000D6808A_12908     | URS0000D9084F_1121421     | URS0000C4CA09_1736496     |
 | <span title="Length of the sequence in question">Length</span>  | 86.     |  84.    | 84.   |  83.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.982 | 0.972 | 0.975 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.982 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.995 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -30.799 | -32.727 | -23.127 | -34.748 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | GMP | zmp-ztp | fluoride |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | CDK5 | - | - | - |

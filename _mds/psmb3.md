@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA085508<br>
                     Gene: PSMB3<br>
                     MFE: -30.643<br>
-                    ENS: 0.970<br>
+                    ENS: 0.984<br>
                     Length: 103.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
-                    <br>
-                    <br>         
+                    TPP - 6/20<br>
+                    glycine - 5/20<br>
+                    homocysteine - 4/20<br>         
             </td>
             <td>
                     RS: URS000232F8B0_1802479<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_956_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_956_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_956_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_956_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA085508     | URS000232F8B0_1802479     | URS000232A3BC_1618578     | URS0000C74866_1437824     |
 | <span title="Length of the sequence in question">Length</span>  | 103.     |  99.    | 100.   |  99.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.970 | 0.972 | 0.969 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.970 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.984 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -30.643 | -30.562 | -19.618 | -48.407 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | cobalamin | homocysteine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | PSMB3 | - | - | - |

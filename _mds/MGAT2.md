@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA065645<br>
                     Gene: MGAT2<br>
                     MFE: -80.851<br>
-                    ENS: 0.942<br>
+                    ENS: 0.903<br>
                     Length: 194.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 13/20<br>
+                    FMN - 3/20<br>
+                    lysine - 3/20<br>         
             </td>
             <td>
                     RS: URS00023323FA_943830<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_703_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_703_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_703_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_703_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA065645     | URS00023323FA_943830     | URS00023310E5_1226750     | URS000232EF86_1736287     |
 | <span title="Length of the sequence in question">Length</span>  | 194.     |  191.    | 193.   |  187.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.942 | 0.943 | 0.882 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.942 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.903 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -80.851 | -63.647 | -76.551 | -65.028 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | cobalamin | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | MGAT2 | - | - | - |

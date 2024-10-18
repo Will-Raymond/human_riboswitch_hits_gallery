@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA066112<br>
                     Gene: MLF1<br>
                     MFE: -68.332<br>
-                    ENS: 0.942<br>
+                    ENS: 0.872<br>
                     Length: 194.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 18/20<br>
+                    lysine - 1/20<br>
+                    TPP - 1/20<br>         
             </td>
             <td>
                     RS: URS0002316B15_1622118<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_707_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_707_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_707_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_707_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA066112     | URS0002316B15_1622118     | URS0002335854_1230466     | URS00023292A8_398577     |
 | <span title="Length of the sequence in question">Length</span>  | 194.     |  192.    | 195.   |  192.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.942 | 0.944 | 0.924 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.942 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.872 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -68.332 | -33.860 | -68.137 | -76.569 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | cobalamin | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | MLF1 | - | - | - |

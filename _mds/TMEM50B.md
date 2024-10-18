@@ -29,11 +29,11 @@ exclude: true
                     UTR: 5HSAA111257<br>
                     Gene: TMEM50B<br>
                     MFE: -18.002<br>
-                    ENS: 0.974<br>
+                    ENS: 0.980<br>
                     Length: 102.<br>
                     Predicted Ligands:<br>
-                    purine - 20/20<br>
-                    <br>
+                    purine - 19/20<br>
+                    glycine - 1/20<br>
                     <br>         
             </td>
             <td>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1337_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1337_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1337_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1337_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA111257     | URS0000AB8205_190304     | URS0000C7460B_2138     | URS0000D8E55B_201502     |
 | <span title="Length of the sequence in question">Length</span>  | 102.     |  99.    | 100.   |  100.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.974 | 0.976 | 0.976 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.974 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.980 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -18.002 | -12.616 | -15.284 | -15.284 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | purine | purine | purine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | TMEM50B | - | - | - |

@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA035639<br>
                     Gene: ENY2<br>
                     MFE: -30.696<br>
-                    ENS: 0.979<br>
+                    ENS: 0.991<br>
                     Length: 87.<br>
                     Predicted Ligands:<br>
-                    glycine - 20/20<br>
-                    <br>
-                    <br>         
+                    glycine - 12/20<br>
+                    cyclic-di-GMP - 4/20<br>
+                    homocysteine - 2/20<br>         
             </td>
             <td>
                     RS: URS0000D6754E_12908<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_338_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_338_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_338_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_338_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA035639     | URS0000D6754E_12908     | URS0000C453FA_1262449     | URS0000C1135C_1736550     |
 | <span title="Length of the sequence in question">Length</span>  | 87.     |  85.    | 87.   |  88.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.979 | 0.982 | 0.979 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.979 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.991 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -30.696 | -14.367 | -16.626 | -32.576 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cyclic-di-GMP | glycine | glycine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | ENY2 | - | - | - |

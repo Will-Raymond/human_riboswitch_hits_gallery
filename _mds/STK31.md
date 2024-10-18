@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA105066<br>
                     Gene: STK31<br>
                     MFE: -32.453<br>
-                    ENS: 0.973<br>
+                    ENS: 0.692<br>
                     Length: 92.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
-                    <br>
-                    <br>         
+                    TPP - 7/20<br>
+                    glycine - 3/20<br>
+                    homocysteine - 3/20<br>         
             </td>
             <td>
                     RS: URS00007D0A74_511145<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1272_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1272_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1272_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1272_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA105066     | URS00007D0A74_511145     | URS0002318797_33050     | URS0000C7F03D_883081     |
 | <span title="Length of the sequence in question">Length</span>  | 92.     |  93.    | 90.   |  91.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.973 | 0.978 | 0.966 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.973 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.692 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -32.453 | -30.055 | -32.882 | -24.285 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | Mg2+ | zmp-ztp | TPP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | STK31 | - | - | - |

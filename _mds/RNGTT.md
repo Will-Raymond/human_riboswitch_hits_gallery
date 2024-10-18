@@ -29,11 +29,11 @@ exclude: true
                     UTR: 5HSAA091818<br>
                     Gene: RNGTT<br>
                     MFE: -25.391<br>
-                    ENS: 0.980<br>
+                    ENS: 0.870<br>
                     Length: 105.<br>
                     Predicted Ligands:<br>
-                    guanidine - 20/20<br>
-                    <br>
+                    guanidine - 19/20<br>
+                    glycine - 1/20<br>
                     <br>         
             </td>
             <td>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1072_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1072_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1072_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1072_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA091818     | URS0000C1D0CA_666686     | URS0000C80B44_512399     | URS0000AB7A16_997346     |
 | <span title="Length of the sequence in question">Length</span>  | 105.     |  105.    | 102.   |  103.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.980 | 0.976 | 0.978 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.980 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.870 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -25.391 | -23.828 | -33.098 | -29.616 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | guanidine | guanidine | guanidine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | RNGTT | - | - | - |

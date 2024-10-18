@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA071169<br>
                     Gene: NDUFA2<br>
                     MFE: -26.732<br>
-                    ENS: 0.975<br>
+                    ENS: 0.991<br>
                     Length: 97.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
-                    <br>
-                    <br>         
+                    TPP - 8/20<br>
+                    homocysteine - 3/20<br>
+                    glycine - 3/20<br>         
             </td>
             <td>
                     RS: URS0000AB2B8D_408172<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_774_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_774_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_774_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_774_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA071169     | URS0000AB2B8D_408172     | URS0000DA4E87_1802178     | URS0000DAC5C8_1797747     |
 | <span title="Length of the sequence in question">Length</span>  | 97.     |  99.    | 94.   |  97.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.975 | 0.966 | 0.977 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.975 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.991 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -26.732 | -28.706 | -41.602 | -29.307 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | TPP | TPP | homocysteine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | NDUFA2 | - | - | - |

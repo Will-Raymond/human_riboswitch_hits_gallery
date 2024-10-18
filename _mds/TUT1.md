@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA115282-1<br>
                     Gene: TUT1<br>
                     MFE: -13.538<br>
-                    ENS: 0.985<br>
+                    ENS: 0.932<br>
                     Length: 63.<br>
                     Predicted Ligands:<br>
-                    fluoride - 20/20<br>
-                    <br>
-                    <br>         
+                    fluoride - 14/20<br>
+                    unknown - 4/20<br>
+                    SAM - 1/20<br>         
             </td>
             <td>
                     RS: URS0000C88432_1452487<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1399_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1399_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1399_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1399_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA115282-1     | URS0000C88432_1452487     | URS0000D668CB_12908     | URS0000C44113_999411     |
 | <span title="Length of the sequence in question">Length</span>  | 63.     |  62.    | 61.   |  62.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.985 | 0.983 | 0.983 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.985 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.932 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -13.538 | -14.596 | -18.342 | -12.194 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | fluoride | unknown | fluoride |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | TUT1 | - | - | - |

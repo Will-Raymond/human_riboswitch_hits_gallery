@@ -29,11 +29,11 @@ exclude: true
                     UTR: 5HSAA057639<br>
                     Gene: L1CAM<br>
                     MFE: -20.506<br>
-                    ENS: 0.993<br>
+                    ENS: 0.742<br>
                     Length: 45.<br>
                     Predicted Ligands:<br>
-                    preQ_1 - 20/20<br>
-                    <br>
+                    preQ_1 - 12/20<br>
+                    SAM - 8/20<br>
                     <br>         
             </td>
             <td>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_599_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_599_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_599_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_599_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA057639     | URS0000ABB587_545693     | URS0000C39A44_561184     | URS0000AB7E68_668336     |
 | <span title="Length of the sequence in question">Length</span>  | 45.     |  45.    | 47.   |  45.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.993 | 0.988 | 0.992 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.993 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.742 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -20.506 | -7.282 | -15.542 | -3.299 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | preQ_1 | SAM | preQ_1 |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | L1CAM | - | - | - |

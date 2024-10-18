@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA075452<br>
                     Gene: OSBPL3<br>
                     MFE: -8.407<br>
-                    ENS: 0.987<br>
+                    ENS: 0.659<br>
                     Length: 64.<br>
                     Predicted Ligands:<br>
-                    fluoride - 20/20<br>
-                    <br>
-                    <br>         
+                    fluoride - 13/20<br>
+                    cobalamin - 3/20<br>
+                    purine - 2/20<br>         
             </td>
             <td>
                     RS: URS0000AB8807_1274<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_836_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_836_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_836_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_836_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA075452     | URS0000AB8807_1274     | URS0000C28F5C_1660159     | URS000232726E_1248420     |
 | <span title="Length of the sequence in question">Length</span>  | 64.     |  64.    | 62.   |  61.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.987 | 0.982 | 0.977 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.987 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.659 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -8.407 | -22.008 | -22.130 | -11.204 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | fluoride | purine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | OSBPL3 | - | - | - |

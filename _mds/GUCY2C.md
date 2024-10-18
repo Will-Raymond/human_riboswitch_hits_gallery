@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA047486<br>
                     Gene: GUCY2C<br>
                     MFE: -15.406<br>
-                    ENS: 0.988<br>
+                    ENS: 0.814<br>
                     Length: 72.<br>
                     Predicted Ligands:<br>
-                    homocysteine - 20/20<br>
-                    <br>
-                    <br>         
+                    homocysteine - 10/20<br>
+                    fluoride - 9/20<br>
+                    purine - 1/20<br>         
             </td>
             <td>
                     RS: URS0000D7A231_1805090<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_475_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_475_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_475_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_475_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA047486     | URS0000D7A231_1805090     | URS0000AB5B72_338969     | URS0000AB47FE_748280     |
 | <span title="Length of the sequence in question">Length</span>  | 72.     |  72.    | 71.   |  71.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.988 | 0.987 | 0.987 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.988 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.814 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -15.406 | -21.146 | -24.746 | -28.192 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | homocysteine | homocysteine | homocysteine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | GUCY2C | - | - | - |

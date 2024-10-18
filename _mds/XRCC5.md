@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA120475<br>
                     Gene: XRCC5<br>
                     MFE: -52.787<br>
-                    ENS: 0.940<br>
+                    ENS: 0.833<br>
                     Length: 165.<br>
                     Predicted Ligands:<br>
-                    FMN - 20/20<br>
-                    <br>
-                    <br>         
+                    FMN - 8/20<br>
+                    Mn2+ - 3/20<br>
+                    Mg2+ - 3/20<br>         
             </td>
             <td>
                     RS: URS0000C6143F_1886670<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1468_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1468_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1468_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1468_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA120475     | URS0000C6143F_1886670     | URS0002333FF3_1660113     | URS0000ABB3F4_446468     |
 | <span title="Length of the sequence in question">Length</span>  | 165.     |  163.    | 164.   |  164.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.940 | 0.931 | 0.937 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.940 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.833 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -52.787 | -48.936 | -65.395 | -64.603 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | SAM | FMN | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | XRCC5 | - | - | - |

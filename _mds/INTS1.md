@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA053268<br>
                     Gene: INTS1<br>
                     MFE: -68.072<br>
-                    ENS: 0.964<br>
+                    ENS: 0.855<br>
                     Length: 130.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 10/20<br>
+                    TPP - 4/20<br>
+                    homocysteine - 2/20<br>         
             </td>
             <td>
                     RS: URS0002317B58_700597<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_556_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_556_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_556_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_556_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA053268     | URS0002317B58_700597     | URS0000D83D4A_134849     | URS0000D79022_1817768     |
 | <span title="Length of the sequence in question">Length</span>  | 130.     |  131.    | 132.   |  132.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.964 | 0.967 | 0.959 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.964 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.855 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -68.072 | -51.947 | -59.592 | -74.222 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | methionine | homocysteine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | INTS1 | - | - | - |

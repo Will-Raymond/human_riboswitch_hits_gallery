@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA094532<br>
                     Gene: SAT1_0<br>
                     MFE: -36.489<br>
-                    ENS: 0.937<br>
+                    ENS: 0.812<br>
                     Length: 206.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 14/20<br>
+                    SAM - 4/20<br>
+                    unknown - 2/20<br>         
             </td>
             <td>
                     RS: URS0000D9E4EF_1805004<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1150_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1150_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1150_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1150_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA094532     | URS0000D9E4EF_1805004     | URS0000E60143_1262980     | URS00007DEFB1_408180     |
 | <span title="Length of the sequence in question">Length</span>  | 206.     |  203.    | 205.   |  204.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.937 | 0.933 | 0.934 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.937 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.812 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -36.489 | -64.948 | -49.954 | -68.723 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | SAM | unknown | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | SAT1 | - | - | - |

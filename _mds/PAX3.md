@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA077049<br>
                     Gene: PAX3<br>
                     MFE: -24.120<br>
-                    ENS: 0.973<br>
+                    ENS: 0.992<br>
                     Length: 105.<br>
                     Predicted Ligands:<br>
-                    purine - 20/20<br>
-                    <br>
-                    <br>         
+                    purine - 14/20<br>
+                    TPP - 4/20<br>
+                    SAM - 2/20<br>         
             </td>
             <td>
                     RS: URS0000C7A037_1677858<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_854_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_854_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_854_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_854_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA077049     | URS0000C7A037_1677858     | URS0000BF4F4B_1736388     | URS0000AB1700_657324     |
 | <span title="Length of the sequence in question">Length</span>  | 105.     |  102.    | 109.   |  105.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.973 | 0.964 | 0.972 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.973 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.992 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -24.120 | -16.099 | -17.791 | -24.346 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | purine | purine | TPP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | PAX3 | - | - | - |

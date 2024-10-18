@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA040253<br>
                     Gene: FDFT1<br>
                     MFE: -17.273<br>
-                    ENS: 0.983<br>
+                    ENS: 0.939<br>
                     Length: 60.<br>
                     Predicted Ligands:<br>
-                    fluoride - 20/20<br>
-                    <br>
-                    <br>         
+                    fluoride - 15/20<br>
+                    purine - 3/20<br>
+                    glutamine - 1/20<br>         
             </td>
             <td>
                     RS: URS0000CA35F2_1331910<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_395_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_395_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_395_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_395_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA040253     | URS0000CA35F2_1331910     | URS0000DB05FD_1933868     | URS0000ABD16B_265311     |
 | <span title="Length of the sequence in question">Length</span>  | 60.     |  63.    | 63.   |  63.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.983 | 0.980 | 0.980 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.983 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.939 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -17.273 | -20.329 | -6.844 | -18.846 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | fluoride | fluoride | purine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | FDFT1 | - | - | - |

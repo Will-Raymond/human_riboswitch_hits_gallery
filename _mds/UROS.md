@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA117252<br>
                     Gene: UROS<br>
                     MFE: -17.707<br>
-                    ENS: 0.977<br>
+                    ENS: 0.763<br>
                     Length: 89.<br>
                     Predicted Ligands:<br>
-                    zmp-ztp - 20/20<br>
-                    <br>
-                    <br>         
+                    zmp-ztp - 6/20<br>
+                    glycine - 5/20<br>
+                    TPP - 2/20<br>         
             </td>
             <td>
                     RS: URS0000DB2846_1798571<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1428_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1428_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1428_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1428_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA117252     | URS0000DB2846_1798571     | URS0000D8B336_362257     | URS0000DA625E_1840472     |
 | <span title="Length of the sequence in question">Length</span>  | 89.     |  89.    | 91.   |  89.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.977 | 0.978 | 0.974 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.977 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.763 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -17.707 | -19.740 | -35.882 | -23.728 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | Ni/Co | zmp-ztp | glycine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | UROS | - | - | - |

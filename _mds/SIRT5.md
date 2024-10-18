@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA098449<br>
                     Gene: SIRT5<br>
                     MFE: -28.759<br>
-                    ENS: 0.955<br>
+                    ENS: 0.978<br>
                     Length: 153.<br>
                     Predicted Ligands:<br>
-                    glucosamine - 20/20<br>
-                    <br>
-                    <br>         
+                    glucosamine - 6/20<br>
+                    SAM - 6/20<br>
+                    cobalamin - 4/20<br>         
             </td>
             <td>
                     RS: URS0000BE8D16_1262772<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1189_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1189_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1189_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1189_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA098449     | URS0000BE8D16_1262772     | URS0000C0FBD9_1300222     | URS0002330963_1801946     |
 | <span title="Length of the sequence in question">Length</span>  | 153.     |  155.    | 153.   |  152.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.955 | 0.946 | 0.957 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.955 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.978 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -28.759 | -29.390 | -52.819 | -36.922 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | glucosamine | SAM | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | SIRT5 | - | - | - |

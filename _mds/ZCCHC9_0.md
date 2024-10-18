@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA121277<br>
                     Gene: ZCCHC9_0<br>
                     MFE: -47.473<br>
-                    ENS: 0.969<br>
+                    ENS: 0.876<br>
                     Length: 130.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 8/20<br>
+                    SAM - 6/20<br>
+                    TPP - 4/20<br>         
             </td>
             <td>
                     RS: URS0000D78BD8_1312072<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1488_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1488_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1488_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1488_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA121277     | URS0000D78BD8_1312072     | URS0002312C3F_1262914     | URS0002323292_83332     |
 | <span title="Length of the sequence in question">Length</span>  | 130.     |  129.    | 129.   |  131.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.969 | 0.969 | 0.971 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.969 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.876 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -47.473 | -26.802 | -32.510 | -55. |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | SAM | cobalamin | glycine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | ZCCHC9 | - | - | - |

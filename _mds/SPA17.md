@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA102706<br>
                     Gene: SPA17<br>
                     MFE: -34.144<br>
-                    ENS: 0.950<br>
+                    ENS: 0.843<br>
                     Length: 160.<br>
                     Predicted Ligands:<br>
-                    glucosamine - 20/20<br>
-                    <br>
-                    <br>         
+                    glucosamine - 15/20<br>
+                    Mn2+ - 3/20<br>
+                    glucosamine-6-phosphate - 1/20<br>         
             </td>
             <td>
                     RS: URS00007E6F14_499207<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1243_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1243_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1243_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1243_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA102706     | URS00007E6F14_499207     | URS0000D93076_610332     | URS0000BF7F94_29343     |
 | <span title="Length of the sequence in question">Length</span>  | 160.     |  162.    | 164.   |  159.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.950 | 0.948 | 0.959 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.950 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.843 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -34.144 | -50.853 | -72.141 | -53.030 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | glucosamine | Mn2+ | glucosamine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | SPA17 | - | - | - |

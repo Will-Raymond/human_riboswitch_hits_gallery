@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA037614<br>
                     Gene: FAF1<br>
                     MFE: -39.642<br>
-                    ENS: 0.986<br>
+                    ENS: 0.926<br>
                     Length: 88.<br>
                     Predicted Ligands:<br>
-                    zmp-ztp - 20/20<br>
-                    <br>
-                    <br>         
+                    zmp-ztp - 5/20<br>
+                    Ni/Co - 5/20<br>
+                    TPP - 2/20<br>         
             </td>
             <td>
                     RS: URS0000DAEBC6_1834512<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_370_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_370_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_370_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_370_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA037614     | URS0000DAEBC6_1834512     | URS0000D7DAB4_1834515     | URS0000ABD514_345219     |
 | <span title="Length of the sequence in question">Length</span>  | 88.     |  87.    | 87.   |  90.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.986 | 0.979 | 0.980 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.986 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.926 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -39.642 | -37.016 | -33.534 | -20.455 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | Mg2+ | zmp-ztp | TPP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | FAF1 | - | - | - |

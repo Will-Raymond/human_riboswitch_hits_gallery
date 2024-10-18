@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA086367<br>
                     Gene: PTPN13<br>
                     MFE: -34.331<br>
-                    ENS: 0.970<br>
+                    ENS: 0.892<br>
                     Length: 124.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
-                    <br>
-                    <br>         
+                    TPP - 5/20<br>
+                    cobalamin - 3/20<br>
+                    molybdenum - 3/20<br>         
             </td>
             <td>
                     RS: URS0000AB9723_12908<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_983_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_983_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_983_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_983_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA086367     | URS0000AB9723_12908     | URS0000DB092B_1802198     | URS0000AB2672_240176     |
 | <span title="Length of the sequence in question">Length</span>  | 124.     |  126.    | 122.   |  127.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.970 | 0.968 | 0.956 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.970 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.892 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -34.331 | -29.354 | -37.773 | -36.899 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | molybdenum | TPP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | PTPN13 | - | - | - |

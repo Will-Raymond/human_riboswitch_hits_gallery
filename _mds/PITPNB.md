@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA080516<br>
                     Gene: PITPNB<br>
                     MFE: -32.032<br>
-                    ENS: 0.968<br>
+                    ENS: 0.901<br>
                     Length: 112.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
-                    <br>
-                    <br>         
+                    TPP - 9/20<br>
+                    methionine - 6/20<br>
+                    guanidine - 2/20<br>         
             </td>
             <td>
                     RS: URS0000ABB201_398511<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_890_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_890_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_890_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_890_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA080516     | URS0000ABB201_398511     | URS0000DA4813_1718947     | URS0000C755FD_1423734     |
 | <span title="Length of the sequence in question">Length</span>  | 112.     |  115.    | 112.   |  108.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.968 | 0.974 | 0.965 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.968 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.901 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -32.032 | -28.622 | -54.109 | -30.776 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | TPP | methionine | TPP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | PITPNB | - | - | - |

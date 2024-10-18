@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA100931<br>
                     Gene: SLITRK5<br>
                     MFE: -24.796<br>
-                    ENS: 0.972<br>
+                    ENS: 0.650<br>
                     Length: 90.<br>
                     Predicted Ligands:<br>
-                    guanidine - 20/20<br>
-                    <br>
-                    <br>         
+                    guanidine - 17/20<br>
+                    TPP - 2/20<br>
+                    zmp-ztp - 1/20<br>         
             </td>
             <td>
                     RS: URS00021EDF77_12908<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1217_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1217_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1217_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1217_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA100931     | URS00021EDF77_12908     | URS0000C15C50_485913     | URS00021EDB9F_12908     |
 | <span title="Length of the sequence in question">Length</span>  | 90.     |  90.    | 89.   |  90.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.972 | 0.980 | 0.973 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.972 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.650 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -24.796 | -33.972 | -25.252 | -35.173 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | guanidine | zmp-ztp | guanidine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | SLITRK5 | - | - | - |

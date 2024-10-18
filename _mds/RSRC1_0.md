@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA093485<br>
                     Gene: RSRC1_0<br>
                     MFE: -63.298<br>
-                    ENS: 0.955<br>
+                    ENS: 0.975<br>
                     Length: 187.<br>
                     Predicted Ligands:<br>
-                    lysine - 20/20<br>
-                    <br>
-                    <br>         
+                    lysine - 13/20<br>
+                    cobalamin - 4/20<br>
+                    molybdenum - 3/20<br>         
             </td>
             <td>
                     RS: URS0000AB33BE_1643452<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1130_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1130_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1130_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1130_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA093485     | URS0000AB33BE_1643452     | URS0000D8D6B4_1665556     | URS0000BE798B_1397     |
 | <span title="Length of the sequence in question">Length</span>  | 187.     |  187.    | 187.   |  183.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.955 | 0.955 | 0.941 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.955 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.975 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -63.298 | -51.022 | -51.022 | -47.809 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | lysine | lysine | lysine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | RSRC1 | - | - | - |

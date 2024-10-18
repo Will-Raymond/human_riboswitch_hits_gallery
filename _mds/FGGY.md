@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA040838<br>
                     Gene: FGGY<br>
                     MFE: -61.245<br>
-                    ENS: 0.952<br>
+                    ENS: 0.881<br>
                     Length: 161.<br>
                     Predicted Ligands:<br>
-                    FMN - 20/20<br>
-                    <br>
-                    <br>         
+                    FMN - 12/20<br>
+                    molybdenum - 3/20<br>
+                    glucosamine - 2/20<br>         
             </td>
             <td>
                     RS: URS0000AB7DF9_626418<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_405_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_405_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_405_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_405_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA040838     | URS0000AB7DF9_626418     | URS0001A06769_2653164     | URS0000DAA675_1149133     |
 | <span title="Length of the sequence in question">Length</span>  | 161.     |  158.    | 162.   |  159.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.952 | 0.939 | 0.947 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.952 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.881 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -61.245 | -58.152 | -58.890 | -62.240 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | FMN | FMN | FMN |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | FGGY | - | - | - |

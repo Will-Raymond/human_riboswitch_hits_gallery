@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA111672<br>
                     Gene: TMPRSS11D<br>
                     MFE: -10.215<br>
-                    ENS: 0.971<br>
+                    ENS: 0.902<br>
                     Length: 90.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
-                    <br>
-                    <br>         
+                    TPP - 8/20<br>
+                    zmp-ztp - 4/20<br>
+                    glycine - 4/20<br>         
             </td>
             <td>
                     RS: URS000231F01C_12908<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1344_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1344_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1344_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1344_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA111672     | URS000231F01C_12908     | URS0000C868E4_123899     | URS0000C75D1B_1130798     |
 | <span title="Length of the sequence in question">Length</span>  | 90.     |  93.    | 92.   |  93.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.971 | 0.974 | 0.971 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.971 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.902 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -10.215 | -13. | -27.622 | -22.243 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | TPP | TPP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | TMPRSS11D | - | - | - |

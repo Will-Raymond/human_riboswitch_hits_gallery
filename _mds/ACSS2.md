@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA001650<br>
                     Gene: ACSS2<br>
                     MFE: -44.744<br>
-                    ENS: 0.983<br>
+                    ENS: 0.937<br>
                     Length: 99.<br>
                     Predicted Ligands:<br>
-                    tetrahydrofolate - 20/20<br>
-                    <br>
-                    <br>         
+                    tetrahydrofolate - 10/20<br>
+                    glycine - 4/20<br>
+                    guanidine - 3/20<br>         
             </td>
             <td>
                     RS: URS0000C1B597_1262822<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_22_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_22_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_22_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_22_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA001650     | URS0000C1B597_1262822     | URS0000C63827_1263015     | URS0000C44359_1547922     |
 | <span title="Length of the sequence in question">Length</span>  | 99.     |  100.    | 99.   |  96.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.983 | 0.981 | 0.976 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.983 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.937 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -44.744 | -18.484 | -32.525 | -39.146 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | tetrahydrofolate | tetrahydrofolate | homocysteine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | ACSS2 | - | - | - |

@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA075443<br>
                     Gene: OSBPL2<br>
                     MFE: -11.592<br>
-                    ENS: 0.983<br>
+                    ENS: 0.986<br>
                     Length: 83.<br>
                     Predicted Ligands:<br>
-                    glycine - 20/20<br>
-                    <br>
-                    <br>         
+                    glycine - 4/20<br>
+                    cobalamin - 4/20<br>
+                    GMP - 3/20<br>         
             </td>
             <td>
                     RS: URS0000D6B49A_12908<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_835_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_835_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_835_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_835_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA075443     | URS0000D6B49A_12908     | URS0000C2D022_1418104     | URS0000BFE4B8_56110     |
 | <span title="Length of the sequence in question">Length</span>  | 83.     |  84.    | 85.   |  85.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.983 | 0.974 | 0.979 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.983 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.986 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -11.592 | -19. | -16.416 | -29.334 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | GMP | cyclic-di-GMP | fluoride |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | OSBPL2 | - | - | - |

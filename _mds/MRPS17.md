@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA067619<br>
                     Gene: MRPS17<br>
                     MFE: -4.080<br>
-                    ENS: 0.990<br>
+                    ENS: 0.981<br>
                     Length: 42.<br>
                     Predicted Ligands:<br>
-                    SAM - 20/20<br>
-                    <br>
-                    <br>         
+                    SAM - 11/20<br>
+                    preQ_1 - 7/20<br>
+                    zmp-ztp - 1/20<br>         
             </td>
             <td>
                     RS: URS00023316D7_471853<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_737_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_737_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_737_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_737_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA067619     | URS00023316D7_471853     | URS0000AB3019_665959     | URS0000C4588A_46224     |
 | <span title="Length of the sequence in question">Length</span>  | 42.     |  41.    | 43.   |  43.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.990 | 0.987 | 0.987 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.990 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.981 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -4.080 | -15.636 | -8.448 | -8.448 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | zmp-ztp | preQ_1 | preQ_1 |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | MRPS17 | - | - | - |

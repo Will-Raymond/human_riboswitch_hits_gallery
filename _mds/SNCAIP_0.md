@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA101880<br>
                     Gene: SNCAIP_0<br>
                     MFE: -33.815<br>
-                    ENS: 0.944<br>
+                    ENS: 0.842<br>
                     Length: 163.<br>
                     Predicted Ligands:<br>
-                    FMN - 20/20<br>
-                    <br>
-                    <br>         
+                    FMN - 7/20<br>
+                    cobalamin - 4/20<br>
+                    Mg2+ - 4/20<br>         
             </td>
             <td>
                     RS: URS0000762FA6_138074<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1231_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1231_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1231_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1231_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA101880     | URS0000762FA6_138074     | URS0000AB7E10_568816     | URS0000DB4051_1834151     |
 | <span title="Length of the sequence in question">Length</span>  | 163.     |  162.    | 165.   |  164.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.944 | 0.937 | 0.924 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.944 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.842 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -33.815 | -50.778 | -55.106 | -62.344 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | FMN | lysine | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | SNCAIP | - | - | - |

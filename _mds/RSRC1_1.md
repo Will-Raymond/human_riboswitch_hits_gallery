@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA093486<br>
                     Gene: RSRC1_1<br>
                     MFE: -61.963<br>
-                    ENS: 0.932<br>
+                    ENS: 0.759<br>
                     Length: 174.<br>
                     Predicted Ligands:<br>
-                    lysine - 20/20<br>
-                    <br>
-                    <br>         
+                    lysine - 13/20<br>
+                    cobalamin - 3/20<br>
+                    FMN - 2/20<br>         
             </td>
             <td>
                     RS: URS000232DC2C_1121420<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1131_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1131_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1131_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1131_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA093486     | URS000232DC2C_1121420     | URS0000D93C61_1158614     | URS0002326832_768704     |
 | <span title="Length of the sequence in question">Length</span>  | 174.     |  173.    | 174.   |  174.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.932 | 0.938 | 0.943 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.932 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.759 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -61.963 | -41.215 | -43.812 | -37.552 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | lysine | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | RSRC1 | - | - | - |

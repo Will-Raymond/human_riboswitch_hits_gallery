@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA005791<br>
                     Gene: APOLD1<br>
                     MFE: -38.927<br>
-                    ENS: 0.971<br>
+                    ENS: 0.893<br>
                     Length: 109.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
-                    <br>
-                    <br>         
+                    TPP - 7/20<br>
+                    SAM - 6/20<br>
+                    glycine - 3/20<br>         
             </td>
             <td>
                     RS: URS0000C4A666_1158606<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_68_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_68_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_68_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_68_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA005791     | URS0000C4A666_1158606     | URS0000C8155C_1736254     | URS0000DA7300_1797663     |
 | <span title="Length of the sequence in question">Length</span>  | 109.     |  110.    | 109.   |  107.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.971 | 0.972 | 0.971 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.971 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.893 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -38.927 | -27. | -40.984 | -42.750 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | tetrahydrofolate | glycine | SAM |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | APOLD1 | - | - | - |

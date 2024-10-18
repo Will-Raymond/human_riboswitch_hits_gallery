@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA081502<br>
                     Gene: PLRG1<br>
                     MFE: -19.007<br>
-                    ENS: 0.976<br>
+                    ENS: 0.934<br>
                     Length: 88.<br>
                     Predicted Ligands:<br>
-                    guanidine - 20/20<br>
-                    <br>
-                    <br>         
+                    guanidine - 12/20<br>
+                    TPP - 2/20<br>
+                    zmp-ztp - 2/20<br>         
             </td>
             <td>
                     RS: URS00021EDCB2_12908<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_897_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_897_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_897_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_897_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA081502     | URS00021EDCB2_12908     | URS00021EDF77_12908     | URS0000AB3FAF_391589     |
 | <span title="Length of the sequence in question">Length</span>  | 88.     |  90.    | 90.   |  89.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.976 | 0.976 | 0.979 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.976 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.934 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -19.007 | -27.510 | -33.972 | -23.673 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | guanidine | guanidine | TPP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | PLRG1 | - | - | - |

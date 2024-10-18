@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA021777<br>
                     Gene: CHKA<br>
                     MFE: -22.253<br>
-                    ENS: 0.986<br>
+                    ENS: 0.747<br>
                     Length: 60.<br>
                     Predicted Ligands:<br>
-                    unknown - 20/20<br>
-                    <br>
-                    <br>         
+                    unknown - 10/20<br>
+                    fluoride - 6/20<br>
+                    molybdenum - 1/20<br>         
             </td>
             <td>
                     RS: URS0000C22AF4_1734399<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_190_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_190_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_190_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_190_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA021777     | URS0000C22AF4_1734399     | URS0000E604E4_1398085     | URS0000D69BEC_318586     |
 | <span title="Length of the sequence in question">Length</span>  | 60.     |  61.    | 57.   |  58.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.986 | 0.981 | 0.985 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.986 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.747 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -22.253 | -14.943 | -25.819 | -27.207 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | molybdenum | unknown | unknown |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | CHKA | - | - | - |

@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA106209<br>
                     Gene: SYDE2<br>
                     MFE: -47.655<br>
-                    ENS: 0.919<br>
+                    ENS: 0.881<br>
                     Length: 209.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 11/20<br>
+                    glucosamine - 7/20<br>
+                    FMN - 2/20<br>         
             </td>
             <td>
                     RS: URS00023321A9_1895708<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1287_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1287_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1287_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1287_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA106209     | URS00023321A9_1895708     | URS00023171E6_1262734     | URS000231A362_639282     |
 | <span title="Length of the sequence in question">Length</span>  | 209.     |  211.    | 207.   |  210.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.919 | 0.923 | 0.903 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.919 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.881 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -47.655 | -72.429 | -51.418 | -66.132 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | cobalamin | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | SYDE2 | - | - | - |

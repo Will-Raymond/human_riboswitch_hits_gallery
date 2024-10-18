@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA107352<br>
                     Gene: TBC1D8B<br>
                     MFE: -24.023<br>
-                    ENS: 0.972<br>
+                    ENS: 0.873<br>
                     Length: 114.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
-                    <br>
-                    <br>         
+                    TPP - 11/20<br>
+                    preQ_1 - 5/20<br>
+                    SAM - 3/20<br>         
             </td>
             <td>
                     RS: URS0000C07F6E_161896<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1295_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1295_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1295_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1295_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA107352     | URS0000C07F6E_161896     | URS0000C7A726_29332     | URS0000C2FCC9_119224     |
 | <span title="Length of the sequence in question">Length</span>  | 114.     |  115.    | 115.   |  115.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.972 | 0.974 | 0.972 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.972 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.873 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -24.023 | -34.003 | -35.651 | -21.369 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | TPP | TPP | preQ_1 |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | TBC1D8B | - | - | - |

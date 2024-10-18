@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA055122<br>
                     Gene: KCTD9<br>
                     MFE: -30.392<br>
-                    ENS: 0.969<br>
+                    ENS: 0.872<br>
                     Length: 140.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 8/20<br>
+                    FMN - 5/20<br>
+                    Mn2+ - 3/20<br>         
             </td>
             <td>
                     RS: URS0000C80BEC_1470558<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_578_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_578_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_578_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_578_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA055122     | URS0000C80BEC_1470558     | URS0000DCD718_96344     | URS0002325339_1894     |
 | <span title="Length of the sequence in question">Length</span>  | 140.     |  140.    | 139.   |  143.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.969 | 0.966 | 0.951 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.969 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.872 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -30.392 | -64.451 | -61.603 | -55.318 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | glycine | glycine | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | KCTD9 | - | - | - |

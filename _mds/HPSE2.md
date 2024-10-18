@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA050773<br>
                     Gene: HPSE2<br>
                     MFE: -17.330<br>
-                    ENS: 0.981<br>
+                    ENS: 0.804<br>
                     Length: 85.<br>
                     Predicted Ligands:<br>
-                    GMP - 20/20<br>
-                    <br>
-                    <br>         
+                    GMP - 8/20<br>
+                    zmp-ztp - 5/20<br>
+                    TPP - 4/20<br>         
             </td>
             <td>
                     RS: URS0000D6B2FA_12908<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_520_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_520_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_520_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_520_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA050773     | URS0000D6B2FA_12908     | URS0000D69732_12908     | URS0000D68F64_12908     |
 | <span title="Length of the sequence in question">Length</span>  | 85.     |  85.    | 85.   |  85.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.981 | 0.980 | 0.980 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.981 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.804 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -17.330 | -30.108 | -35.923 | -27.918 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | GMP | GMP | GMP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | HPSE2 | - | - | - |

@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA017096<br>
                     Gene: CASP14<br>
                     MFE: -15.213<br>
-                    ENS: 0.983<br>
+                    ENS: 0.948<br>
                     Length: 73.<br>
                     Predicted Ligands:<br>
-                    2'-dG-II - 20/20<br>
-                    <br>
-                    <br>         
+                    2'-dG-II - 6/20<br>
+                    GMP - 4/20<br>
+                    SAM - 3/20<br>         
             </td>
             <td>
                     RS: URS0000D68382_12908<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_146_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_146_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_146_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_146_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA017096     | URS0000D68382_12908     | URS0000D6BFB8_12908     | URS0000D862BF_1293890     |
 | <span title="Length of the sequence in question">Length</span>  | 73.     |  71.    | 72.   |  72.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.983 | 0.985 | 0.984 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.983 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.948 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -15.213 | -24.591 | -17.094 | -18.108 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | 2'-dG-II | 2'-dG-II | SAM |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | CASP14 | - | - | - |

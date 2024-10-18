@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA025105<br>
                     Gene: CREB1<br>
                     MFE: -57.804<br>
-                    ENS: 0.948<br>
+                    ENS: 0.830<br>
                     Length: 171.<br>
                     Predicted Ligands:<br>
-                    Mg2+ - 20/20<br>
-                    <br>
-                    <br>         
+                    Mg2+ - 12/20<br>
+                    TPP - 7/20<br>
+                    cobalamin - 1/20<br>         
             </td>
             <td>
                     RS: URS0000C32BA7_616990<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_244_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_244_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_244_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_244_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA025105     | URS0000C32BA7_616990     | URS0002312549_1321781     | URS0000BF4933_694068     |
 | <span title="Length of the sequence in question">Length</span>  | 171.     |  169.    | 172.   |  173.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.948 | 0.962 | 0.959 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.948 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.830 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -57.804 | -36.152 | -52.557 | -52.450 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | Mg2+ | cobalamin | TPP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | CREB1 | - | - | - |

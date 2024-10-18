@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA063490<br>
                     Gene: MAPRE1_2<br>
                     MFE: -42.151<br>
-                    ENS: 0.970<br>
+                    ENS: 0.872<br>
                     Length: 113.<br>
                     Predicted Ligands:<br>
-                    glycine - 20/20<br>
-                    <br>
-                    <br>         
+                    glycine - 15/20<br>
+                    homocysteine - 3/20<br>
+                    tetrahydrofolate - 1/20<br>         
             </td>
             <td>
                     RS: URS0000D78569_1701573<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_664_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_664_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_664_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_664_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA063490     | URS0000D78569_1701573     | URS0000AB8FE0_391038     | URS0000D897E2_75105     |
 | <span title="Length of the sequence in question">Length</span>  | 113.     |  115.    | 115.   |  115.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.970 | 0.970 | 0.970 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.970 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.872 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -42.151 | -41.730 | -41.730 | -41.730 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | homocysteine | homocysteine | homocysteine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | MAPRE1 | - | - | - |

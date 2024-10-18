@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA092971<br>
                     Gene: RPS25<br>
                     MFE: -24.946<br>
-                    ENS: 0.983<br>
+                    ENS: 0.922<br>
                     Length: 88.<br>
                     Predicted Ligands:<br>
-                    glycine - 20/20<br>
-                    <br>
-                    <br>         
+                    glycine - 13/20<br>
+                    cyclic-di-GMP - 5/20<br>
+                    GMP - 1/20<br>         
             </td>
             <td>
                     RS: URS0000AB27A5_649638<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1113_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1113_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1113_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1113_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA092971     | URS0000AB27A5_649638     | URS0000C28E9E_411922     | URS0000C32CB9_866895     |
 | <span title="Length of the sequence in question">Length</span>  | 88.     |  87.    | 87.   |  87.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.983 | 0.981 | 0.980 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.983 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.922 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -24.946 | -34.681 | -19. | -23.281 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cyclic-di-GMP | glycine | glycine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | RPS25 | - | - | - |

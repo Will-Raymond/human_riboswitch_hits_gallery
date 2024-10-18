@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA047795<br>
                     Gene: HAGHL<br>
                     MFE: -28.525<br>
-                    ENS: 0.981<br>
+                    ENS: 0.984<br>
                     Length: 75.<br>
                     Predicted Ligands:<br>
-                    homocysteine - 20/20<br>
-                    <br>
-                    <br>         
+                    homocysteine - 7/20<br>
+                    SAM - 6/20<br>
+                    fluoride - 5/20<br>         
             </td>
             <td>
                     RS: URS0000DAFD26_1895740<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_478_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_478_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_478_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_478_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA047795     | URS0000DAFD26_1895740     | URS0000C75D31_1660143     | URS0000B91E62_245188     |
 | <span title="Length of the sequence in question">Length</span>  | 75.     |  75.    | 73.   |  78.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.981 | 0.976 | 0.970 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.981 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.984 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -28.525 | -33.193 | -34.195 | -25.283 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | fluoride | homocysteine | SAM |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | HAGHL | - | - | - |

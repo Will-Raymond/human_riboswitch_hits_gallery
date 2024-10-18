@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA029997<br>
                     Gene: DHPS<br>
                     MFE: -47.561<br>
-                    ENS: 0.973<br>
+                    ENS: 0.781<br>
                     Length: 122.<br>
                     Predicted Ligands:<br>
-                    zmp-ztp - 20/20<br>
-                    <br>
-                    <br>         
+                    zmp-ztp - 5/20<br>
+                    methionine - 3/20<br>
+                    molybdenum - 2/20<br>         
             </td>
             <td>
                     RS: URS0000C489D5_375286<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_291_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_291_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_291_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_291_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA029997     | URS0000C489D5_375286     | URS0000D828C5_1121425     | URS0000AB9B04_640132     |
 | <span title="Length of the sequence in question">Length</span>  | 122.     |  123.    | 122.   |  118.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.973 | 0.970 | 0.958 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.973 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.781 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -47.561 | -41.738 | -48.180 | -54.023 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | zmp-ztp | molybdenum | methionine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | DHPS | - | - | - |

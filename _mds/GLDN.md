@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA044314<br>
                     Gene: GLDN<br>
                     MFE: -21.192<br>
-                    ENS: 0.988<br>
+                    ENS: 0.899<br>
                     Length: 74.<br>
                     Predicted Ligands:<br>
-                    fluoride - 20/20<br>
-                    <br>
-                    <br>         
+                    fluoride - 9/20<br>
+                    guanidine - 7/20<br>
+                    SAM - 2/20<br>         
             </td>
             <td>
                     RS: URS00021EE067_12908<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_445_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_445_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_445_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_445_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA044314     | URS00021EE067_12908     | URS00021EDBD1_12908     | URS00021EDE17_12908     |
 | <span title="Length of the sequence in question">Length</span>  | 74.     |  74.    | 74.   |  77.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.988 | 0.986 | 0.980 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.988 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.899 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -21.192 | -34.275 | -21.599 | -29.092 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | guanidine | guanidine | guanidine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | GLDN | - | - | - |

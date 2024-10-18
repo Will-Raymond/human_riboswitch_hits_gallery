@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA006628<br>
                     Gene: ARL2<br>
                     MFE: -45.059<br>
-                    ENS: 0.968<br>
+                    ENS: 0.861<br>
                     Length: 119.<br>
                     Predicted Ligands:<br>
-                    methionine - 20/20<br>
-                    <br>
-                    <br>         
+                    methionine - 7/20<br>
+                    TPP - 4/20<br>
+                    homocysteine - 2/20<br>         
             </td>
             <td>
                     RS: URS000232EDB8_43658<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_75_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_75_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_75_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_75_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA006628     | URS000232EDB8_43658     | URS0000D95EE3_1978760     | URS0000C4E369_288768     |
 | <span title="Length of the sequence in question">Length</span>  | 119.     |  119.    | 120.   |  121.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.968 | 0.965 | 0.963 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.968 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.861 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -45.059 | -26.097 | -31.427 | -53.218 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | homocysteine | homocysteine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | ARL2 | - | - | - |

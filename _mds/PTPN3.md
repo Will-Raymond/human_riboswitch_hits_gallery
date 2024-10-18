@@ -29,11 +29,11 @@ exclude: true
                     UTR: 5HSAA086435<br>
                     Gene: PTPN3<br>
                     MFE: -4.259<br>
-                    ENS: 0.995<br>
+                    ENS: 0.987<br>
                     Length: 45.<br>
                     Predicted Ligands:<br>
-                    SAM - 20/20<br>
-                    <br>
+                    SAM - 19/20<br>
+                    Ni/Co - 1/20<br>
                     <br>         
             </td>
             <td>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_984_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_984_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_984_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_984_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA086435     | URS00021EE0C4_12908     | URS00021EDDFA_12908     | URS0000C49209_407035     |
 | <span title="Length of the sequence in question">Length</span>  | 45.     |  45.    | 46.   |  45.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.995 | 0.994 | 0.994 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.995 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.987 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -4.259 | -13.038 | -13.099 | -6.899 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | SAM | SAM | Ni/Co |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | PTPN3 | - | - | - |

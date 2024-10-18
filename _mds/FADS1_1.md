@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA037588<br>
                     Gene: FADS1_1<br>
                     MFE: -44.948<br>
-                    ENS: 0.972<br>
+                    ENS: 0.989<br>
                     Length: 116.<br>
                     Predicted Ligands:<br>
-                    methionine - 20/20<br>
-                    <br>
-                    <br>         
+                    methionine - 13/20<br>
+                    SAM - 3/20<br>
+                    Mn2+ - 1/20<br>         
             </td>
             <td>
                     RS: URS0000DB21ED_1897634<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_368_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_368_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_368_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_368_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA037588     | URS0000DB21ED_1897634     | URS0000C3DA2C_1121927     | URS0000BFFA7B_1295626     |
 | <span title="Length of the sequence in question">Length</span>  | 116.     |  117.    | 114.   |  115.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.972 | 0.968 | 0.971 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.972 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.989 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -44.948 | -53.806 | -44.815 | -53.913 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | methionine | methionine | methionine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | FADS1 | - | - | - |

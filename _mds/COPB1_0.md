@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA024098<br>
                     Gene: COPB1_0<br>
                     MFE: -69.<br>
-                    ENS: 0.940<br>
+                    ENS: 0.782<br>
                     Length: 210.<br>
                     Predicted Ligands:<br>
-                    FMN - 20/20<br>
-                    <br>
-                    <br>         
+                    FMN - 9/20<br>
+                    cobalamin - 5/20<br>
+                    glucosamine - 4/20<br>         
             </td>
             <td>
                     RS: URS0000D87E0D_1920422<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_222_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_222_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_222_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_222_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA024098     | URS0000D87E0D_1920422     | URS0000C7EAD8_1743142     | URS0000C6E0E0_1115512     |
 | <span title="Length of the sequence in question">Length</span>  | 210.     |  210.    | 209.   |  207.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.940 | 0.948 | 0.928 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.940 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.782 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -69. | -77.087 | -76.887 | -68.874 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | FMN | FMN | FMN |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | COPB1 | - | - | - |

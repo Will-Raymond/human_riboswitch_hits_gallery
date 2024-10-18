@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA109915<br>
                     Gene: TMBIM4<br>
                     MFE: -51.335<br>
-                    ENS: 0.969<br>
+                    ENS: 0.718<br>
                     Length: 101.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
-                    <br>
-                    <br>         
+                    TPP - 7/20<br>
+                    fluoride - 6/20<br>
+                    purine - 3/20<br>         
             </td>
             <td>
                     RS: URS0000AB9519_399795<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1327_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1327_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1327_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1327_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA109915     | URS0000AB9519_399795     | URS0000ABB411_688245     | URS0000C1576E_1193181     |
 | <span title="Length of the sequence in question">Length</span>  | 101.     |  97.    | 98.   |  103.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.969 | 0.973 | 0.973 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.969 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.718 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -51.335 | -37.787 | -37.715 | -37.025 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | homocysteine | homocysteine | TPP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | TMBIM4 | - | - | - |

@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA062370<br>
                     Gene: MAP3K3<br>
                     MFE: -24.980<br>
-                    ENS: 0.983<br>
+                    ENS: 0.933<br>
                     Length: 89.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
-                    <br>
-                    <br>         
+                    TPP - 12/20<br>
+                    glycine - 3/20<br>
+                    cobalamin - 2/20<br>         
             </td>
             <td>
                     RS: URS0000D97763_1803434<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_656_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_656_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_656_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_656_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA062370     | URS0000D97763_1803434     | URS000232C37A_1869300     | URS0000BED8D1_247156     |
 | <span title="Length of the sequence in question">Length</span>  | 89.     |  90.    | 89.   |  90.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.983 | 0.981 | 0.979 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.983 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.933 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -24.980 | -30.967 | -27.320 | -33.314 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | SAM | cobalamin | fluoride |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | MAP3K3 | - | - | - |

@@ -29,11 +29,11 @@ exclude: true
                     UTR: 5HSAA053969<br>
                     Gene: ITCH<br>
                     MFE: -90.530<br>
-                    ENS: 0.939<br>
+                    ENS: 0.765<br>
                     Length: 217.<br>
                     Predicted Ligands:<br>
-                    glucosamine - 20/20<br>
-                    <br>
+                    glucosamine - 18/20<br>
+                    glucosamine-6-phosphate - 2/20<br>
                     <br>         
             </td>
             <td>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_565_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_565_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_565_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_565_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA053969     | URS00003E42E5_283734     | URS0000AB239D_911238     | URS00005F06FB_904749     |
 | <span title="Length of the sequence in question">Length</span>  | 217.     |  215.    | 217.   |  217.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.939 | 0.943 | 0.947 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.939 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.765 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -90.530 | -62.554 | -50.824 | -50.974 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | glucosamine | glucosamine | glucosamine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | ITCH | - | - | - |

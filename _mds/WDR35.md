@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA119323<br>
                     Gene: WDR35<br>
                     MFE: -46.053<br>
-                    ENS: 0.970<br>
+                    ENS: 0.864<br>
                     Length: 133.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
-                    <br>
-                    <br>         
+                    TPP - 7/20<br>
+                    cobalamin - 4/20<br>
+                    FMN - 4/20<br>         
             </td>
             <td>
                     RS: URS0000C2F50A_1097667<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1447_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1447_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1447_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1447_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA119323     | URS0000C2F50A_1097667     | URS0000AB8E05_872330     | URS0000C64458_1681196     |
 | <span title="Length of the sequence in question">Length</span>  | 133.     |  131.    | 132.   |  132.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.970 | 0.963 | 0.967 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.970 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.864 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -46.053 | -50.783 | -60.591 | -36.902 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | homocysteine | molybdenum |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | WDR35 | - | - | - |

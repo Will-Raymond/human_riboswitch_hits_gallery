@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA042615<br>
                     Gene: GABRA2<br>
                     MFE: -43.779<br>
-                    ENS: 0.930<br>
+                    ENS: 0.963<br>
                     Length: 195.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 10/20<br>
+                    lysine - 6/20<br>
+                    TPP - 2/20<br>         
             </td>
             <td>
                     RS: URS00023345D6_1386078<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_419_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_419_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_419_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_419_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA042615     | URS00023345D6_1386078     | URS0000078707_1346287     | URS00019EB419_2653145     |
 | <span title="Length of the sequence in question">Length</span>  | 195.     |  193.    | 192.   |  193.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.930 | 0.924 | 0.922 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.930 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.963 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -43.779 | -72.087 | -54.873 | -54.423 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | cobalamin | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | GABRA2 | - | - | - |

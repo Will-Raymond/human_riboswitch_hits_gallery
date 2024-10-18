@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA064928<br>
                     Gene: MED6_0<br>
                     MFE: -17.562<br>
-                    ENS: 0.982<br>
+                    ENS: 0.990<br>
                     Length: 72.<br>
                     Predicted Ligands:<br>
-                    fluoride - 20/20<br>
-                    <br>
-                    <br>         
+                    fluoride - 8/20<br>
+                    cobalamin - 4/20<br>
+                    SAM - 2/20<br>         
             </td>
             <td>
                     RS: URS0000D862BF_1293890<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_695_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_695_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_695_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_695_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA064928     | URS0000D862BF_1293890     | URS0000D8DDA5_1803461     | URS0000D93C80_1515439     |
 | <span title="Length of the sequence in question">Length</span>  | 72.     |  72.    | 73.   |  72.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.982 | 0.981 | 0.982 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.982 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.990 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -17.562 | -18.108 | -26.072 | -17.686 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | SAM | fluoride | fluoride |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | MED6 | - | - | - |

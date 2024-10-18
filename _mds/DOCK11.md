@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA031749<br>
                     Gene: DOCK11<br>
                     MFE: -20.084<br>
-                    ENS: 0.979<br>
+                    ENS: 0.899<br>
                     Length: 88.<br>
                     Predicted Ligands:<br>
-                    SAM - 20/20<br>
-                    <br>
-                    <br>         
+                    SAM - 6/20<br>
+                    cyclic-di-GMP - 6/20<br>
+                    glycine - 3/20<br>         
             </td>
             <td>
                     RS: URS0002314DAC_111015<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_305_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_305_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_305_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_305_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA031749     | URS0002314DAC_111015     | URS0000D696EA_12908     | URS0000AB9733_720555     |
 | <span title="Length of the sequence in question">Length</span>  | 88.     |  90.    | 88.   |  87.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.979 | 0.981 | 0.982 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.979 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.899 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -20.084 | -30.276 | -35.085 | -19.427 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | SAM | GMP | SAM |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | DOCK11 | - | - | - |

@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA025799<br>
                     Gene: CSN3<br>
                     MFE: -16.866<br>
-                    ENS: 0.976<br>
+                    ENS: 0.955<br>
                     Length: 83.<br>
                     Predicted Ligands:<br>
-                    cyclic-di-GMP - 20/20<br>
-                    <br>
-                    <br>         
+                    cyclic-di-GMP - 6/20<br>
+                    TPP - 4/20<br>
+                    GMP - 4/20<br>         
             </td>
             <td>
                     RS: URS0000ABA464_439292<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_249_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_249_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_249_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_249_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA025799     | URS0000ABA464_439292     | URS0000762E40_1379676     | URS000076291B_1398202     |
 | <span title="Length of the sequence in question">Length</span>  | 83.     |  84.    | 80.   |  80.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.976 | 0.978 | 0.978 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.976 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.955 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -16.866 | -14.419 | -19.898 | -20.198 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cyclic-di-GMP | TPP | TPP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | CSN3 | - | - | - |

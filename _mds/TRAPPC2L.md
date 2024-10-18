@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA113314<br>
                     Gene: TRAPPC2L<br>
                     MFE: -30.925<br>
-                    ENS: 0.984<br>
+                    ENS: 0.975<br>
                     Length: 78.<br>
                     Predicted Ligands:<br>
-                    zmp-ztp - 20/20<br>
-                    <br>
-                    <br>         
+                    zmp-ztp - 10/20<br>
+                    fluoride - 5/20<br>
+                    cobalamin - 2/20<br>         
             </td>
             <td>
                     RS: URS000232E97F_393303<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1368_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1368_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1368_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1368_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA113314     | URS000232E97F_393303     | URS0000D8A5FB_512402     | URS0000D91A35_1895754     |
 | <span title="Length of the sequence in question">Length</span>  | 78.     |  78.    | 78.   |  81.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.984 | 0.984 | 0.976 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.984 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.975 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -30.925 | -36.880 | -26.766 | -33.405 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | zmp-ztp | fluoride | zmp-ztp |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | TRAPPC2L | - | - | - |

@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA085556<br>
                     Gene: PSMC2<br>
                     MFE: -22.631<br>
-                    ENS: 0.981<br>
+                    ENS: 0.955<br>
                     Length: 95.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
-                    <br>
-                    <br>         
+                    TPP - 4/20<br>
+                    glycine - 4/20<br>
+                    purine - 4/20<br>         
             </td>
             <td>
                     RS: URS0000ABB99D_367110<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_960_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_960_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_960_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_960_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA085556     | URS0000ABB99D_367110     | URS0000D67B68_12908     | URS0000AB4F1D_177437     |
 | <span title="Length of the sequence in question">Length</span>  | 95.     |  94.    | 95.   |  95.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.981 | 0.978 | 0.977 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.981 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.955 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -22.631 | -23.146 | -27.136 | -25.468 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | TPP | GMP | glycine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | PSMC2 | - | - | - |

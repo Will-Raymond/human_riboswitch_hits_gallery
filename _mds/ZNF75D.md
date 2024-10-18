@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA123849<br>
                     Gene: ZNF75D<br>
                     MFE: -42.991<br>
-                    ENS: 0.965<br>
+                    ENS: 0.903<br>
                     Length: 143.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
-                    <br>
-                    <br>         
+                    TPP - 9/20<br>
+                    FMN - 7/20<br>
+                    homocysteine - 2/20<br>         
             </td>
             <td>
                     RS: URS0000D9F52F_47885<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1524_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1524_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1524_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1524_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA123849     | URS0000D9F52F_47885     | URS0000C0DB63_253628     | URS0000C6E2FA_1799359     |
 | <span title="Length of the sequence in question">Length</span>  | 143.     |  143.    | 144.   |  142.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.965 | 0.965 | 0.958 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.965 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.903 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -42.991 | -59.889 | -46.345 | -57.989 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | homocysteine | TPP | homocysteine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | ZNF75D | - | - | - |

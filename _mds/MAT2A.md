@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA063838<br>
                     Gene: MAT2A<br>
                     MFE: -38.978<br>
-                    ENS: 0.959<br>
+                    ENS: 0.790<br>
                     Length: 148.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 9/20<br>
+                    glucosamine - 3/20<br>
+                    TPP - 3/20<br>         
             </td>
             <td>
                     RS: URS0000BF8A45_1262827<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_666_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_666_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_666_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_666_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA063838     | URS0000BF8A45_1262827     | URS000232D983_1517936     | URS0000C0F10F_1089453     |
 | <span title="Length of the sequence in question">Length</span>  | 148.     |  146.    | 151.   |  150.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.959 | 0.951 | 0.939 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.959 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.790 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -38.978 | -24.494 | -43.759 | -60.112 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | glucosamine | cobalamin | methionine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | MAT2A | - | - | - |

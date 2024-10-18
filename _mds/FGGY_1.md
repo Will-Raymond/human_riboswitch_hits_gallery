@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA040850<br>
                     Gene: FGGY_1<br>
                     MFE: -36.060<br>
-                    ENS: 0.965<br>
+                    ENS: 0.870<br>
                     Length: 138.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 16/20<br>
+                    molybdenum - 1/20<br>
+                    zmp-ztp - 1/20<br>         
             </td>
             <td>
                     RS: URS000232FCDB_309801<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_407_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_407_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_407_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_407_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA040850     | URS000232FCDB_309801     | URS0000C0BB90_1262780     | URS0000C2F70A_1408164     |
 | <span title="Length of the sequence in question">Length</span>  | 138.     |  136.    | 135.   |  138.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.965 | 0.960 | 0.962 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.965 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.870 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -36.060 | -56.983 | -22.698 | -49.866 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | molybdenum | zmp-ztp |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | FGGY | - | - | - |

@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA084405<br>
                     Gene: PRIM1_0<br>
                     MFE: -13.844<br>
-                    ENS: 0.990<br>
+                    ENS: 0.978<br>
                     Length: 50.<br>
                     Predicted Ligands:<br>
-                    glutamine - 20/20<br>
-                    <br>
-                    <br>         
+                    glutamine - 13/20<br>
+                    unknown - 5/20<br>
+                    fluoride - 2/20<br>         
             </td>
             <td>
                     RS: URS0000E6098E_150033<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_942_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_942_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_942_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_942_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA084405     | URS0000E6098E_150033     | URS0002328BDC_93929     | URS0000D68FF7_981327     |
 | <span title="Length of the sequence in question">Length</span>  | 50.     |  48.    | 51.   |  51.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.990 | 0.990 | 0.990 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.990 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.978 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -13.844 | -9.981 | -19.109 | -11.818 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | unknown | fluoride | unknown |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | PRIM1 | - | - | - |

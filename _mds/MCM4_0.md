@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA064272<br>
                     Gene: MCM4_0<br>
                     MFE: -65.397<br>
-                    ENS: 0.955<br>
+                    ENS: 0.885<br>
                     Length: 156.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
-                    <br>
-                    <br>         
+                    TPP - 10/20<br>
+                    homocysteine - 3/20<br>
+                    FMN - 3/20<br>         
             </td>
             <td>
                     RS: URS0000C2D7D5_316<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_680_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_680_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_680_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_680_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA064272     | URS0000C2D7D5_316     | URS0000D78814_440512     | URS0000BF91A3_692275     |
 | <span title="Length of the sequence in question">Length</span>  | 156.     |  153.    | 151.   |  159.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.955 | 0.937 | 0.955 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.955 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.885 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -65.397 | -58.247 | -61.991 | -55.844 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | homocysteine | homocysteine | TPP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | MCM4 | - | - | - |

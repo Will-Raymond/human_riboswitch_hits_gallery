@@ -29,11 +29,11 @@ exclude: true
                     UTR: 5HSAA114957<br>
                     Gene: TTPAL_0<br>
                     MFE: -80.648<br>
-                    ENS: 0.948<br>
+                    ENS: 0.830<br>
                     Length: 168.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
-                    <br>
+                    TPP - 19/20<br>
+                    Mg2+ - 1/20<br>
                     <br>         
             </td>
             <td>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1389_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1389_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1389_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1389_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA114957     | URS0000C3DCD0_1420913     | URS0000C2D819_1420915     | URS000231AF2E_1157616     |
 | <span title="Length of the sequence in question">Length</span>  | 168.     |  165.    | 165.   |  166.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.948 | 0.948 | 0.945 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.948 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.830 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -80.648 | -52.457 | -54.957 | -58.587 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | TPP | TPP | TPP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | TTPAL | - | - | - |

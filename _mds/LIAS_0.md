@@ -29,11 +29,11 @@ exclude: true
                     UTR: 5HSAA058898<br>
                     Gene: LIAS_0<br>
                     MFE: -40.783<br>
-                    ENS: 0.970<br>
+                    ENS: 0.765<br>
                     Length: 143.<br>
                     Predicted Ligands:<br>
-                    glucosamine - 20/20<br>
-                    <br>
+                    glucosamine - 17/20<br>
+                    cobalamin - 3/20<br>
                     <br>         
             </td>
             <td>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_622_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_622_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_622_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_622_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA058898     | URS0000BF55B5_1133849     | URS0000DB5EE5_1780379     | URS00004E1991_698758     |
 | <span title="Length of the sequence in question">Length</span>  | 143.     |  143.    | 144.   |  146.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.970 | 0.965 | 0.958 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.970 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.765 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -40.783 | -52.919 | -28.811 | -35.473 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | glucosamine | glucosamine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | LIAS | - | - | - |

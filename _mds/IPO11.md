@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA053453<br>
                     Gene: IPO11<br>
                     MFE: -39.727<br>
-                    ENS: 0.955<br>
+                    ENS: 0.912<br>
                     Length: 155.<br>
                     Predicted Ligands:<br>
-                    FMN - 20/20<br>
-                    <br>
-                    <br>         
+                    FMN - 13/20<br>
+                    cobalamin - 5/20<br>
+                    molybdenum - 1/20<br>         
             </td>
             <td>
                     RS: URS0000AB9E20_999541<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_559_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_559_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_559_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_559_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA053453     | URS0000AB9E20_999541     | URS0000D82FE6_1897634     | URS0000D91B56_554083     |
 | <span title="Length of the sequence in question">Length</span>  | 155.     |  157.    | 156.   |  153.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.955 | 0.963 | 0.960 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.955 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.912 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -39.727 | -60.081 | -72.088 | -67.234 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | FMN | FMN | FMN |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | IPO11 | - | - | - |

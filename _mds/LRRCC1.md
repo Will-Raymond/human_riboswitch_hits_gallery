@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA060665<br>
                     Gene: LRRCC1<br>
                     MFE: -37.420<br>
-                    ENS: 0.947<br>
+                    ENS: 0.845<br>
                     Length: 189.<br>
                     Predicted Ligands:<br>
-                    lysine - 20/20<br>
-                    <br>
-                    <br>         
+                    lysine - 18/20<br>
+                    cobalamin - 1/20<br>
+                    FMN - 1/20<br>         
             </td>
             <td>
                     RS: URS0000BF8CC5_79884<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_636_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_636_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_636_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_636_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA060665     | URS0000BF8CC5_79884     | URS0000D9D25B_1805073     | URS0000AB7FA3_221109     |
 | <span title="Length of the sequence in question">Length</span>  | 189.     |  187.    | 186.   |  183.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.947 | 0.936 | 0.903 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.947 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.845 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -37.420 | -51.545 | -95.277 | -48.897 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | lysine | lysine | lysine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | LRRCC1 | - | - | - |

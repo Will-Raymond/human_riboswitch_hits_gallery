@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA101353<br>
                     Gene: SMC4_0<br>
                     MFE: -24.416<br>
-                    ENS: 0.980<br>
+                    ENS: 0.990<br>
                     Length: 89.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
-                    <br>
-                    <br>         
+                    TPP - 12/20<br>
+                    glycine - 3/20<br>
+                    GMP - 2/20<br>         
             </td>
             <td>
                     RS: URS0000C3FAE3_1144300<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1219_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1219_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1219_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1219_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA101353     | URS0000C3FAE3_1144300     | URS0000D6C6DB_12908     | URS0000D93AA5_1986704     |
 | <span title="Length of the sequence in question">Length</span>  | 89.     |  89.    | 88.   |  90.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.980 | 0.980 | 0.979 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.980 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.990 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -24.416 | -19.974 | -40.458 | -19.434 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | TPP | GMP | TPP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | SMC4 | - | - | - |

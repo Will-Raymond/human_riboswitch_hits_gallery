@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA036248<br>
                     Gene: EPS8<br>
                     MFE: -13.276<br>
-                    ENS: 0.955<br>
+                    ENS: 0.933<br>
                     Length: 132.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 7/20<br>
+                    FMN - 6/20<br>
+                    SAM - 2/20<br>         
             </td>
             <td>
                     RS: URS0000D65C3A_12908<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_348_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_348_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_348_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_348_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA036248     | URS0000D65C3A_12908     | URS0000DA55C4_660596     | URS0000C80F34_1262931     |
 | <span title="Length of the sequence in question">Length</span>  | 132.     |  134.    | 134.   |  124.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.955 | 0.957 | 0.911 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.955 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.933 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -13.276 | -35.155 | -39.124 | -21.813 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | SAM | molybdenum | SAM |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | EPS8 | - | - | - |

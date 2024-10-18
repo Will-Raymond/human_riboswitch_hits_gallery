@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA103380<br>
                     Gene: SPIRE1<br>
                     MFE: -22.133<br>
-                    ENS: 0.977<br>
+                    ENS: 0.980<br>
                     Length: 72.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 5/20<br>
+                    homocysteine - 4/20<br>
+                    fluoride - 4/20<br>         
             </td>
             <td>
                     RS: URS0000868535_32630<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1255_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1255_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1255_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1255_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA103380     | URS0000868535_32630     | URS0000ABD55F_292415     | URS0000D921CB_1660145     |
 | <span title="Length of the sequence in question">Length</span>  | 72.     |  75.    | 71.   |  71.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.977 | 0.981 | 0.981 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.977 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.980 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -22.133 | -15.815 | -21.619 | -19.969 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | unknown | homocysteine | homocysteine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | SPIRE1 | - | - | - |

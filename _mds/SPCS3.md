@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA103223<br>
                     Gene: SPCS3<br>
                     MFE: -52.788<br>
-                    ENS: 0.965<br>
+                    ENS: 0.969<br>
                     Length: 121.<br>
                     Predicted Ligands:<br>
-                    glycine - 20/20<br>
-                    <br>
-                    <br>         
+                    glycine - 6/20<br>
+                    TPP - 4/20<br>
+                    FMN - 4/20<br>         
             </td>
             <td>
                     RS: URS0000AB30E9_552<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1250_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1250_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1250_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1250_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA103223     | URS0000AB30E9_552     | URS000232FAE7_1140002     | URS000231B10C_1802093     |
 | <span title="Length of the sequence in question">Length</span>  | 121.     |  120.    | 123.   |  124.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.965 | 0.967 | 0.962 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.965 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.969 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -52.788 | -33.222 | -24.742 | -29.516 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | TPP | cobalamin | FMN |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | SPCS3 | - | - | - |

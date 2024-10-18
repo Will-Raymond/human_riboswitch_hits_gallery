@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA029392<br>
                     Gene: DEDD2<br>
                     MFE: -48.823<br>
-                    ENS: 0.960<br>
+                    ENS: 0.837<br>
                     Length: 147.<br>
                     Predicted Ligands:<br>
-                    FMN - 20/20<br>
-                    <br>
-                    <br>         
+                    FMN - 13/20<br>
+                    molybdenum - 3/20<br>
+                    lysine - 2/20<br>         
             </td>
             <td>
                     RS: URS0000D8F619_708126<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_280_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_280_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_280_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_280_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA029392     | URS0000D8F619_708126     | URS0000AB36ED_634177     | URS0000D690D1_12908     |
 | <span title="Length of the sequence in question">Length</span>  | 147.     |  148.    | 146.   |  144.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.960 | 0.961 | 0.950 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.960 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.837 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -48.823 | -28.715 | -55.506 | -64.275 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | lysine | TPP | SAM |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | DEDD2 | - | - | - |

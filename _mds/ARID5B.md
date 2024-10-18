@@ -29,11 +29,11 @@ exclude: true
                     UTR: 5HSAA006588<br>
                     Gene: ARID5B<br>
                     MFE: -6.880<br>
-                    ENS: 0.987<br>
+                    ENS: 0.979<br>
                     Length: 51.<br>
                     Predicted Ligands:<br>
-                    unknown - 20/20<br>
-                    <br>
+                    unknown - 19/20<br>
+                    fluoride - 1/20<br>
                     <br>         
             </td>
             <td>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_74_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_74_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_74_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_74_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA006588     | URS0000E5FF62_1881059     | URS0000E60511_29448     | URS0000E5FE9F_1736378     |
 | <span title="Length of the sequence in question">Length</span>  | 51.     |  53.    | 53.   |  53.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.987 | 0.987 | 0.986 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.987 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.979 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -6.880 | -19.927 | -20.096 | -20.108 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | unknown | unknown | unknown |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | ARID5B | - | - | - |

@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA047817<br>
                     Gene: HAO1_0<br>
                     MFE: -16.298<br>
-                    ENS: 0.961<br>
+                    ENS: 0.975<br>
                     Length: 123.<br>
                     Predicted Ligands:<br>
-                    FMN - 20/20<br>
-                    <br>
-                    <br>         
+                    FMN - 10/20<br>
+                    TPP - 4/20<br>
+                    glycine - 2/20<br>         
             </td>
             <td>
                     RS: URS0000AB68C9_1432557<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_480_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_480_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_480_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_480_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA047817     | URS0000AB68C9_1432557     | URS0000C43629_908627     | URS0000C1E8C0_1423790     |
 | <span title="Length of the sequence in question">Length</span>  | 123.     |  124.    | 124.   |  120.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.961 | 0.961 | 0.957 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.961 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.975 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -16.298 | -33.389 | -34.884 | -30.694 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | TPP | glycine | FMN |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | HAO1 | - | - | - |

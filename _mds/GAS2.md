@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA043278<br>
                     Gene: GAS2<br>
                     MFE: -83.683<br>
-                    ENS: 0.945<br>
+                    ENS: 0.834<br>
                     Length: 217.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 18/20<br>
+                    Mn2+ - 1/20<br>
+                    glucosamine - 1/20<br>         
             </td>
             <td>
                     RS: URS00023273DF_47857<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_427_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_427_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_427_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_427_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA043278     | URS00023273DF_47857     | URS000232D229_553198     | URS00023222B3_1382230     |
 | <span title="Length of the sequence in question">Length</span>  | 217.     |  216.    | 215.   |  215.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.945 | 0.933 | 0.914 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.945 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.834 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -83.683 | -95.858 | -78.495 | -80.112 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | cobalamin | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | GAS2 | - | - | - |

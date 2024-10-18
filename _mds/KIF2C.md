@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA056465<br>
                     Gene: KIF2C<br>
                     MFE: -39.530<br>
-                    ENS: 0.967<br>
+                    ENS: 0.874<br>
                     Length: 140.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 18/20<br>
+                    tetrahydrofolate - 1/20<br>
+                    FMN - 1/20<br>         
             </td>
             <td>
                     RS: URS000232D054_1736443<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_588_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_588_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_588_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_588_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA056465     | URS000232D054_1736443     | URS0000C4D9FD_1423796     | URS0000C6AD14_68570     |
 | <span title="Length of the sequence in question">Length</span>  | 140.     |  142.    | 143.   |  138.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.967 | 0.955 | 0.964 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.967 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.874 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -39.530 | -58.382 | -43.045 | -61.747 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | tetrahydrofolate | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | KIF2C | - | - | - |

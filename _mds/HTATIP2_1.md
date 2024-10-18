@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA051285<br>
                     Gene: HTATIP2_1<br>
                     MFE: -49.512<br>
-                    ENS: 0.974<br>
+                    ENS: 0.922<br>
                     Length: 121.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
-                    <br>
-                    <br>         
+                    TPP - 7/20<br>
+                    guanidine - 7/20<br>
+                    glycine - 5/20<br>         
             </td>
             <td>
                     RS: URS0000C2E6FA_4781<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_530_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_530_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_530_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_530_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA051285     | URS0000C2E6FA_4781     | URS0000AB3A83_391038     | URS0000C08325_1686064     |
 | <span title="Length of the sequence in question">Length</span>  | 121.     |  122.    | 121.   |  120.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.974 | 0.971 | 0.972 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.974 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.922 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -49.512 | -38.857 | -42.285 | -47.883 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | TPP | guanidine | zmp-ztp |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | HTATIP2 | - | - | - |

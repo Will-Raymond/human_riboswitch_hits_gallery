@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA045356<br>
                     Gene: GNL2<br>
                     MFE: -27.331<br>
-                    ENS: 0.979<br>
+                    ENS: 0.989<br>
                     Length: 98.<br>
                     Predicted Ligands:<br>
-                    purine - 20/20<br>
-                    <br>
-                    <br>         
+                    purine - 12/20<br>
+                    TPP - 5/20<br>
+                    tetrahydrofolate - 2/20<br>         
             </td>
             <td>
                     RS: URS0000DB34F5_1214604<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_450_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_450_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_450_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_450_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA045356     | URS0000DB34F5_1214604     | URS0000AB5EAD_888832     | URS0000D8D57F_249189     |
 | <span title="Length of the sequence in question">Length</span>  | 98.     |  100.    | 97.   |  99.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.979 | 0.981 | 0.978 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.979 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.989 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -27.331 | -29.579 | -22.225 | -14.972 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | purine | purine | TPP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | GNL2 | - | - | - |

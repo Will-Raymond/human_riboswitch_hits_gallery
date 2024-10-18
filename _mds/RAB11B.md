@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA087277<br>
                     Gene: RAB11B<br>
                     MFE: -60.357<br>
-                    ENS: 0.964<br>
+                    ENS: 0.870<br>
                     Length: 121.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 6/20<br>
+                    TPP - 3/20<br>
+                    GMP - 3/20<br>         
             </td>
             <td>
                     RS: URS0000D2648B_1836972<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1002_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1002_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1002_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1002_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA087277     | URS0000D2648B_1836972     | URS00023148F7_1797384     | URS0000ABCC30_416591     |
 | <span title="Length of the sequence in question">Length</span>  | 121.     |  117.    | 121.   |  121.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.964 | 0.965 | 0.975 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.964 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.870 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -60.357 | -58.777 | -30.253 | -44.375 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | glycine | cobalamin | molybdenum |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | RAB11B | - | - | - |

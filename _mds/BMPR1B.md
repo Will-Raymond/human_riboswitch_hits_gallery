@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA010777<br>
                     Gene: BMPR1B<br>
                     MFE: -54.123<br>
-                    ENS: 0.950<br>
+                    ENS: 0.797<br>
                     Length: 195.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 15/20<br>
+                    lysine - 3/20<br>
+                    FMN - 1/20<br>         
             </td>
             <td>
                     RS: URS000233290C_1262872<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_120_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_120_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_120_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_120_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA010777     | URS000233290C_1262872     | URS000232D78B_687842     | URS0000C64F76_1641375     |
 | <span title="Length of the sequence in question">Length</span>  | 195.     |  196.    | 195.   |  194.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.950 | 0.917 | 0.902 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.950 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.797 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -54.123 | -39.255 | -51.944 | -65.301 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | cobalamin | lysine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | BMPR1B | - | - | - |

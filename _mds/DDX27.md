@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA029046<br>
                     Gene: DDX27<br>
                     MFE: -5.801<br>
-                    ENS: 0.994<br>
+                    ENS: 0.987<br>
                     Length: 34.<br>
                     Predicted Ligands:<br>
-                    SAM - 20/20<br>
-                    <br>
-                    <br>         
+                    SAM - 9/20<br>
+                    preQ_1 - 8/20<br>
+                    unknown - 1/20<br>         
             </td>
             <td>
                     RS: URS000080E037_32630<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_271_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_271_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_271_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_271_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA029046     | URS000080E037_32630     | URS000080E020_32630     | URS0000ABD446_1313296     |
 | <span title="Length of the sequence in question">Length</span>  | 34.     |  34.    | 34.   |  32.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.994 | 0.994 | 0.991 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.994 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.987 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -5.801 | -4.622 | -4.622 | -4.722 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | preQ_1 | preQ_1 | preQ_1 |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | DDX27 | - | - | - |

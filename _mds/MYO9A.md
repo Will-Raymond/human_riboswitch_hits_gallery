@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA069429<br>
                     Gene: MYO9A<br>
                     MFE: -12.976<br>
-                    ENS: 0.978<br>
+                    ENS: 0.846<br>
                     Length: 96.<br>
                     Predicted Ligands:<br>
-                    glycine - 20/20<br>
-                    <br>
-                    <br>         
+                    glycine - 10/20<br>
+                    SAM - 7/20<br>
+                    purine - 2/20<br>         
             </td>
             <td>
                     RS: URS0000AB8E86_349161<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_758_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_758_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_758_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_758_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA069429     | URS0000AB8E86_349161     | URS0000C3B943_1230342     | URS0000C2FDC6_52689     |
 | <span title="Length of the sequence in question">Length</span>  | 96.     |  98.    | 94.   |  98.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.978 | 0.975 | 0.977 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.978 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.846 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -12.976 | -28.475 | -13.988 | -28.819 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | SAM | glycine | SAM |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | MYO9A | - | - | - |

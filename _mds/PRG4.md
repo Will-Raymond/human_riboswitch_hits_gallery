@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA084384<br>
                     Gene: PRG4<br>
                     MFE: -14.722<br>
-                    ENS: 0.985<br>
+                    ENS: 0.990<br>
                     Length: 76.<br>
                     Predicted Ligands:<br>
-                    fluoride - 20/20<br>
-                    <br>
-                    <br>         
+                    fluoride - 15/20<br>
+                    SAM - 4/20<br>
+                    cobalamin - 1/20<br>         
             </td>
             <td>
                     RS: URS0000DB2A72_1798420<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_940_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_940_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_940_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_940_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA084384     | URS0000DB2A72_1798420     | URS0000D923B0_519472     | URS0000DA358A_1802357     |
 | <span title="Length of the sequence in question">Length</span>  | 76.     |  77.    | 78.   |  76.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.985 | 0.982 | 0.984 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.985 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.990 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -14.722 | -12.573 | -10.709 | -12.218 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | SAM | fluoride | fluoride |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | PRG4 | - | - | - |

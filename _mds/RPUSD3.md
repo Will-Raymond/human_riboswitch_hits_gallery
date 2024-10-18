@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA093270-3<br>
                     Gene: RPUSD3<br>
                     MFE: -2.515<br>
-                    ENS: 0.982<br>
+                    ENS: 0.920<br>
                     Length: 29.<br>
                     Predicted Ligands:<br>
-                    SAM - 20/20<br>
-                    <br>
-                    <br>         
+                    SAM - 9/20<br>
+                    preQ_1 - 6/20<br>
+                    unknown - 2/20<br>         
             </td>
             <td>
                     RS: URS0000ABD446_1313296<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1122_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1122_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1122_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1122_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA093270-3     | URS0000ABD446_1313296     | URS0001A24B50_1907202     | URS000080E32E_119072     |
 | <span title="Length of the sequence in question">Length</span>  | 29.     |  32.    | 26.   |  33.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.982 | 0.980 | 0.975 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.982 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.920 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -2.515 | -4.722 | -10. | -6.098 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | preQ_1 | unknown | preQ_1 |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | RPUSD3 | - | - | - |

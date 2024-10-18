@@ -29,11 +29,11 @@ exclude: true
                     UTR: 5HSAA010809<br>
                     Gene: BNIP2<br>
                     MFE: -47.901<br>
-                    ENS: 0.975<br>
+                    ENS: 0.965<br>
                     Length: 119.<br>
                     Predicted Ligands:<br>
-                    molybdenum - 20/20<br>
-                    <br>
+                    molybdenum - 14/20<br>
+                    SAM - 6/20<br>
                     <br>         
             </td>
             <td>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_122_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_122_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_122_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_122_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA010809     | URS0000AB61E9_370438     | URS0000AB6679_767817     | URS0000C31577_1679169     |
 | <span title="Length of the sequence in question">Length</span>  | 119.     |  119.    | 118.   |  119.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.975 | 0.971 | 0.972 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.975 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.965 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -47.901 | -44.744 | -35.998 | -35.856 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | molybdenum | molybdenum | SAM |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | BNIP2 | - | - | - |

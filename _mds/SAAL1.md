@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA093953<br>
                     Gene: SAAL1<br>
                     MFE: -23.054<br>
-                    ENS: 0.982<br>
+                    ENS: 0.783<br>
                     Length: 75.<br>
                     Predicted Ligands:<br>
-                    fluoride - 20/20<br>
-                    <br>
-                    <br>         
+                    fluoride - 8/20<br>
+                    cobalamin - 5/20<br>
+                    GMP - 2/20<br>         
             </td>
             <td>
                     RS: URS0000AB8E4B_1263107<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1139_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1139_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1139_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1139_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA093953     | URS0000AB8E4B_1263107     | URS0000C512DF_1411621     | URS0002332864_1618426     |
 | <span title="Length of the sequence in question">Length</span>  | 75.     |  74.    | 76.   |  76.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.982 | 0.984 | 0.982 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.982 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.783 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -23.054 | -12.712 | -24.225 | -15.595 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | glycine | fluoride | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | SAAL1 | - | - | - |

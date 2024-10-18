@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA034227<br>
                     Gene: EIF3E<br>
                     MFE: -31.913<br>
-                    ENS: 0.949<br>
+                    ENS: 0.889<br>
                     Length: 178.<br>
                     Predicted Ligands:<br>
-                    lysine - 20/20<br>
-                    <br>
-                    <br>         
+                    lysine - 9/20<br>
+                    cobalamin - 6/20<br>
+                    Mn2+ - 1/20<br>         
             </td>
             <td>
                     RS: URS0000C74020_1681196<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_327_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_327_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_327_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_327_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA034227     | URS0000C74020_1681196     | URS0000C83D8D_1121939     | URS000232E0B9_661478     |
 | <span title="Length of the sequence in question">Length</span>  | 178.     |  180.    | 179.   |  175.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.949 | 0.945 | 0.941 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.949 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.889 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -31.913 | -68.497 | -76.133 | -72.724 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | Mn2+ | FMN | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | EIF3E | - | - | - |

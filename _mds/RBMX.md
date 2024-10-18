@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA089714<br>
                     Gene: RBMX<br>
                     MFE: -53.942<br>
-                    ENS: 0.960<br>
+                    ENS: 0.729<br>
                     Length: 148.<br>
                     Predicted Ligands:<br>
-                    FMN - 20/20<br>
-                    <br>
-                    <br>         
+                    FMN - 13/20<br>
+                    cobalamin - 5/20<br>
+                    TPP - 1/20<br>         
             </td>
             <td>
                     RS: URS0000ABB374_491952<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1040_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1040_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1040_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1040_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA089714     | URS0000ABB374_491952     | URS0000ABA44E_243365     | URS0000C65601_1736380     |
 | <span title="Length of the sequence in question">Length</span>  | 148.     |  148.    | 148.   |  149.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.960 | 0.954 | 0.959 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.960 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.729 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -53.942 | -43.423 | -66.825 | -59.898 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | FMN | TPP | FMN |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | RBMX | - | - | - |

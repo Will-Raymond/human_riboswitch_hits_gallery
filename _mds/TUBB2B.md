@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA115066<br>
                     Gene: TUBB2B<br>
                     MFE: -38.524<br>
-                    ENS: 0.971<br>
+                    ENS: 0.883<br>
                     Length: 119.<br>
                     Predicted Ligands:<br>
-                    methionine - 20/20<br>
-                    <br>
-                    <br>         
+                    methionine - 7/20<br>
+                    TPP - 6/20<br>
+                    cobalamin - 4/20<br>         
             </td>
             <td>
                     RS: URS0000C7CB5E_293939<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1395_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1395_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1395_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1395_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA115066     | URS0000C7CB5E_293939     | URS0000BFDF88_1299333     | URS0000C5B84E_1094508     |
 | <span title="Length of the sequence in question">Length</span>  | 119.     |  118.    | 118.   |  117.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.971 | 0.974 | 0.969 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.971 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.883 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -38.524 | -20.488 | -50.530 | -34.664 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | TPP | methionine | TPP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | TUBB2B | - | - | - |

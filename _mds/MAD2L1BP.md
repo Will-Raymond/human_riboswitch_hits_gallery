@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA061393<br>
                     Gene: MAD2L1BP<br>
                     MFE: -22.376<br>
-                    ENS: 0.987<br>
+                    ENS: 0.973<br>
                     Length: 61.<br>
                     Predicted Ligands:<br>
-                    fluoride - 20/20<br>
-                    <br>
-                    <br>         
+                    fluoride - 17/20<br>
+                    unknown - 2/20<br>
+                    cobalamin - 1/20<br>         
             </td>
             <td>
                     RS: URS0000D9B345_675864<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_647_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_647_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_647_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_647_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA061393     | URS0000D9B345_675864     | URS00012046F7_115547     | URS0000C492B4_1123069     |
 | <span title="Length of the sequence in question">Length</span>  | 61.     |  61.    | 62.   |  61.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.987 | 0.986 | 0.989 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.987 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.973 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -22.376 | -21.684 | -14.326 | -26.585 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | fluoride | fluoride |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | MAD2L1BP | - | - | - |

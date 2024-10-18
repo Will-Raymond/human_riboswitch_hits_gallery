@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA072878<br>
                     Gene: NOSIP<br>
                     MFE: -22.204<br>
-                    ENS: 0.983<br>
+                    ENS: 0.987<br>
                     Length: 84.<br>
                     Predicted Ligands:<br>
-                    zmp-ztp - 20/20<br>
-                    <br>
-                    <br>         
+                    zmp-ztp - 5/20<br>
+                    TPP - 4/20<br>
+                    homocysteine - 3/20<br>         
             </td>
             <td>
                     RS: URS0000C78052_1131731<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_800_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_800_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_800_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_800_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA072878     | URS0000C78052_1131731     | URS0000AB88CE_679192     | URS0000C6378C_1408103     |
 | <span title="Length of the sequence in question">Length</span>  | 84.     |  84.    | 86.   |  83.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.983 | 0.974 | 0.981 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.983 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.987 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -22.204 | -27.721 | -23.761 | -23.521 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | Mg2+ | TPP | zmp-ztp |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | NOSIP | - | - | - |

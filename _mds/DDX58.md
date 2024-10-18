@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA029348<br>
                     Gene: DDX58<br>
                     MFE: -14.984<br>
-                    ENS: 0.989<br>
+                    ENS: 0.965<br>
                     Length: 54.<br>
                     Predicted Ligands:<br>
-                    unknown - 20/20<br>
-                    <br>
-                    <br>         
+                    unknown - 12/20<br>
+                    glutamine - 7/20<br>
+                    homocysteine - 1/20<br>         
             </td>
             <td>
                     RS: URS0000E605F8_1797572<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_278_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_278_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_278_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_278_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA029348     | URS0000E605F8_1797572     | URS000080DDCD_305     | URS0000E60855_1294143     |
 | <span title="Length of the sequence in question">Length</span>  | 54.     |  54.    | 54.   |  55.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.989 | 0.989 | 0.988 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.989 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.965 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -14.984 | -20.270 | -13.342 | -18.729 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | unknown | homocysteine | unknown |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | DDX58 | - | - | - |

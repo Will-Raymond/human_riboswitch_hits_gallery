@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA046654<br>
                     Gene: GRHL1<br>
                     MFE: -60.447<br>
-                    ENS: 0.954<br>
+                    ENS: 0.901<br>
                     Length: 166.<br>
                     Predicted Ligands:<br>
-                    FMN - 20/20<br>
-                    <br>
-                    <br>         
+                    FMN - 7/20<br>
+                    cobalamin - 4/20<br>
+                    SAM - 3/20<br>         
             </td>
             <td>
                     RS: URS0000C49B4B_1703354<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_463_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_463_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_463_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_463_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA046654     | URS0000C49B4B_1703354     | URS0000AB4DF5_195102     | URS0001A132AB_671071     |
 | <span title="Length of the sequence in question">Length</span>  | 166.     |  167.    | 164.   |  165.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.954 | 0.943 | 0.948 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.954 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.901 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -60.447 | -42.687 | -42.824 | -36.660 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | FMN | SAM | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | GRHL1 | - | - | - |

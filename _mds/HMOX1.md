@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA049766<br>
                     Gene: HMOX1<br>
                     MFE: -29.122<br>
-                    ENS: 0.979<br>
+                    ENS: 0.819<br>
                     Length: 105.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
-                    <br>
-                    <br>         
+                    TPP - 9/20<br>
+                    SAM - 4/20<br>
+                    purine - 3/20<br>         
             </td>
             <td>
                     RS: URS00007D8FDD_1499687<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_504_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_504_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_504_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_504_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA049766     | URS00007D8FDD_1499687     | URS0000C3A59F_407035     | URS0000DB1571_1123231     |
 | <span title="Length of the sequence in question">Length</span>  | 105.     |  105.    | 104.   |  102.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.979 | 0.976 | 0.967 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.979 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.819 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -29.122 | -33.281 | -26.015 | -25.904 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | SAM | Ni/Co | Ni/Co |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | HMOX1 | - | - | - |

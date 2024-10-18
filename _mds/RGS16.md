@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA090652<br>
                     Gene: RGS16<br>
                     MFE: -17.148<br>
-                    ENS: 0.979<br>
+                    ENS: 0.683<br>
                     Length: 102.<br>
                     Predicted Ligands:<br>
-                    purine - 20/20<br>
-                    <br>
-                    <br>         
+                    purine - 15/20<br>
+                    SAM - 3/20<br>
+                    TPP - 2/20<br>         
             </td>
             <td>
                     RS: URS0000BE847A_1759557<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1051_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1051_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1051_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1051_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA090652     | URS0000BE847A_1759557     | URS0000AB64C9_641107     | URS0000C1998A_44252     |
 | <span title="Length of the sequence in question">Length</span>  | 102.     |  102.    | 102.   |  100.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.979 | 0.975 | 0.974 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.979 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.683 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -17.148 | -18.883 | -16.806 | -21.923 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | purine | purine | purine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | RGS16 | - | - | - |

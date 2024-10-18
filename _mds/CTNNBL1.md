@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA026298<br>
                     Gene: CTNNBL1<br>
                     MFE: -19.855<br>
-                    ENS: 0.971<br>
+                    ENS: 0.745<br>
                     Length: 101.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
-                    <br>
-                    <br>         
+                    TPP - 10/20<br>
+                    fluoride - 6/20<br>
+                    Mg2+ - 1/20<br>         
             </td>
             <td>
                     RS: URS0000BED2DC_216591<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_253_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_253_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_253_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_253_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA026298     | URS0000BED2DC_216591     | URS0000DF12E1_95486     | URS0000BF752C_580166     |
 | <span title="Length of the sequence in question">Length</span>  | 101.     |  104.    | 104.   |  102.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.971 | 0.971 | 0.977 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.971 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.745 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -19.855 | -48.570 | -43.770 | -33.515 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | fluoride | fluoride | TPP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | CTNNBL1 | - | - | - |

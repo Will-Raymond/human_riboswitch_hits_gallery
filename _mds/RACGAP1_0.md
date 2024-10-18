@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA087949<br>
                     Gene: RACGAP1_0<br>
                     MFE: -55.840<br>
-                    ENS: 0.913<br>
+                    ENS: 0.830<br>
                     Length: 165.<br>
                     Predicted Ligands:<br>
-                    Mg2+ - 20/20<br>
-                    <br>
-                    <br>         
+                    Mg2+ - 12/20<br>
+                    FMN - 3/20<br>
+                    cobalamin - 3/20<br>         
             </td>
             <td>
                     RS: URS0000C78E2E_1620392<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1017_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1017_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1017_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1017_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA087949     | URS0000C78E2E_1620392     | URS0000DB12D9_758803     | URS0000C84E2E_1262910     |
 | <span title="Length of the sequence in question">Length</span>  | 165.     |  160.    | 163.   |  162.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.913 | 0.949 | 0.941 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.913 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.830 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -55.840 | -52.191 | -66.091 | -42.957 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | FMN | cobalamin | Mg2+ |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | RACGAP1 | - | - | - |

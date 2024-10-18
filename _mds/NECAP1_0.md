@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA071392<br>
                     Gene: NECAP1_0<br>
                     MFE: -13.367<br>
-                    ENS: 0.981<br>
+                    ENS: 0.483<br>
                     Length: 73.<br>
                     Predicted Ligands:<br>
-                    fluoride - 20/20<br>
-                    <br>
-                    <br>         
+                    fluoride - 12/20<br>
+                    cobalamin - 4/20<br>
+                    SAM - 2/20<br>         
             </td>
             <td>
                     RS: URS0000BF0F28_1538295<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_788_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_788_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_788_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_788_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA071392     | URS0000BF0F28_1538295     | URS0000D65E69_12908     | URS0000DB2250_29354     |
 | <span title="Length of the sequence in question">Length</span>  | 73.     |  75.    | 74.   |  74.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.981 | 0.983 | 0.981 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.981 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.483 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -13.367 | -21.538 | -18.374 | -14.018 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | SAM | GMP | fluoride |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | NECAP1 | - | - | - |

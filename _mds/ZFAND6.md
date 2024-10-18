@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA121600<br>
                     Gene: ZFAND6<br>
                     MFE: -24.041<br>
-                    ENS: 0.935<br>
+                    ENS: 0.926<br>
                     Length: 167.<br>
                     Predicted Ligands:<br>
-                    Mg2+ - 20/20<br>
-                    <br>
-                    <br>         
+                    Mg2+ - 5/20<br>
+                    SAM - 4/20<br>
+                    FMN - 4/20<br>         
             </td>
             <td>
                     RS: URS0000C6143F_1886670<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1491_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1491_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1491_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1491_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA121600     | URS0000C6143F_1886670     | URS0000C422D1_1351755     | URS0000D86339_1777132     |
 | <span title="Length of the sequence in question">Length</span>  | 167.     |  163.    | 169.   |  166.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.935 | 0.943 | 0.939 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.935 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.926 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -24.041 | -48.936 | -31.826 | -53.127 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | SAM | lysine | FMN |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | ZFAND6 | - | - | - |

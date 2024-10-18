@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA067458<br>
                     Gene: MRPL36_0<br>
                     MFE: -38.313<br>
-                    ENS: 0.978<br>
+                    ENS: 0.976<br>
                     Length: 119.<br>
                     Predicted Ligands:<br>
-                    methionine - 20/20<br>
-                    <br>
-                    <br>         
+                    methionine - 7/20<br>
+                    FMN - 4/20<br>
+                    TPP - 3/20<br>         
             </td>
             <td>
                     RS: URS0000D845C0_1109743<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_730_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_730_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_730_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_730_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA067458     | URS0000D845C0_1109743     | URS0000DA91D9_1121318     | URS0000C49260_1110697     |
 | <span title="Length of the sequence in question">Length</span>  | 119.     |  120.    | 120.   |  118.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.978 | 0.969 | 0.964 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.978 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.976 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -38.313 | -57.176 | -32.095 | -51.208 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | methionine | FMN | methionine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | MRPL36 | - | - | - |

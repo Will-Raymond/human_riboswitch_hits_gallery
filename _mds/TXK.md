@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA115301<br>
                     Gene: TXK<br>
                     MFE: -24.126<br>
-                    ENS: 0.944<br>
+                    ENS: 0.893<br>
                     Length: 149.<br>
                     Predicted Ligands:<br>
-                    FMN - 20/20<br>
-                    <br>
-                    <br>         
+                    FMN - 10/20<br>
+                    cobalamin - 5/20<br>
+                    TPP - 3/20<br>         
             </td>
             <td>
                     RS: URS0000D87F06_1972458<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1400_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1400_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1400_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1400_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA115301     | URS0000D87F06_1972458     | URS0002315ECC_1437606     | URS0000DA5ABB_1897039     |
 | <span title="Length of the sequence in question">Length</span>  | 149.     |  145.    | 153.   |  147.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.944 | 0.930 | 0.955 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.944 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.893 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -24.126 | -29.177 | -43.958 | -39.251 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | glycine | FMN | TPP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | TXK | - | - | - |

@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA085576<br>
                     Gene: PSMC3IP<br>
                     MFE: -13.567<br>
-                    ENS: 0.987<br>
+                    ENS: 0.810<br>
                     Length: 68.<br>
                     Predicted Ligands:<br>
-                    homocysteine - 20/20<br>
-                    <br>
-                    <br>         
+                    homocysteine - 15/20<br>
+                    fluoride - 4/20<br>
+                    glutamine - 1/20<br>         
             </td>
             <td>
                     RS: URS0000ABA3A8_655186<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_967_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_967_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_967_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_967_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA085576     | URS0000ABA3A8_655186     | URS0000AB3540_76114     | URS0000C74CCF_1703391     |
 | <span title="Length of the sequence in question">Length</span>  | 68.     |  67.    | 66.   |  70.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.987 | 0.984 | 0.983 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.987 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.810 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -13.567 | -16.092 | -15.876 | -24.338 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | homocysteine | homocysteine | homocysteine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | PSMC3IP | - | - | - |

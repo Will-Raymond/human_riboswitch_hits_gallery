@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA010601<br>
                     Gene: BHMT<br>
                     MFE: -33.897<br>
-                    ENS: 0.982<br>
+                    ENS: 0.896<br>
                     Length: 102.<br>
                     Predicted Ligands:<br>
-                    SAM - 20/20<br>
-                    <br>
-                    <br>         
+                    SAM - 12/20<br>
+                    guanidine - 7/20<br>
+                    glycine - 1/20<br>         
             </td>
             <td>
                     RS: URS0000D81BFF_1667172<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_114_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_114_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_114_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_114_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA010601     | URS0000D81BFF_1667172     | URS00019AE36A_2282149     | URS0000AB7A16_997346     |
 | <span title="Length of the sequence in question">Length</span>  | 102.     |  102.    | 103.   |  103.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.982 | 0.983 | 0.982 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.982 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.896 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -33.897 | -24.755 | -30.107 | -29.616 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | SAM | SAM | guanidine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | BHMT | - | - | - |

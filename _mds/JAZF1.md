@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA054498<br>
                     Gene: JAZF1<br>
                     MFE: -19.984<br>
-                    ENS: 0.987<br>
+                    ENS: 0.942<br>
                     Length: 76.<br>
                     Predicted Ligands:<br>
-                    SAM - 20/20<br>
-                    <br>
-                    <br>         
+                    SAM - 13/20<br>
+                    homocysteine - 5/20<br>
+                    cobalamin - 1/20<br>         
             </td>
             <td>
                     RS: URS0000D900DF_342002<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_570_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_570_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_570_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_570_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA054498     | URS0000D900DF_342002     | URS0000D94A6C_1860102     | URS0000AB3FBD_1005048     |
 | <span title="Length of the sequence in question">Length</span>  | 76.     |  76.    | 73.   |  75.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.987 | 0.981 | 0.982 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.987 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.942 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -19.984 | -26.342 | -24.494 | -19.542 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | homocysteine | homocysteine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | JAZF1 | - | - | - |

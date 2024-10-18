@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA094987<br>
                     Gene: SCHIP1<br>
                     MFE: -19.799<br>
-                    ENS: 0.984<br>
+                    ENS: 0.785<br>
                     Length: 91.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
-                    <br>
-                    <br>         
+                    TPP - 6/20<br>
+                    GMP - 4/20<br>
+                    SAM - 4/20<br>         
             </td>
             <td>
                     RS: URS0000C15E69_1154860<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1153_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1153_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1153_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1153_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA094987     | URS0000C15E69_1154860     | URS0000C1E036_1215092     | URS0000D67F2B_12908     |
 | <span title="Length of the sequence in question">Length</span>  | 91.     |  91.    | 91.   |  91.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.984 | 0.982 | 0.982 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.984 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.785 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -19.799 | -18.990 | -35.795 | -38.683 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | Mg2+ | glycine | GMP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | SCHIP1 | - | - | - |

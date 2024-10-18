@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA095783<br>
                     Gene: SEC24C_1<br>
                     MFE: -32.285<br>
-                    ENS: 0.974<br>
+                    ENS: 0.997<br>
                     Length: 118.<br>
                     Predicted Ligands:<br>
-                    SAM - 20/20<br>
-                    <br>
-                    <br>         
+                    SAM - 9/20<br>
+                    cobalamin - 6/20<br>
+                    methionine - 2/20<br>         
             </td>
             <td>
                     RS: URS000232DD31_929563<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1169_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1169_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1169_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1169_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA095783     | URS000232DD31_929563     | URS000231E3A9_1884656     | URS0000C29F1C_1173025     |
 | <span title="Length of the sequence in question">Length</span>  | 118.     |  118.    | 118.   |  112.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.974 | 0.973 | 0.939 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.974 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.997 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -32.285 | -32.516 | -19.266 | -29.385 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | cobalamin | fluoride |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | SEC24C | - | - | - |

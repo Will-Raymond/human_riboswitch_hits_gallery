@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA024412<br>
                     Gene: CORO1B<br>
                     MFE: -50.350<br>
-                    ENS: 0.971<br>
+                    ENS: 0.849<br>
                     Length: 129.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 10/20<br>
+                    TPP - 4/20<br>
+                    FMN - 2/20<br>         
             </td>
             <td>
                     RS: URS0000C53D73_1736511<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_231_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_231_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_231_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_231_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA024412     | URS0000C53D73_1736511     | URS0000D80383_1904969     | URS0002325711_1519495     |
 | <span title="Length of the sequence in question">Length</span>  | 129.     |  128.    | 126.   |  129.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.971 | 0.955 | 0.971 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.971 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.849 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -50.350 | -67.325 | -43.154 | -48.984 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | zmp-ztp | TPP | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | CORO1B | - | - | - |

@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA041866<br>
                     Gene: FRMD1<br>
                     MFE: -30.666<br>
-                    ENS: 0.982<br>
+                    ENS: 0.771<br>
                     Length: 90.<br>
                     Predicted Ligands:<br>
-                    zmp-ztp - 20/20<br>
-                    <br>
-                    <br>         
+                    zmp-ztp - 10/20<br>
+                    TPP - 4/20<br>
+                    GMP - 2/20<br>         
             </td>
             <td>
                     RS: URS0000C11F48_1797883<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_412_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_412_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_412_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_412_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA041866     | URS0000C11F48_1797883     | URS0000C4C360_68231     | URS0000D6701A_12908     |
 | <span title="Length of the sequence in question">Length</span>  | 90.     |  89.    | 88.   |  88.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.982 | 0.971 | 0.963 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.982 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.771 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -30.666 | -31.034 | -45.736 | -16.329 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | zmp-ztp | zmp-ztp | SAM |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | FRMD1 | - | - | - |

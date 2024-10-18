@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA102915<br>
                     Gene: SPANXC<br>
                     MFE: -9.629<br>
-                    ENS: 0.978<br>
+                    ENS: 0.914<br>
                     Length: 81.<br>
                     Predicted Ligands:<br>
-                    SAM - 20/20<br>
-                    <br>
-                    <br>         
+                    SAM - 11/20<br>
+                    cyclic-di-GMP - 6/20<br>
+                    glycine - 1/20<br>         
             </td>
             <td>
                     RS: URS0000C60D9E_1196322<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1247_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1247_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1247_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1247_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA102915     | URS0000C60D9E_1196322     | URS0000D90051_29354     | URS0000D9C748_1805048     |
 | <span title="Length of the sequence in question">Length</span>  | 81.     |  84.    | 83.   |  78.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.978 | 0.980 | 0.976 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.978 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.914 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -9.629 | -12.079 | -17.150 | -16.743 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cyclic-di-GMP | glycine | SAM |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | SPANXC | - | - | - |

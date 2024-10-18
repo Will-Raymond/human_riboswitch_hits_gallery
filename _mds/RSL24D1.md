@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA093429<br>
                     Gene: RSL24D1<br>
                     MFE: -51.111<br>
-                    ENS: 0.938<br>
+                    ENS: 0.998<br>
                     Length: 168.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
-                    <br>
-                    <br>         
+                    TPP - 8/20<br>
+                    lysine - 4/20<br>
+                    Mg2+ - 3/20<br>         
             </td>
             <td>
                     RS: URS0000DA4B4B_1797636<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1127_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1127_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1127_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1127_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA093429     | URS0000DA4B4B_1797636     | URS0000AB9EB5_626522     | URS0000AB1793_1337887     |
 | <span title="Length of the sequence in question">Length</span>  | 168.     |  166.    | 167.   |  167.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.938 | 0.944 | 0.918 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.938 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.998 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -51.111 | -66.757 | -47.929 | -51.479 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | FMN | TPP | TPP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | RSL24D1 | - | - | - |

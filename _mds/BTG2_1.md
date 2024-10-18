@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA011303<br>
                     Gene: BTG2_1<br>
                     MFE: -52.750<br>
-                    ENS: 0.963<br>
+                    ENS: 0.904<br>
                     Length: 143.<br>
                     Predicted Ligands:<br>
-                    FMN - 20/20<br>
-                    <br>
-                    <br>         
+                    FMN - 5/20<br>
+                    cobalamin - 4/20<br>
+                    SAM - 4/20<br>         
             </td>
             <td>
                     RS: URS00023213DC_42234<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_128_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_128_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_128_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_128_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA011303     | URS00023213DC_42234     | URS0002324324_312309     | URS0000DA2C8B_1147123     |
 | <span title="Length of the sequence in question">Length</span>  | 143.     |  143.    | 144.   |  145.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.963 | 0.962 | 0.954 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.963 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.904 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -52.750 | -57.216 | -26.765 | -60.727 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | cobalamin | Mn2+ |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | BTG2 | - | - | - |

@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA009170-0<br>
                     Gene: B2M<br>
                     MFE: -13.566<br>
-                    ENS: 0.991<br>
+                    ENS: 0.786<br>
                     Length: 51.<br>
                     Predicted Ligands:<br>
-                    unknown - 20/20<br>
-                    <br>
-                    <br>         
+                    unknown - 9/20<br>
+                    SAM - 5/20<br>
+                    glutamine - 4/20<br>         
             </td>
             <td>
                     RS: URS0000D6D071_12908<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_104_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_104_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_104_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_104_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA009170-0     | URS0000D6D071_12908     | URS0000C3C0C6_1715693     | URS0000E5FE50_1736280     |
 | <span title="Length of the sequence in question">Length</span>  | 51.     |  51.    | 49.   |  51.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.991 | 0.987 | 0.987 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.991 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.786 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -13.566 | -11.346 | -14.998 | -15.312 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | glutamine | SAM | unknown |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | B2M | - | - | - |

@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA023919<br>
                     Gene: COL5A3<br>
                     MFE: -47.906<br>
-                    ENS: 0.967<br>
+                    ENS: 0.875<br>
                     Length: 111.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
-                    <br>
-                    <br>         
+                    TPP - 11/20<br>
+                    methionine - 7/20<br>
+                    glycine - 1/20<br>         
             </td>
             <td>
                     RS: URS0000ABB109_266940<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_216_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_216_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_216_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_216_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA023919     | URS0000ABB109_266940     | URS0000DACC67_1903117     | URS0000C791F0_1001240     |
 | <span title="Length of the sequence in question">Length</span>  | 111.     |  111.    | 110.   |  106.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.967 | 0.974 | 0.958 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.967 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.875 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -47.906 | -51.812 | -47.330 | -35.782 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | methionine | methionine | TPP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | COL5A3 | - | - | - |

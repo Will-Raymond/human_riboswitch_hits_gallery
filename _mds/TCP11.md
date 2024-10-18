@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA108139<br>
                     Gene: TCP11<br>
                     MFE: -51.144<br>
-                    ENS: 0.959<br>
+                    ENS: 0.879<br>
                     Length: 112.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
-                    <br>
-                    <br>         
+                    TPP - 5/20<br>
+                    SAM - 5/20<br>
+                    homocysteine - 4/20<br>         
             </td>
             <td>
                     RS: URS0000C0E64F_1108045<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1303_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1303_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1303_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1303_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA108139     | URS0000C0E64F_1108045     | URS0000C4F5CB_216142     | URS00007CCC3C_1478     |
 | <span title="Length of the sequence in question">Length</span>  | 112.     |  114.    | 108.   |  109.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.959 | 0.963 | 0.968 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.959 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.879 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -51.144 | -39.781 | -44.346 | -30.181 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | TPP | homocysteine | SAM |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | TCP11 | - | - | - |

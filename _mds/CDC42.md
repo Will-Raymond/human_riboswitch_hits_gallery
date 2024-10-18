@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA020282<br>
                     Gene: CDC42<br>
                     MFE: -66.035<br>
-                    ENS: 0.947<br>
+                    ENS: 0.961<br>
                     Length: 191.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 8/20<br>
+                    lysine - 7/20<br>
+                    TPP - 4/20<br>         
             </td>
             <td>
                     RS: URS0000AB4BB9_457570<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_172_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_172_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_172_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_172_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA020282     | URS0000AB4BB9_457570     | URS0002326F36_561180     | URS0002325845_403957     |
 | <span title="Length of the sequence in question">Length</span>  | 191.     |  192.    | 187.   |  191.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.947 | 0.931 | 0.935 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.947 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.961 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -66.035 | -53.251 | -70.315 | -35.784 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | Mg2+ | TPP | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | CDC42 | - | - | - |

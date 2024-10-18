@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA119402<br>
                     Gene: WDR45<br>
                     MFE: -76.938<br>
-                    ENS: 0.887<br>
+                    ENS: 0.861<br>
                     Length: 197.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 18/20<br>
+                    lysine - 1/20<br>
+                    molybdenum - 1/20<br>         
             </td>
             <td>
                     RS: URS000232307E_1335048<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1449_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1449_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1449_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1449_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA119402     | URS000232307E_1335048     | URS0002312CDE_1914540     | URS000232DE4E_1112204     |
 | <span title="Length of the sequence in question">Length</span>  | 197.     |  203.    | 193.   |  198.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.887 | 0.913 | 0.892 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.887 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.861 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -76.938 | -89.655 | -37.989 | -78.657 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | cobalamin | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | WDR45 | - | - | - |

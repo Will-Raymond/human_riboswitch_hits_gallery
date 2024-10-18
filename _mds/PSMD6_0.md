@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA085667<br>
                     Gene: PSMD6_0<br>
                     MFE: -12.737<br>
-                    ENS: 0.974<br>
+                    ENS: 0.785<br>
                     Length: 64.<br>
                     Predicted Ligands:<br>
-                    fluoride - 20/20<br>
-                    <br>
-                    <br>         
+                    fluoride - 11/20<br>
+                    homocysteine - 5/20<br>
+                    unknown - 3/20<br>         
             </td>
             <td>
                     RS: URS0000C0C3EF_1097667<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_973_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_973_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_973_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_973_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA085667     | URS0000C0C3EF_1097667     | URS0000C27BAE_1712675     | URS0000C46045_1526735     |
 | <span title="Length of the sequence in question">Length</span>  | 64.     |  65.    | 59.   |  64.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.974 | 0.971 | 0.984 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.974 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.785 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -12.737 | -19.692 | -12.009 | -27.654 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | fluoride | fluoride | homocysteine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | PSMD6 | - | - | - |

@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA021287<br>
                     Gene: CFH<br>
                     MFE: -1.249<br>
-                    ENS: 0.987<br>
+                    ENS: 0.653<br>
                     Length: 52.<br>
                     Predicted Ligands:<br>
-                    glutamine - 20/20<br>
-                    <br>
-                    <br>         
+                    glutamine - 13/20<br>
+                    unknown - 3/20<br>
+                    preQ_1 - 2/20<br>         
             </td>
             <td>
                     RS: URS0000C57FE6_12908<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_184_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_184_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_184_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_184_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA021287     | URS0000C57FE6_12908     | URS0000C4BC81_12908     | URS0000E60758_401562     |
 | <span title="Length of the sequence in question">Length</span>  | 52.     |  53.    | 50.   |  53.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.987 | 0.986 | 0.986 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.987 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.653 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -1.249 | -6.747 | -6.038 | -18.086 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | glutamine | glutamine | unknown |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | CFH | - | - | - |

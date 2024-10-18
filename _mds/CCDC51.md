@@ -29,11 +29,11 @@ exclude: true
                     UTR: 5HSAA018550<br>
                     Gene: CCDC51<br>
                     MFE: -21.484<br>
-                    ENS: 0.989<br>
+                    ENS: 0.837<br>
                     Length: 57.<br>
                     Predicted Ligands:<br>
-                    glutamine - 20/20<br>
-                    <br>
+                    glutamine - 17/20<br>
+                    unknown - 3/20<br>
                     <br>         
             </td>
             <td>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_160_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_160_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_160_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_160_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA018550     | URS0000BEAA8E_1604020     | URS0000D692EA_473781     | URS0000C15FD1_12908     |
 | <span title="Length of the sequence in question">Length</span>  | 57.     |  56.    | 55.   |  59.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.989 | 0.987 | 0.986 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.989 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.837 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -21.484 | -12.438 | -21.770 | -12.816 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | glutamine | unknown | glutamine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | CCDC51 | - | - | - |

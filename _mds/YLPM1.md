@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA120680<br>
                     Gene: YLPM1<br>
                     MFE: -62.348<br>
-                    ENS: 0.958<br>
+                    ENS: 0.944<br>
                     Length: 149.<br>
                     Predicted Ligands:<br>
-                    glycine - 20/20<br>
-                    <br>
-                    <br>         
+                    glycine - 9/20<br>
+                    cobalamin - 5/20<br>
+                    FMN - 3/20<br>         
             </td>
             <td>
                     RS: URS0000AB4FD6_516466<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1475_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1475_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1475_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1475_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA120680     | URS0000AB4FD6_516466     | URS0000AFBA41_1247936     | URS0000AB5D6A_314266     |
 | <span title="Length of the sequence in question">Length</span>  | 149.     |  148.    | 151.   |  146.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.958 | 0.963 | 0.950 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.958 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.944 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -62.348 | -57.892 | -54.191 | -64.538 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | glycine | glycine | Mn2+ |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | YLPM1 | - | - | - |

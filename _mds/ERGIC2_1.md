@@ -29,11 +29,11 @@ exclude: true
                     UTR: 5HSAA036530<br>
                     Gene: ERGIC2_1<br>
                     MFE: -55.239<br>
-                    ENS: 0.947<br>
+                    ENS: 0.855<br>
                     Length: 184.<br>
                     Predicted Ligands:<br>
-                    lysine - 20/20<br>
-                    <br>
+                    lysine - 16/20<br>
+                    cobalamin - 4/20<br>
                     <br>         
             </td>
             <td>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_355_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_355_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_355_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_355_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA036530     | URS0000ABC5C4_621372     | URS0000C54491_1712028     | URS0000C012D3_241244     |
 | <span title="Length of the sequence in question">Length</span>  | 184.     |  183.    | 184.   |  187.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.947 | 0.940 | 0.933 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.947 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.855 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -55.239 | -69.956 | -52.851 | -55.172 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | lysine | lysine | lysine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | ERGIC2 | - | - | - |

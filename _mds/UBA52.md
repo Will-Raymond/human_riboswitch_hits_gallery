@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA115729<br>
                     Gene: UBA52<br>
                     MFE: -29.493<br>
-                    ENS: 0.972<br>
+                    ENS: 0.758<br>
                     Length: 117.<br>
                     Predicted Ligands:<br>
-                    molybdenum - 20/20<br>
-                    <br>
-                    <br>         
+                    molybdenum - 8/20<br>
+                    FMN - 5/20<br>
+                    methionine - 2/20<br>         
             </td>
             <td>
                     RS: URS0000AB511C_281689<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1406_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1406_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1406_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1406_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA115729     | URS0000AB511C_281689     | URS0000C55168_1617411     | URS0000043C71_479831     |
 | <span title="Length of the sequence in question">Length</span>  | 117.     |  119.    | 117.   |  116.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.972 | 0.974 | 0.973 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.972 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.758 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -29.493 | -33.204 | -26.976 | -23.274 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | molybdenum | SAM | FMN |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | UBA52 | - | - | - |

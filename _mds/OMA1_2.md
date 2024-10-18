@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA075094<br>
                     Gene: OMA1_2<br>
                     MFE: -15.422<br>
-                    ENS: 0.968<br>
+                    ENS: 0.976<br>
                     Length: 116.<br>
                     Predicted Ligands:<br>
-                    SAM - 20/20<br>
-                    <br>
-                    <br>         
+                    SAM - 7/20<br>
+                    TPP - 4/20<br>
+                    molybdenum - 3/20<br>         
             </td>
             <td>
                     RS: URS0000741A82_1462526<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_830_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_830_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_830_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_830_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA075094     | URS0000741A82_1462526     | URS0000D8F36B_1797457     | URS0000C843B7_690567     |
 | <span title="Length of the sequence in question">Length</span>  | 116.     |  119.    | 116.   |  118.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.968 | 0.974 | 0.970 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.968 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.976 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -15.422 | -23.122 | -29.282 | -29.703 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | SAM | SAM | molybdenum |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | OMA1 | - | - | - |

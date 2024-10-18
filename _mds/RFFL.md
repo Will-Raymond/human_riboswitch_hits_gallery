@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA090367<br>
                     Gene: RFFL<br>
                     MFE: -4.485<br>
-                    ENS: 0.973<br>
+                    ENS: 0.682<br>
                     Length: 36.<br>
                     Predicted Ligands:<br>
-                    SAM - 20/20<br>
-                    <br>
-                    <br>         
+                    SAM - 9/20<br>
+                    preQ_1 - 6/20<br>
+                    zmp-ztp - 2/20<br>         
             </td>
             <td>
                     RS: URS0000BE9AC2_1514904<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1048_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1048_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1048_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1048_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA090367     | URS0000BE9AC2_1514904     | URS0000BE9632_1514904     | URS0000D92E6B_1802287     |
 | <span title="Length of the sequence in question">Length</span>  | 36.     |  41.    | 41.   |  38.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.973 | 0.973 | 0.985 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.973 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.682 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -4.485 | -10.827 | -10.995 | -9.182 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | SAM | SAM | fluoride |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | RFFL | - | - | - |

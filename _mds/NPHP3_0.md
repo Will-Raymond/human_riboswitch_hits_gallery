@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA073044<br>
                     Gene: NPHP3_0<br>
                     MFE: -34.370<br>
-                    ENS: 0.978<br>
+                    ENS: 0.901<br>
                     Length: 84.<br>
                     Predicted Ligands:<br>
-                    GMP - 20/20<br>
-                    <br>
-                    <br>         
+                    GMP - 6/20<br>
+                    zmp-ztp - 6/20<br>
+                    homocysteine - 2/20<br>         
             </td>
             <td>
                     RS: URS0000ABBD20_1036672<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_804_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_804_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_804_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_804_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA073044     | URS0000ABBD20_1036672     | URS0000D6AB90_12908     | URS0000D7B313_1912795     |
 | <span title="Length of the sequence in question">Length</span>  | 84.     |  82.    | 85.   |  88.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.978 | 0.972 | 0.966 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.978 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.901 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -34.370 | -24.497 | -34.608 | -28.103 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | homocysteine | GMP | zmp-ztp |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | NPHP3 | - | - | - |

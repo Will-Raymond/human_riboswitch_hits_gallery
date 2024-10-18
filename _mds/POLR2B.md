@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA082391<br>
                     Gene: POLR2B<br>
                     MFE: -16.098<br>
-                    ENS: 0.986<br>
+                    ENS: 0.994<br>
                     Length: 68.<br>
                     Predicted Ligands:<br>
-                    fluoride - 20/20<br>
-                    <br>
-                    <br>         
+                    fluoride - 13/20<br>
+                    cobalamin - 6/20<br>
+                    Ni/Co - 1/20<br>         
             </td>
             <td>
                     RS: URS0000C2C4EE_1609134<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_916_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_916_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_916_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_916_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA082391     | URS0000C2C4EE_1609134     | URS0000D8FC6B_299152     | URS0002316AD3_1470557     |
 | <span title="Length of the sequence in question">Length</span>  | 68.     |  67.    | 69.   |  66.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.986 | 0.983 | 0.983 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.986 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.994 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -16.098 | -33.884 | -36.813 | -21.473 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | cobalamin | fluoride |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | POLR2B | - | - | - |

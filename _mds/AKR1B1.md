@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA003346<br>
                     Gene: AKR1B1<br>
                     MFE: -34.242<br>
-                    ENS: 0.979<br>
+                    ENS: 0.819<br>
                     Length: 99.<br>
                     Predicted Ligands:<br>
-                    SAM - 20/20<br>
-                    <br>
-                    <br>         
+                    SAM - 8/20<br>
+                    guanidine - 3/20<br>
+                    glycine - 3/20<br>         
             </td>
             <td>
                     RS: URS0000C8801B_375175<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_41_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_41_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_41_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_41_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA003346     | URS0000C8801B_375175     | URS0000ABD06B_408172     | URS0000C75FBA_943816     |
 | <span title="Length of the sequence in question">Length</span>  | 99.     |  98.    | 99.   |  98.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.979 | 0.982 | 0.977 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.979 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.819 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -34.242 | -20.685 | -33.526 | -38.546 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | tetrahydrofolate | guanidine | glycine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | AKR1B1 | - | - | - |

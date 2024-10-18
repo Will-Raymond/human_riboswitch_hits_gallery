@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA121739<br>
                     Gene: ZFYVE19<br>
                     MFE: -22.522<br>
-                    ENS: 0.983<br>
+                    ENS: 0.942<br>
                     Length: 80.<br>
                     Predicted Ligands:<br>
-                    GMP - 20/20<br>
-                    <br>
-                    <br>         
+                    GMP - 6/20<br>
+                    cyclic-di-GMP - 5/20<br>
+                    fluoride - 2/20<br>         
             </td>
             <td>
                     RS: URS0000D6B222_12908<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1496_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1496_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1496_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1496_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA121739     | URS0000D6B222_12908     | URS0000D6AA3C_12908     | URS0000D6A4A1_12908     |
 | <span title="Length of the sequence in question">Length</span>  | 80.     |  82.    | 81.   |  82.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.983 | 0.983 | 0.981 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.983 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.942 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -22.522 | -29.523 | -26.932 | -31.423 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | GMP | cyclic-di-GMP | GMP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | ZFYVE19 | - | - | - |

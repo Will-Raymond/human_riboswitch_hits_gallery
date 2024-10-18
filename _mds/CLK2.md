@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA022801<br>
                     Gene: CLK2<br>
                     MFE: -28.141<br>
-                    ENS: 0.928<br>
+                    ENS: 0.819<br>
                     Length: 141.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 8/20<br>
+                    TPP - 4/20<br>
+                    FMN - 4/20<br>         
             </td>
             <td>
                     RS: URS000232A3B4_1262760<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_203_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_203_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_203_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_203_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA022801     | URS000232A3B4_1262760     | URS0002329ADA_352211     | URS00023154D8_2018041     |
 | <span title="Length of the sequence in question">Length</span>  | 141.     |  136.    | 141.   |  145.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.928 | 0.947 | 0.898 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.928 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.819 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -28.141 | -19.041 | -44.452 | -47.798 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | cobalamin | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | CLK2 | - | - | - |

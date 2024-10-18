@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA071271<br>
                     Gene: NDUFB8<br>
                     MFE: -37.495<br>
-                    ENS: 0.983<br>
+                    ENS: 0.984<br>
                     Length: 87.<br>
                     Predicted Ligands:<br>
-                    cyclic-di-GMP - 20/20<br>
-                    <br>
-                    <br>         
+                    cyclic-di-GMP - 8/20<br>
+                    zmp-ztp - 3/20<br>
+                    glycine - 3/20<br>         
             </td>
             <td>
                     RS: URS00021EE001_12908<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_783_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_783_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_783_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_783_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA071271     | URS00021EE001_12908     | URS0000C6E1DC_1131935     | URS0000C44284_450851     |
 | <span title="Length of the sequence in question">Length</span>  | 87.     |  88.    | 84.   |  83.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.983 | 0.974 | 0.969 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.983 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.984 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -37.495 | -27.338 | -16.845 | -39.858 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | guanidine | cyclic-di-GMP | zmp-ztp |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | NDUFB8 | - | - | - |

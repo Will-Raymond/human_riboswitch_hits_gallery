@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA007191<br>
                     Gene: ARV1<br>
                     MFE: -28.395<br>
-                    ENS: 0.973<br>
+                    ENS: 0.864<br>
                     Length: 107.<br>
                     Predicted Ligands:<br>
-                    glycine - 20/20<br>
-                    <br>
-                    <br>         
+                    glycine - 16/20<br>
+                    guanidine - 2/20<br>
+                    SAM - 2/20<br>         
             </td>
             <td>
                     RS: URS0000C878B4_1121328<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_79_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_79_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_79_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_79_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA007191     | URS0000C878B4_1121328     | URS0000D87AE1_1121919     | URS0000D7B837_633194     |
 | <span title="Length of the sequence in question">Length</span>  | 107.     |  105.    | 106.   |  108.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.973 | 0.977 | 0.974 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.973 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.864 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -28.395 | -21.231 | -21.134 | -41.171 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | glycine | glycine | guanidine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | ARV1 | - | - | - |

@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA037408<br>
                     Gene: EYA2<br>
                     MFE: -50.725<br>
-                    ENS: 0.957<br>
+                    ENS: 0.829<br>
                     Length: 153.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 14/20<br>
+                    FMN - 5/20<br>
+                    Mn2+ - 1/20<br>         
             </td>
             <td>
                     RS: URS0000DAB4C9_1122188<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_364_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_364_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_364_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_364_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA037408     | URS0000DAB4C9_1122188     | URS0002326651_471854     | URS0002325715_1765722     |
 | <span title="Length of the sequence in question">Length</span>  | 153.     |  152.    | 155.   |  148.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.957 | 0.938 | 0.935 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.957 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.829 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -50.725 | -56.359 | -39.870 | -54.825 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | FMN | cobalamin | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | EYA2 | - | - | - |

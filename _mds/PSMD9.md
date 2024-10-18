@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA085707<br>
                     Gene: PSMD9<br>
                     MFE: -40.637<br>
-                    ENS: 0.979<br>
+                    ENS: 0.930<br>
                     Length: 96.<br>
                     Predicted Ligands:<br>
-                    SAM - 20/20<br>
-                    <br>
-                    <br>         
+                    SAM - 11/20<br>
+                    TPP - 4/20<br>
+                    purine - 2/20<br>         
             </td>
             <td>
                     RS: URS0000ECDC54_1247<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_978_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_978_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_978_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_978_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA085707     | URS0000ECDC54_1247     | URS0000ABC19F_203123     | URS0000C4C98B_1894     |
 | <span title="Length of the sequence in question">Length</span>  | 96.     |  95.    | 95.   |  95.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.979 | 0.979 | 0.974 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.979 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.930 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -40.637 | -19.550 | -20.250 | -39.894 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | purine | purine | zmp-ztp |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | PSMD9 | - | - | - |

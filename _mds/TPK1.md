@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA112773<br>
                     Gene: TPK1<br>
                     MFE: -26.869<br>
-                    ENS: 0.976<br>
+                    ENS: 0.895<br>
                     Length: 106.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
-                    <br>
-                    <br>         
+                    TPP - 10/20<br>
+                    zmp-ztp - 3/20<br>
+                    fluoride - 2/20<br>         
             </td>
             <td>
                     RS: URS0002331025_117157<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1359_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1359_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1359_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1359_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA112773     | URS0002331025_117157     | URS0000D94E06_1121476     | URS0000DA3B49_1805135     |
 | <span title="Length of the sequence in question">Length</span>  | 106.     |  106.    | 105.   |  108.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.976 | 0.977 | 0.974 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.976 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.895 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -26.869 | -50.274 | -13.507 | -39.562 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | zmp-ztp | purine | TPP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | TPK1 | - | - | - |

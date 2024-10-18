@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA028192<br>
                     Gene: DBF4B<br>
                     MFE: -34.227<br>
-                    ENS: 0.962<br>
+                    ENS: 0.920<br>
                     Length: 118.<br>
                     Predicted Ligands:<br>
-                    methionine - 20/20<br>
-                    <br>
-                    <br>         
+                    methionine - 9/20<br>
+                    SAM - 5/20<br>
+                    glycine - 2/20<br>         
             </td>
             <td>
                     RS: URS0001A07805_434008<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_263_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_263_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_263_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_263_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA028192     | URS0001A07805_434008     | URS0000C67F35_1214242     | URS0000C02359_1678012     |
 | <span title="Length of the sequence in question">Length</span>  | 118.     |  114.    | 117.   |  117.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.962 | 0.971 | 0.971 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.962 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.920 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -34.227 | -39.616 | -50.964 | -51.864 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | glycine | methionine | methionine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | DBF4B | - | - | - |

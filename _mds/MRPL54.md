@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA067554<br>
                     Gene: MRPL54<br>
                     MFE: -12.451<br>
-                    ENS: 0.987<br>
+                    ENS: 0.997<br>
                     Length: 59.<br>
                     Predicted Ligands:<br>
-                    glutamine - 20/20<br>
-                    <br>
-                    <br>         
+                    glutamine - 11/20<br>
+                    fluoride - 8/20<br>
+                    SAM - 1/20<br>         
             </td>
             <td>
                     RS: URS0000D876E0_243061<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_733_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_733_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_733_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_733_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA067554     | URS0000D876E0_243061     | URS0000C513F0_1734399     | URS0000BF68D1_65393     |
 | <span title="Length of the sequence in question">Length</span>  | 59.     |  61.    | 59.   |  60.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.987 | 0.990 | 0.989 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.987 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.997 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -12.451 | -26.669 | -17.330 | -15.126 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | fluoride | fluoride | glutamine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | MRPL54 | - | - | - |

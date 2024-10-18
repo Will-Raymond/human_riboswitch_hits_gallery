@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA020778<br>
                     Gene: CDYL2<br>
                     MFE: -44.842<br>
-                    ENS: 0.969<br>
+                    ENS: 0.773<br>
                     Length: 130.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
-                    <br>
-                    <br>         
+                    TPP - 9/20<br>
+                    cobalamin - 5/20<br>
+                    zmp-ztp - 4/20<br>         
             </td>
             <td>
                     RS: URS0000DB36F1_1817896<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_176_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_176_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_176_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_176_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA020778     | URS0000DB36F1_1817896     | URS000231F5FC_645127     | URS0002317907_129817     |
 | <span title="Length of the sequence in question">Length</span>  | 130.     |  129.    | 132.   |  129.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.969 | 0.964 | 0.964 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.969 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.773 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -44.842 | -21.699 | -34.693 | -49.829 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | glucosamine | cobalamin | zmp-ztp |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | CDYL2 | - | - | - |

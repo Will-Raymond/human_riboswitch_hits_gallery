@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA010720<br>
                     Gene: BMI1_1<br>
                     MFE: -45.414<br>
-                    ENS: 0.972<br>
+                    ENS: 0.988<br>
                     Length: 127.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 5/20<br>
+                    TPP - 5/20<br>
+                    guanidine - 4/20<br>         
             </td>
             <td>
                     RS: URS0002325834_1777139<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_119_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_119_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_119_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_119_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA010720     | URS0002325834_1777139     | URS0000C84AD8_1690485     | URS0000ABA694_764291     |
 | <span title="Length of the sequence in question">Length</span>  | 127.     |  127.    | 129.   |  123.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.972 | 0.963 | 0.956 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.972 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.988 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -45.414 | -42.460 | -39.095 | -27.674 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | homocysteine | glycine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | BMI1 | - | - | - |

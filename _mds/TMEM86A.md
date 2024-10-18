@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA111476<br>
                     Gene: TMEM86A<br>
                     MFE: -50.844<br>
-                    ENS: 0.964<br>
+                    ENS: 0.766<br>
                     Length: 108.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
-                    <br>
-                    <br>         
+                    TPP - 12/20<br>
+                    glycine - 2/20<br>
+                    SAM - 2/20<br>         
             </td>
             <td>
                     RS: URS0000AEA1B9_1631249<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1340_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1340_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1340_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1340_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA111476     | URS0000AEA1B9_1631249     | URS0000C83E00_1245471     | URS0000DA2CBC_1917422     |
 | <span title="Length of the sequence in question">Length</span>  | 108.     |  104.    | 107.   |  112.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.964 | 0.974 | 0.963 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.964 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.766 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -50.844 | -35.847 | -31.862 | -25.408 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | glycine | TPP | lysine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | TMEM86A | - | - | - |

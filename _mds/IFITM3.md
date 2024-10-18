@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA051797<br>
                     Gene: IFITM3<br>
                     MFE: -29.433<br>
-                    ENS: 0.957<br>
+                    ENS: 0.779<br>
                     Length: 126.<br>
                     Predicted Ligands:<br>
-                    SAM - 20/20<br>
-                    <br>
-                    <br>         
+                    SAM - 7/20<br>
+                    cobalamin - 6/20<br>
+                    methionine - 2/20<br>         
             </td>
             <td>
                     RS: URS0000C54C73_67285<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_541_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_541_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_541_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_541_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA051797     | URS0000C54C73_67285     | URS0000AB9250_743721     | URS0000D95A6F_1581139     |
 | <span title="Length of the sequence in question">Length</span>  | 126.     |  123.    | 122.   |  122.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.957 | 0.956 | 0.951 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.957 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.779 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -29.433 | -46.310 | -41.604 | -42.904 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | glycine | methionine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | IFITM3 | - | - | - |

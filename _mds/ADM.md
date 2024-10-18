@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA002553<br>
                     Gene: ADM<br>
                     MFE: -26.987<br>
-                    ENS: 0.982<br>
+                    ENS: 0.905<br>
                     Length: 68.<br>
                     Predicted Ligands:<br>
-                    fluoride - 20/20<br>
-                    <br>
-                    <br>         
+                    fluoride - 7/20<br>
+                    cobalamin - 5/20<br>
+                    SAM - 3/20<br>         
             </td>
             <td>
                     RS: URS0000AB7E19_479433<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_30_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_30_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_30_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_30_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA002553     | URS0000AB7E19_479433     | URS0000DB4593_1255690     | URS0000AB9BCA_439493     |
 | <span title="Length of the sequence in question">Length</span>  | 68.     |  70.    | 68.   |  67.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.982 | 0.986 | 0.986 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.982 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.905 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -26.987 | -19.726 | -7.163 | -6.902 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | fluoride | SAM |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | ADM | - | - | - |

@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA009008<br>
                     Gene: AUH<br>
                     MFE: -29.038<br>
-                    ENS: 0.988<br>
+                    ENS: 0.752<br>
                     Length: 60.<br>
                     Predicted Ligands:<br>
-                    fluoride - 20/20<br>
-                    <br>
-                    <br>         
+                    fluoride - 8/20<br>
+                    unknown - 8/20<br>
+                    glutamine - 2/20<br>         
             </td>
             <td>
                     RS: URS0000C00189_688269<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_101_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_101_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_101_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_101_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA009008     | URS0000C00189_688269     | URS0000D6AC00_365044     | URS0000C44113_999411     |
 | <span title="Length of the sequence in question">Length</span>  | 60.     |  61.    | 58.   |  62.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.988 | 0.987 | 0.986 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.988 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.752 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -29.038 | -15.635 | -24.479 | -12.194 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | fluoride | unknown | fluoride |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | AUH | - | - | - |

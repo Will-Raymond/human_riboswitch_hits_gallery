@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA115355<br>
                     Gene: TXNDC8_0<br>
                     MFE: -12.866<br>
-                    ENS: 0.979<br>
+                    ENS: 0.963<br>
                     Length: 70.<br>
                     Predicted Ligands:<br>
-                    2'-dG-II - 20/20<br>
-                    <br>
-                    <br>         
+                    2'-dG-II - 7/20<br>
+                    fluoride - 5/20<br>
+                    purine - 4/20<br>         
             </td>
             <td>
                     RS: URS0000D9F08B_1419482<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1403_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1403_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1403_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1403_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA115355     | URS0000D9F08B_1419482     | URS0000DDBA0A_2182327     | URS0000D69259_768704     |
 | <span title="Length of the sequence in question">Length</span>  | 70.     |  74.    | 69.   |  72.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.979 | 0.988 | 0.985 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.979 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.963 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -12.866 | -16.208 | -12.737 | -14.135 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | fluoride | fluoride | purine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | TXNDC8 | - | - | - |

@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA085566-0<br>
                     Gene: PSMC2_1<br>
                     MFE: -67.008<br>
-                    ENS: 0.912<br>
+                    ENS: 0.922<br>
                     Length: 227.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 13/20<br>
+                    glucosamine - 6/20<br>
+                    Mn2+ - 1/20<br>         
             </td>
             <td>
                     RS: URS0000BEE9C9_1178515<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_962_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_962_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_962_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_962_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA085566-0     | URS0000BEE9C9_1178515     | URS0000AB9D4F_370438     | URS0002326B61_1121927     |
 | <span title="Length of the sequence in question">Length</span>  | 227.     |  225.    | 225.   |  223.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.912 | 0.913 | 0.880 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.912 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.922 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -67.008 | -68.589 | -87.994 | -84.819 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | glucosamine | glucosamine | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | PSMC2 | - | - | - |

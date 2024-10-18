@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA053962<br>
                     Gene: ISYNA1<br>
                     MFE: -24.281<br>
-                    ENS: 0.982<br>
+                    ENS: 0.<br>
                     Length: 75.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 6/20<br>
+                    SAM - 5/20<br>
+                    zmp-ztp - 4/20<br>         
             </td>
             <td>
                     RS: URS0000BEDE11_1736433<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_564_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_564_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_564_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_564_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA053962     | URS0000BEDE11_1736433     | URS000231804A_309807     | URS0000BFDCA8_1660125     |
 | <span title="Length of the sequence in question">Length</span>  | 75.     |  73.    | 77.   |  76.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.982 | 0.980 | 0.983 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.982 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0. | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -24.281 | -16.506 | -29.873 | -24.258 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | SAM | cobalamin | SAM |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | ISYNA1 | - | - | - |

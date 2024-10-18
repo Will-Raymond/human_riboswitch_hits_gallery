@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA044278<br>
                     Gene: GLA_0<br>
                     MFE: -71.240<br>
-                    ENS: 0.882<br>
+                    ENS: 0.987<br>
                     Length: 256.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 15/20<br>
+                    unknown - 3/20<br>
+                    lysine - 1/20<br>         
             </td>
             <td>
                     RS: URS0000E60472_1125712<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_444_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_444_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_444_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_444_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA044278     | URS0000E60472_1125712     | URS0000C894B3_1188252     | URS0002317360_1262865     |
 | <span title="Length of the sequence in question">Length</span>  | 256.     |  256.    | 254.   |  257.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.882 | 0.919 | 0.915 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.882 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.987 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -71.240 | -106.159 | -72.221 | -87.057 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | unknown | lysine | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | GLA | - | - | - |

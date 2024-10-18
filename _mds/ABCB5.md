@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA000308<br>
                     Gene: ABCB5<br>
                     MFE: -11.235<br>
-                    ENS: 0.982<br>
+                    ENS: 0.749<br>
                     Length: 83.<br>
                     Predicted Ligands:<br>
-                    cyclic-di-GMP - 20/20<br>
-                    <br>
-                    <br>         
+                    cyclic-di-GMP - 6/20<br>
+                    zmp-ztp - 4/20<br>
+                    SAM - 3/20<br>         
             </td>
             <td>
                     RS: URS0000D8A159_284040<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_8_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_8_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_8_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_8_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA000308     | URS0000D8A159_284040     | URS0000C55735_1660129     | URS0000D66289_12908     |
 | <span title="Length of the sequence in question">Length</span>  | 83.     |  85.    | 84.   |  80.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.982 | 0.984 | 0.976 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.982 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.749 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -11.235 | -35.919 | -31.290 | -17.155 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | zmp-ztp | zmp-ztp | GMP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | ABCB5 | - | - | - |

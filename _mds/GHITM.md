@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA044078<br>
                     Gene: GHITM<br>
                     MFE: -67.110<br>
-                    ENS: 0.949<br>
+                    ENS: 0.958<br>
                     Length: 174.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 8/20<br>
+                    Mg2+ - 4/20<br>
+                    lysine - 4/20<br>         
             </td>
             <td>
                     RS: URS0002332B42_1840095<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_436_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_436_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_436_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_436_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA044078     | URS0002332B42_1840095     | URS000231440F_224999     | URS0002321FBF_582475     |
 | <span title="Length of the sequence in question">Length</span>  | 174.     |  171.    | 176.   |  177.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.949 | 0.943 | 0.934 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.949 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.958 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -67.110 | -66.763 | -48.668 | -40.981 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | cobalamin | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | GHITM | - | - | - |

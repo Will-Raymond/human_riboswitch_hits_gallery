@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA045465<br>
                     Gene: GNPDA1<br>
                     MFE: -35.869<br>
-                    ENS: 0.972<br>
+                    ENS: 0.902<br>
                     Length: 116.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
-                    <br>
-                    <br>         
+                    TPP - 6/20<br>
+                    glycine - 5/20<br>
+                    methionine - 5/20<br>         
             </td>
             <td>
                     RS: URS0000DB4792_1798282<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_454_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_454_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_454_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_454_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA045465     | URS0000DB4792_1798282     | URS0000AB6D01_272621     | URS0000ABBA29_306537     |
 | <span title="Length of the sequence in question">Length</span>  | 116.     |  115.    | 113.   |  114.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.972 | 0.966 | 0.968 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.972 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.902 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -35.869 | -30.520 | -27.433 | -30.852 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | TPP | FMN | TPP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | GNPDA1 | - | - | - |

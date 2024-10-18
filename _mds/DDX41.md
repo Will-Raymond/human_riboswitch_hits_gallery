@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA029108<br>
                     Gene: DDX41<br>
                     MFE: -26.291<br>
-                    ENS: 0.981<br>
+                    ENS: 0.975<br>
                     Length: 94.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
-                    <br>
-                    <br>         
+                    TPP - 9/20<br>
+                    tetrahydrofolate - 4/20<br>
+                    SAM - 3/20<br>         
             </td>
             <td>
                     RS: URS0000AB5C20_748224<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_273_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_273_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_273_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_273_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA029108     | URS0000AB5C20_748224     | URS0000AB3403_12908     | URS0000C5C6FC_1385664     |
 | <span title="Length of the sequence in question">Length</span>  | 94.     |  96.    | 96.   |  92.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.981 | 0.981 | 0.981 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.981 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.975 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -26.291 | -26.989 | -26.989 | -22.873 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | tetrahydrofolate | tetrahydrofolate | SAM |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | DDX41 | - | - | - |

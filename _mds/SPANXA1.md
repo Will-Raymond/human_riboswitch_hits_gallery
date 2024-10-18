@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA102912<br>
                     Gene: SPANXA1<br>
                     MFE: -14.<br>
-                    ENS: 0.986<br>
+                    ENS: 0.894<br>
                     Length: 61.<br>
                     Predicted Ligands:<br>
-                    fluoride - 20/20<br>
-                    <br>
-                    <br>         
+                    fluoride - 14/20<br>
+                    unknown - 4/20<br>
+                    glutamine - 2/20<br>         
             </td>
             <td>
                     RS: URS0000E5FA81_1109412<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1245_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1245_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1245_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1245_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA102912     | URS0000E5FA81_1109412     | URS0000D90DBD_1797828     | URS0000C3170C_12908     |
 | <span title="Length of the sequence in question">Length</span>  | 61.     |  61.    | 62.   |  60.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.986 | 0.988 | 0.986 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.986 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.894 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -14. | -17.670 | -18.085 | -7.888 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | unknown | fluoride | glutamine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | SPANXA1 | - | - | - |

@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA108988<br>
                     Gene: THAP9_1<br>
                     MFE: -59.286<br>
-                    ENS: 0.902<br>
+                    ENS: 0.905<br>
                     Length: 178.<br>
                     Predicted Ligands:<br>
-                    Mg2+ - 20/20<br>
-                    <br>
-                    <br>         
+                    Mg2+ - 7/20<br>
+                    Mn2+ - 6/20<br>
+                    lysine - 3/20<br>         
             </td>
             <td>
                     RS: URS0000B4F75F_1234679<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1319_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1319_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1319_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1319_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA108988     | URS0000B4F75F_1234679     | URS0000C06658_1856861     | URS0000DB4791_1834139     |
 | <span title="Length of the sequence in question">Length</span>  | 178.     |  175.    | 177.   |  176.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.902 | 0.949 | 0.946 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.902 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.905 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -59.286 | -37.714 | -69.298 | -71.415 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | Mg2+ | Mg2+ | Mg2+ |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | THAP9 | - | - | - |

@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA045391<br>
                     Gene: GNL3_0<br>
                     MFE: -44.741<br>
-                    ENS: 0.871<br>
+                    ENS: 0.868<br>
                     Length: 214.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 18/20<br>
+                    glycine - 1/20<br>
+                    Mn2+ - 1/20<br>         
             </td>
             <td>
                     RS: URS0002324D3F_384765<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_453_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_453_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_453_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_453_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA045391     | URS0002324D3F_384765     | URS00023301A4_311410     | URS000231AF11_1653480     |
 | <span title="Length of the sequence in question">Length</span>  | 214.     |  217.    | 214.   |  212.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.871 | 0.921 | 0.919 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.871 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.868 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -44.741 | -82.339 | -63.853 | -72.095 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | cobalamin | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | GNL3 | - | - | - |

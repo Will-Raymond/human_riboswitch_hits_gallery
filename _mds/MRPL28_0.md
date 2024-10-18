@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA067428<br>
                     Gene: MRPL28_0<br>
                     MFE: -16.079<br>
-                    ENS: 0.989<br>
+                    ENS: 0.843<br>
                     Length: 56.<br>
                     Predicted Ligands:<br>
-                    unknown - 20/20<br>
-                    <br>
-                    <br>         
+                    unknown - 9/20<br>
+                    glutamine - 9/20<br>
+                    cobalamin - 1/20<br>         
             </td>
             <td>
                     RS: URS0000E601C3_1437824<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_728_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_728_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_728_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_728_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA067428     | URS0000E601C3_1437824     | URS0000E5FA56_13249     | URS0000D94B0E_1797962     |
 | <span title="Length of the sequence in question">Length</span>  | 56.     |  56.    | 56.   |  55.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.989 | 0.988 | 0.986 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.989 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.843 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -16.079 | -22.249 | -17.471 | -16.837 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | unknown | unknown | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | MRPL28 | - | - | - |

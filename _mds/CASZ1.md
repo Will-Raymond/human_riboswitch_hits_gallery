@@ -29,11 +29,11 @@ exclude: true
                     UTR: 5HSAA017865<br>
                     Gene: CASZ1<br>
                     MFE: -53.135<br>
-                    ENS: 0.928<br>
+                    ENS: 0.959<br>
                     Length: 225.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
+                    cobalamin - 18/20<br>
+                    glucosamine - 2/20<br>
                     <br>         
             </td>
             <td>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_149_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_149_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_149_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_149_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA017865     | URS0002317B77_1904462     | URS0002325CAC_153496     | URS000232976A_1235809     |
 | <span title="Length of the sequence in question">Length</span>  | 225.     |  226.    | 227.   |  220.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.928 | 0.922 | 0.887 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.928 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.959 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -53.135 | -90.470 | -82.743 | -60.357 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | cobalamin | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | CASZ1 | - | - | - |

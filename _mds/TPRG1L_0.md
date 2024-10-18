@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA113039<br>
                     Gene: TPRG1L_0<br>
                     MFE: -27.481<br>
-                    ENS: 0.974<br>
+                    ENS: 0.989<br>
                     Length: 74.<br>
                     Predicted Ligands:<br>
-                    homocysteine - 20/20<br>
-                    <br>
-                    <br>         
+                    homocysteine - 12/20<br>
+                    fluoride - 3/20<br>
+                    SAM - 2/20<br>         
             </td>
             <td>
                     RS: URS0000D979AE_1736406<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1365_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1365_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1365_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1365_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA113039     | URS0000D979AE_1736406     | URS0000C7704B_1032480     | URS0002329798_256318     |
 | <span title="Length of the sequence in question">Length</span>  | 74.     |  75.    | 73.   |  72.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.974 | 0.986 | 0.974 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.974 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.989 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -27.481 | -29.627 | -24.296 | -20.294 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | homocysteine | fluoride | homocysteine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | TPRG1L | - | - | - |

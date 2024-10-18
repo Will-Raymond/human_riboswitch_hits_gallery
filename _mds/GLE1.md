@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA044320<br>
                     Gene: GLE1<br>
                     MFE: -32.395<br>
-                    ENS: 0.974<br>
+                    ENS: 0.812<br>
                     Length: 130.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 11/20<br>
+                    TPP - 3/20<br>
+                    FMN - 2/20<br>         
             </td>
             <td>
                     RS: URS0002320FD2_1904640<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_446_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_446_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_446_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_446_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA044320     | URS0002320FD2_1904640     | URS0000DA5D34_1517936     | URS0000C81DDA_1703     |
 | <span title="Length of the sequence in question">Length</span>  | 130.     |  129.    | 131.   |  134.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.974 | 0.964 | 0.950 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.974 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.812 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -32.395 | -40.299 | -55.625 | -38.879 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | methionine | TPP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | GLE1 | - | - | - |

@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA007205<br>
                     Gene: ASAH2B<br>
                     MFE: -30.912<br>
-                    ENS: 0.976<br>
+                    ENS: 0.890<br>
                     Length: 90.<br>
                     Predicted Ligands:<br>
-                    zmp-ztp - 20/20<br>
-                    <br>
-                    <br>         
+                    zmp-ztp - 11/20<br>
+                    GMP - 4/20<br>
+                    homocysteine - 2/20<br>         
             </td>
             <td>
                     RS: URS0000D688A4_12908<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_80_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_80_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_80_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_80_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA007205     | URS0000D688A4_12908     | URS0000D6C1F3_12908     | URS0000C55DB3_1497974     |
 | <span title="Length of the sequence in question">Length</span>  | 90.     |  87.    | 92.   |  89.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.976 | 0.967 | 0.978 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.976 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.890 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -30.912 | -29.054 | -29.186 | -44.402 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | GMP | GMP | zmp-ztp |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | ASAH2B | - | - | - |

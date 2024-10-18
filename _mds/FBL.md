@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA039574<br>
                     Gene: FBL<br>
                     MFE: -36.092<br>
-                    ENS: 0.980<br>
+                    ENS: 0.797<br>
                     Length: 96.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
-                    <br>
-                    <br>         
+                    TPP - 14/20<br>
+                    homocysteine - 3/20<br>
+                    purine - 1/20<br>         
             </td>
             <td>
                     RS: URS0000D9D511_211114<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_388_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_388_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_388_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_388_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA039574     | URS0000D9D511_211114     | URS0000AB7619_335543     | URS0000C8A915_1120688     |
 | <span title="Length of the sequence in question">Length</span>  | 96.     |  96.    | 98.   |  96.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.980 | 0.975 | 0.979 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.980 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.797 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -36.092 | -38.835 | -31.457 | -31.201 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | homocysteine | TPP | TPP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | FBL | - | - | - |

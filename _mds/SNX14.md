@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA102157<br>
                     Gene: SNX14<br>
                     MFE: -32.854<br>
-                    ENS: 0.967<br>
+                    ENS: 0.808<br>
                     Length: 131.<br>
                     Predicted Ligands:<br>
-                    FMN - 20/20<br>
-                    <br>
-                    <br>         
+                    FMN - 10/20<br>
+                    cobalamin - 4/20<br>
+                    glucosamine - 3/20<br>         
             </td>
             <td>
                     RS: URS0000DB36F1_1817896<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1236_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1236_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1236_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1236_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA102157     | URS0000DB36F1_1817896     | URS000231BB03_1449976     | URS0000DA9E8C_1802069     |
 | <span title="Length of the sequence in question">Length</span>  | 131.     |  129.    | 131.   |  131.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.967 | 0.962 | 0.966 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.967 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.808 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -32.854 | -21.699 | -51.570 | -41.030 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | glucosamine | cobalamin | glucosamine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | SNX14 | - | - | - |

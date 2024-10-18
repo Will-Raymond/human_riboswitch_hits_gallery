@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA022618<br>
                     Gene: CLEC7A<br>
                     MFE: -13.233<br>
-                    ENS: 0.983<br>
+                    ENS: 0.837<br>
                     Length: 96.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
-                    <br>
-                    <br>         
+                    TPP - 12/20<br>
+                    glycine - 4/20<br>
+                    purine - 3/20<br>         
             </td>
             <td>
                     RS: URS0000C1E539_1045004<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_200_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_200_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_200_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_200_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA022618     | URS0000C1E539_1045004     | URS0000D8C62A_1411120     | URS0000AB75A9_338187     |
 | <span title="Length of the sequence in question">Length</span>  | 96.     |  94.    | 97.   |  100.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.983 | 0.981 | 0.969 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.983 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.837 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -13.233 | -25.626 | -22.769 | -18.744 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | TPP | TPP | purine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | CLEC7A | - | - | - |

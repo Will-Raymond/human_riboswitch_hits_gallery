@@ -29,11 +29,11 @@ exclude: true
                     UTR: 5HSAA021116<br>
                     Gene: CEP70<br>
                     MFE: -59.285<br>
-                    ENS: 0.934<br>
+                    ENS: 0.862<br>
                     Length: 228.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
+                    cobalamin - 18/20<br>
+                    glucosamine - 2/20<br>
                     <br>         
             </td>
             <td>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_177_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_177_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_177_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_177_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA021116     | URS00007A9F5E_545     | URS000231F93F_269482     | URS000232B97B_290338     |
 | <span title="Length of the sequence in question">Length</span>  | 228.     |  227.    | 232.   |  226.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.934 | 0.901 | 0.919 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.934 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.862 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -59.285 | -58.409 | -111.501 | -59.269 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | cobalamin | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | CEP70 | - | - | - |

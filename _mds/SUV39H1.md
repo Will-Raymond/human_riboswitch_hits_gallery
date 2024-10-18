@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA106117<br>
                     Gene: SUV39H1<br>
                     MFE: -19.146<br>
-                    ENS: 0.983<br>
+                    ENS: 0.865<br>
                     Length: 70.<br>
                     Predicted Ligands:<br>
-                    homocysteine - 20/20<br>
-                    <br>
-                    <br>         
+                    homocysteine - 8/20<br>
+                    fluoride - 5/20<br>
+                    purine - 4/20<br>         
             </td>
             <td>
                     RS: URS0000AB7F62_378806<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1285_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1285_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1285_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1285_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA106117     | URS0000AB7F62_378806     | URS0000BFB91D_56193     | URS000080E134_1423     |
 | <span title="Length of the sequence in question">Length</span>  | 70.     |  68.    | 71.   |  68.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.983 | 0.984 | 0.981 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.983 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.865 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -19.146 | -24.895 | -22.722 | -17.438 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | homocysteine | fluoride | guanine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | SUV39H1 | - | - | - |

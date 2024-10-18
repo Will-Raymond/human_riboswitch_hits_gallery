@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA064769<br>
                     Gene: MED19<br>
                     MFE: -7.592<br>
-                    ENS: 0.990<br>
+                    ENS: 0.991<br>
                     Length: 47.<br>
                     Predicted Ligands:<br>
-                    preQ_1 - 20/20<br>
-                    <br>
-                    <br>         
+                    preQ_1 - 12/20<br>
+                    glutamine - 7/20<br>
+                    SAM - 1/20<br>         
             </td>
             <td>
                     RS: URS0000AB1925_71421<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_682_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_682_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_682_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_682_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA064769     | URS0000AB1925_71421     | URS0000D68BEE_12908     | URS0000D6B5F5_12908     |
 | <span title="Length of the sequence in question">Length</span>  | 47.     |  45.    | 47.   |  47.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.990 | 0.991 | 0.991 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.990 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.991 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -7.592 | -2.490 | -9.766 | -8.966 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | preQ_1 | glutamine | glutamine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | MED19 | - | - | - |

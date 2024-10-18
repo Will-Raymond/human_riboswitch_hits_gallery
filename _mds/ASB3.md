@@ -29,11 +29,11 @@ exclude: true
                     UTR: 5HSAA007256<br>
                     Gene: ASB3<br>
                     MFE: -61.356<br>
-                    ENS: 0.919<br>
+                    ENS: 0.805<br>
                     Length: 239.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
+                    cobalamin - 17/20<br>
+                    FMN - 3/20<br>
                     <br>         
             </td>
             <td>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_84_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_84_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_84_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_84_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA007256     | URS0002312F39_1349819     | URS000232F75B_1519190     | URS000232D601_1895838     |
 | <span title="Length of the sequence in question">Length</span>  | 239.     |  238.    | 234.   |  234.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.919 | 0.886 | 0.885 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.919 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.805 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -61.356 | -104.498 | -82.775 | -62.696 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | cobalamin | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | ASB3 | - | - | - |

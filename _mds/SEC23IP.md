@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA095755<br>
                     Gene: SEC23IP<br>
                     MFE: -37.556<br>
-                    ENS: 0.981<br>
+                    ENS: 1.<br>
                     Length: 97.<br>
                     Predicted Ligands:<br>
-                    tetrahydrofolate - 20/20<br>
-                    <br>
-                    <br>         
+                    tetrahydrofolate - 11/20<br>
+                    TPP - 2/20<br>
+                    zmp-ztp - 2/20<br>         
             </td>
             <td>
                     RS: URS000232ACA8_408172<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1165_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1165_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1165_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1165_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA095755     | URS000232ACA8_408172     | URS0000C85A17_1263010     | URS0000AB8A2D_590646     |
 | <span title="Length of the sequence in question">Length</span>  | 97.     |  96.    | 97.   |  96.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.981 | 0.982 | 0.977 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.981 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 1. | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -37.556 | -33.076 | -22.029 | -23.932 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | guanidine | tetrahydrofolate | TPP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | SEC23IP | - | - | - |

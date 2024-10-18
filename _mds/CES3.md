@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA021217<br>
                     Gene: CES3<br>
                     MFE: -25.098<br>
-                    ENS: 0.980<br>
+                    ENS: 0.833<br>
                     Length: 98.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
-                    <br>
-                    <br>         
+                    TPP - 12/20<br>
+                    guanidine - 3/20<br>
+                    glycine - 2/20<br>         
             </td>
             <td>
                     RS: URS0000C36538_1576605<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_180_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_180_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_180_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_180_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA021217     | URS0000C36538_1576605     | URS00021EDE18_12908     | URS0000C6CC9E_866895     |
 | <span title="Length of the sequence in question">Length</span>  | 98.     |  99.    | 95.   |  98.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.980 | 0.970 | 0.978 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.980 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.833 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -25.098 | -36.268 | -36.717 | -24.511 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | glycine | guanidine | TPP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | CES3 | - | - | - |

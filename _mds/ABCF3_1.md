@@ -29,10 +29,10 @@ exclude: true
                     UTR: 5HSAA000498<br>
                     Gene: ABCF3_1<br>
                     MFE: -68.489<br>
-                    ENS: 0.928<br>
+                    ENS: 0.746<br>
                     Length: 210.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
+                    cobalamin - 20/20 - 20/20<br>
                     <br>
                     <br>         
             </td>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_15_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_15_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_15_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_15_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA000498     | URS0002322DE0_1795870     | URS000231E3BA_1798681     | URS00023142B1_1042209     |
 | <span title="Length of the sequence in question">Length</span>  | 210.     |  209.    | 209.   |  212.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.928 | 0.939 | 0.940 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.928 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.746 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -68.489 | -51.003 | -54.033 | -78.089 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | cobalamin | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | ABCF3 | - | - | - |

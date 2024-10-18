@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA003219<br>
                     Gene: AIP<br>
                     MFE: -54.323<br>
-                    ENS: 0.962<br>
+                    ENS: 0.759<br>
                     Length: 150.<br>
                     Predicted Ligands:<br>
-                    FMN - 20/20<br>
-                    <br>
-                    <br>         
+                    FMN - 11/20<br>
+                    cobalamin - 4/20<br>
+                    TPP - 2/20<br>         
             </td>
             <td>
                     RS: URS0000D8CD64_1732019<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_39_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_39_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_39_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_39_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA003219     | URS0000D8CD64_1732019     | URS0000ABA44E_243365     | URS0000D84AFA_1736237     |
 | <span title="Length of the sequence in question">Length</span>  | 150.     |  148.    | 148.   |  152.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.962 | 0.938 | 0.951 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.962 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.759 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -54.323 | -61.275 | -66.825 | -63.767 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | FMN | TPP | zmp-ztp |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | AIP | - | - | - |

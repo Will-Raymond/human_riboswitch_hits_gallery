@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA067424<br>
                     Gene: MRPL28<br>
                     MFE: -17.708<br>
-                    ENS: 0.979<br>
+                    ENS: 0.892<br>
                     Length: 74.<br>
                     Predicted Ligands:<br>
-                    fluoride - 20/20<br>
-                    <br>
-                    <br>         
+                    fluoride - 14/20<br>
+                    SAM - 4/20<br>
+                    cobalamin - 2/20<br>         
             </td>
             <td>
                     RS: URS0000C521DE_1002368<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_727_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_727_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_727_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_727_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA067424     | URS0000C521DE_1002368     | URS000231B6D6_408172     | URS0000BE144B_1729715     |
 | <span title="Length of the sequence in question">Length</span>  | 74.     |  71.    | 75.   |  77.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.979 | 0.984 | 0.978 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.979 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.892 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -17.708 | -21.041 | -12.836 | -15.208 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | fluoride | cobalamin | SAM |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | MRPL28 | - | - | - |

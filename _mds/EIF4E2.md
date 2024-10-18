@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA034446<br>
                     Gene: EIF4E2<br>
                     MFE: -60.257<br>
-                    ENS: 0.951<br>
+                    ENS: 0.912<br>
                     Length: 163.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 7/20<br>
+                    Mg2+ - 3/20<br>
+                    glycine - 3/20<br>         
             </td>
             <td>
                     RS: URS0002312ECE_546414<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_331_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_331_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_331_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_331_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA034446     | URS0002312ECE_546414     | URS0000C4CB66_1321778     | URS0000AB21CD_640512     |
 | <span title="Length of the sequence in question">Length</span>  | 163.     |  164.    | 168.   |  160.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.951 | 0.930 | 0.947 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.951 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.912 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -60.257 | -66.091 | -31.284 | -66.466 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | Mg2+ | glycine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | EIF4E2 | - | - | - |

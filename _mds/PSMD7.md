@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA085687<br>
                     Gene: PSMD7<br>
                     MFE: -64.679<br>
-                    ENS: 0.961<br>
+                    ENS: 0.768<br>
                     Length: 157.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
-                    <br>
-                    <br>         
+                    TPP - 11/20<br>
+                    FMN - 4/20<br>
+                    glucosamine - 3/20<br>         
             </td>
             <td>
                     RS: URS0000C48578_1237896<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_976_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_976_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_976_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_976_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA085687     | URS0000C48578_1237896     | URS0000C19EA5_253628     | URS0000AB4074_759273     |
 | <span title="Length of the sequence in question">Length</span>  | 157.     |  158.    | 159.   |  156.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.961 | 0.934 | 0.964 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.961 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.768 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -64.679 | -66.170 | -54.981 | -54.170 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | TPP | TPP | TPP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | PSMD7 | - | - | - |

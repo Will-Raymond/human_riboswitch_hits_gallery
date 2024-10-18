@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA046033<br>
                     Gene: GPN1_2<br>
                     MFE: -11.537<br>
-                    ENS: 0.989<br>
+                    ENS: 0.755<br>
                     Length: 54.<br>
                     Predicted Ligands:<br>
-                    unknown - 20/20<br>
-                    <br>
-                    <br>         
+                    unknown - 16/20<br>
+                    glutamine - 2/20<br>
+                    TPP - 1/20<br>         
             </td>
             <td>
                     RS: URS0000E60855_1294143<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_461_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_461_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_461_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_461_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA046033     | URS0000E60855_1294143     | URS0000E605F8_1797572     | URS0000D4ACC6_1336806     |
 | <span title="Length of the sequence in question">Length</span>  | 54.     |  55.    | 54.   |  54.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.989 | 0.991 | 0.990 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.989 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.755 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -11.537 | -18.729 | -20.270 | -12.742 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | unknown | unknown | TPP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | GPN1 | - | - | - |

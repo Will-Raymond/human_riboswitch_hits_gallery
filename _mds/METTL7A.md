@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA065336<br>
                     Gene: METTL7A<br>
                     MFE: -22.727<br>
-                    ENS: 0.964<br>
+                    ENS: 0.865<br>
                     Length: 111.<br>
                     Predicted Ligands:<br>
-                    SAM - 20/20<br>
-                    <br>
-                    <br>         
+                    SAM - 4/20<br>
+                    purine - 3/20<br>
+                    TPP - 3/20<br>         
             </td>
             <td>
                     RS: URS0000DB0261_1903686<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_702_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_702_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_702_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_702_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA065336     | URS0000DB0261_1903686     | URS0000D789A9_1395587     | URS0000D79489_1920420     |
 | <span title="Length of the sequence in question">Length</span>  | 111.     |  107.    | 111.   |  110.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.964 | 0.974 | 0.972 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.964 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.865 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -22.727 | -26.205 | -20.898 | -21.908 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | tetrahydrofolate | purine | purine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | METTL7A | - | - | - |

@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA078273<br>
                     Gene: PDE4B<br>
                     MFE: -59.848<br>
-                    ENS: 0.945<br>
+                    ENS: 0.847<br>
                     Length: 171.<br>
                     Predicted Ligands:<br>
-                    glucosamine - 20/20<br>
-                    <br>
-                    <br>         
+                    glucosamine - 9/20<br>
+                    cobalamin - 5/20<br>
+                    lysine - 2/20<br>         
             </td>
             <td>
                     RS: URS00023156F3_1656094<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_861_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_861_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_861_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_861_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA078273     | URS00023156F3_1656094     | URS0000C373A5_1765683     | URS000232CD84_1971726     |
 | <span title="Length of the sequence in question">Length</span>  | 171.     |  171.    | 173.   |  177.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.945 | 0.932 | 0.910 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.945 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.847 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -59.848 | -54.305 | -59.589 | -44.851 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | glucosamine | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | PDE4B | - | - | - |

@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA025449<br>
                     Gene: CRYM<br>
                     MFE: -31.162<br>
-                    ENS: 0.970<br>
+                    ENS: 0.830<br>
                     Length: 110.<br>
                     Predicted Ligands:<br>
-                    glycine - 20/20<br>
-                    <br>
-                    <br>         
+                    glycine - 9/20<br>
+                    TPP - 8/20<br>
+                    GMP - 1/20<br>         
             </td>
             <td>
                     RS: URS0000C0DC96_67257<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_248_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_248_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_248_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_248_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA025449     | URS0000C0DC96_67257     | URS0000D66ED1_12908     | URS0000C7899A_1196322     |
 | <span title="Length of the sequence in question">Length</span>  | 110.     |  109.    | 109.   |  105.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.970 | 0.975 | 0.934 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.970 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.830 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -31.162 | -43.905 | -55.499 | -20.321 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | glycine | GMP | guanidine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | CRYM | - | - | - |

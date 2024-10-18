@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA003585<br>
                     Gene: ALDH18A1_0<br>
                     MFE: -36.713<br>
-                    ENS: 0.967<br>
+                    ENS: 0.968<br>
                     Length: 131.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 7/20<br>
+                    FMN - 4/20<br>
+                    TPP - 3/20<br>         
             </td>
             <td>
                     RS: URS0000BE2D4F_631454<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_43_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_43_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_43_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_43_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA003585     | URS0000BE2D4F_631454     | URS000231BB03_1449976     | URS000232C328_1937003     |
 | <span title="Length of the sequence in question">Length</span>  | 131.     |  130.    | 131.   |  130.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.967 | 0.964 | 0.926 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.967 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.968 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -36.713 | -53.026 | -51.570 | -58.173 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | TPP | cobalamin | zmp-ztp |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | ALDH18A1 | - | - | - |

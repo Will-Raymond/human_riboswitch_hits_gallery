@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA093834<br>
                     Gene: RXFP2<br>
                     MFE: -11.260<br>
-                    ENS: 0.983<br>
+                    ENS: 0.984<br>
                     Length: 96.<br>
                     Predicted Ligands:<br>
-                    glycine - 20/20<br>
-                    <br>
-                    <br>         
+                    glycine - 12/20<br>
+                    TPP - 3/20<br>
+                    Mg2+ - 2/20<br>         
             </td>
             <td>
                     RS: URS0000C219E3_1262915<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1137_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1137_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1137_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1137_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA093834     | URS0000C219E3_1262915     | URS0000D9DA9B_1552     | URS0000ABCF2B_869312     |
 | <span title="Length of the sequence in question">Length</span>  | 96.     |  95.    | 93.   |  97.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.983 | 0.972 | 0.980 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.983 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.984 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -11.260 | -19.909 | -18.750 | -24.153 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | glycine | glycine | preQ_1 |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | RXFP2 | - | - | - |

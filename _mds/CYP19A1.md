@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA027613<br>
                     Gene: CYP19A1<br>
                     MFE: -42.272<br>
-                    ENS: 0.957<br>
+                    ENS: 0.915<br>
                     Length: 167.<br>
                     Predicted Ligands:<br>
-                    Mg2+ - 20/20<br>
-                    <br>
-                    <br>         
+                    Mg2+ - 10/20<br>
+                    FMN - 6/20<br>
+                    glycine - 1/20<br>         
             </td>
             <td>
                     RS: URS0000C381A6_931276<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_259_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_259_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_259_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_259_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA027613     | URS0000C381A6_931276     | URS0000C13284_1635262     | URS00001895E1_551947     |
 | <span title="Length of the sequence in question">Length</span>  | 167.     |  168.    | 168.   |  167.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.957 | 0.949 | 0.943 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.957 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.915 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -42.272 | -29.898 | -42.220 | -75.148 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | glycine | Mg2+ | FMN |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | CYP19A1 | - | - | - |

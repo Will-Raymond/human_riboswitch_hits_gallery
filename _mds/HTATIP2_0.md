@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA051284<br>
                     Gene: HTATIP2_0<br>
                     MFE: -53.429<br>
-                    ENS: 0.959<br>
+                    ENS: 0.950<br>
                     Length: 124.<br>
                     Predicted Ligands:<br>
-                    glycine - 20/20<br>
-                    <br>
-                    <br>         
+                    glycine - 6/20<br>
+                    cobalamin - 5/20<br>
+                    TPP - 4/20<br>         
             </td>
             <td>
                     RS: URS0002329156_1609098<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_529_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_529_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_529_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_529_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA051284     | URS0002329156_1609098     | URS0000AB8735_398578     | URS0000C642A1_92647     |
 | <span title="Length of the sequence in question">Length</span>  | 124.     |  125.    | 127.   |  126.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.959 | 0.952 | 0.955 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.959 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.950 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -53.429 | -55.369 | -59.141 | -49.825 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | homocysteine | glycine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | HTATIP2 | - | - | - |

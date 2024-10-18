@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA114576<br>
                     Gene: TTC16<br>
                     MFE: -35.059<br>
-                    ENS: 0.976<br>
+                    ENS: 0.701<br>
                     Length: 92.<br>
                     Predicted Ligands:<br>
-                    zmp-ztp - 20/20<br>
-                    <br>
-                    <br>         
+                    zmp-ztp - 7/20<br>
+                    glutamine - 4/20<br>
+                    TPP - 2/20<br>         
             </td>
             <td>
                     RS: URS0002328645_526729<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1380_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1380_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1380_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1380_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA114576     | URS0002328645_526729     | URS0000AB5903_187272     | URS0000AB7C92_370438     |
 | <span title="Length of the sequence in question">Length</span>  | 92.     |  94.    | 92.   |  88.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.976 | 0.978 | 0.968 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.976 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.701 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -35.059 | -36.706 | -28.096 | -20.847 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | zmp-ztp | Ni/Co | cyclic-di-GMP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | TTC16 | - | - | - |

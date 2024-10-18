@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA022812<br>
                     Gene: CLK2_1<br>
                     MFE: -3.038<br>
-                    ENS: 0.991<br>
+                    ENS: 0.985<br>
                     Length: 26.<br>
                     Predicted Ligands:<br>
-                    preQ_1 - 20/20<br>
-                    <br>
-                    <br>         
+                    preQ_1 - 8/20<br>
+                    SAM - 7/20<br>
+                    unknown - 2/20<br>         
             </td>
             <td>
                     RS: URS0001A24B50_1907202<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_205_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_205_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_205_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_205_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA022812     | URS0001A24B50_1907202     | URS0000ABD446_1313296     | URS000080E32E_119072     |
 | <span title="Length of the sequence in question">Length</span>  | 26.     |  26.    | 32.   |  33.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.991 | 0.966 | 0.955 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.991 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.985 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -3.038 | -10. | -4.722 | -6.098 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | unknown | preQ_1 | preQ_1 |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | CLK2 | - | - | - |

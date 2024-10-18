@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA092432<br>
                     Gene: RPL18A_0<br>
                     MFE: -12.531<br>
-                    ENS: 0.989<br>
+                    ENS: 0.796<br>
                     Length: 47.<br>
                     Predicted Ligands:<br>
-                    glutamine - 20/20<br>
-                    <br>
-                    <br>         
+                    glutamine - 13/20<br>
+                    preQ_1 - 4/20<br>
+                    unknown - 2/20<br>         
             </td>
             <td>
                     RS: URS0000C7DE01_12908<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1091_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1091_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1091_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1091_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA092432     | URS0000C7DE01_12908     | URS0000C0958F_12908     | URS0000AB27BE_945021     |
 | <span title="Length of the sequence in question">Length</span>  | 47.     |  47.    | 50.   |  45.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.989 | 0.984 | 0.984 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.989 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.796 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -12.531 | -8.438 | -8.488 | -5.496 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | glutamine | glutamine | preQ_1 |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | RPL18A | - | - | - |

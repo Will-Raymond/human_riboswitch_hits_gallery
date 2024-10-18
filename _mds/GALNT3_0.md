@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA042904<br>
                     Gene: GALNT3_0<br>
                     MFE: -1.870<br>
-                    ENS: 0.983<br>
+                    ENS: 0.809<br>
                     Length: 38.<br>
                     Predicted Ligands:<br>
-                    preQ_1 - 20/20<br>
-                    <br>
-                    <br>         
+                    preQ_1 - 14/20<br>
+                    SAM - 3/20<br>
+                    zmp-ztp - 1/20<br>         
             </td>
             <td>
                     RS: URS0000BE9AC2_1514904<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_424_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_424_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_424_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_424_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA042904     | URS0000BE9AC2_1514904     | URS0000BE9632_1514904     | URS00023316D7_471853     |
 | <span title="Length of the sequence in question">Length</span>  | 38.     |  41.    | 41.   |  41.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.983 | 0.983 | 0.981 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.983 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.809 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -1.870 | -10.827 | -10.995 | -15.636 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | SAM | SAM | zmp-ztp |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | GALNT3 | - | - | - |

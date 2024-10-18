@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA119471<br>
                     Gene: WDR47<br>
                     MFE: -11.323<br>
-                    ENS: 0.987<br>
+                    ENS: 0.748<br>
                     Length: 62.<br>
                     Predicted Ligands:<br>
-                    fluoride - 20/20<br>
-                    <br>
-                    <br>         
+                    fluoride - 18/20<br>
+                    glutamine - 1/20<br>
+                    preQ_1 - 1/20<br>         
             </td>
             <td>
                     RS: URS0000C2AC15_12908<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1452_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1452_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1452_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1452_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA119471     | URS0000C2AC15_12908     | URS0000C68D43_1231351     | URS0000C0D051_1487582     |
 | <span title="Length of the sequence in question">Length</span>  | 62.     |  62.    | 63.   |  60.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.987 | 0.977 | 0.977 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.987 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.748 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -11.323 | -9.428 | -18.147 | -14.031 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | glutamine | fluoride | fluoride |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | WDR47 | - | - | - |

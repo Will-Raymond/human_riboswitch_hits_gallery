@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA030798<br>
                     Gene: DNAI2<br>
                     MFE: -27.570<br>
-                    ENS: 0.961<br>
+                    ENS: 0.883<br>
                     Length: 126.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 6/20<br>
+                    FMN - 4/20<br>
+                    SAM - 4/20<br>         
             </td>
             <td>
                     RS: URS0000DA0BFE_512030<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_298_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_298_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_298_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_298_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA030798     | URS0000DA0BFE_512030     | URS0000D6BEEF_12908     | URS0000D6BE7F_12908     |
 | <span title="Length of the sequence in question">Length</span>  | 126.     |  127.    | 123.   |  125.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.961 | 0.961 | 0.970 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.961 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.883 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -27.570 | -43.804 | -40.581 | -46.431 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | glycine | GMP | GMP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | DNAI2 | - | - | - |

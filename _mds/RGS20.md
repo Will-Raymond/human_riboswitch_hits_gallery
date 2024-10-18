@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA090663<br>
                     Gene: RGS20<br>
                     MFE: -46.917<br>
-                    ENS: 0.955<br>
+                    ENS: 0.905<br>
                     Length: 159.<br>
                     Predicted Ligands:<br>
-                    Mg2+ - 20/20<br>
-                    <br>
-                    <br>         
+                    Mg2+ - 7/20<br>
+                    FMN - 6/20<br>
+                    cobalamin - 4/20<br>         
             </td>
             <td>
                     RS: URS0000D88BF0_1529<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1052_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1052_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1052_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1052_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA090663     | URS0000D88BF0_1529     | URS0000D9BFF0_1797535     | URS000232E81D_1801770     |
 | <span title="Length of the sequence in question">Length</span>  | 159.     |  162.    | 157.   |  156.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.955 | 0.957 | 0.949 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.955 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.905 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -46.917 | -35.156 | -49.355 | -29.540 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | Mg2+ | FMN | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | RGS20 | - | - | - |

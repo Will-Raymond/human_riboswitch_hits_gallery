@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA080275<br>
                     Gene: PIGW<br>
                     MFE: -20.437<br>
-                    ENS: 0.985<br>
+                    ENS: 0.826<br>
                     Length: 80.<br>
                     Predicted Ligands:<br>
-                    SAM - 20/20<br>
-                    <br>
-                    <br>         
+                    SAM - 6/20<br>
+                    zmp-ztp - 5/20<br>
+                    glycine - 4/20<br>         
             </td>
             <td>
                     RS: URS0000BF57F5_1660103<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_888_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_888_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_888_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_888_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA080275     | URS0000BF57F5_1660103     | URS0000C2AFA1_272562     | URS0000C4841F_1385513     |
 | <span title="Length of the sequence in question">Length</span>  | 80.     |  79.    | 81.   |  79.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.985 | 0.984 | 0.983 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.985 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.826 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -20.437 | -20.493 | -16.998 | -16.418 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | SAM | zmp-ztp | glycine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | PIGW | - | - | - |

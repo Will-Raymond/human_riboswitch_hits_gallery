@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA097764<br>
                     Gene: SGTA<br>
                     MFE: -74.971<br>
-                    ENS: 0.927<br>
+                    ENS: 0.889<br>
                     Length: 172.<br>
                     Predicted Ligands:<br>
-                    Mg2+ - 20/20<br>
-                    <br>
-                    <br>         
+                    Mg2+ - 8/20<br>
+                    FMN - 4/20<br>
+                    Mn2+ - 4/20<br>         
             </td>
             <td>
                     RS: URS0000D95428_1664069<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1183_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1183_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1183_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1183_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA097764     | URS0000D95428_1664069     | URS00023342FC_135947     | URS0000C24D22_1423735     |
 | <span title="Length of the sequence in question">Length</span>  | 172.     |  166.    | 175.   |  172.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.927 | 0.900 | 0.944 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.927 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.889 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -74.971 | -45.613 | -72.612 | -42.334 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | Mg2+ | FMN | Mg2+ |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | SGTA | - | - | - |

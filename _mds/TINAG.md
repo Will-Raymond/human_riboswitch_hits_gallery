@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA109525<br>
                     Gene: TINAG<br>
                     MFE: -28.908<br>
-                    ENS: 0.921<br>
+                    ENS: 0.892<br>
                     Length: 171.<br>
                     Predicted Ligands:<br>
-                    Mg2+ - 20/20<br>
-                    <br>
-                    <br>         
+                    Mg2+ - 11/20<br>
+                    cobalamin - 5/20<br>
+                    lysine - 3/20<br>         
             </td>
             <td>
                     RS: URS0002314AB4_710705<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1324_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1324_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1324_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1324_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA109525     | URS0002314AB4_710705     | URS0000ABD47B_527026     | URS000232EE66_357804     |
 | <span title="Length of the sequence in question">Length</span>  | 171.     |  171.    | 166.   |  171.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.921 | 0.919 | 0.950 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.921 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.892 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -28.908 | -58.370 | -30.749 | -32.477 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | Mg2+ | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | TINAG | - | - | - |

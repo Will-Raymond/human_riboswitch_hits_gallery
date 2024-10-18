@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA068706<br>
                     Gene: MTRR<br>
                     MFE: -13.082<br>
-                    ENS: 0.990<br>
+                    ENS: 0.869<br>
                     Length: 55.<br>
                     Predicted Ligands:<br>
-                    glutamine - 20/20<br>
-                    <br>
-                    <br>         
+                    glutamine - 14/20<br>
+                    unknown - 4/20<br>
+                    homocysteine - 1/20<br>         
             </td>
             <td>
                     RS: URS000080E144_305<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_751_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_751_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_751_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_751_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA068706     | URS000080E144_305     | URS0000C81DA9_12908     | URS0000C473B6_12908     |
 | <span title="Length of the sequence in question">Length</span>  | 55.     |  54.    | 56.   |  56.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.990 | 0.988 | 0.988 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.990 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.869 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -13.082 | -18.538 | -8.766 | -8.866 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | homocysteine | glutamine | glutamine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | MTRR | - | - | - |

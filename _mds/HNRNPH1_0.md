@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA050023<br>
                     Gene: HNRNPH1_0<br>
                     MFE: -62.380<br>
-                    ENS: 0.954<br>
+                    ENS: 0.970<br>
                     Length: 172.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
-                    <br>
-                    <br>         
+                    TPP - 12/20<br>
+                    Mn2+ - 2/20<br>
+                    cobalamin - 2/20<br>         
             </td>
             <td>
                     RS: URS0000DACCAD_1926878<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_507_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_507_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_507_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_507_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA050023     | URS0000DACCAD_1926878     | URS0002319408_311402     | URS0000AB738B_471855     |
 | <span title="Length of the sequence in question">Length</span>  | 172.     |  171.    | 171.   |  169.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.954 | 0.950 | 0.952 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.954 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.970 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -62.380 | -76.856 | -63.779 | -66.216 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | Mn2+ | zmp-ztp | lysine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | HNRNPH1 | - | - | - |

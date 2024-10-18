@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA030705<br>
                     Gene: DMBX1<br>
                     MFE: -12.447<br>
-                    ENS: 0.990<br>
+                    ENS: 0.928<br>
                     Length: 40.<br>
                     Predicted Ligands:<br>
-                    preQ_1 - 20/20<br>
-                    <br>
-                    <br>         
+                    preQ_1 - 9/20<br>
+                    SAM - 8/20<br>
+                    zmp-ztp - 1/20<br>         
             </td>
             <td>
                     RS: URS00023316D7_471853<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_296_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_296_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_296_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_296_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA030705     | URS00023316D7_471853     | URS0000C65269_1581037     | URS0000BE9632_1514904     |
 | <span title="Length of the sequence in question">Length</span>  | 40.     |  41.    | 43.   |  41.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.990 | 0.983 | 0.988 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.990 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.928 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -12.447 | -15.636 | -5.855 | -10.995 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | zmp-ztp | preQ_1 | SAM |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | DMBX1 | - | - | - |

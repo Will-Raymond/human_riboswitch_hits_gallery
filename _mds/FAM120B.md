@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA037853<br>
                     Gene: FAM120B<br>
                     MFE: -9.426<br>
-                    ENS: 0.989<br>
+                    ENS: 0.580<br>
                     Length: 46.<br>
                     Predicted Ligands:<br>
-                    unknown - 20/20<br>
-                    <br>
-                    <br>         
+                    unknown - 10/20<br>
+                    preQ_1 - 8/20<br>
+                    SAM - 1/20<br>         
             </td>
             <td>
                     RS: URS0000C5A746_217031<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_375_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_375_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_375_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_375_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA037853     | URS0000C5A746_217031     | URS0000ABCB94_221109     | URS0000E600B0_1255619     |
 | <span title="Length of the sequence in question">Length</span>  | 46.     |  47.    | 48.   |  46.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.989 | 0.986 | 0.990 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.989 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.580 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -9.426 | -5.584 | -5.084 | -6.770 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | preQ_1 | preQ_1 | unknown |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | FAM120B | - | - | - |

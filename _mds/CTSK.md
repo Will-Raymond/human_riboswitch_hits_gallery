@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA026562<br>
                     Gene: CTSK<br>
                     MFE: -15.614<br>
-                    ENS: 0.974<br>
+                    ENS: 0.822<br>
                     Length: 78.<br>
                     Predicted Ligands:<br>
-                    SAM - 20/20<br>
-                    <br>
-                    <br>         
+                    SAM - 6/20<br>
+                    cobalamin - 6/20<br>
+                    fluoride - 5/20<br>         
             </td>
             <td>
                     RS: URS0000BED72E_361041<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_256_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_256_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_256_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_256_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA026562     | URS0000BED72E_361041     | URS0000BE1D54_1643450     | URS00023300BC_408172     |
 | <span title="Length of the sequence in question">Length</span>  | 78.     |  76.    | 79.   |  79.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.974 | 0.982 | 0.982 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.974 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.822 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -15.614 | -21.824 | -20.931 | -17.527 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | SAM | SAM | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | CTSK | - | - | - |

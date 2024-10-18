@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA081675<br>
                     Gene: PMEPA1<br>
                     MFE: -72.330<br>
-                    ENS: 0.957<br>
+                    ENS: 0.821<br>
                     Length: 169.<br>
                     Predicted Ligands:<br>
-                    lysine - 20/20<br>
-                    <br>
-                    <br>         
+                    lysine - 10/20<br>
+                    cobalamin - 5/20<br>
+                    glucosamine - 4/20<br>         
             </td>
             <td>
                     RS: URS0000C704D6_1437444<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_899_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_899_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_899_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_899_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA081675     | URS0000C704D6_1437444     | URS0002317D17_866499     | URS00023201AB_457415     |
 | <span title="Length of the sequence in question">Length</span>  | 169.     |  167.    | 171.   |  171.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.957 | 0.939 | 0.939 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.957 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.821 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -72.330 | -73.588 | -47.522 | -47.522 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | zmp-ztp | cobalamin | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | PMEPA1 | - | - | - |

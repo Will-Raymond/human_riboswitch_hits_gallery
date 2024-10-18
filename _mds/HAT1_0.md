@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA047883-0<br>
                     Gene: HAT1_0<br>
                     MFE: -32.193<br>
-                    ENS: 0.986<br>
+                    ENS: 0.794<br>
                     Length: 91.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
-                    <br>
-                    <br>         
+                    TPP - 6/20<br>
+                    zmp-ztp - 6/20<br>
+                    glycine - 4/20<br>         
             </td>
             <td>
                     RS: URS0000C3A79E_1531966<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_482_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_482_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_482_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_482_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA047883-0     | URS0000C3A79E_1531966     | URS0000C3BD04_5601     | URS0000C32D33_1703392     |
 | <span title="Length of the sequence in question">Length</span>  | 91.     |  90.    | 91.   |  92.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.986 | 0.982 | 0.982 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.986 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.794 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -32.193 | -21.662 | -24.193 | -24.966 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | TPP | TPP | Ni/Co |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | HAT1 | - | - | - |

@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA025024<br>
                     Gene: CPXM2<br>
                     MFE: -13.776<br>
-                    ENS: 0.988<br>
+                    ENS: 0.642<br>
                     Length: 50.<br>
                     Predicted Ligands:<br>
-                    SAM - 20/20<br>
-                    <br>
-                    <br>         
+                    SAM - 9/20<br>
+                    unknown - 8/20<br>
+                    glutamine - 1/20<br>         
             </td>
             <td>
                     RS: URS0000E60555_207745<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_243_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_243_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_243_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_243_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA025024     | URS0000E60555_207745     | URS0000D6D071_12908     | URS00021EE08A_388739     |
 | <span title="Length of the sequence in question">Length</span>  | 50.     |  51.    | 51.   |  47.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.988 | 0.985 | 0.981 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.988 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.642 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -13.776 | -14.269 | -11.346 | -14.042 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | unknown | glutamine | SAM |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | CPXM2 | - | - | - |

@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA074766<br>
                     Gene: OCEL1_0<br>
                     MFE: -23.718<br>
-                    ENS: 0.983<br>
+                    ENS: 0.874<br>
                     Length: 69.<br>
                     Predicted Ligands:<br>
-                    fluoride - 20/20<br>
-                    <br>
-                    <br>         
+                    fluoride - 15/20<br>
+                    cobalamin - 4/20<br>
+                    glutamine - 1/20<br>         
             </td>
             <td>
                     RS: URS0000DB072B_1048205<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_821_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_821_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_821_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_821_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA074766     | URS0000DB072B_1048205     | URS0000C0A996_1194083     | URS0000DA28DF_1797900     |
 | <span title="Length of the sequence in question">Length</span>  | 69.     |  70.    | 71.   |  69.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.983 | 0.983 | 0.984 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.983 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.874 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -23.718 | -26.670 | -23.502 | -17.351 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | fluoride | fluoride |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | OCEL1 | - | - | - |

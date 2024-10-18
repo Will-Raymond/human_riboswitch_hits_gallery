@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA007251<br>
                     Gene: ASB17<br>
                     MFE: -10.449<br>
-                    ENS: 0.980<br>
+                    ENS: 0.889<br>
                     Length: 96.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
-                    <br>
-                    <br>         
+                    TPP - 8/20<br>
+                    purine - 4/20<br>
+                    glycine - 3/20<br>         
             </td>
             <td>
                     RS: URS0000DB19C9_1965562<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_83_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_83_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_83_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_83_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA007251     | URS0000DB19C9_1965562     | URS0000BFEA96_92647     | URS0000C4BCE0_1736402     |
 | <span title="Length of the sequence in question">Length</span>  | 96.     |  97.    | 93.   |  98.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.980 | 0.967 | 0.977 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.980 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.889 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -10.449 | -17.191 | -29.738 | -32.026 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | purine | fluoride | glycine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | ASB17 | - | - | - |

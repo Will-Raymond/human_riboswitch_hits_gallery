@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA105031<br>
                     Gene: STK19<br>
                     MFE: -6.313<br>
-                    ENS: 0.989<br>
+                    ENS: 0.913<br>
                     Length: 47.<br>
                     Predicted Ligands:<br>
-                    unknown - 20/20<br>
-                    <br>
-                    <br>         
+                    unknown - 13/20<br>
+                    preQ_1 - 2/20<br>
+                    SAM - 2/20<br>         
             </td>
             <td>
                     RS: URS0000C5A746_217031<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1271_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1271_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1271_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1271_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA105031     | URS0000C5A746_217031     | URS0000E600B0_1255619     | URS0000E5FB25_1911586     |
 | <span title="Length of the sequence in question">Length</span>  | 47.     |  47.    | 46.   |  47.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.989 | 0.990 | 0.990 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.989 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.913 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -6.313 | -5.584 | -6.770 | -10.570 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | preQ_1 | unknown | unknown |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | STK19 | - | - | - |

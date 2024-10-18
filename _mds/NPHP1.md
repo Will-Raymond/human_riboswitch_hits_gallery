@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA073014<br>
                     Gene: NPHP1<br>
                     MFE: -55.867<br>
-                    ENS: 0.977<br>
+                    ENS: 0.705<br>
                     Length: 119.<br>
                     Predicted Ligands:<br>
-                    FMN - 20/20<br>
-                    <br>
-                    <br>         
+                    FMN - 5/20<br>
+                    TPP - 4/20<br>
+                    methionine - 3/20<br>         
             </td>
             <td>
                     RS: URS0000C6EA61_1423718<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_802_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_802_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_802_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_802_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA073014     | URS0000C6EA61_1423718     | URS0000ABC28C_521096     | URS0000C2F8C6_1734398     |
 | <span title="Length of the sequence in question">Length</span>  | 119.     |  120.    | 121.   |  117.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.977 | 0.973 | 0.970 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.977 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.705 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -55.867 | -27.051 | -52.507 | -26.797 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | FMN | methionine | FMN |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | NPHP1 | - | - | - |

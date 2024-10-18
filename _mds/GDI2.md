@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA043757<br>
                     Gene: GDI2<br>
                     MFE: -34.351<br>
-                    ENS: 0.951<br>
+                    ENS: 0.825<br>
                     Length: 164.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 5/20<br>
+                    FMN - 3/20<br>
+                    Mg2+ - 2/20<br>         
             </td>
             <td>
                     RS: URS0000C25F4A_1768196<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_430_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_430_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_430_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_430_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA043757     | URS0000C25F4A_1768196     | URS0000AB4B50_525284     | URS0000C43CFA_12908     |
 | <span title="Length of the sequence in question">Length</span>  | 164.     |  166.    | 161.   |  165.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.951 | 0.949 | 0.958 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.951 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.825 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -34.351 | -40.043 | -46.579 | -58.261 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | lysine | Mg2+ | zmp-ztp |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | GDI2 | - | - | - |

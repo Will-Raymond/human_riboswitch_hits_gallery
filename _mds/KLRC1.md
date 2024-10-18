@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA057169<br>
                     Gene: KLRC1<br>
                     MFE: -26.032<br>
-                    ENS: 0.948<br>
+                    ENS: 0.870<br>
                     Length: 163.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 9/20<br>
+                    Mg2+ - 8/20<br>
+                    molybdenum - 1/20<br>         
             </td>
             <td>
                     RS: URS0000C60854_1513271<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_596_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_596_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_596_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_596_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA057169     | URS0000C60854_1513271     | URS000232453D_1185325     | URS000231D18D_1805201     |
 | <span title="Length of the sequence in question">Length</span>  | 163.     |  159.    | 163.   |  166.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.948 | 0.957 | 0.951 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.948 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.870 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -26.032 | -28.331 | -25.531 | -63.306 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | molybdenum | cobalamin | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | KLRC1 | - | - | - |

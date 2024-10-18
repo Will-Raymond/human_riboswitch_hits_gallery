@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA050570<br>
                     Gene: HOXA4<br>
                     MFE: -7.668<br>
-                    ENS: 0.990<br>
+                    ENS: 0.989<br>
                     Length: 72.<br>
                     Predicted Ligands:<br>
-                    2'-dG-II - 20/20<br>
-                    <br>
-                    <br>         
+                    2'-dG-II - 6/20<br>
+                    purine - 5/20<br>
+                    fluoride - 4/20<br>         
             </td>
             <td>
                     RS: URS0000D66287_768710<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_510_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_510_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_510_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_510_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA050570     | URS0000D66287_768710     | URS0000D69259_768704     | URS000080E171_1423     |
 | <span title="Length of the sequence in question">Length</span>  | 72.     |  72.    | 72.   |  71.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.990 | 0.990 | 0.988 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.990 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.989 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -7.668 | -14.335 | -14.135 | -16.684 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | purine | purine | purine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | HOXA4 | - | - | - |

@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA031750<br>
                     Gene: DOCK11_0<br>
                     MFE: -33.714<br>
-                    ENS: 0.976<br>
+                    ENS: 0.869<br>
                     Length: 99.<br>
                     Predicted Ligands:<br>
-                    purine - 20/20<br>
-                    <br>
-                    <br>         
+                    purine - 11/20<br>
+                    TPP - 4/20<br>
+                    glycine - 2/20<br>         
             </td>
             <td>
                     RS: URS0000C1B276_1481914<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_306_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_306_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_306_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_306_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA031750     | URS0000C1B276_1481914     | URS0000C4B3D4_1617413     | URS0000DAF8EA_1469647     |
 | <span title="Length of the sequence in question">Length</span>  | 99.     |  101.    | 100.   |  101.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.976 | 0.976 | 0.974 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.976 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.869 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -33.714 | -23.952 | -23.317 | -24.001 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | purine | TPP | purine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | DOCK11 | - | - | - |

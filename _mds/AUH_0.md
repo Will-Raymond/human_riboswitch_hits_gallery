@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA009015<br>
                     Gene: AUH_0<br>
                     MFE: -33.610<br>
-                    ENS: 0.960<br>
+                    ENS: 0.991<br>
                     Length: 104.<br>
                     Predicted Ligands:<br>
-                    SAM - 20/20<br>
-                    <br>
-                    <br>         
+                    SAM - 9/20<br>
+                    guanidine - 5/20<br>
+                    glycine - 3/20<br>         
             </td>
             <td>
                     RS: URS0000C7618D_1581033<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_102_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_102_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_102_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_102_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA009015     | URS0000C7618D_1581033     | URS0000AB8FF4_258594     | URS0000AB7A16_997346     |
 | <span title="Length of the sequence in question">Length</span>  | 104.     |  99.    | 105.   |  103.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.960 | 0.979 | 0.976 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.960 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.991 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -33.610 | -29.383 | -38.628 | -29.616 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | SAM | guanidine | guanidine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | AUH | - | - | - |

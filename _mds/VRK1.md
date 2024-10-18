@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA118620<br>
                     Gene: VRK1<br>
                     MFE: -49.818<br>
-                    ENS: 0.927<br>
+                    ENS: 0.996<br>
                     Length: 131.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
-                    <br>
-                    <br>         
+                    TPP - 10/20<br>
+                    cobalamin - 6/20<br>
+                    guanidine - 1/20<br>         
             </td>
             <td>
                     RS: URS0000C51D48_1822250<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1443_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1443_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1443_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1443_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA118620     | URS0000C51D48_1822250     | URS000232D4FC_1073325     | URS0000D47CF5_1891238     |
 | <span title="Length of the sequence in question">Length</span>  | 131.     |  132.    | 131.   |  132.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.927 | 0.969 | 0.955 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.927 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.996 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -49.818 | -40.066 | -21.435 | -53.557 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | guanidine | cobalamin | glycine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | VRK1 | - | - | - |

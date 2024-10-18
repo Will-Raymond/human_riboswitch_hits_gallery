@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA120630<br>
                     Gene: YIPF1<br>
                     MFE: -76.294<br>
-                    ENS: 0.941<br>
+                    ENS: 0.806<br>
                     Length: 193.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 20/20<br>
-                    <br>
-                    <br>         
+                    cobalamin - 12/20<br>
+                    FMN - 3/20<br>
+                    lysine - 3/20<br>         
             </td>
             <td>
                     RS: URS0002311D9E_1379858<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1472_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1472_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1472_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1472_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA120630     | URS0002311D9E_1379858     | URS0000B1DFB5_1379858     | URS0000C03F9B_857265     |
 | <span title="Length of the sequence in question">Length</span>  | 193.     |  195.    | 196.   |  192.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.941 | 0.935 | 0.941 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.941 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.806 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -76.294 | -37.893 | -37.893 | -75.862 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | cobalamin | FMN |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | YIPF1 | - | - | - |

@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA076470<br>
                     Gene: PAM<br>
                     MFE: -25.702<br>
-                    ENS: 0.947<br>
+                    ENS: 0.986<br>
                     Length: 153.<br>
                     Predicted Ligands:<br>
-                    glucosamine - 20/20<br>
-                    <br>
-                    <br>         
+                    glucosamine - 10/20<br>
+                    FMN - 6/20<br>
+                    Mn2+ - 1/20<br>         
             </td>
             <td>
                     RS: URS0000AB5F75_367928<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_849_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_849_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_849_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_849_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA076470     | URS0000AB5F75_367928     | URS0000C15F27_1238     | URS0000AB4734_585501     |
 | <span title="Length of the sequence in question">Length</span>  | 153.     |  153.    | 157.   |  155.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.947 | 0.935 | 0.946 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.947 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.986 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -25.702 | -39.292 | -42.383 | -34.636 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | FMN | Mn2+ | glucosamine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | PAM | - | - | - |

@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA101576<br>
                     Gene: SMR3A<br>
                     MFE: -21.635<br>
-                    ENS: 0.974<br>
+                    ENS: 0.907<br>
                     Length: 106.<br>
                     Predicted Ligands:<br>
-                    glycine - 20/20<br>
-                    <br>
-                    <br>         
+                    glycine - 7/20<br>
+                    TPP - 6/20<br>
+                    purine - 4/20<br>         
             </td>
             <td>
                     RS: URS000037B2C4_216591<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1222_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1222_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1222_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1222_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA101576     | URS000037B2C4_216591     | URS0000C70807_933944     | URS0000D8DCDB_84029     |
 | <span title="Length of the sequence in question">Length</span>  | 106.     |  104.    | 109.   |  104.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.974 | 0.968 | 0.970 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.974 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.907 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -21.635 | -40.346 | -38.754 | -23.360 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | glycine | glycine | TPP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | SMR3A | - | - | - |

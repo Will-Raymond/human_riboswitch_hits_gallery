@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA066969<br>
                     Gene: MOSPD2_0<br>
                     MFE: -41.761<br>
-                    ENS: 0.956<br>
+                    ENS: 0.977<br>
                     Length: 149.<br>
                     Predicted Ligands:<br>
-                    FMN - 20/20<br>
-                    <br>
-                    <br>         
+                    FMN - 10/20<br>
+                    SAM - 6/20<br>
+                    cobalamin - 2/20<br>         
             </td>
             <td>
                     RS: URS0000C4B87E_285983<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_717_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_717_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_717_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_717_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA066969     | URS0000C4B87E_285983     | URS0000D7E9C1_560819     | URS0000C05B73_1263065     |
 | <span title="Length of the sequence in question">Length</span>  | 149.     |  146.    | 144.   |  148.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.956 | 0.943 | 0.963 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.956 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.977 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -41.761 | -39.219 | -74.127 | -48.090 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | FMN | TPP | SAM |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | MOSPD2 | - | - | - |

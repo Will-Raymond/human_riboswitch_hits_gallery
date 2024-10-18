@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA106826<br>
                     Gene: TANK<br>
                     MFE: -20.678<br>
-                    ENS: 0.982<br>
+                    ENS: 0.937<br>
                     Length: 93.<br>
                     Predicted Ligands:<br>
-                    glutamine - 20/20<br>
-                    <br>
-                    <br>         
+                    glutamine - 7/20<br>
+                    SAM - 6/20<br>
+                    Ni/Co - 2/20<br>         
             </td>
             <td>
                     RS: URS0000C32D33_1703392<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1291_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1291_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1291_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1291_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA106826     | URS0000C32D33_1703392     | URS0000BEB649_322866     | URS0000C25362_1423718     |
 | <span title="Length of the sequence in question">Length</span>  | 93.     |  92.    | 92.   |  92.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.982 | 0.970 | 0.967 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.982 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.937 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -20.678 | -24.966 | -23.732 | -11.734 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | Ni/Co | glutamine | SAM |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | TANK | - | - | - |

@@ -120,11 +120,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_%s_unbound.png" alt="UTR-RS hit comparison" style="width:100%%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_%s_merge.png" alt="UTR-RS hit comparison" style="width:100%%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_%s_bound.png" alt="UTR-RS hit comparison" style="width:100%%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_%s_merge.png" alt="UTR-RS hit comparison" style="width:100%%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -692,7 +692,7 @@ if ens20 == True:
     utr_pls = [utr_pls[i] for i in range(len(ulist)) if i in keep_indexes]    
 
 
-utr_pls = utr_pls[::2]
+utr_pls = utr_pls[1::2]
 
 sorted_genes = sorted(used_genes)
 
@@ -752,7 +752,7 @@ for i in range(len(ulist)):
     rs1_sim = algn_scores_1[i]
     rs2_sim = algn_scores_2[i]
     rs3_sim = algn_scores_3[i]
-    ens = norm_algn[i]
+    ens = utr_probas[i]
 
     utr_mfe = utr_mfes[i]
     rs1_mfe = rs1_mfes[i]

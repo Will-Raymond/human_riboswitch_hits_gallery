@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA117917<br>
                     Gene: UTP6<br>
                     MFE: -34.440<br>
-                    ENS: 0.975<br>
+                    ENS: 0.896<br>
                     Length: 108.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
-                    <br>
-                    <br>         
+                    TPP - 6/20<br>
+                    homocysteine - 3/20<br>
+                    guanidine - 3/20<br>         
             </td>
             <td>
                     RS: URS0000DABC99_1736233<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1437_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1437_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1437_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1437_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA117917     | URS0000DABC99_1736233     | URS0000C5AF5A_1423813     | URS0000ABC415_552811     |
 | <span title="Length of the sequence in question">Length</span>  | 108.     |  107.    | 106.   |  106.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.975 | 0.971 | 0.965 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.975 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.896 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -34.440 | -56.867 | -24.121 | -31.598 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | homocysteine | TPP | TPP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | UTP6 | - | - | - |

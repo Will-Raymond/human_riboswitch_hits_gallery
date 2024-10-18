@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA069822<br>
                     Gene: NAGPA<br>
                     MFE: -17.338<br>
-                    ENS: 0.991<br>
+                    ENS: 0.867<br>
                     Length: 46.<br>
                     Predicted Ligands:<br>
-                    preQ_1 - 20/20<br>
-                    <br>
-                    <br>         
+                    preQ_1 - 12/20<br>
+                    glutamine - 5/20<br>
+                    unknown - 2/20<br>         
             </td>
             <td>
                     RS: URS0000D65FCB_12908<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_759_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_759_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_759_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_759_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA069822     | URS0000D65FCB_12908     | URS0000E6043B_1797848     | URS0000D673BE_12908     |
 | <span title="Length of the sequence in question">Length</span>  | 46.     |  46.    | 46.   |  47.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.991 | 0.990 | 0.988 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.991 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.867 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -17.338 | -7.475 | -24. | -10.597 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | glutamine | unknown | glutamine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | NAGPA | - | - | - |

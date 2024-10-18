@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA059401<br>
                     Gene: LMLN_0<br>
                     MFE: -10.299<br>
-                    ENS: 0.991<br>
+                    ENS: 0.959<br>
                     Length: 45.<br>
                     Predicted Ligands:<br>
-                    preQ_1 - 20/20<br>
-                    <br>
-                    <br>         
+                    preQ_1 - 9/20<br>
+                    SAM - 5/20<br>
+                    glutamine - 4/20<br>         
             </td>
             <td>
                     RS: URS0000AB8C73_887898<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_631_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_631_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_631_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_631_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA059401     | URS0000AB8C73_887898     | URS0000C49209_407035     | URS0000C63A8A_1712029     |
 | <span title="Length of the sequence in question">Length</span>  | 45.     |  45.    | 45.   |  45.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.991 | 0.990 | 0.989 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.991 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.959 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -10.299 | -9.546 | -6.899 | -6.299 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | preQ_1 | Ni/Co | preQ_1 |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | LMLN | - | - | - |

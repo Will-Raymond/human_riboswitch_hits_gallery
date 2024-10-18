@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA007245<br>
                     Gene: ASB15<br>
                     MFE: -7.132<br>
-                    ENS: 0.979<br>
+                    ENS: 0.910<br>
                     Length: 67.<br>
                     Predicted Ligands:<br>
-                    fluoride - 20/20<br>
-                    <br>
-                    <br>         
+                    fluoride - 7/20<br>
+                    homocysteine - 6/20<br>
+                    purine - 3/20<br>         
             </td>
             <td>
                     RS: URS0000C4D189_1629708<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_82_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_82_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_82_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_82_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA007245     | URS0000C4D189_1629708     | URS0000C7EDAB_1848039     | URS0000D9E097_93759     |
 | <span title="Length of the sequence in question">Length</span>  | 67.     |  65.    | 67.   |  68.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.979 | 0.985 | 0.982 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.979 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.910 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -7.132 | -20.487 | -17.575 | -17.540 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | fluoride | homocysteine | homocysteine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | ASB15 | - | - | - |

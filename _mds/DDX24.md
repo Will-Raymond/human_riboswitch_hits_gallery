@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA029028<br>
                     Gene: DDX24<br>
                     MFE: -60.459<br>
-                    ENS: 0.950<br>
+                    ENS: 0.780<br>
                     Length: 157.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
-                    <br>
-                    <br>         
+                    TPP - 6/20<br>
+                    Mg2+ - 6/20<br>
+                    molybdenum - 3/20<br>         
             </td>
             <td>
                     RS: URS0000B9402B_40578<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_269_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_269_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_269_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_269_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA029028     | URS0000B9402B_40578     | URS0000C4D665_78410     | URS0000BECDD1_701091     |
 | <span title="Length of the sequence in question">Length</span>  | 157.     |  157.    | 157.   |  154.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.950 | 0.952 | 0.940 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.950 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.780 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -60.459 | -39.239 | -59.663 | -41.583 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | molybdenum | TPP | TPP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | DDX24 | - | - | - |

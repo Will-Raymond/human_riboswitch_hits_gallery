@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA022803<br>
                     Gene: CLK2_0<br>
                     MFE: -27.386<br>
-                    ENS: 0.966<br>
+                    ENS: 0.865<br>
                     Length: 116.<br>
                     Predicted Ligands:<br>
-                    TPP - 20/20<br>
-                    <br>
-                    <br>         
+                    TPP - 11/20<br>
+                    methionine - 6/20<br>
+                    homocysteine - 1/20<br>         
             </td>
             <td>
                     RS: URS0000BE57AD_1672219<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_204_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_204_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_204_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_204_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA022803     | URS0000BE57AD_1672219     | URS0000D9A7D3_2020377     | URS0000D858B0_1313296     |
 | <span title="Length of the sequence in question">Length</span>  | 116.     |  118.    | 116.   |  115.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.966 | 0.977 | 0.966 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.966 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.865 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -27.386 | -52.774 | -47.373 | -24.651 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | methionine | methionine | TPP |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | CLK2 | - | - | - |

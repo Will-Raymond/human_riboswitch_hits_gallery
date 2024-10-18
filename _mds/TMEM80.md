@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA111466<br>
                     Gene: TMEM80<br>
                     MFE: -62.102<br>
-                    ENS: 0.957<br>
+                    ENS: 0.963<br>
                     Length: 162.<br>
                     Predicted Ligands:<br>
-                    Mg2+ - 20/20<br>
-                    <br>
-                    <br>         
+                    Mg2+ - 7/20<br>
+                    SAM - 3/20<br>
+                    TPP - 3/20<br>         
             </td>
             <td>
                     RS: URS0000AB8F2F_196627<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_1338_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_1338_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_1338_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_1338_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA111466     | URS0000AB8F2F_196627     | URS0000C5976F_1736287     | URS0000C65DED_84024     |
 | <span title="Length of the sequence in question">Length</span>  | 162.     |  162.    | 159.   |  165.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.957 | 0.952 | 0.949 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.957 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.963 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -62.102 | -41.304 | -62.428 | -45.408 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | Mn2+ | SAM |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | TMEM80 | - | - | - |

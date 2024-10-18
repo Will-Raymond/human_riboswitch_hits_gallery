@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA049630<br>
                     Gene: HMGB1_1<br>
                     MFE: -51.719<br>
-                    ENS: 0.952<br>
+                    ENS: 0.980<br>
                     Length: 167.<br>
                     Predicted Ligands:<br>
-                    Mg2+ - 20/20<br>
-                    <br>
-                    <br>         
+                    Mg2+ - 14/20<br>
+                    FMN - 5/20<br>
+                    lysine - 1/20<br>         
             </td>
             <td>
                     RS: URS0000ABBC0B_359391<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_502_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_502_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_502_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_502_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA049630     | URS0000ABBC0B_359391     | URS0000D87EC8_244362     | URS0000AB4A2C_508765     |
 | <span title="Length of the sequence in question">Length</span>  | 167.     |  164.    | 170.   |  168.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.952 | 0.954 | 0.960 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.952 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.980 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -51.719 | -56.981 | -61.632 | -30.804 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | FMN | FMN | lysine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | HMGB1 | - | - | - |

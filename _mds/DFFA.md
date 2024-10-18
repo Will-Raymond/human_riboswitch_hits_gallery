@@ -29,12 +29,12 @@ exclude: true
                     UTR: 5HSAA029709<br>
                     Gene: DFFA<br>
                     MFE: -59.252<br>
-                    ENS: 0.967<br>
+                    ENS: 0.935<br>
                     Length: 123.<br>
                     Predicted Ligands:<br>
-                    homocysteine - 20/20<br>
-                    <br>
-                    <br>         
+                    homocysteine - 7/20<br>
+                    TPP - 3/20<br>
+                    Mg2+ - 2/20<br>         
             </td>
             <td>
                     RS: URS0000D8F84C_1883416<br>
@@ -97,11 +97,11 @@ exclude: true
     <div class="column">
         <img src="../../alns/bpp/bpp_281_unbound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
-    <div class="column_center">
-        <img src="../../alns/bpp/bpp_281_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
-    </div>
     <div class="column">
         <img src="../../alns/bpp/bpp_281_bound.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+    </div>
+    <div class="column">
+        <img src="../../alns/bpp/bpp_281_merge.png" alt="UTR-RS hit comparison" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
     </div>
 </div>
 
@@ -121,7 +121,7 @@ exclude: true
 | <span title="ID within respective databases">ID</span>  | 5HSAA029709     | URS0000D8F84C_1883416     | URS0000C5CA26_60547     | URS0000C1ED39_159450     |
 | <span title="Length of the sequence in question">Length</span>  | 123.     |  120.    | 122.   |  120.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.967 | 0.962 | 0.966 |
-| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.967 | - | - | - |
+| <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.935 | - | - | - |
 | <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -59.252 | -39.654 | -44.259 | -41.119 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | TPP | homocysteine | homocysteine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | DFFA | - | - | - |
