@@ -89,6 +89,8 @@ TEST PAGE TEST PAGE TEST PAGE TEST PAGE!!!
     </div>
 </div>
 
+[** Base pair probability heatmaps **]( ## heatmap tooltip)
+
 <div class="row" >
     <div class="column_center">
         <img src="../alns/bpp/bpp_476.png" alt="Heatmap of base pair probabilities for 1000 computational NUPACK foldings of the 5prime UTR" style="width:50%; display:block; margin-left:auto; margin-right:auto;">
