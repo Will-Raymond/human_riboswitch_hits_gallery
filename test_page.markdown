@@ -89,7 +89,7 @@ TEST PAGE TEST PAGE TEST PAGE TEST PAGE!!!
     </div>
 </div>
 
-[** Base pair probability heatmaps **]( ## heatmap tooltip)
+<span title="Tool Tip hover"> Base pair probability heatmaps <\span>
 
 <div class="row" >
     <div class="column_center">
