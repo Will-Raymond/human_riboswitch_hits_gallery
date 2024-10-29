@@ -16,7 +16,7 @@ display_dir = './'
 
 
 
-def make_md2(gene, master_str_tuple, i):
+def make_md2(gene, master_str_tuple, i, merge_exists):
 
     #<! ![](../../alns_9.28.22/%s?raw=true)>
     with open(md_dir + '%s.md'%gene,'w') as f:
@@ -115,7 +115,9 @@ exclude: true
         <span title="Probability that a given base pair LxL is bound within the 1000 folding simulations. Diagonal represents the overall probability that a given base is unpaired."><img src="../../alns/bpp/bpp_%s.png" alt="Heatmap of base pair probabilities for 1000 computational NUPACK foldings of the 5prime UTR" style="width:50%%; display:block; margin-left:auto; margin-right:auto;"></span>
     </div>
 </div>
-
+'''%master_str_tuple[:53]
+        if merge_exists:
+            md_text2 = '''
 <div class="row" >
     <div class="column">
         <span title="Probability that a given base pair is bound when all three nucleotides of the start codon is unbound."><img src="../../alns/bpp/bpp_%s_unbound.png" alt="Heatmap of base pair probabilities for computational NUPACK foldings of the 5prime UTR that leave the start codon unbound" style="width:100%%; display:block; margin-left:auto; margin-right:auto;"></span>
@@ -127,8 +129,20 @@ exclude: true
         <span title="Merged base pair probability plot by unbound/bound start codons."><img src="../../alns/bpp/bpp_%s_merge.png" alt="Heatmap of base pair probabilities for computational NUPACK foldings of the 5prime UTR with the bound and unbound conformers overlaid" style="width:100%%; display:block; margin-left:auto; margin-right:auto;"></span>
     </div>
 </div>
+'''%master_str_tuple[53:56]
+        else:
+            md_text2 = '''
+<div class="row" >
+    <div class="column">
+        <span title="Probability that a given base pair is bound when all three nucleotides of the start codon is unbound."><img src="../../alns/bpp/bpp_%s_unbound.png" alt="Heatmap of base pair probabilities for computational NUPACK foldings of the 5prime UTR that leave the start codon unbound" style="width:100%%; display:block; margin-left:auto; margin-right:auto;"></span>
+    </div>
+    <div class="column">
+        <span title="Probability that a given base pair is bound when all three nucleotides of the start codon is bound."><img src="../../alns/bpp/bpp_%s_bound.png" alt="Heatmap of base pair probabilities for computational NUPACK foldings of the 5prime UTR that leave the start codon bound" style="width:100%%; display:block; margin-left:auto; margin-right:auto;"></span>
+    </div>
+</div>
+'''%master_str_tuple[53:55]            
 
-
+        md_text3 = '''
 <div class="row">
     <div class="column_center">
         <span title="Normalized ensemble output probabilities for each classifier, green highlights represent classifiers that are above a non-normalized 0.95 output threshold (selected as RS)."><img src="../../alns/ens/ens_%s.png" alt="ML ensemble output for the 5prime UTR" style="width:60%%; display:block; margin-left:auto; margin-right:auto;"></span>
@@ -246,8 +260,13 @@ exclude: true
 [Back to Ensemble of 20 Table](../../display_436)
 
 [Back to Ensemble of 1 Table](../../display_1533)
-'''%master_str_tuple
+'''%master_str_tuple[56:]
+        
+        
         f.writelines(md_text)
+        f.writelines(md_text2)
+        f.writelines(md_text3)
+
         
 
 
@@ -822,6 +841,10 @@ for i in range(len(ulist)):
     
     '''    
     k = str(i)
+    
+    merge_exists = os.path.exists('./alns/bpp/bpp_%s_merge.png'%k)
+
+    
     mst = [gene.upper(), gene.upper(), str(enscount), previous_file, utr_id, rs1_sim,
           rs2_sim, rs3_sim,
            
@@ -867,7 +890,7 @@ for i in range(len(ulist)):
                 ss = ss[:-3]
             master_str_tuple.append(ss)
                         
-    make_md2(gene, tuple(master_str_tuple), i)
+    make_md2(gene, tuple(master_str_tuple), i, merge_exists)
 
 '''
 from PIL import Image

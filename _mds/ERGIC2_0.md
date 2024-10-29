@@ -105,7 +105,6 @@ exclude: true
     </div>
 </div>
 
-
 <div class="row">
     <div class="column_center">
         <span title="Normalized ensemble output probabilities for each classifier, green highlights represent classifiers that are above a non-normalized 0.95 output threshold (selected as RS)."><img src="../../alns/ens/ens_354.png" alt="ML ensemble output for the 5prime UTR" style="width:60%; display:block; margin-left:auto; margin-right:auto;"></span>

@@ -100,11 +100,7 @@ exclude: true
     <div class="column">
         <span title="Probability that a given base pair is bound when all three nucleotides of the start codon is bound."><img src="../../alns/bpp/bpp_783_bound.png" alt="Heatmap of base pair probabilities for computational NUPACK foldings of the 5prime UTR that leave the start codon bound" style="width:100%; display:block; margin-left:auto; margin-right:auto;"></span>
     </div>
-    <div class="column">
-        <span title="Merged base pair probability plot by unbound/bound start codons."><img src="../../alns/bpp/bpp_783_merge.png" alt="Heatmap of base pair probabilities for computational NUPACK foldings of the 5prime UTR with the bound and unbound conformers overlaid" style="width:100%; display:block; margin-left:auto; margin-right:auto;"></span>
-    </div>
 </div>
-
 
 <div class="row">
     <div class="column_center">
