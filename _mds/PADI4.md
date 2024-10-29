@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.907<br>
                     Length: 51.<br>
                     Predicted Ligands:<br>
-                    glutamine - 12/20<br>
-                    SAM - 8/20<br>
-                    <br>         
+                    SAM - 12/20<br>
+                    glutamine - 7/20<br>
+                    cobalamin - 1/20<br>         
             </td>
             <td>
                     RS: URS0000C56388_12908<br>

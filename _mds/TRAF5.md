@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.946<br>
                     Length: 85.<br>
                     Predicted Ligands:<br>
-                    cyclic-di-GMP - 12/20<br>
-                    cobalamin - 3/20<br>
-                    zmp-ztp - 2/20<br>         
+                    cyclic-di-GMP - 11/20<br>
+                    zmp-ztp - 3/20<br>
+                    GMP - 2/20<br>         
             </td>
             <td>
                     RS: URS0000ABB5BE_709986<br>

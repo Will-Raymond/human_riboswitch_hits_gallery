@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.970<br>
                     Length: 38.<br>
                     Predicted Ligands:<br>
-                    SAM - 8/20<br>
-                    preQ_1 - 7/20<br>
-                    zmp-ztp - 2/20<br>         
+                    SAM - 13/20<br>
+                    zmp-ztp - 2/20<br>
+                    preQ_1 - 2/20<br>         
             </td>
             <td>
                     RS: URS0000D87AB1_1686310<br>

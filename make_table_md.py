@@ -487,121 +487,121 @@ def make_md_table(utr_list, genes, best_RSs, utr_probas, algn_scores, MFEs, norm
         
         
 
+path = './data_files/'
 
-
-with open('./data_files/utr_probas.pkl', 'rb') as f:
+with open(path + 'utr_probas.pkl', 'rb') as f:
     utr_probas = pickle.load(f)
     
-ENS_count = np.load('./data_files/ENS_count.npy')
-with open('./data_files/ulist.pkl', 'rb') as f:
+ENS_count = np.load(path + 'ENS_count.npy')
+with open(path + 'ulist.pkl', 'rb') as f:
     ulist = pickle.load(f)
-with open('./data_files/genes.pkl', 'rb') as f:
+with open(path + 'genes.pkl', 'rb') as f:
     genes = pickle.load(f)
-with open('./data_files/best_RSs.pkl', 'rb') as f:
+with open(path + 'best_RSs.pkl', 'rb') as f:
     best_RSs = pickle.load(f)
 
-with open('./data_files/MFEs.pkl', 'rb') as f:
+with open(path + 'MFEs.pkl', 'rb') as f:
     MFEs = pickle.load(f)
-with open('./data_files/fpaths.pkl', 'rb') as f:
+with open(path + 'fpaths.pkl', 'rb') as f:
     fpaths = pickle.load(f)
-with open('./data_files/norm_algn.pkl', 'rb') as f:
+with open(path + 'norm_algn.pkl', 'rb') as f:
     norm_algn = pickle.load(f)
     
-with open('./data_files/algn_scores_1.pkl', 'rb') as f:
+with open(path + 'algn_scores_1.pkl', 'rb') as f:
     algn_scores_1 = pickle.load(f)
-with open('./data_files/algn_scores_2.pkl', 'rb') as f:
+with open(path + 'algn_scores_2.pkl', 'rb') as f:
     algn_scores_2 = pickle.load(f)
-with open('./data_files/algn_scores_3.pkl', 'rb') as f:
+with open(path + 'algn_scores_3.pkl', 'rb') as f:
     algn_scores_3 = pickle.load(f)
     
-with open('./data_files/rs1_ids.pkl', 'rb') as f:
+with open(path + 'rs1_ids.pkl', 'rb') as f:
     rs1_ids = pickle.load(f)
-with open('./data_files/rs2_ids.pkl', 'rb') as f:
+with open(path + 'rs2_ids.pkl', 'rb') as f:
     rs2_ids = pickle.load(f)
-with open('./data_files/rs3_ids.pkl', 'rb') as f:
+with open(path + 'rs3_ids.pkl', 'rb') as f:
     rs3_ids = pickle.load(f)
     
-with open('./data_files/rs1_seqs.pkl', 'rb') as f:
+with open(path + 'rs1_seqs.pkl', 'rb') as f:
     rs1_seqs = pickle.load(f)
-with open('./data_files/rs2_seqs.pkl', 'rb') as f:
+with open(path + 'rs2_seqs.pkl', 'rb') as f:
     rs2_seqs = pickle.load(f)
-with open('./data_files/rs3_seqs.pkl', 'rb') as f:
+with open(path + 'rs3_seqs.pkl', 'rb') as f:
     rs3_seqs = pickle.load(f)
-with open('./data_files/utr_seqs_l.pkl', 'rb') as f:
+with open(path + 'utr_seqs_l.pkl', 'rb') as f:
     utr_seqs = pickle.load(f)    
 
 
-with open('./data_files/rs1_dots.pkl', 'rb') as f:
+with open(path + 'rs1_dots.pkl', 'rb') as f:
     rs1_dots = pickle.load(f)
-with open('./data_files/rs2_dots.pkl', 'rb') as f:
+with open(path + 'rs2_dots.pkl', 'rb') as f:
     rs2_dots = pickle.load(f)
-with open('./data_files/rs3_dots.pkl', 'rb') as f:
+with open(path + 'rs3_dots.pkl', 'rb') as f:
     rs3_dots = pickle.load(f)
-with open('./data_files/utr_dots_l.pkl', 'rb') as f:
+with open(path + 'utr_dots_l.pkl', 'rb') as f:
     utr_dots = pickle.load(f)    
 
-with open('./data_files/rs1_MFEs.pkl', 'rb') as f:
+with open(path + 'rs1_MFEs.pkl', 'rb') as f:
     rs1_mfes = pickle.load(f)
-with open('./data_files/rs2_MFEs.pkl', 'rb') as f:
+with open(path + 'rs2_MFEs.pkl', 'rb') as f:
     rs2_mfes = pickle.load(f)
-with open('./data_files/rs3_MFEs.pkl', 'rb') as f:
+with open(path + 'rs3_MFEs.pkl', 'rb') as f:
     rs3_mfes = pickle.load(f)
-with open('./data_files/MFEs.pkl', 'rb') as f:
+with open(path + 'MFEs.pkl', 'rb') as f:
     utr_mfes = pickle.load(f)    
     
-with open('./data_files/rs1_ligands.pkl', 'rb') as f:
+with open(path + 'rs1_ligands.pkl', 'rb') as f:
     rs1_ligands = pickle.load(f)
-with open('./data_files/rs2_ligands.pkl', 'rb') as f:
+with open(path + 'rs2_ligands.pkl', 'rb') as f:
     rs2_ligands = pickle.load(f)
-with open('./data_files/rs3_ligands.pkl', 'rb') as f:
+with open(path + 'rs3_ligands.pkl', 'rb') as f:
     rs3_ligands = pickle.load(f)
     
-with open('./data_files/rs1_length_MSE.pkl', 'rb') as f:
+with open(path + 'rs1_length_MSE.pkl', 'rb') as f:
     rs1_length_MSE = pickle.load(f)
-with open('./data_files/rs2_length_MSE.pkl', 'rb') as f:
+with open(path + 'rs2_length_MSE.pkl', 'rb') as f:
     rs2_length_MSE = pickle.load(f)
-with open('./data_files/rs3_length_MSE.pkl', 'rb') as f:
+with open(path + 'rs3_length_MSE.pkl', 'rb') as f:
     rs3_length_MSE = pickle.load(f)
 
-with open('./data_files/rs1_lev_dist.pkl', 'rb') as f:
+with open(path + 'rs1_lev_dist.pkl', 'rb') as f:
     rs1_lev_dist = pickle.load(f)
-with open('./data_files/rs2_lev_dist.pkl', 'rb') as f:
+with open(path + 'rs2_lev_dist.pkl', 'rb') as f:
     rs2_lev_dist = pickle.load(f)
-with open('./data_files/rs3_lev_dist.pkl', 'rb') as f:
+with open(path + '/rs3_lev_dist.pkl', 'rb') as f:
     rs3_lev_dist = pickle.load(f)
 
-with open('./data_files/rs1_struct_mse.pkl', 'rb') as f:
+with open(path + 'rs1_struct_mse.pkl', 'rb') as f:
     rs1_struct_mse = pickle.load(f)
-with open('./data_files/rs2_struct_mse.pkl', 'rb') as f:
+with open(path + 'rs2_struct_mse.pkl', 'rb') as f:
     rs2_struct_mse = pickle.load(f)
-with open('./data_files/rs3_struct_mse.pkl', 'rb') as f:
+with open(path + 'rs3_struct_mse.pkl', 'rb') as f:
     rs3_struct_mse = pickle.load(f)
 
-with open('./data_files/rs1_feats.pkl', 'rb') as f:
+with open(path + 'rs1_feats.pkl', 'rb') as f:
     rs1_feats = pickle.load(f)
-with open('./data_files/rs2_feats.pkl', 'rb') as f:
+with open(path + 'rs2_feats.pkl', 'rb') as f:
     rs2_feats = pickle.load(f)
-with open('./data_files/rs3_feats.pkl', 'rb') as f:
+with open(path + 'rs3_feats.pkl', 'rb') as f:
     rs3_feats = pickle.load(f)
-with open('./data_files/utr_feats.pkl', 'rb') as f:
+with open(path + 'utr_feats.pkl', 'rb') as f:
     utr_feats = pickle.load(f)    
 
 
-with open('./data_files/rs1_mfe.pkl', 'rb') as f:
+with open(path + 'rs1_mfe.pkl', 'rb') as f:
     rs1_mfes = pickle.load(f)
-with open('./data_files/rs2_mfe.pkl', 'rb') as f:
+with open(path + 'rs2_mfe.pkl', 'rb') as f:
     rs2_mfes = pickle.load(f)
-with open('./data_files/rs3_mfe.pkl', 'rb') as f:
+with open(path + 'rs3_mfe.pkl', 'rb') as f:
     rs3_mfes = pickle.load(f)
 
-with open('./data_files/rs1_desc.pkl', 'rb') as f:
+with open(path + 'rs1_desc.pkl', 'rb') as f:
     rs1_descs = pickle.load(f)
-with open('./data_files/rs2_desc.pkl', 'rb') as f:
+with open(path + 'rs2_desc.pkl', 'rb') as f:
     rs2_descs = pickle.load(f)
-with open('./data_files/rs3_desc.pkl', 'rb') as f:
+with open(path + 'rs3_desc.pkl', 'rb') as f:
     rs3_descs = pickle.load(f)
 
-with open('./data_files/utr_ligands.pkl', 'rb') as f:
+with open(path + 'utr_ligands.pkl', 'rb') as f:
     utr_pls = pickle.load(f)
 
 used_genes = []

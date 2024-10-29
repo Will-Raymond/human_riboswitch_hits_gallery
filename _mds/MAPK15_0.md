@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.831<br>
                     Length: 144.<br>
                     Predicted Ligands:<br>
-                    SAM - 10/20<br>
-                    cobalamin - 3/20<br>
-                    glycine - 2/20<br>         
+                    FMN - 9/20<br>
+                    SAM - 4/20<br>
+                    cobalamin - 4/20<br>         
             </td>
             <td>
                     RS: URS0000DAD341_1904965<br>

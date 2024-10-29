@@ -6,3 +6,9 @@ vendor
 /data_files_bk
 /new_alns
 /alns_movie
+/alns_weighted
+/alns_noL
+/alns_flat
+/data_files_weighted
+/data_files_noL
+/data_files_flat

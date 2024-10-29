@@ -32,21 +32,21 @@ exclude: true
                     ENS: 0.989<br>
                     Length: 72.<br>
                     Predicted Ligands:<br>
-                    2'-dG-II - 6/20<br>
+                    2'-dG-II - 7/20<br>
                     purine - 5/20<br>
                     fluoride - 4/20<br>         
-            </td>
-            <td>
-                    RS: URS0000D66287_768710<br>
-                    MFE: -14.335<br>
-                    Ligand: purine<br>
-                    Species: Desulfosporosinus youngiae DSM 17734 Purine riboswitch<br>
             </td>
             <td>
                     RS: URS0000D69259_768704<br>
                     MFE: -14.135<br>
                     Ligand: purine<br>
                     Species: Desulfosporosinus meridiei DSM 13257 Purine riboswitch<br>
+            </td>
+            <td>
+                    RS: URS0000D66287_768710<br>
+                    MFE: -14.335<br>
+                    Ligand: purine<br>
+                    Species: Desulfosporosinus youngiae DSM 17734 Purine riboswitch<br>
             </td>
             <td>
                     RS: URS000080E171_1423<br>
@@ -57,20 +57,20 @@ exclude: true
         </tr>
       <tr>
         <td><img src="../../alns/dot/UTR_5HSAA050570_510.png" alt="image of 5prime UTR secondary structure" style="width:100%"></td>
-        <td><img src="../../alns/dot/RS_URS0000D66287_768710_510.png" alt="image of the secondary structure of the first Riboswitch match" style="width:100%"></td>
-        <td><img src="../../alns/dot/RS_URS0000D69259_768704_510.png" alt="image of the secondary structure of the second Riboswitch match" style="width:100%"></td>
+        <td><img src="../../alns/dot/RS_URS0000D69259_768704_510.png" alt="image of the secondary structure of the first Riboswitch match" style="width:100%"></td>
+        <td><img src="../../alns/dot/RS_URS0000D66287_768710_510.png" alt="image of the secondary structure of the second Riboswitch match" style="width:100%"></td>
         <td><img src="../../alns/dot/RS_URS000080E171_1423_510.png" alt="image of the secondary structure of the third Riboswitch match" style="width:100%"></td>
       </tr>
       <tr>
         <td><img src="../../alns/circ/circ_5HSAA050570_510.png" alt="circular plot of the 5prime UTR base pairs" style="width:100%"></td>
-        <td><img src="../../alns/circ/circ_URS0000D66287_768710_510.png" alt="circular plot of the 5prime UTR base pairs compared with the first Riboswitch base pairs" style="width:100%"></td>
-        <td><img src="../../alns/circ/circ_URS0000D69259_768704_510.png" alt="circular plot of the 5prime UTR base pairs compared with the second Riboswitch base pairs" style="width:100%"></td>
+        <td><img src="../../alns/circ/circ_URS0000D69259_768704_510.png" alt="circular plot of the 5prime UTR base pairs compared with the first Riboswitch base pairs" style="width:100%"></td>
+        <td><img src="../../alns/circ/circ_URS0000D66287_768710_510.png" alt="circular plot of the 5prime UTR base pairs compared with the second Riboswitch base pairs" style="width:100%"></td>
         <td><img src="../../alns/circ/circ_URS000080E171_1423_510.png" alt="circular plot of the 5prime UTR base pairs compared with the third Riboswitch base pairs" style="width:100%"></td>
       </tr>
       <tr>
         <td></td>
-        <td><img src="../../alns/feat/feat_URS0000D66287_768710_510.png" alt="line plot comparing the structural features of the 5prime UTR with its first riboswitch match" style="width:100%"></td>
-        <td><img src="../../alns/feat/feat_URS0000D69259_768704_510.png" alt="line plot comparing the structural features of the 5prime UTR with its second riboswitch match" style="width:100%"></td>
+        <td><img src="../../alns/feat/feat_URS0000D69259_768704_510.png" alt="line plot comparing the structural features of the 5prime UTR with its first riboswitch match" style="width:100%"></td>
+        <td><img src="../../alns/feat/feat_URS0000D66287_768710_510.png" alt="line plot comparing the structural features of the 5prime UTR with its second riboswitch match" style="width:100%"></td>
         <td><img src="../../alns/feat/feat_URS000080E171_1423_510.png" alt="line plot comparing the structural features of the 5prime UTR with its third riboswitch match" style="width:100%"></td>
       </tr>
     </table>
@@ -117,12 +117,12 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000D66287/768710" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000D69259/768704" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS000080E171/1423" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
-| <span title="ID within respective databases">ID</span>  | 5HSAA050570     | URS0000D66287_768710     | URS0000D69259_768704     | URS000080E171_1423     |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000D69259/768704" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000D66287/768710" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS000080E171/1423" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="ID within respective databases">ID</span>  | 5HSAA050570     | URS0000D69259_768704     | URS0000D66287_768710     | URS000080E171_1423     |
 | <span title="Length of the sequence in question">Length</span>  | 72.     |  72.    | 72.   |  71.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.990 | 0.990 | 0.988 |
 | <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.989 | - | - | - |
-| <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -7.668 | -14.335 | -14.135 | -16.684 |
+| <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -7.668 | -14.135 | -14.335 | -16.684 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | purine | purine | purine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | HOXA4 | - | - | - |
 | <span title="Link to the sequence source">Downstream protein</span>  | <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HOXA4" target="_blank" rel="noopener noreferrer"> Genecard </a>   |    -    | -  | - |
@@ -174,7 +174,7 @@ exclude: true
 
 <tr>
 <td markdown="span">RS 1 seq </td>
-<td markdown="span"> UUCUUGUAUAAGCUCAUUAAUAUGGUGUGAGCGUUUCGACCAGGCAACCAUAAAUUGCCCAGGCUACAUGAA
+<td markdown="span"> UUCUUGUAUAAGCUCAAUAAUAUGGUUUGAGCGUCUCGACCAGGCAACCAUAAAUUGCCCAGGCUACAUGAA
 </td>
 </tr>
 
@@ -188,7 +188,7 @@ exclude: true
 
 <tr>
 <td markdown="span">RS 2 seq </td>
-<td markdown="span"> UUCUUGUAUAAGCUCAAUAAUAUGGUUUGAGCGUCUCGACCAGGCAACCAUAAAUUGCCCAGGCUACAUGAA
+<td markdown="span"> UUCUUGUAUAAGCUCAUUAAUAUGGUGUGAGCGUUUCGACCAGGCAACCAUAAAUUGCCCAGGCUACAUGAA
 </td>
 </tr>
 

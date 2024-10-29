@@ -33,7 +33,7 @@ exclude: true
                     Length: 55.<br>
                     Predicted Ligands:<br>
                     glutamine - 14/20<br>
-                    unknown - 4/20<br>
+                    unknown - 5/20<br>
                     homocysteine - 1/20<br>         
             </td>
             <td>
@@ -43,8 +43,8 @@ exclude: true
                     Species: S-ADENOSYLHOMOCYSTEINE RIBOSWITCH from Ralstonia solanacearum (PDB 3NPQ, chain B)<br>
             </td>
             <td>
-                    RS: URS0000C81DA9_12908<br>
-                    MFE: -8.766<br>
+                    RS: URS0000C365A9_12908<br>
+                    MFE: -7.766<br>
                     Ligand: glutamine<br>
                     Species: unclassified sequences Glutamine riboswitch<br>
             </td>
@@ -58,19 +58,19 @@ exclude: true
       <tr>
         <td><img src="../../alns/dot/UTR_5HSAA068706_751.png" alt="image of 5prime UTR secondary structure" style="width:100%"></td>
         <td><img src="../../alns/dot/RS_URS000080E144_305_751.png" alt="image of the secondary structure of the first Riboswitch match" style="width:100%"></td>
-        <td><img src="../../alns/dot/RS_URS0000C81DA9_12908_751.png" alt="image of the secondary structure of the second Riboswitch match" style="width:100%"></td>
+        <td><img src="../../alns/dot/RS_URS0000C365A9_12908_751.png" alt="image of the secondary structure of the second Riboswitch match" style="width:100%"></td>
         <td><img src="../../alns/dot/RS_URS0000C473B6_12908_751.png" alt="image of the secondary structure of the third Riboswitch match" style="width:100%"></td>
       </tr>
       <tr>
         <td><img src="../../alns/circ/circ_5HSAA068706_751.png" alt="circular plot of the 5prime UTR base pairs" style="width:100%"></td>
         <td><img src="../../alns/circ/circ_URS000080E144_305_751.png" alt="circular plot of the 5prime UTR base pairs compared with the first Riboswitch base pairs" style="width:100%"></td>
-        <td><img src="../../alns/circ/circ_URS0000C81DA9_12908_751.png" alt="circular plot of the 5prime UTR base pairs compared with the second Riboswitch base pairs" style="width:100%"></td>
+        <td><img src="../../alns/circ/circ_URS0000C365A9_12908_751.png" alt="circular plot of the 5prime UTR base pairs compared with the second Riboswitch base pairs" style="width:100%"></td>
         <td><img src="../../alns/circ/circ_URS0000C473B6_12908_751.png" alt="circular plot of the 5prime UTR base pairs compared with the third Riboswitch base pairs" style="width:100%"></td>
       </tr>
       <tr>
         <td></td>
         <td><img src="../../alns/feat/feat_URS000080E144_305_751.png" alt="line plot comparing the structural features of the 5prime UTR with its first riboswitch match" style="width:100%"></td>
-        <td><img src="../../alns/feat/feat_URS0000C81DA9_12908_751.png" alt="line plot comparing the structural features of the 5prime UTR with its second riboswitch match" style="width:100%"></td>
+        <td><img src="../../alns/feat/feat_URS0000C365A9_12908_751.png" alt="line plot comparing the structural features of the 5prime UTR with its second riboswitch match" style="width:100%"></td>
         <td><img src="../../alns/feat/feat_URS0000C473B6_12908_751.png" alt="line plot comparing the structural features of the 5prime UTR with its third riboswitch match" style="width:100%"></td>
       </tr>
     </table>
@@ -117,12 +117,12 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS000080E144/305" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C81DA9/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C473B6/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
-| <span title="ID within respective databases">ID</span>  | 5HSAA068706     | URS000080E144_305     | URS0000C81DA9_12908     | URS0000C473B6_12908     |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS000080E144/305" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C365A9/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C473B6/12908" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="ID within respective databases">ID</span>  | 5HSAA068706     | URS000080E144_305     | URS0000C365A9_12908     | URS0000C473B6_12908     |
 | <span title="Length of the sequence in question">Length</span>  | 55.     |  54.    | 56.   |  56.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.990 | 0.988 | 0.988 |
 | <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.869 | - | - | - |
-| <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -13.082 | -18.538 | -8.766 | -8.866 |
+| <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -13.082 | -18.538 | -7.766 | -8.866 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | homocysteine | glutamine | glutamine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | MTRR | - | - | - |
 | <span title="Link to the sequence source">Downstream protein</span>  | <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MTRR" target="_blank" rel="noopener noreferrer"> Genecard </a>   |    -    | -  | - |
@@ -188,7 +188,7 @@ exclude: true
 
 <tr>
 <td markdown="span">RS 2 seq </td>
-<td markdown="span"> AUCGUUCAUUUUGAAUAAUUCGAAACGGAAGUAAACGAAAGUUGAAGGAACGCAUG
+<td markdown="span"> AUCGUUCAUUUUGAAUAAUUCAAAACGGAAGUAAACGAAAGUUGAAGGAACGCAAA
 </td>
 </tr>
 

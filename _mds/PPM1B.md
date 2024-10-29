@@ -32,19 +32,19 @@ exclude: true
                     ENS: 0.869<br>
                     Length: 39.<br>
                     Predicted Ligands:<br>
-                    SAM - 11/20<br>
-                    preQ_1 - 6/20<br>
+                    SAM - 12/20<br>
+                    preQ_1 - 5/20<br>
                     guanidine - 1/20<br>         
-            </td>
-            <td>
-                    RS: URS0000BE9AC2_1514904<br>
-                    MFE: -10.827<br>
-                    Ligand: SAM<br>
-                    Species: Ahrensia marina SAM riboswitch (alpha-proteobacteria)<br>
             </td>
             <td>
                     RS: URS0000BE9632_1514904<br>
                     MFE: -10.995<br>
+                    Ligand: SAM<br>
+                    Species: Ahrensia marina SAM riboswitch (alpha-proteobacteria)<br>
+            </td>
+            <td>
+                    RS: URS0000BE9AC2_1514904<br>
+                    MFE: -10.827<br>
                     Ligand: SAM<br>
                     Species: Ahrensia marina SAM riboswitch (alpha-proteobacteria)<br>
             </td>
@@ -57,20 +57,20 @@ exclude: true
         </tr>
       <tr>
         <td><img src="../../alns/dot/UTR_5HSAA083435_930.png" alt="image of 5prime UTR secondary structure" style="width:100%"></td>
-        <td><img src="../../alns/dot/RS_URS0000BE9AC2_1514904_930.png" alt="image of the secondary structure of the first Riboswitch match" style="width:100%"></td>
-        <td><img src="../../alns/dot/RS_URS0000BE9632_1514904_930.png" alt="image of the secondary structure of the second Riboswitch match" style="width:100%"></td>
+        <td><img src="../../alns/dot/RS_URS0000BE9632_1514904_930.png" alt="image of the secondary structure of the first Riboswitch match" style="width:100%"></td>
+        <td><img src="../../alns/dot/RS_URS0000BE9AC2_1514904_930.png" alt="image of the secondary structure of the second Riboswitch match" style="width:100%"></td>
         <td><img src="../../alns/dot/RS_URS0000CBFF2B_2021_930.png" alt="image of the secondary structure of the third Riboswitch match" style="width:100%"></td>
       </tr>
       <tr>
         <td><img src="../../alns/circ/circ_5HSAA083435_930.png" alt="circular plot of the 5prime UTR base pairs" style="width:100%"></td>
-        <td><img src="../../alns/circ/circ_URS0000BE9AC2_1514904_930.png" alt="circular plot of the 5prime UTR base pairs compared with the first Riboswitch base pairs" style="width:100%"></td>
-        <td><img src="../../alns/circ/circ_URS0000BE9632_1514904_930.png" alt="circular plot of the 5prime UTR base pairs compared with the second Riboswitch base pairs" style="width:100%"></td>
+        <td><img src="../../alns/circ/circ_URS0000BE9632_1514904_930.png" alt="circular plot of the 5prime UTR base pairs compared with the first Riboswitch base pairs" style="width:100%"></td>
+        <td><img src="../../alns/circ/circ_URS0000BE9AC2_1514904_930.png" alt="circular plot of the 5prime UTR base pairs compared with the second Riboswitch base pairs" style="width:100%"></td>
         <td><img src="../../alns/circ/circ_URS0000CBFF2B_2021_930.png" alt="circular plot of the 5prime UTR base pairs compared with the third Riboswitch base pairs" style="width:100%"></td>
       </tr>
       <tr>
         <td></td>
-        <td><img src="../../alns/feat/feat_URS0000BE9AC2_1514904_930.png" alt="line plot comparing the structural features of the 5prime UTR with its first riboswitch match" style="width:100%"></td>
-        <td><img src="../../alns/feat/feat_URS0000BE9632_1514904_930.png" alt="line plot comparing the structural features of the 5prime UTR with its second riboswitch match" style="width:100%"></td>
+        <td><img src="../../alns/feat/feat_URS0000BE9632_1514904_930.png" alt="line plot comparing the structural features of the 5prime UTR with its first riboswitch match" style="width:100%"></td>
+        <td><img src="../../alns/feat/feat_URS0000BE9AC2_1514904_930.png" alt="line plot comparing the structural features of the 5prime UTR with its second riboswitch match" style="width:100%"></td>
         <td><img src="../../alns/feat/feat_URS0000CBFF2B_2021_930.png" alt="line plot comparing the structural features of the 5prime UTR with its third riboswitch match" style="width:100%"></td>
       </tr>
     </table>
@@ -117,12 +117,12 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000BE9AC2/1514904" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000BE9632/1514904" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000CBFF2B/2021" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
-| <span title="ID within respective databases">ID</span>  | 5HSAA083435     | URS0000BE9AC2_1514904     | URS0000BE9632_1514904     | URS0000CBFF2B_2021     |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000BE9632/1514904" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000BE9AC2/1514904" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000CBFF2B/2021" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="ID within respective databases">ID</span>  | 5HSAA083435     | URS0000BE9632_1514904     | URS0000BE9AC2_1514904     | URS0000CBFF2B_2021     |
 | <span title="Length of the sequence in question">Length</span>  | 39.     |  41.    | 41.   |  41.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.988 | 0.988 | 0.986 |
 | <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.869 | - | - | - |
-| <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -5.795 | -10.827 | -10.995 | -13.547 |
+| <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -5.795 | -10.995 | -10.827 | -13.547 |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | SAM | SAM | guanidine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | PPM1B | - | - | - |
 | <span title="Link to the sequence source">Downstream protein</span>  | <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PPM1B" target="_blank" rel="noopener noreferrer"> Genecard </a>   |    -    | -  | - |
@@ -174,7 +174,7 @@ exclude: true
 
 <tr>
 <td markdown="span">RS 1 seq </td>
-<td markdown="span"> GUUAUUCAUUGUGGUGAUUUGGCCGGUCGGCUUGCAGCCAC
+<td markdown="span"> AAUAGAUUUCGUGGUGAUUUGGCCGGUCGGCUUGCAGCCAC
 </td>
 </tr>
 
@@ -188,7 +188,7 @@ exclude: true
 
 <tr>
 <td markdown="span">RS 2 seq </td>
-<td markdown="span"> AAUAGAUUUCGUGGUGAUUUGGCCGGUCGGCUUGCAGCCAC
+<td markdown="span"> GUUAUUCAUUGUGGUGAUUUGGCCGGUCGGCUUGCAGCCAC
 </td>
 </tr>
 

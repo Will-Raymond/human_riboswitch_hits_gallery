@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.977<br>
                     Length: 81.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 12/20<br>
-                    zmp-ztp - 6/20<br>
-                    cyclic-di-GMP - 1/20<br>         
+                    zmp-ztp - 9/20<br>
+                    cobalamin - 8/20<br>
+                    fluoride - 1/20<br>         
             </td>
             <td>
                     RS: URS0000DAFD6A_1904969<br>

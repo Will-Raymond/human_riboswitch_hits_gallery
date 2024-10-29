@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.897<br>
                     Length: 45.<br>
                     Predicted Ligands:<br>
-                    preQ_1 - 11/20<br>
-                    SAM - 4/20<br>
-                    glutamine - 3/20<br>         
+                    preQ_1 - 17/20<br>
+                    SAM - 2/20<br>
+                    glutamine - 1/20<br>         
             </td>
             <td>
                     RS: URS0000D65FCB_12908<br>

@@ -33,7 +33,7 @@ exclude: true
                     Length: 72.<br>
                     Predicted Ligands:<br>
                     homocysteine - 10/20<br>
-                    fluoride - 9/20<br>
+                    fluoride - 8/20<br>
                     purine - 1/20<br>         
             </td>
             <td>

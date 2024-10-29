@@ -32,8 +32,8 @@ exclude: true
                     ENS: 0.938<br>
                     Length: 27.<br>
                     Predicted Ligands:<br>
-                    SAM - 10/20<br>
-                    preQ_1 - 5/20<br>
+                    SAM - 9/20<br>
+                    preQ_1 - 6/20<br>
                     unknown - 2/20<br>         
             </td>
             <td>

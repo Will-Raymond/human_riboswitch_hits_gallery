@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.926<br>
                     Length: 136.<br>
                     Predicted Ligands:<br>
-                    molybdenum - 16/20<br>
+                    molybdenum - 17/20<br>
                     TPP - 2/20<br>
-                    homocysteine - 1/20<br>         
+                    FMN - 1/20<br>         
             </td>
             <td>
                     RS: URS0000AB6238_264732<br>

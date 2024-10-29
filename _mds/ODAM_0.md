@@ -32,8 +32,8 @@ exclude: true
                     ENS: 0.955<br>
                     Length: 44.<br>
                     Predicted Ligands:<br>
-                    preQ_1 - 13/20<br>
-                    SAM - 6/20<br>
+                    preQ_1 - 15/20<br>
+                    SAM - 4/20<br>
                     glutamine - 1/20<br>         
             </td>
             <td>

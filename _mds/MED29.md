@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.969<br>
                     Length: 62.<br>
                     Predicted Ligands:<br>
-                    fluoride - 11/20<br>
-                    cobalamin - 8/20<br>
-                    glutamine - 1/20<br>         
+                    fluoride - 12/20<br>
+                    cobalamin - 6/20<br>
+                    glutamine - 2/20<br>         
             </td>
             <td>
                     RS: URS0000AB77D6_910954<br>

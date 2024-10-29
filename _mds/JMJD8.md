@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.972<br>
                     Length: 82.<br>
                     Predicted Ligands:<br>
-                    zmp-ztp - 8/20<br>
-                    homocysteine - 7/20<br>
-                    SAM - 3/20<br>         
+                    homocysteine - 9/20<br>
+                    zmp-ztp - 6/20<br>
+                    cyclic-di-GMP - 3/20<br>         
             </td>
             <td>
                     RS: URS0000C1FD53_12908<br>

@@ -33,8 +33,8 @@ exclude: true
                     Length: 91.<br>
                     Predicted Ligands:<br>
                     TPP - 6/20<br>
-                    zmp-ztp - 6/20<br>
-                    glycine - 4/20<br>         
+                    glycine - 6/20<br>
+                    zmp-ztp - 5/20<br>         
             </td>
             <td>
                     RS: URS0000C3A79E_1531966<br>

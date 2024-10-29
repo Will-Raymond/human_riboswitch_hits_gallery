@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.909<br>
                     Length: 96.<br>
                     Predicted Ligands:<br>
-                    TPP - 8/20<br>
-                    purine - 6/20<br>
-                    zmp-ztp - 2/20<br>         
+                    TPP - 13/20<br>
+                    zmp-ztp - 2/20<br>
+                    cobalamin - 2/20<br>         
             </td>
             <td>
                     RS: URS0000C0BDD2_12908<br>

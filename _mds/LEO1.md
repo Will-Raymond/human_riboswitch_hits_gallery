@@ -33,8 +33,8 @@ exclude: true
                     Length: 41.<br>
                     Predicted Ligands:<br>
                     SAM - 14/20<br>
-                    preQ_1 - 6/20<br>
-                    <br>         
+                    preQ_1 - 4/20<br>
+                    guanidine - 1/20<br>         
             </td>
             <td>
                     RS: URS00021EDBDC_12908<br>

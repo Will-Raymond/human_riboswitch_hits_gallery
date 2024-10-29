@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.743<br>
                     Length: 78.<br>
                     Predicted Ligands:<br>
-                    SAM - 12/20<br>
-                    cobalamin - 4/20<br>
-                    zmp-ztp - 2/20<br>         
+                    SAM - 13/20<br>
+                    cobalamin - 2/20<br>
+                    fluoride - 2/20<br>         
             </td>
             <td>
                     RS: URS0000D8447A_1121322<br>

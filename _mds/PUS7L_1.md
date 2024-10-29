@@ -32,7 +32,7 @@ exclude: true
                     ENS: 0.931<br>
                     Length: 100.<br>
                     Predicted Ligands:<br>
-                    TPP - 9/20<br>
+                    TPP - 10/20<br>
                     purine - 5/20<br>
                     glycine - 2/20<br>         
             </td>

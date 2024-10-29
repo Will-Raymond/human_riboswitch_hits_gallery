@@ -33,8 +33,8 @@ exclude: true
                     Length: 80.<br>
                     Predicted Ligands:<br>
                     zmp-ztp - 10/20<br>
-                    fluoride - 3/20<br>
-                    Ni/Co - 2/20<br>         
+                    fluoride - 4/20<br>
+                    cobalamin - 2/20<br>         
             </td>
             <td>
                     RS: URS0002332175_1701573<br>

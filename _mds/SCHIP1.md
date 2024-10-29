@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.785<br>
                     Length: 91.<br>
                     Predicted Ligands:<br>
-                    TPP - 6/20<br>
-                    GMP - 4/20<br>
-                    SAM - 4/20<br>         
+                    GMP - 5/20<br>
+                    TPP - 5/20<br>
+                    glycine - 3/20<br>         
             </td>
             <td>
                     RS: URS0000C15E69_1154860<br>

@@ -22,7 +22,7 @@ exclude: true
         <th>5HSAA008901</th>
         <th>Similarity: 0.981</th>
         <th>Similarity: 0.981</th>
-        <th>Similarity: 0.977</th>
+        <th>Similarity: 0.981</th>
       </tr>
         <tr>
             <td>
@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.953<br>
                     Length: 85.<br>
                     Predicted Ligands:<br>
+                    cyclic-di-GMP - 6/20<br>
                     zmp-ztp - 4/20<br>
-                    glycine - 4/20<br>
-                    TPP - 3/20<br>         
+                    homocysteine - 4/20<br>         
             </td>
             <td>
                     RS: URS0000D96938_1805400<br>
@@ -43,35 +43,35 @@ exclude: true
                     Species: bacterium CG2_30_33_46 Cyclic di-GMP-II riboswitch<br>
             </td>
             <td>
+                    RS: URS0000C3E329_1695218<br>
+                    MFE: -17.737<br>
+                    Ligand: cyclic-di-GMP<br>
+                    Species: Paenibacillus sp. 32O-W Cyclic di-GMP-II riboswitch<br>
+            </td>
+            <td>
                     RS: URS0000C06979_1704277<br>
                     MFE: -30.970<br>
                     Ligand: zmp-ztp<br>
-                    Species: Deinococcus sp. UR1 ZMP/ZTP riboswitch<br>
-            </td>
-            <td>
-                    RS: URS0000DA2A69_1121306<br>
-                    MFE: -17.931<br>
-                    Ligand: TPP<br>
-                Species: Clostridium collagenovorans DSM 3089 TPP riboswitch (THI element)<br>
+                Species: Deinococcus sp. UR1 ZMP/ZTP riboswitch<br>
             </td>
         </tr>
       <tr>
         <td><img src="../../alns/dot/UTR_5HSAA008901_100.png" alt="image of 5prime UTR secondary structure" style="width:100%"></td>
         <td><img src="../../alns/dot/RS_URS0000D96938_1805400_100.png" alt="image of the secondary structure of the first Riboswitch match" style="width:100%"></td>
-        <td><img src="../../alns/dot/RS_URS0000C06979_1704277_100.png" alt="image of the secondary structure of the second Riboswitch match" style="width:100%"></td>
-        <td><img src="../../alns/dot/RS_URS0000DA2A69_1121306_100.png" alt="image of the secondary structure of the third Riboswitch match" style="width:100%"></td>
+        <td><img src="../../alns/dot/RS_URS0000C3E329_1695218_100.png" alt="image of the secondary structure of the second Riboswitch match" style="width:100%"></td>
+        <td><img src="../../alns/dot/RS_URS0000C06979_1704277_100.png" alt="image of the secondary structure of the third Riboswitch match" style="width:100%"></td>
       </tr>
       <tr>
         <td><img src="../../alns/circ/circ_5HSAA008901_100.png" alt="circular plot of the 5prime UTR base pairs" style="width:100%"></td>
         <td><img src="../../alns/circ/circ_URS0000D96938_1805400_100.png" alt="circular plot of the 5prime UTR base pairs compared with the first Riboswitch base pairs" style="width:100%"></td>
-        <td><img src="../../alns/circ/circ_URS0000C06979_1704277_100.png" alt="circular plot of the 5prime UTR base pairs compared with the second Riboswitch base pairs" style="width:100%"></td>
-        <td><img src="../../alns/circ/circ_URS0000DA2A69_1121306_100.png" alt="circular plot of the 5prime UTR base pairs compared with the third Riboswitch base pairs" style="width:100%"></td>
+        <td><img src="../../alns/circ/circ_URS0000C3E329_1695218_100.png" alt="circular plot of the 5prime UTR base pairs compared with the second Riboswitch base pairs" style="width:100%"></td>
+        <td><img src="../../alns/circ/circ_URS0000C06979_1704277_100.png" alt="circular plot of the 5prime UTR base pairs compared with the third Riboswitch base pairs" style="width:100%"></td>
       </tr>
       <tr>
         <td></td>
         <td><img src="../../alns/feat/feat_URS0000D96938_1805400_100.png" alt="line plot comparing the structural features of the 5prime UTR with its first riboswitch match" style="width:100%"></td>
-        <td><img src="../../alns/feat/feat_URS0000C06979_1704277_100.png" alt="line plot comparing the structural features of the 5prime UTR with its second riboswitch match" style="width:100%"></td>
-        <td><img src="../../alns/feat/feat_URS0000DA2A69_1121306_100.png" alt="line plot comparing the structural features of the 5prime UTR with its third riboswitch match" style="width:100%"></td>
+        <td><img src="../../alns/feat/feat_URS0000C3E329_1695218_100.png" alt="line plot comparing the structural features of the 5prime UTR with its second riboswitch match" style="width:100%"></td>
+        <td><img src="../../alns/feat/feat_URS0000C06979_1704277_100.png" alt="line plot comparing the structural features of the 5prime UTR with its third riboswitch match" style="width:100%"></td>
       </tr>
     </table>
     </div>
@@ -117,13 +117,13 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000D96938/1805400" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C06979/1704277" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000DA2A69/1121306" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
-| <span title="ID within respective databases">ID</span>  | 5HSAA008901     | URS0000D96938_1805400     | URS0000C06979_1704277     | URS0000DA2A69_1121306     |
-| <span title="Length of the sequence in question">Length</span>  | 85.     |  84.    | 86.   |  88.    |
-| <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.981 | 0.981 | 0.977 |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000D96938/1805400" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000C3E329/1695218" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000C06979/1704277" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="ID within respective databases">ID</span>  | 5HSAA008901     | URS0000D96938_1805400     | URS0000C3E329_1695218     | URS0000C06979_1704277     |
+| <span title="Length of the sequence in question">Length</span>  | 85.     |  84.    | 84.   |  86.    |
+| <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.981 | 0.981 | 0.981 |
 | <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.953 | - | - | - |
-| <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -22.029 | -16.617 | -30.970 | -17.931 |
-| <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cyclic-di-GMP | zmp-ztp | TPP |
+| <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -22.029 | -16.617 | -17.737 | -30.970 |
+| <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cyclic-di-GMP | cyclic-di-GMP | zmp-ztp |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | ATRNL1 | - | - | - |
 | <span title="Link to the sequence source">Downstream protein</span>  | <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATRNL1" target="_blank" rel="noopener noreferrer"> Genecard </a>   |    -    | -  | - |
 
@@ -132,17 +132,17 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Structural feature squared error">Struct SE</span> | - | 15. | 12.005 | 3.002 |
-| <span title="Length difference squared error">Length SE</span> | - | 1. | 1. | 9. |
-| <span title="Edit distance of both dot structures">Lev Distance</span> | - | 19. | 21. | 20. |
-| <span title="Unbranched stack count">UBS</span>| 5. | 7. | 8. | 6. |
+| <span title="Structural feature squared error">Struct SE</span> | - | 15. | 6. | 12.005 |
+| <span title="Length difference squared error">Length SE</span> | - | 1. | 1. | 1. |
+| <span title="Edit distance of both dot structures">Lev Distance</span> | - | 19. | 23. | 21. |
+| <span title="Unbranched stack count">UBS</span>| 5. | 7. | 6. | 8. |
 | <span title="Branched stack counts">BS</span> | 0. | 0. | 0. | 0. |
-| <span title="Inner loop left count">ILL</span> | 2. | 3. | 3. | 2. |
-| <span title="Inner loop right count">ILR</span> | 3. | 2. | 4. | 2. |
+| <span title="Inner loop left count">ILL</span> | 2. | 3. | 2. | 3. |
+| <span title="Inner loop right count">ILR</span> | 3. | 2. | 1. | 4. |
 | <span title="Hairpin counts">H</span> | 1. | 1. | 1. | 1. |
-| <span title="Bulges left count">BL</span> | 2. | 2. | 2. | 2. |
-| <span title="Bulges right count">BR</span> | 1. | 4. | 2. | 2. |
-| <span title="Unpaired nucleotide %">UN</span> | 0.188 | 0.167 | 0.116 | 0.148 |
+| <span title="Bulges left count">BL</span> | 2. | 2. | 1. | 2. |
+| <span title="Bulges right count">BR</span> | 1. | 4. | 1. | 2. |
+| <span title="Unpaired nucleotide %">UN</span> | 0.188 | 0.167 | 0.179 | 0.116 |
 
 **Sequences**
 
@@ -188,28 +188,28 @@ exclude: true
 
 <tr>
 <td markdown="span">RS 2 seq </td>
-<td markdown="span"> GAGUGCGGGGGCGACUGGCGCUGAACGUGGGCUGACCACGGGGGAGCCUCCGGAAGAGUGAAUGAUCGCGCGCCUGGGUCGAACGG
+<td markdown="span"> AUACAUAUAGGGAGCAGAGAAGCCAGUACUUACUUUGGGCACUUUGGACUGGUGGAGCUAGUAGUGCAACCGGCCUUCUUUCAU
 </td>
 </tr>
 
 
 <tr>
 <td markdown="span">RS 2 dot </td>
-<td markdown="span"> ........(..(((((((((((((.(((..(((...(.(((((....))))))...)))..))).))).)))))..)))))..)..
+<td markdown="span"> .............(.(((((((((............(((((((....((((((...)))))))))))..))))).)))))))..
 </td>
 </tr>
 
 
 <tr>
 <td markdown="span">RS 3 seq </td>
-<td markdown="span"> AUAUACUACUAGGGGUGCUACGAGCUGAGAUUUACCCUUAUAACUUGAUCUAGUUAAUUCUGGCGUAAGGAAGUAGUUUGAAGCCUUA
+<td markdown="span"> GAGUGCGGGGGCGACUGGCGCUGAACGUGGGCUGACCACGGGGGAGCCUCCGGAAGAGUGAAUGAUCGCGCGCCUGGGUCGAACGG
 </td>
 </tr>
 
 
 <tr>
 <td markdown="span">RS 3 dot </td>
-<td markdown="span"> ............(((.(((.(((((((...(((((((...(((((......))))).....)).)))))....))))))).)))))).
+<td markdown="span"> ........(..(((((((((((((.(((..(((...(.(((((....))))))...)))..))).))).)))))..)))))..)..
 </td>
 </tr>
 

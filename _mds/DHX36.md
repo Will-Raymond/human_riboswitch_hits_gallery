@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.849<br>
                     Length: 177.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 16/20<br>
-                    Mg2+ - 4/20<br>
-                    <br>         
+                    cobalamin - 13/20<br>
+                    lysine - 6/20<br>
+                    Mg2+ - 1/20<br>         
             </td>
             <td>
                     RS: URS000232463E_508765<br>

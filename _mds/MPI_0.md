@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.957<br>
                     Length: 86.<br>
                     Predicted Ligands:<br>
-                    SAM - 9/20<br>
-                    zmp-ztp - 4/20<br>
-                    fluoride - 3/20<br>         
+                    SAM - 7/20<br>
+                    fluoride - 6/20<br>
+                    cyclic-di-GMP - 3/20<br>         
             </td>
             <td>
                     RS: URS0000BE2FF8_380749<br>

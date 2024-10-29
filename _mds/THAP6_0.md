@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.899<br>
                     Length: 133.<br>
                     Predicted Ligands:<br>
-                    guanidine - 12/20<br>
-                    molybdenum - 2/20<br>
-                    glycine - 2/20<br>         
+                    guanidine - 11/20<br>
+                    glycine - 3/20<br>
+                    molybdenum - 2/20<br>         
             </td>
             <td>
                     RS: URS0000C1972A_1413211<br>
@@ -49,29 +49,29 @@ exclude: true
                     Species: Burkholderia dolosa AUO158 Guanidine-I riboswitch<br>
             </td>
             <td>
-                    RS: URS0000DA0538_488446<br>
-                    MFE: -58.<br>
+                    RS: URS0000ABCB18_216591<br>
+                    MFE: -55.<br>
                     Ligand: guanidine<br>
-                Species: Burkholderia latens Guanidine-I riboswitch<br>
+                Species: Burkholderia cenocepacia J2315 Guanidine-I riboswitch<br>
             </td>
         </tr>
       <tr>
         <td><img src="../../alns/dot/UTR_5HSAA108965-1_1314.png" alt="image of 5prime UTR secondary structure" style="width:100%"></td>
         <td><img src="../../alns/dot/RS_URS0000C1972A_1413211_1314.png" alt="image of the secondary structure of the first Riboswitch match" style="width:100%"></td>
         <td><img src="../../alns/dot/RS_URS0000AB59C7_350701_1314.png" alt="image of the secondary structure of the second Riboswitch match" style="width:100%"></td>
-        <td><img src="../../alns/dot/RS_URS0000DA0538_488446_1314.png" alt="image of the secondary structure of the third Riboswitch match" style="width:100%"></td>
+        <td><img src="../../alns/dot/RS_URS0000ABCB18_216591_1314.png" alt="image of the secondary structure of the third Riboswitch match" style="width:100%"></td>
       </tr>
       <tr>
         <td><img src="../../alns/circ/circ_5HSAA108965-1_1314.png" alt="circular plot of the 5prime UTR base pairs" style="width:100%"></td>
         <td><img src="../../alns/circ/circ_URS0000C1972A_1413211_1314.png" alt="circular plot of the 5prime UTR base pairs compared with the first Riboswitch base pairs" style="width:100%"></td>
         <td><img src="../../alns/circ/circ_URS0000AB59C7_350701_1314.png" alt="circular plot of the 5prime UTR base pairs compared with the second Riboswitch base pairs" style="width:100%"></td>
-        <td><img src="../../alns/circ/circ_URS0000DA0538_488446_1314.png" alt="circular plot of the 5prime UTR base pairs compared with the third Riboswitch base pairs" style="width:100%"></td>
+        <td><img src="../../alns/circ/circ_URS0000ABCB18_216591_1314.png" alt="circular plot of the 5prime UTR base pairs compared with the third Riboswitch base pairs" style="width:100%"></td>
       </tr>
       <tr>
         <td></td>
         <td><img src="../../alns/feat/feat_URS0000C1972A_1413211_1314.png" alt="line plot comparing the structural features of the 5prime UTR with its first riboswitch match" style="width:100%"></td>
         <td><img src="../../alns/feat/feat_URS0000AB59C7_350701_1314.png" alt="line plot comparing the structural features of the 5prime UTR with its second riboswitch match" style="width:100%"></td>
-        <td><img src="../../alns/feat/feat_URS0000DA0538_488446_1314.png" alt="line plot comparing the structural features of the 5prime UTR with its third riboswitch match" style="width:100%"></td>
+        <td><img src="../../alns/feat/feat_URS0000ABCB18_216591_1314.png" alt="line plot comparing the structural features of the 5prime UTR with its third riboswitch match" style="width:100%"></td>
       </tr>
     </table>
     </div>
@@ -117,12 +117,12 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000C1972A/1413211" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000AB59C7/350701" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000DA0538/488446" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
-| <span title="ID within respective databases">ID</span>  | 5HSAA108965-1     | URS0000C1972A_1413211     | URS0000AB59C7_350701     | URS0000DA0538_488446     |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS0000C1972A/1413211" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000AB59C7/350701" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0000ABCB18/216591" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="ID within respective databases">ID</span>  | 5HSAA108965-1     | URS0000C1972A_1413211     | URS0000AB59C7_350701     | URS0000ABCB18_216591     |
 | <span title="Length of the sequence in question">Length</span>  | 133.     |  131.    | 134.   |  132.    |
 | <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.972 | 0.972 | 0.971 |
 | <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.899 | - | - | - |
-| <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -38.739 | -39.334 | -57.596 | -58. |
+| <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -38.739 | -39.334 | -57.596 | -55. |
 | <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | molybdenum | guanidine | guanidine |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | THAP6 | - | - | - |
 | <span title="Link to the sequence source">Downstream protein</span>  | <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=THAP6" target="_blank" rel="noopener noreferrer"> Genecard </a>   |    -    | -  | - |
@@ -202,14 +202,14 @@ exclude: true
 
 <tr>
 <td markdown="span">RS 3 seq </td>
-<td markdown="span"> CUUCAGGAUCGCUAGGGUUCCGGUCGUGCGGCGUGCGCCGCGCGAUGCCUGGUCCGAGAGCAAUCCGGUCUUGCCUUCGCCUCGAUCCGAGGAAACGGCGAGGCUCCACGGAGGGAUAAAAGCCCGGGAGGU
+<td markdown="span"> CUUCAGGAUCGCUAGGGUUCCGGUCGUGCGGCAUGUGCCGUGCGAUGUCUGGUCCGAGAGCAAUCCGGUCUUGCCUUCGCCUCGAUGAGAGGAAACGGCGAGGCUCCACGGAGGGAUAAAAGCCCGGGAGGU
 </td>
 </tr>
 
 
 <tr>
 <td markdown="span">RS 3 dot </td>
-<td markdown="span"> .....((((.(((.(((..(((((((((((((....)))))))))...)))))))...))).))))..(((((((.(..(((((...)))))..).)))))))((((.(((.(.........))))))))..
+<td markdown="span"> .....((((.(((.(((..(((((((((((((....)))))))))...)))))))...))).))))..(((((((.(..((((.....))))..).)))))))((((.(((.(.........))))))))..
 </td>
 </tr>
 

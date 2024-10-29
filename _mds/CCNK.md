@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.969<br>
                     Length: 155.<br>
                     Predicted Ligands:<br>
-                    FMN - 15/20<br>
+                    FMN - 17/20<br>
                     cobalamin - 2/20<br>
-                    molybdenum - 1/20<br>         
+                    Mg2+ - 1/20<br>         
             </td>
             <td>
                     RS: URS0000AB351E_365046<br>

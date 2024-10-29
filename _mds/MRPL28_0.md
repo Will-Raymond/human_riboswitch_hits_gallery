@@ -32,8 +32,8 @@ exclude: true
                     ENS: 0.843<br>
                     Length: 56.<br>
                     Predicted Ligands:<br>
-                    unknown - 9/20<br>
-                    glutamine - 9/20<br>
+                    glutamine - 11/20<br>
+                    unknown - 7/20<br>
                     cobalamin - 1/20<br>         
             </td>
             <td>

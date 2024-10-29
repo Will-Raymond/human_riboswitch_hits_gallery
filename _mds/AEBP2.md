@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.601<br>
                     Length: 35.<br>
                     Predicted Ligands:<br>
-                    SAM - 11/20<br>
-                    preQ_1 - 5/20<br>
-                    unknown - 2/20<br>         
+                    SAM - 12/20<br>
+                    preQ_1 - 4/20<br>
+                    unknown - 1/20<br>         
             </td>
             <td>
                     RS: URS0001A24B6D_1907202<br>

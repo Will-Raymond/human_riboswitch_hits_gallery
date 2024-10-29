@@ -33,8 +33,8 @@ exclude: true
                     Length: 57.<br>
                     Predicted Ligands:<br>
                     unknown - 13/20<br>
-                    glutamine - 6/20<br>
-                    cobalamin - 1/20<br>         
+                    glutamine - 7/20<br>
+                    <br>         
             </td>
             <td>
                     RS: URS0000E5FB36_465721<br>

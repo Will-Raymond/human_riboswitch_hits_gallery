@@ -20,9 +20,9 @@ exclude: true
     <table>
       <tr>
         <th>5HSAA004369</th>
-        <th>Similarity: 0.913</th>
-        <th>Similarity: 0.908</th>
-        <th>Similarity: 0.884</th>
+        <th>Similarity: 0.920</th>
+        <th>Similarity: 0.919</th>
+        <th>Similarity: 0.915</th>
       </tr>
         <tr>
             <td>
@@ -32,46 +32,46 @@ exclude: true
                     ENS: 0.947<br>
                     Length: 248.<br>
                     Predicted Ligands:<br>
-                    cobalamin - 18/20<br>
+                    cobalamin - 17/20<br>
                     FMN - 2/20<br>
-                    <br>         
+                    lysine - 1/20<br>         
             </td>
             <td>
-                    RS: URS000223589D_2823330<br>
-                    MFE: -62.514<br>
+                    RS: URS000231E941_272559<br>
+                    MFE: -58.651<br>
                     Ligand: cobalamin<br>
-                    Species: Dyadobacter sp. CECT 9623 Cobalamin<br>
+                    Species: Bacteroides fragilis NCTC 9343 Cobalamin riboswitch<br>
             </td>
             <td>
-                    RS: URS0002319CE5_1690483<br>
-                    MFE: -48.245<br>
-                    Ligand: cobalamin<br>
-                    Species: Bacteroidetes bacterium UKL13-3 Cobalamin riboswitch<br>
+                    RS: URS0000AB5A28_392500<br>
+                    MFE: -61.509<br>
+                    Ligand: FMN<br>
+                    Species: Shewanella woodyi ATCC 51908 FMN riboswitch (RFN element)<br>
             </td>
             <td>
-                    RS: URS0001A0C614_192<br>
-                    MFE: -109.072<br>
+                    RS: URS000232913A_281093<br>
+                    MFE: -86.841<br>
                     Ligand: cobalamin<br>
-                Species: Azospirillum brasilense cobalamin riboswitch<br>
+                Species: Chlorobium bathyomarinum Cobalamin riboswitch<br>
             </td>
         </tr>
       <tr>
         <td><img src="../../alns/dot/UTR_5HSAA004369_56.png" alt="image of 5prime UTR secondary structure" style="width:100%"></td>
-        <td><img src="../../alns/dot/RS_URS000223589D_2823330_56.png" alt="image of the secondary structure of the first Riboswitch match" style="width:100%"></td>
-        <td><img src="../../alns/dot/RS_URS0002319CE5_1690483_56.png" alt="image of the secondary structure of the second Riboswitch match" style="width:100%"></td>
-        <td><img src="../../alns/dot/RS_URS0001A0C614_192_56.png" alt="image of the secondary structure of the third Riboswitch match" style="width:100%"></td>
+        <td><img src="../../alns/dot/RS_URS000231E941_272559_56.png" alt="image of the secondary structure of the first Riboswitch match" style="width:100%"></td>
+        <td><img src="../../alns/dot/RS_URS0000AB5A28_392500_56.png" alt="image of the secondary structure of the second Riboswitch match" style="width:100%"></td>
+        <td><img src="../../alns/dot/RS_URS000232913A_281093_56.png" alt="image of the secondary structure of the third Riboswitch match" style="width:100%"></td>
       </tr>
       <tr>
         <td><img src="../../alns/circ/circ_5HSAA004369_56.png" alt="circular plot of the 5prime UTR base pairs" style="width:100%"></td>
-        <td><img src="../../alns/circ/circ_URS000223589D_2823330_56.png" alt="circular plot of the 5prime UTR base pairs compared with the first Riboswitch base pairs" style="width:100%"></td>
-        <td><img src="../../alns/circ/circ_URS0002319CE5_1690483_56.png" alt="circular plot of the 5prime UTR base pairs compared with the second Riboswitch base pairs" style="width:100%"></td>
-        <td><img src="../../alns/circ/circ_URS0001A0C614_192_56.png" alt="circular plot of the 5prime UTR base pairs compared with the third Riboswitch base pairs" style="width:100%"></td>
+        <td><img src="../../alns/circ/circ_URS000231E941_272559_56.png" alt="circular plot of the 5prime UTR base pairs compared with the first Riboswitch base pairs" style="width:100%"></td>
+        <td><img src="../../alns/circ/circ_URS0000AB5A28_392500_56.png" alt="circular plot of the 5prime UTR base pairs compared with the second Riboswitch base pairs" style="width:100%"></td>
+        <td><img src="../../alns/circ/circ_URS000232913A_281093_56.png" alt="circular plot of the 5prime UTR base pairs compared with the third Riboswitch base pairs" style="width:100%"></td>
       </tr>
       <tr>
         <td></td>
-        <td><img src="../../alns/feat/feat_URS000223589D_2823330_56.png" alt="line plot comparing the structural features of the 5prime UTR with its first riboswitch match" style="width:100%"></td>
-        <td><img src="../../alns/feat/feat_URS0002319CE5_1690483_56.png" alt="line plot comparing the structural features of the 5prime UTR with its second riboswitch match" style="width:100%"></td>
-        <td><img src="../../alns/feat/feat_URS0001A0C614_192_56.png" alt="line plot comparing the structural features of the 5prime UTR with its third riboswitch match" style="width:100%"></td>
+        <td><img src="../../alns/feat/feat_URS000231E941_272559_56.png" alt="line plot comparing the structural features of the 5prime UTR with its first riboswitch match" style="width:100%"></td>
+        <td><img src="../../alns/feat/feat_URS0000AB5A28_392500_56.png" alt="line plot comparing the structural features of the 5prime UTR with its second riboswitch match" style="width:100%"></td>
+        <td><img src="../../alns/feat/feat_URS000232913A_281093_56.png" alt="line plot comparing the structural features of the 5prime UTR with its third riboswitch match" style="width:100%"></td>
       </tr>
     </table>
     </div>
@@ -117,13 +117,13 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS000223589D/2823330" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0002319CE5/1690483" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS0001A0C614/192" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
-| <span title="ID within respective databases">ID</span>  | 5HSAA004369     | URS000223589D_2823330     | URS0002319CE5_1690483     | URS0001A0C614_192     |
-| <span title="Length of the sequence in question">Length</span>  | 248.     |  246.    | 247.   |  252.    |
-| <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.913 | 0.908 | 0.884 |
+| <span title="Link to the sequence source">Link</span> | -  | <a href="https://rnacentral.org/rna/URS000231E941/272559" target="_blank" rel="noopener noreferrer">RNAcentral</a>     |<a href="https://rnacentral.org/rna/URS0000AB5A28/392500" target="_blank" rel="noopener noreferrer">RNAcentral</a>  | <a href="https://rnacentral.org/rna/URS000232913A/281093" target="_blank" rel="noopener noreferrer">RNAcentral</a>   |
+| <span title="ID within respective databases">ID</span>  | 5HSAA004369     | URS000231E941_272559     | URS0000AB5A28_392500     | URS000232913A_281093     |
+| <span title="Length of the sequence in question">Length</span>  | 248.     |  247.    | 246.   |  247.    |
+| <span title="Similarity score calculated from all similarity metrics">Similarity</span>  | - | 0.920 | 0.919 | 0.915 |
 | <span title="Ensemble classification via all 19 ML classifiers">Ensemble Norm</span>  | 0.947 | - | - | - |
-| <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -64.202 | -62.514 | -48.245 | -109.072 |
-| <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | cobalamin | cobalamin |
+| <span title="Nupack Mean Free Energy of the secondary structure">MFE</span>  | -64.202 | -58.651 | -61.509 | -86.841 |
+| <span title="Reported Ligand match on RNAcentral or via RFAM">Ligands</span>  | - | cobalamin | FMN | cobalamin |
 | <span title="Homo Sapiens gene abbreviation">Gene</span>  | ANAPC10 | - | - | - |
 | <span title="Link to the sequence source">Downstream protein</span>  | <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ANAPC10" target="_blank" rel="noopener noreferrer"> Genecard </a>   |    -    | -  | - |
 
@@ -132,17 +132,17 @@ exclude: true
 
 | | 5'UTR       | RS match 1   | RS match 2  | RS match 3 |
 | ---- | ----------- | ----------- | ----------- | ----------- |
-| <span title="Structural feature squared error">Struct SE</span> | - | 25.004 | 43.018 | 56.001 |
-| <span title="Length difference squared error">Length SE</span> | - | 4. | 1. | 16. |
-| <span title="Edit distance of both dot structures">Lev Distance</span> | - | 94. | 95. | 92. |
-| <span title="Unbranched stack count">UBS</span>| 16. | 17. | 14. | 22. |
+| <span title="Structural feature squared error">Struct SE</span> | - | 14.026 | 6.020 | 11.002 |
+| <span title="Length difference squared error">Length SE</span> | - | 1. | 4. | 1. |
+| <span title="Edit distance of both dot structures">Lev Distance</span> | - | 97. | 99. | 106. |
+| <span title="Unbranched stack count">UBS</span>| 16. | 13. | 16. | 15. |
 | <span title="Branched stack counts">BS</span> | 0. | 0. | 0. | 0. |
-| <span title="Inner loop left count">ILL</span> | 3. | 1. | 6. | 4. |
-| <span title="Inner loop right count">ILR</span> | 2. | 4. | 5. | 6. |
-| <span title="Hairpin counts">H</span> | 7. | 7. | 6. | 8. |
-| <span title="Bulges left count">BL</span> | 4. | 8. | 2. | 5. |
-| <span title="Bulges right count">BR</span> | 5. | 5. | 1. | 6. |
-| <span title="Unpaired nucleotide %">UN</span> | 0.052 | 0.118 | 0.186 | 0.075 |
+| <span title="Inner loop left count">ILL</span> | 3. | 3. | 4. | 4. |
+| <span title="Inner loop right count">ILR</span> | 2. | 2. | 2. | 4. |
+| <span title="Hairpin counts">H</span> | 7. | 5. | 6. | 7. |
+| <span title="Bulges left count">BL</span> | 4. | 4. | 6. | 3. |
+| <span title="Bulges right count">BR</span> | 5. | 4. | 5. | 3. |
+| <span title="Unpaired nucleotide %">UN</span> | 0.052 | 0.215 | 0.195 | 0.097 |
 
 **Sequences**
 
@@ -174,42 +174,42 @@ exclude: true
 
 <tr>
 <td markdown="span">RS 1 seq </td>
-<td markdown="span"> CCCGUCAAUCGGGGUAGUGGUUUUGCUUUUGGAACCCUCAUCCAAUAACAGCAAACUAAAAAGGAACCGUGUGCAAAUCACGGGCAGUCGUGCUACUGUAAGUAUCAGUUCAGAUUAUCGGAACAGGUUUUUGCCCAGGUGUCCCAUUGUUGUAGAUGUUAAUUAGCUUAUAAUGAGACAAAAACGACGAGAAGGGCGGCAAAAAUGAUACAAGCCAGGAGACUUGCCGCUACUCUCAAUGUCCAU
+<td markdown="span"> UAUAUUUGCAGCCGCUUAGGUGAUGCAUACCGGACUUUCUGUUCGUUGCAUAAAAGGGAAUCGGGUGUAAAUCCCGAACAGUGCCCGCUACUGUGAUCCCCCUGCUCUUCUACUGUUGCCAUCAUAAUCGGAAGAAGAUAAGAAAAGCAUUUCUACAUAUACCACUGUCAUAGCCUGUAAAGCAUGACGGGAAGGUAGCUUUUCAAAAAGGGAUAGUCAGGAAACCUGCCGAAGCAGACAUAGAUAA
 </td>
 </tr>
 
 
 <tr>
 <td markdown="span">RS 1 dot </td>
-<td markdown="span"> ((((.....))))....(((.((((((.(((((.......)))))....)))))))))........(((((.......)))))(((....)))....(((((.(((.((((.((...)).)))).))).))))).....((((.((((((.((.(((....))).))..)))))).)))).....(((((((..((((((((.....................))))))))..))))...)))...
+<td markdown="span"> ...(((((((.(((........(((((...(((((.....))))).)))))..........))).))))))).....((((((.....))))))...........((((((.((((((......))).))).))))))...(((((((...........((((.(((((((.((.......)))))))))...))))))))))).....................((((....))))..........
 </td>
 </tr>
 
 
 <tr>
 <td markdown="span">RS 2 seq </td>
-<td markdown="span"> AUUUUCGUCCCCGUUAACGGUUUUCGAAUUCAUGUUCGGAAUUAAAAGGGAAUCCUGUUAAAAUCAGGAACAGUUCCCGCUGCUGUGAAUACUAGGUUUUAAUAUACUGUAAUUCAACACACUGUGAGAAUUACACUAAUACGAAAACCAUUUUUUGUUAUUCAAAUGUCACUGUUCGCCUAAGACGAAUGGGAAGGCCAACAAAAAAAGUAUAAGUCAGAAGACCUGCCGGUAUAACAUUCAUCAU
+<td markdown="span"> GUAAAUUCUCAGGGCGGGGUGAAACUCCCCACCGGCGGUGAUAGCGCUUAAAUUAACCUAAGCCUUAAGCCCGCGAGCGCCCAAAUCAACUUAACAUUGAAGAUGUAAGCUGAUUUGGGGUCAAGCAGAUCUGGUGAACUCUAUCUGAUACAUAUAUAGAACACUCCAGAGCCGACGGUAAUGAACCGUAUUACUCAGAUAACACACUAGUAGUACAGUACUAAGUCCGGAUGAAAGAGAAUAUAA
 </td>
 </tr>
 
 
 <tr>
 <td markdown="span">RS 2 dot </td>
-<td markdown="span"> .......((((..((((....((((((((....))))))))))))..)))).(((((.......)))))(((((.......)))))........((((((..(((..((((((((.(((...)))..))))))))...)))..)))))).(((((((((..((.....((.(((((((.......))))))))).))..)))))))))...............(((....)))..............
+<td markdown="span"> ............((.((((.......)))).)).((((...(((.(((((........))))).)))...)))).....(((((((((.(((.(((((...)))))))).)))))))))(((..((...(((((.(...(((((...........)))))...).))))))).)))(((.....)))((((((((.((........))))))))))..............................
 </td>
 </tr>
 
 
 <tr>
 <td markdown="span">RS 3 seq </td>
-<td markdown="span"> ACCGUUCCCGCUGGAUACGGUCCCCGUUCGCCCCAGGGCGUCCGGGGCUAAGAGGGAAGACGGUGAACCGUUCGCCUCGCCAUGAGGAUGACGGCGAAGCCGGCGCUGCCCCCGCAACUGUGAGCGGAGAGUGGGUCCGCCGUUUCAGCGCCACUGGUGCCCAUCCCGGUUCGGGACGACGGCACCGGGAAGGCCGGACGGUCCCGCGACGACCCGUGAGCCAGGAGACCUGCCGGAUCUGUCGAACGCGAG
+<td markdown="span"> UUCUUUGUCUUUGUAACUGGUGCCGGUUUAAAAGCCGGAGAAUAGGGAAGUACGUGAGAUUCGUACACUGUACCCGCAACUGUUACAACGGUUUGCUUUCGUUCUGUUCGUCGUGGCCACACGACGCCGGAGCGGAGGUUCUCCAGAGUCACUGCGCUUCGAUUUCCGCCCGGAAAUGCGCGGGAAGGCUCUGAAGAGAUAUUUAUCCGUUGAAAGUCAGGAGACCUGCCAGCUACGAUUUGCUCGA
 </td>
 </tr>
 
 
 <tr>
 <td markdown="span">RS 3 dot </td>
-<td markdown="span"> .(((((((....))).))))((((..((.(((((.((....))))))).))..))))..........(((((..((((.....))))..))))).((((.(((((..((((((((........)))).....)))).))))))))).(((((...)))))((.((((((((((......))).))))))).))((((..((((((((.(((...)))..))..)).))))..)))).....(((....))).
+<td markdown="span"> (((((((.((((..(((((....)))))..)))).)))))))..(((..(((((.......)))))......)))..((((((....)))))).((((((((((((..(((((((....))))))).))))))))))))(((((((((((.((((((....((((((....))))))))))))...)))))))..))))..................((((...))))(.(((........))).).
 </td>
 </tr>
 

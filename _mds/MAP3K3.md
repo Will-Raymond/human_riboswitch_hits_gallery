@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.933<br>
                     Length: 89.<br>
                     Predicted Ligands:<br>
-                    TPP - 12/20<br>
-                    glycine - 3/20<br>
-                    cobalamin - 2/20<br>         
+                    TPP - 11/20<br>
+                    cobalamin - 3/20<br>
+                    fluoride - 2/20<br>         
             </td>
             <td>
                     RS: URS0000D97763_1803434<br>

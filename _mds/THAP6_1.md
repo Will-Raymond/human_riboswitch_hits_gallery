@@ -32,9 +32,9 @@ exclude: true
                     ENS: 0.888<br>
                     Length: 133.<br>
                     Predicted Ligands:<br>
-                    guanidine - 8/20<br>
-                    molybdenum - 3/20<br>
-                    TPP - 3/20<br>         
+                    guanidine - 7/20<br>
+                    glycine - 5/20<br>
+                    cobalamin - 3/20<br>         
             </td>
             <td>
                     RS: URS0000DB600D_1804758<br>

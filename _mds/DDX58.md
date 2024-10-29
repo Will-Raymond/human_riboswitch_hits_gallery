@@ -32,8 +32,8 @@ exclude: true
                     ENS: 0.965<br>
                     Length: 54.<br>
                     Predicted Ligands:<br>
-                    unknown - 12/20<br>
-                    glutamine - 7/20<br>
+                    glutamine - 10/20<br>
+                    unknown - 8/20<br>
                     homocysteine - 1/20<br>         
             </td>
             <td>

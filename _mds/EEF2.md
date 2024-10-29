@@ -34,7 +34,7 @@ exclude: true
                     Predicted Ligands:<br>
                     TPP - 16/20<br>
                     glycine - 2/20<br>
-                    fluoride - 1/20<br>         
+                    cobalamin - 1/20<br>         
             </td>
             <td>
                     RS: URS0000D8DEFD_1928617<br>
