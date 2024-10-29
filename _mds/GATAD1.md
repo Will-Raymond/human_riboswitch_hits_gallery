@@ -22,7 +22,7 @@ exclude: true
         <span title="5 prime UTR information"><th>5HSAA043338</th></span>
         <span title="Similarity of the first riboswitch match"><th>Similarity: 0.880</th></span>
         <span title="Similarity of the second riboswitch match"><th>Similarity: 0.873</th></span>
-        <span title=Similarity of the third riboswitch match""><th>Similarity: 0.868</th></span>
+        <span title=Similarity of the third riboswitch match"><th>Similarity: 0.868</th></span>
       </tr>
         <tr>
             <td>
