@@ -8,21 +8,21 @@ exclude: true
 <link rel="stylesheet" href="../../custom.css">
 
 
-<div> Detected as RS by 18 out of 20 classifiers </div>
+<div> Detected as a riboswitch by 18 out of 20 classifiers </div>
 
 
 
 <div class="row" >
   <div class="column">
-    <a href="../../_mds/SMU1_0/"><img src="../../icons/arrow_left.png" alt="arrow left to previous 5prime UTR page" style="width:100%"></a>
+    <a href="../../_mds/SMU1_0/"><span title="Previous 5 prime UTR"><img src="../../icons/arrow_left.png" alt="arrow left to previous 5prime UTR page" style="width:100%"></span></a>
   </div>
   <div class="column_center">
     <table>
       <tr>
-        <th>5HSAA028160</th>
-        <th>Similarity: 0.937</th>
-        <th>Similarity: 0.934</th>
-        <th>Similarity: 0.934</th>
+        <span title="5 prime UTR information"><th>5HSAA028160</th></span>
+        <span title="Similarity of the first riboswitch match"><th>Similarity: 0.937</th></span>
+        <span title="Similarity of the second riboswitch match"><th>Similarity: 0.934</th></span>
+        <span title=Similarity of the third riboswitch match""><th>Similarity: 0.934</th></span>
       </tr>
         <tr>
             <td>
@@ -56,59 +56,59 @@ exclude: true
             </td>
         </tr>
       <tr>
-        <td><img src="../../alns/dot/UTR_5HSAA028160_261.png" alt="image of 5prime UTR secondary structure" style="width:100%"></td>
-        <td><img src="../../alns/dot/RS_URS0000C4CA71_1618520_261.png" alt="image of the secondary structure of the first Riboswitch match" style="width:100%"></td>
-        <td><img src="../../alns/dot/RS_URS00023296D2_376489_261.png" alt="image of the secondary structure of the second Riboswitch match" style="width:100%"></td>
-        <td><img src="../../alns/dot/RS_URS0000D84580_1920420_261.png" alt="image of the secondary structure of the third Riboswitch match" style="width:100%"></td>
+        <td><span title="NUPACK MFE secondary structure of the 5 prime UTR (100 folding simulations)"><img src="../../alns/dot/UTR_5HSAA028160_261.png" alt="image of 5prime UTR secondary structure" style="width:100%"></span></td>
+        <td><span title="NUPACK MFE secondary structure of the first riboswitch match (100 folding simulations)"><img src="../../alns/dot/RS_URS0000C4CA71_1618520_261.png" alt="image of the secondary structure of the first Riboswitch match" style="width:100%"></span></td>
+        <td><span title="NUPACK MFE secondary structure of the second riboswitch match (100 folding simulations)"><img src="../../alns/dot/RS_URS00023296D2_376489_261.png" alt="image of the secondary structure of the second Riboswitch match" style="width:100%"></span></td>
+        <td><span title="NUPACK MFE secondary structure of the third riboswitch match  (100 folding simulations)"><img src="../../alns/dot/RS_URS0000D84580_1920420_261.png" alt="image of the secondary structure of the third Riboswitch match" style="width:100%"></span></td>
       </tr>
       <tr>
-        <td><img src="../../alns/circ/circ_5HSAA028160_261.png" alt="circular plot of the 5prime UTR base pairs" style="width:100%"></td>
-        <td><img src="../../alns/circ/circ_URS0000C4CA71_1618520_261.png" alt="circular plot of the 5prime UTR base pairs compared with the first Riboswitch base pairs" style="width:100%"></td>
-        <td><img src="../../alns/circ/circ_URS00023296D2_376489_261.png" alt="circular plot of the 5prime UTR base pairs compared with the second Riboswitch base pairs" style="width:100%"></td>
-        <td><img src="../../alns/circ/circ_URS0000D84580_1920420_261.png" alt="circular plot of the 5prime UTR base pairs compared with the third Riboswitch base pairs" style="width:100%"></td>
+        <td><span title="Base pair chord plot overlay of the 5 prime UTR."><img src="../../alns/circ/circ_5HSAA028160_261.png" alt="circular plot of the 5prime UTR base pairs" style="width:100%"></span></td>
+        <td><span title="Base pair chord plot overlay of the 5 prime UTR and the first riboswitch match, with the riboswitch in blue and 5 prime UTR in red."><img src="../../alns/circ/circ_URS0000C4CA71_1618520_261.png" alt="circular plot of the 5prime UTR base pairs compared with the first Riboswitch base pairs" style="width:100%"></span></td>
+        <td><span title="Base pair chord plot overlay of the 5 prime UTR and the second riboswitch match, with the riboswitch in blue and 5 prime UTR in red."><img src="../../alns/circ/circ_URS00023296D2_376489_261.png" alt="circular plot of the 5prime UTR base pairs compared with the second Riboswitch base pairs" style="width:100%"></span></td>
+        <td><span title="Base pair chord plot overlay of the 5 prime UTR and the third riboswitch match, with the riboswitch in blue and 5 prime UTR in red."><img src="../../alns/circ/circ_URS0000D84580_1920420_261.png" alt="circular plot of the 5prime UTR base pairs compared with the third Riboswitch base pairs" style="width:100%"></span></td>
       </tr>
       <tr>
         <td></td>
-        <td><img src="../../alns/feat/feat_URS0000C4CA71_1618520_261.png" alt="line plot comparing the structural features of the 5prime UTR with its first riboswitch match" style="width:100%"></td>
-        <td><img src="../../alns/feat/feat_URS00023296D2_376489_261.png" alt="line plot comparing the structural features of the 5prime UTR with its second riboswitch match" style="width:100%"></td>
-        <td><img src="../../alns/feat/feat_URS0000D84580_1920420_261.png" alt="line plot comparing the structural features of the 5prime UTR with its third riboswitch match" style="width:100%"></td>
+        <td><span title="Structural feature alignment of the 5 prime UTR and the first riboswitch match, from left to right the structural features are: Unbranched stacks (UBS), Branched stacks (BS), Internal Loops Left (ILL), Internal Loops Right (ILR), Hairpins (H), Bulges Left (BL), Bulges Right (BR), Unpaired nucleotides (UN)."><img src="../../alns/feat/feat_URS0000C4CA71_1618520_261.png" alt="line plot comparing the structural features of the 5prime UTR with its first riboswitch match" style="width:100%"></span></td>
+        <td><span title="Structural feature alignment of the 5 prime UTR and the second riboswitch match, from left to right the structural features are: Unbranched stacks (UBS), Branched stacks (BS), Internal Loops Left (ILL), Internal Loops Right (ILR), Hairpins (H), Bulges Left (BL), Bulges Right (BR), Unpaired nucleotides (UN)."><img src="../../alns/feat/feat_URS00023296D2_376489_261.png" alt="line plot comparing the structural features of the 5prime UTR with its second riboswitch match" style="width:100%"></span></td>
+        <td><span title="Structural feature alignment of the 5 prime UTR and the third riboswitch match, from left to right the structural features are: Unbranched stacks (UBS), Branched stacks (BS), Internal Loops Left (ILL), Internal Loops Right (ILR), Hairpins (H), Bulges Left (BL), Bulges Right (BR), Unpaired nucleotides (UN)."><img src="../../alns/feat/feat_URS0000D84580_1920420_261.png" alt="line plot comparing the structural features of the 5prime UTR with its third riboswitch match" style="width:100%"></span></td>
       </tr>
     </table>
     </div>
   <div class="column">
-    <a href="../../_mds/DNAJA1/"><img src="../../icons/arrow_right.png" alt="arrow right to the next 5prime UTR page" style="width:100%"></a>
+    <a href="../../_mds/DNAJA1/"><span title="Next 5 prime UTR"><img src="../../icons/arrow_right.png" alt="arrow right to the next 5prime UTR page" style="width:100%"></span></a>
   </div>
 </div>
 
 
 <div class="row" >
     <div class="column_center">
-        <img src="../../alns/feat/featcomp_261.png" alt="heatmap comparing sequence features of the 5prime UTR and top three riboswitch matches" style="width:60%; display:block; margin-left:auto; margin-right:auto;">
+        <span title="Sequence feature comparison across the 5 prime UTR and its top three riboswitch matches via a heatmap (64 nucleotide triplets)."><img src="../../alns/feat/featcomp_261.png" alt="heatmap comparing sequence features of the 5prime UTR and top three riboswitch matches" style="width:60%; display:block; margin-left:auto; margin-right:auto;"></span>
     </div>
 </div>
 
 <div class="row" >
     <div class="column_center">
-        <img src="../../alns/bpp/bpp_261.png" alt="Heatmap of base pair probabilities for 1000 computational NUPACK foldings of the 5prime UTR" style="width:50%; display:block; margin-left:auto; margin-right:auto;">
+        <span title="Probability that a given base pair LxL is bound within the 1000 folding simulations. Diagonal represents the overall probability that a given base is unpaired."><img src="../../alns/bpp/bpp_261.png" alt="Heatmap of base pair probabilities for 1000 computational NUPACK foldings of the 5prime UTR" style="width:50%; display:block; margin-left:auto; margin-right:auto;"></span>
     </div>
 </div>
 
 <div class="row" >
     <div class="column">
-        <img src="../../alns/bpp/bpp_261_unbound.png" alt="Heatmap of base pair probabilities for computational NUPACK foldings of the 5prime UTR that leave the start codon unbound" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+        <span title="Probability that a given base pair is bound when all three nucleotides of the start codon is unbound."><img src="../../alns/bpp/bpp_261_unbound.png" alt="Heatmap of base pair probabilities for computational NUPACK foldings of the 5prime UTR that leave the start codon unbound" style="width:100%; display:block; margin-left:auto; margin-right:auto;"></span>
     </div>
     <div class="column">
-        <img src="../../alns/bpp/bpp_261_bound.png" alt="Heatmap of base pair probabilities for computational NUPACK foldings of the 5prime UTR that leave the start codon bound" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+        <span title="Probability that a given base pair is bound when all three nucleotides of the start codon is bound."><img src="../../alns/bpp/bpp_261_bound.png" alt="Heatmap of base pair probabilities for computational NUPACK foldings of the 5prime UTR that leave the start codon bound" style="width:100%; display:block; margin-left:auto; margin-right:auto;"></span>
     </div>
     <div class="column">
-        <img src="../../alns/bpp/bpp_261_merge.png" alt="Heatmap of base pair probabilities for computational NUPACK foldings of the 5prime UTR with the bound and unbound conformers overlaid" style="width:100%; display:block; margin-left:auto; margin-right:auto;">
+        <span title="Merged base pair probability plot by unbound/bound start codons."><img src="../../alns/bpp/bpp_261_merge.png" alt="Heatmap of base pair probabilities for computational NUPACK foldings of the 5prime UTR with the bound and unbound conformers overlaid" style="width:100%; display:block; margin-left:auto; margin-right:auto;"></span>
     </div>
 </div>
 
 
 <div class="row">
     <div class="column_center">
-        <img src="../../alns/ens/ens_261.png" alt="ML ensemble output for the 5prime UTR" style="width:60%; display:block; margin-left:auto; margin-right:auto;">
+        <span title="Normalized ensemble output probabilities for each classifier, green highlights represent classifiers that are above a non-normalized 0.95 output threshold (selected as RS)."><img src="../../alns/ens/ens_261.png" alt="ML ensemble output for the 5prime UTR" style="width:60%; display:block; margin-left:auto; margin-right:auto;"></span>
     </div>
 </div>
 
