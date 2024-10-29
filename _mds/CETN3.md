@@ -19,10 +19,10 @@ exclude: true
   <div class="column_center">
     <table>
       <tr>
-        <span title="5 prime UTR information"><th>5HSAA021234</th></span>
-        <span title="Similarity of the first riboswitch match"><th>Similarity: 0.962</th></span>
-        <span title="Similarity of the second riboswitch match"><th>Similarity: 0.962</th></span>
-        <span title=Similarity of the third riboswitch match"><th>Similarity: 0.961</th></span>
+        <th>5HSAA021234</th>
+        <th>Similarity: 0.962</th>
+        <th>Similarity: 0.962</th>
+        <th>Similarity: 0.961</th>
       </tr>
         <tr>
             <td>
